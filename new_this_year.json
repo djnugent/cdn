@@ -1,0 +1,330 @@
+[
+    {
+        "description": "Traditional hummus, harissa barbacoa, corn, queso fresco, chili dust, shatta (hot sauce), crema, cilantro and pita puffs.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/al-taco-baba/landing.720x600.jpg",
+        "slug": "al-taco-baba",
+        "id": "a6224f91-1812-2289-3e8b-67e9823ccca6",
+        "name": "Al Taco Baba",
+        "vendor_slug": "5146.1"
+    },
+    {
+        "description": "A buttery, crisp and caramelized pastry \u2013 a combination of a bagel and croissant: Everything Cream Cheese Ba-Sant is rolled in poppy seeds, sesame seeds, onion flakes, garlic flakes, black pepper and sea salt with a scallion cream cheese filling; Sweet Corn Ba-Sant is filled with fresh sweet corn custard and garnished with crunchy caramel corn.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/ba-sants-in-two-varieties/detail.720x600.jpg",
+        "slug": "ba-sants-in-two-varieties",
+        "id": "da0406cd-01ee-3d0e-2675-d059b1a8c495",
+        "name": "Ba-Sants in Two Varieties \u2013 Everything Cream Cheese and Sweet Corn",
+        "vendor_slug": "2336.1"
+    },
+    {
+        "description": "Griddled bacon-wrapped Kramarczuk hot dog served on a Nordic Waffle with cheddar cheese, pickle slices and crispy onions and drizzled with burger sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/bacon-wrapped-waffle-dog/landing.720x600.jpg",
+        "slug": "bacon-wrapped-waffle-dog",
+        "id": "8642be11-23fb-5e64-b27c-70ec5382d7a6",
+        "name": "Bacon-Wrapped Waffle Dog",
+        "vendor_slug": "1476.1"
+    },
+    {
+        "description": "Holy Land hummus blended with fresh basil and topped with a mix of crushed walnuts, crushed red chili pepper, garlic and olive oil. Served with homemade garlic parmesan chips. (Hummus is vegan and gluten-free; chips are vegetarian-friendly with gluten-free option available.)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/basil-hummus-with-spicy-walnut-topping/landing.720x600.jpg",
+        "slug": "basil-hummus-with-spicy-walnut-topping",
+        "id": "9f36f033-c362-1f75-c30d-8460805d8cdc",
+        "name": "Basil Hummus With Spicy Walnut Topping",
+        "vendor_slug": "3689.1"
+    },
+    {
+        "description": "Bridgeman\u2019s vanilla ice cream topped with hot honey, spicy peanuts, whipped cream and a cherry. (Vegetarian, gluten-friendly)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/bee-sting-sundae/landing.720x600.jpg",
+        "slug": "bee-sting-sundae",
+        "id": "f7784c80-20ab-ae93-73da-ce384113f421",
+        "name": "Bee Sting Sundae",
+        "vendor_slug": "1996.1"
+    },
+    {
+        "description": "Birthday cake-flavored mini donuts coated with vanilla sugar, drizzled with icing, and dusted with sugar crystals and sprinkles.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/birthday-cake-mini-donuts/landing.720x600.jpg",
+        "slug": "birthday-cake-mini-donuts",
+        "id": "d65ff8bf-5b5e-859d-d980-6526b21ffd6e",
+        "name": "Birthday Cake Mini Donuts",
+        "vendor_slug": "5052.1"
+    },
+    {
+        "description": "Scratch-made jumbo pizza dough pretzel, hand-twisted and stuffed with Ellsworth cheese curds, pepperoni and a Green Mill blend of Italian spices. Brushed with garlic butter and topped with diced pepperoni, herbs and parmesan cheese. Served with Green Mill pizza sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cheese-curd-stuffed-pizza-pretzel/landing.720x600.jpg",
+        "slug": "cheese-curd-stuffed-pizza-pretzel",
+        "id": "bb37ee4d-027d-e013-28be-a3c2f2c7a5a8",
+        "name": "Cheese Curd Stuffed Pizza Pretzel",
+        "vendor_slug": "2437.1"
+    },
+    {
+        "description": "Eli\u2019s Cheesecake pieces covered in funnel cake batter, fried and dusted with powdered sugar and salt. Served with strawberry dipping sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cheesecake-curds/landing.720x600.jpg",
+        "slug": "cheesecake-curds",
+        "id": "b009e7bb-04f3-1c07-cd5e-d6f58b138909",
+        "name": "Cheesecake Curds",
+        "vendor_slug": "1416.1"
+    },
+    {
+        "description": "Blend of ground chicken, cabbage, onion, ginger and other spices steamed in a dough wrapper. Served with tomato chutney. (Available Aug. 24-29 only) (New Vendor)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/chicken-momo-with-tomato-chutney/landing.720x600.jpg",
+        "slug": "chicken-momo-with-tomato-chutney",
+        "id": "3636c818-dd0c-c711-7e78-af9863d32cb1",
+        "name": "Chicken Momo With Tomato Chutney",
+        "vendor_slug": "2764.1"
+    },
+    {
+        "description": "Three choices of lemonade served with a cotton candy cloud spun onto the drinking straw: Summer Strawberry \u2013 strawberry lemonade topped with strawberry fields cotton candy; Happy Huckleberry \u2013 huckleberry lemonade topped with blackberry jam cotton candy; and Flower Power \u2013 violet lemonade topped with lavender love cotton candy.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cloud-coolers-in-three-flavors/landing.720x600.jpg",
+        "slug": "cloud-coolers-in-three-flavors",
+        "id": "453bf62d-82e3-0719-b039-d09ab618703b",
+        "name": "Cloud Coolers in Three Flavors",
+        "vendor_slug": "5175.1"
+    },
+    {
+        "description": "Steamed lotus bun filled with a blend of cabbage, carrots, cilantro and yum yum sauce, plus Olsen Fish Company lutefisk brined in salt water for 12 hours, covered in sweet hoisin sauce, then baked and topped with sesame seeds.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/crispy-lutefisk-steam-bun/landing.720x600.jpg",
+        "slug": "crispy-lutefisk-steam-bun",
+        "id": "ab6c5ff7-b338-52b1-9271-172ab441a989",
+        "name": "Crispy Lutefisk Steam Bun",
+        "vendor_slug": "3276.1"
+    },
+    {
+        "description": "Deep-fried tortilla filled with vegan roast beef, bacon and cheese sauce, plus peppers, onions and a hashbrown patty. Served with vegan Follow Your Heart seasoned sour cream. (Vegan)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/crunchy-balboa/landing.720x600.jpg",
+        "slug": "crunchy-balboa",
+        "id": "26c80a49-11b0-78a4-f6de-ca66a2c2db3b",
+        "name": "Crunchy Balboa",
+        "vendor_slug": "5836.1"
+    },
+    {
+        "description": "Fried white cheddar cheese curds, sandwich stacker dill pickles, cream cheese, lettuce and raspberry chipotle sauce in a fried flour tortilla. (Vegetarian)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/dill-pickle-cheese-curd-taco/landing.720x600.jpg",
+        "slug": "dill-pickle-cheese-curd-taco",
+        "id": "d7f83816-565c-ecd4-d27e-d16dc7b7762d",
+        "name": "Dill Pickle Cheese Curd Taco",
+        "vendor_slug": "5275.1"
+    },
+    {
+        "description": "Mini donuts wrapped in bacon, on-a-stick, then deep-fried, topped with a layer of peanut butter and drizzled with raspberry dessert sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/donut-delights/landing.720x600.jpg",
+        "slug": "donut-delights",
+        "id": "11467df2-0255-d65f-7d7c-d64bff3454d4",
+        "name": "Donut Delights",
+        "vendor_slug": "216.1"
+    },
+    {
+        "description": "Deep-fried butternut squash ravioli sprinkled with maple cinnamon sugar. Served with a side of whipped ricotta. (Vegetarian)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/fried-butternut-squash-ravioli/landing.720x600.jpg",
+        "slug": "fried-butternut-squash-ravioli",
+        "id": "9831ef90-1417-c865-8460-096571b4fdb3",
+        "name": "Fried Butternut Squash Ravioli",
+        "vendor_slug": "2991.1"
+    },
+    {
+        "description": "Two deep-fried locally grown green tomato slices in a crust of Whole Grain Milling Co. High Lysine Cornmeal, with mustard mayonnaise made with Lost Capital Economics Coarse Spicy Ale Mustard, and local lettuce on a toasted brioche bun from The Good Bread Company. BLT is served with bacon from Pastures a Plenty & Hidden Stream Farm. Vegetarian option is served with locally produced charred sweet corn relish.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/fried-green-tomato-sandwich-in-two-varieties/landing.720x600.jpg",
+        "slug": "fried-green-tomato-sandwich-in-two-varieties",
+        "id": "d5a8feb9-9c0f-66b0-814c-5cd5c48429c2",
+        "name": "Fried Green Tomato Sandwich in Two Varieties \u2013 BLT and Vegetarian",
+        "vendor_slug": "2878.1"
+    },
+    {
+        "description": "A Betty and Earl\u2019s biscuit made with fruity cereal milk and cereal bits, drizzled with icing flavored with fruity cereal, and topped with more cereal bits.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/fruity-cereal-milk-biscuit/landing.720x600.jpg",
+        "slug": "fruity-cereal-milk-biscuit",
+        "id": "dbb1dcae-17d7-da74-02cd-170a5286cf2a",
+        "name": "Fruity Cereal Milk Biscuit",
+        "vendor_slug": "1416.1"
+    },
+    {
+        "description": "Traditional Hmong-style steamed bun stuffed with ground pork, egg and spices \u2013 a recipe from Chef Yia Vang\u2019s mom. Served with choice of Krunchy Chili Oil, Kua Txob Hot Pepper Sauce or Lemongrass Scallion Dressing.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/galabao/landing.720x600.jpg",
+        "slug": "galabao",
+        "id": "a8ec4316-d746-b2ea-03fe-270e74ad5880",
+        "name": "Galabao",
+        "vendor_slug": "5659.1"
+    },
+    {
+        "description": "Hamline Church Dining Hall hamloaf, tangy glaze, caramelized onions and cheese in a sandwich made with fried egg-in-a-hole toast.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/holey-hamloaf-breakfast-sandwich/landing.720x600.jpg",
+        "slug": "holey-hamloaf-breakfast-sandwich",
+        "id": "b00a4722-52f3-ee5e-ee70-82cf84b8b812",
+        "name": "Holey Hamloaf Breakfast Sandwich",
+        "vendor_slug": "3684.1"
+    },
+    {
+        "description": "Fried Halloumi cheese topped with hot honey and honeycomb crunch. (Vegetarian)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/hot-honey-cheese-sticks/landing.720x600.jpg",
+        "slug": "hot-honey-cheese-sticks",
+        "id": "440dc530-1d09-d3e0-b71b-cc341d133aad",
+        "name": "Hot Honey Cheese Sticks",
+        "vendor_slug": "1968.1"
+    },
+    {
+        "description": "Ice cream made with European-style butter served on brown sugar cinnamon toast, drizzled with butter syrup and sprinkled with sea salt flakes.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/irish-butter-ice-cream-over-brown-sugar-cinnamon-toast/landing.720x600.jpg",
+        "slug": "irish-butter-ice-cream-over-brown-sugar-cinnamon-toast",
+        "id": "c5f148d3-5124-4b8d-6ccb-c65b0d1bc2a3",
+        "name": "Irish Butter Ice Cream Over Brown Sugar Cinnamon Toast",
+        "vendor_slug": "212.1"
+    },
+    {
+        "description": "Two Italian-themed hand pies with seasoned parmesan crusts: one with sausage, pepperoni and mozzarella cheese in a 7 Vines Winery red wine-infused pizza sauce; and one with chicken, mushrooms and spinach in a creamy garlic alfredo sauce. Served with garlic butter dipping sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/italian-duo-dunkers/landing.720x600.jpg",
+        "slug": "italian-duo-dunkers",
+        "id": "372a9fc5-edec-8b9b-f19e-29ff7f0fd4a9",
+        "name": "Italian Duo Dunkers",
+        "vendor_slug": "1288.1"
+    },
+    {
+        "description": "Organic lemonade infused with locally made jams in two varieties: Blueberry Mint Jam\u2019nade with a spoonful of blueberry jam and topped with mint sprigs; Strawberry Jalape\u00f1o Jam\u2019nade with a spoonful of strawberry jam and jalape\u00f1o slices. Served with a boba tea straw. (Vegan, gluten-free)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/jamnades-in-two-varieties/landing.720x600.jpg",
+        "slug": "jamnades-in-two-varieties",
+        "id": "86e6d3a9-4887-5aef-d64e-27414da1e396",
+        "name": "Jam\u2019nades in Two Varieties \u2013 Blueberry Mint and Strawberry Jalape\u00f1o",
+        "vendor_slug": "2000.1"
+    },
+    {
+        "description": "Lemonade mixed with tangy dill pickling spices, craft brewed by Urban Growler and garnished with a crunchy slice of pickle. (Non-alcoholic)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/kind-of-a-big-dill-pickle-lemonade/landing.720x600.jpg",
+        "slug": "kind-of-a-big-dill-pickle-lemonade",
+        "id": "5680166c-ca35-3519-f3a2-cda35f51f441",
+        "name": "\u201cKind of a Big Dill\u201d Pickle Lemonade",
+        "vendor_slug": "1476.1"
+    },
+    {
+        "description": "Lemon sorbet made with fresh-squeezed lemon juice, lemon zest and mint garnish, served in a frozen half-lemon shell. (Vegan, gluten-free)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/lemon-sorbet/landing.720x600.jpg",
+        "slug": "lemon-sorbet",
+        "id": "1318baa2-b5ad-e776-a54a-e446ea8def46",
+        "name": "Lemonade Sorbet",
+        "vendor_slug": "4150.1"
+    },
+    {
+        "description": "Lobster in garlic and herb butter, served on a bed of french fries sprinkled with OLD BAY\u00ae Seasoning, topped with bacon, drizzled with homemade chipotle mayonnaise, and garnished with green onion and a lemon wedge.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/loaded-lobster-fries/landing.720x600.jpg",
+        "slug": "loaded-lobster-fries",
+        "id": "f2a891f3-ba66-06a1-73b3-3abbed6399e7",
+        "name": "Loaded Lobster Fries",
+        "vendor_slug": "2021.1"
+    },
+    {
+        "description": "Slow-smoked St. Louis-style ribs, caramelized with RC\u2019s Sticky Huli Huli sauce and seasoned with furikake, green onion and cilantro.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/maui-sota-sticky-ribs/landing.720x600.jpg",
+        "slug": "maui-sota-sticky-ribs",
+        "id": "a88a1834-71ea-ac97-3443-e29ff3ca75bb",
+        "name": "Maui - Sota Sticky Ribs",
+        "vendor_slug": "3217.1"
+    },
+    {
+        "description": "Dill pickles infused with Miami mango punch.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/miami-mango-pickles/landing.720x600.jpg",
+        "slug": "miami-mango-pickles",
+        "id": "e7d4232e-1657-a020-4397-743b9e75db7b",
+        "name": "Miami Mango Pickles",
+        "vendor_slug": "5799.1"
+    },
+    {
+        "description": "Homemade chocolate chip cookie dough in a flaky pie crust dusted with powdered sugar. Served with choice of vanilla or cinnamon ice cream.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/minnecookiedough-pie/landing.720x600.jpg",
+        "slug": "minnecookiedough-pie",
+        "id": "83ff094c-b638-f30f-e8db-294d6021326c",
+        "name": "MinneCookieDough Pie",
+        "vendor_slug": "1548.1"
+    },
+    {
+        "description": "Afro Deli serves Sambusas in three varieties - beef, chicken or veggie, fried triangle-shaped pastries with choice of meat or lentils, mixed with onions, garlic and cilantro, and served with \u201cBasbaas,\u201d a spicy Somali dipping sauce made with fresh chili peppers, jalape\u00f1os, cilantro, onions and lemon juice; Sweet Plantains, pieces of ripe plantains fried until golden brown (vegetarian); Somali Tea, a fragrant, spiced infusion of tea leaves, cardamom, cinnamon, cloves, ginger and nutmeg, served hot or iced (vegetarian); and fresh mango juice (vegetarian).",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-afro-deli/landing.720x600.jpg",
+        "slug": "new-vendor-afro-deli",
+        "id": "7130299c-eba9-ae3b-7e54-5df50ddb3aa2",
+        "name": "New Vendor",
+        "vendor_slug": "7388.1"
+    },
+    {
+        "description": "Bandstand Concessions serves the Bandstand Burger, Brucy Lucy bratwurst, Chicken Press sandwich, Lil Smoky Hot Dog, Pretzel Nugs, Facepunch Pretzels, nachos, popcorn, peanuts, assorted candy and a variety of beer, wine, soda, Red Bull drinks, lemonade and bottled water.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-bandstand-concessions/landing.720x600.jpg",
+        "slug": "new-vendor-bandstand-concessions",
+        "id": "27f64af8-bfff-6b17-5235-1e9cfcd99846",
+        "name": "New Vendor",
+        "vendor_slug": "6041.1"
+    },
+    {
+        "description": "Churros & Aguas Fresca serves bags of churros with caramel or fudge sauce; churros filled with strawberry, Nutella\u00ae or Bavarian cream; churro sundaes with vanilla bean or cinnamon ice cream; and aguas frescas in watermelon, mango, pineapple and strawberry lime flavors.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-churros-and-aguas-fresca/landing.720x600.jpg",
+        "slug": "new-vendor-churros-and-aguas-fresca",
+        "id": "9ee09f6a-4c8a-247f-f0cb-c3d2347c1a21",
+        "name": "New Vendor",
+        "vendor_slug": "8233.1"
+    },
+    {
+        "description": "MomoDosa serves official new food Chicken Momo With Tomato Chutney (blend of ground chicken, cabbage, onion, ginger and other spices steamed in a dough wrapper and served with tomato chutney). Plus, Masala Dosa (South Indian crepe of rice and lentil batter, ghee, and served with tomato chutney and coconut chutney); Veggie Pakora (shredded cabbage and onions dipped in chickpea batter, fried and served with mint and cilantro chutney and tamarind chutney, vegan and gluten-free); and Mango Lassi (smoothie made with mangoes, yoghurt, powdered cardamom and cloves).(Aug. 24-29 only)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-momo-dosa/landing.720x600.jpg",
+        "slug": "new-vendor-momo-dosa",
+        "id": "52f33133-22d9-1279-716c-9a962bfad574",
+        "name": "New Vendor",
+        "vendor_slug": "2764.1"
+    },
+    {
+        "description": "Peachey\u2019s Baking Company serves Amish doughnuts made on-site using old Amish recipes, topped with vanilla glaze and served warm; Peanut Butter Cream Doughnut, an over-sized Amish doughnut topped with house-made vanilla custard, peanut butter crumbles and whipped cream; and Southern Sweet Tea, a fresh-brewed tea sweetened with cane sugar.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-peacheys-baking-company/landing.720x600.jpg",
+        "slug": "new-vendor-peacheys-baking-company",
+        "id": "55387d54-9033-1926-ba10-8f8c495e758f",
+        "name": "New Vendor",
+        "vendor_slug": "8386.1"
+    },
+    {
+        "description": "Tasti Whip serves Dole Soft Serve in pineapple, mango, strawberry and lemon flavors; Dole Floats with pineapple, mango, strawberry and lemon-flavored Dole Whip in pineapple juice; Dole pineapple juice; and bottled water.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-tasti-whip/detail.720x600.jpg",
+        "slug": "new-vendor-tasti-whip",
+        "id": "017c5020-ae8e-d86b-858d-dd86bf292389",
+        "name": "New Vendor",
+        "vendor_slug": "8535.1"
+    },
+    {
+        "description": "Wow Fudge serves more than 70 varieties of gourmet, handcrafted, old-fashioned copper kettle fudge, including new custom Minnesota State Fair flavors \u2013 Strawberry Rhubarb, Blueberry Cheesecake and St. Paul Pickle.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-wow-fudge/landing.720x600.jpg",
+        "slug": "new-vendor-wow-fudge",
+        "id": "3ea68870-e7f5-be3e-eba8-141ad56d2de6",
+        "name": "New Vendor",
+        "vendor_slug": "6202.1"
+    },
+    {
+        "description": "Mexican frozen treats on-a-stick in two flavors made locally by La Michoacana Rose: Dill Pickle Lemonade Paleta is lemon-flavored, water-based and includes dill pickle slices (vegan); Mini Donut Paleta is vanilla ice cream with mini donut bits and a whole cinnamon mini donut inside (vegetarian).",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/paletas-in-two-flavors/landing.720x600.jpg",
+        "slug": "paletas-in-two-flavors",
+        "id": "4ffb195f-182d-b245-bb7f-9e17aaaae5c9",
+        "name": "Paletas in Two Flavors \u2013 Dill Pickle Lemonade and Mini Donut",
+        "vendor_slug": "3684.1"
+    },
+    {
+        "description": "Crispy, tangy thin-cut dill pickle fries lightly coated in a cornmeal and seasoned mustard batter. Served with a side of chipotle dipping sauce.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/pickle-fries/landing.720x600.jpg",
+        "slug": "pickle-fries",
+        "id": "b05d060b-a10f-2f00-feb5-08eb039b4ac5",
+        "name": "Pickle Fries",
+        "vendor_slug": "154.1"
+    },
+    {
+        "description": "Smoked roast beef, avocado puree, fresh tomatoes, red onions and arugula\u00a0in a baked Venezuelan crispy corn pocket. (Gluten-free) (Available Aug. 30-Sept. 4 only)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/smoked-beef-arepa/landing.720x600.jpg",
+        "slug": "smoked-beef-arepa",
+        "id": "12fd8828-d506-45de-3cc9-808376cee808",
+        "name": "Smoked Beef Arepa",
+        "vendor_slug": "2764.2"
+    },
+    {
+        "description": "Collection of Minnesota-made meats, cheeses, pickles and other charcuterie board favorites \u2013 served on an edible herb-crusted cracker \u201cboard.\u201d",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/sota-cuterie-board/landing.720x600.jpg",
+        "slug": "sota-cuterie-board",
+        "id": "64415bc3-18fa-cfd8-532a-70f373bb337f",
+        "name": "Sota-cuterie Board",
+        "vendor_slug": "792.2"
+    },
+    {
+        "description": "Smoked walleye mixed with a blend of cheeses, dill pickle relish, fresh garlic and spices, rolled in panko breadcrumbs and deep-fried. Served on-a-stick with a side of comeback sauce and a lemon slice.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/walleye-fritter-pops/landing.720x600.jpg",
+        "slug": "walleye-fritter-pops",
+        "id": "1f97dd63-5939-5b8d-3465-5e4a18b01d38",
+        "name": "Walleye Fritter Pops",
+        "vendor_slug": "230.1"
+    }
+]
