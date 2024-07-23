@@ -20,7 +20,7 @@
         },
         {
             "name": "Sweet Tooth 🍩",
-            "order": 2,
+            "order": 3,
             "vendor_slugs":[
                 "2079.1",
                 "1509.1",
@@ -64,7 +64,7 @@
         },
         {
             "name": "On-a-Stick 🍡",
-            "order": 3,
+            "order": 2,
             "vendor_slugs":[
                 "2065.1",
                 "2069.1",
