@@ -16,7 +16,7 @@
     }
   },
   {
-    "description": "Home to the most extreme thrill rides and attractions at the Minnesota State Fair!\n\nRock Climbing Wall:\n\u2022 $7 per person\n\nSkyscraper:\n\u2022 $35 per rider ($28 during Early Bird Special hours)\n\nSling Shot:\n\u2022 $35 per rider ($28 during Early Bird Special hours)\n\nTurbo Bungy:\n\u2022 $7 per rider",
+    "description": "Home to the most extreme thrill rides and attractions at the Minnesota State Fair!\n\nRock Climbing Wall:\n\u2022 $7 per person\n\nSkyscraper:\n\u2022 $40 per rider ($30 during Early Bird Special hours)\n\nSling Shot:\n\u2022 $40 per rider ($30 during Early Bird Special hours)\n\nTurbo Bungy:\n\u2022 $7 per rider",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/adventure-park/featured.848x477.jpg?v=20210629.224420",
     "hours": "9:00\u00a0am \u2013 11:00\u00a0pm; Closes at 9 p.m. on Labor Day. Daily closing times for Adventure Park may vary. Ticket booth close \u00bd hour before rides & games close.",
     "cost": "See each individual attraction for pricing.\n\nNotes: Adventure Park attractions do not accept Mighty Midway and Kidway tickets.\n\n",
@@ -64,7 +64,7 @@
     }
   },
   {
-    "description": "The Aisle of Breeds, sponsored by the Minnesota Horse Expo and the Minnesota Horse Council, showcases different breeds and types of horses throughout the 12 days of the State Fair. Be sure to stop by to meet the horses and their owners, get answers to your equine questions, pet a horse or two and find out where to take horseback riding lessons in Minnesota or go for a trail ride.",
+    "description": "The Aisle of Breeds, presented by the Minnesota Horse Expo and the Minnesota Horse Council, showcases different breeds and types of horses throughout the 12 days of the State Fair. Be sure to stop by to meet the horses and their owners, get answers to your equine questions, pet a horse or two and find out where to take horseback riding lessons in Minnesota or go for a trail ride.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/aisle-of-breeds/featured.848x477.jpg?v=20210629.224423",
     "hours": "Please check the daily schedule for detailed Horse Barn hours.",
     "cost": null,
@@ -208,22 +208,6 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "cattle-annex",
-    "id": "c5949fd4-6182-5b34-a627-a60190f7f84a",
-    "name": "Cattle Annex",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.97751,
-      "lng": -93.176263
-    }
-  },
-  {
     "description": "This majestic, century-old, 117,450-square-foot brick structure is so massive it can house 1,000 head of cattle! Wander the aisles for an up-close look at a variety of dairy and beef cattle breeds. Watch cows being milked, join in fun ag-related activities, and learn about cattle at the Moo Booth and Milking Parlor.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/cattle-barn/featured.848x477.jpg?v=20210629.224426",
     "hours": "Please check the daily schedule for detailed Cattle Barn hours.",
@@ -256,9 +240,9 @@
     }
   },
   {
-    "description": "This one-of-a-kind agricultural education exhibit is home to baby animals - calves, lambs, goats and piglets - during the State Fair\u2019s 12 days. Staffed by volunteers with FFA and the Minnesota Veterinary Medical Association, this is one of the most popular free exhibits at the fair. Learn more about different egg production systems, veterinary science, and stop by the adjoining FFA Chapter House & Leadership Center for hands-on activities led by FFA members from around the state daily (except Labor Day).",
+    "description": "This one-of-a-kind agricultural education exhibit is home to baby animals - calves, lambs, goats and piglets - during the State Fair\u2019s 12 days. Staffed by volunteers with FFA and the Minnesota Veterinary Medical Association and the University of Minnesota College of Veterinary Medicine, this is one of the most popular free exhibits at the fair. Learn more about different egg production systems, veterinary science, and stop by the adjoining FFA Chapter House & Leadership Center for hands-on activities led by FFA members from around the state daily.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/chs-miracle-of-birth-center/featured.848x477.jpg?v=20210629.224421",
-    "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closed Labor Day",
+    "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 3 p.m. on Labor Day",
     "cost": null,
     "category": "booth_showcase",
     "slug": "chs-miracle-of-birth-center",
@@ -269,22 +253,6 @@
       "directions": null,
       "lat": 44.978117,
       "lng": -93.172999
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "clough-st-east-of-coliseum",
-    "id": "6bed4450-b33f-3432-7198-b733038c8a8e",
-    "name": "Clough St., east of Coliseum",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.978391,
-      "lng": -93.173492
     }
   },
   {
@@ -325,86 +293,6 @@
     "hours": null,
     "cost": null,
     "category": null,
-    "slug": "cooper-st-south-of-dan-patch",
-    "id": "72de0dfe-7173-8ccd-44ea-b13609a6a9ed",
-    "name": "Cooper St. south of Dan Patch",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.979159,
-      "lng": -93.168658
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "cooper-street-next-to-ag-hort-building",
-    "id": "9b4cbe39-0aa8-8ebd-d28c-710a556102ab",
-    "name": "Cooper Street next to Ag Hort Building",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.979327,
-      "lng": -93.169028
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "cosgrove-st-between-wright-and-dan-patch",
-    "id": "af9254e2-4a00-6d20-e25b-c43e0ce4ed67",
-    "name": "Cosgrove St. between Wright and Dan Patch",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.98229,
-      "lng": -93.168144
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "cosgrove-st-north-of-dan-patch",
-    "id": "f538782c-b634-4bc9-0b8d-d047e7d5a7d8",
-    "name": "Cosgrove St. north of Dan Patch",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.981559,
-      "lng": -93.16827
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "cosgrove-st-south-of-dan-patch",
-    "id": "e265dbb5-9460-b0ef-097f-30c18e1dc554",
-    "name": "Cosgrove St. south of Dan Patch",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.980819,
-      "lng": -93.168276
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
     "slug": "cosgrove-st-south-of-home-improvement-building",
     "id": "5711fc07-075f-004c-3853-14535ce6572b",
     "name": "Cosgrove St., south of Home Improvement Building",
@@ -416,7 +304,7 @@
     }
   },
   {
-    "description": "The Cosgrove Stage is filled with energy each day as various dance groups showcase their moves. Come see groups that represent square dance, swing dance and Zumba\u00ae, just to name a few! Schedule coming soon!",
+    "description": "The Cosgrove Stage is filled with energy each day as various dance groups showcase their moves. Come see groups that represent local community organizations!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/cosgrove-stage/featured.848x477.jpg?v=20210629.224420",
     "hours": null,
     "cost": null,
@@ -496,7 +384,7 @@
     }
   },
   {
-    "description": "Come help celebrate Minnesota culture, community, arts, education and sciences with the interactive programming on the Dan Patch Park Stage! Stick around the park to visit various informational booths and engage with visiting groups from around Minnesota.",
+    "description": "Come help celebrate Minnesota culture, community, arts, education and sciences with the interactive programming on the Dan Patch Park Stage! Stick around the park to visit various informational booths and engage with visiting groups from around Minnesota.\n\n2024 Dan Patch Park Days\nDay 1: STEM Day\nDay 2: Governor's Fire Prevention Day\nDay 3: Hubbard Broadcasting Day\nDay 4: Indigenous Peoples' Day\nDay 5: Mental Health Awareness\nDay 6: Military Appreciation Day, Honoring Military Spouses\nDay 7: Theater Day: Shrek the Musical, Jr.\nDay 8: UCare Stretch & Stroll Day\nDay 9: MPR Day\nDay 10: Pan-Latino Day\nDay 12: Hmong Minnesota Day",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/dan-patch-park-stage/featured.848x477.jpg?v=20210629.224424",
     "hours": null,
     "cost": null,
@@ -576,24 +464,8 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "east-of-agriculture-horticulture-building",
-    "id": "e5f174cb-43e0-ea22-5257-c029f8262196",
-    "name": "East of Agriculture Horticulture Building",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.979171,
-      "lng": -93.169089
-    }
-  },
-  {
     "description": "Get inspired to lead a more sustainable life with easy, everyday reduce-reuse-recycle how-tos and engaging, interactive exhibits on renewable energy, green technology, organic agriculture, transportation alternatives, healthy cooking, and clean air and water. Presented by the Minnesota Pollution Control Agency and the Minnesota State Fair.",
-    "image": "https://assets.mnstatefair.org/_core/img/database/locations/eco-experience/featured.848x477.jpg?v=20210629.224417",
+    "image": "https://assets.mnstatefair.org/_core/img/database/locations/eco-experience/featured.848x477.jpg?v=20240628.164418",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
     "category": "booth_showcase",
@@ -601,7 +473,7 @@
     "id": "9f223392-bb4f-b722-32e7-1e24c6017082",
     "name": "Eco Experience",
     "location": {
-      "image": "https://assets.mnstatefair.org/_core/img/database/locations/eco-experience/featured.848x477.jpg?v=20210629.224417",
+      "image": "https://assets.mnstatefair.org/_core/img/database/locations/eco-experience/featured.848x477.jpg?v=20240628.164418",
       "directions": null,
       "lat": 44.984882,
       "lng": -93.167999
@@ -637,22 +509,6 @@
       "directions": null,
       "lat": 44.979682,
       "lng": -93.17618
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "exercise-ring",
-    "id": "7dea5ebe-4396-887d-d52d-09e05f4a3285",
-    "name": "Exercise Ring",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.977532,
-      "lng": -93.17461
     }
   },
   {
@@ -704,7 +560,7 @@
     }
   },
   {
-    "description": "Pictured: 2019 People's Choice Winners\n\n\u2022 Kid\u2019s Choice \u2013 Ivan Gilbert, \u201cSea Turtle\u201d\n\u2022 Adult\u2019s Choice \u2013 Toni Dachis, \u201cPrince\u201d\n\nMinnesota\u2019s largest juried art exhibition showcases more than 300 of the finest pieces of artwork selected from thousands entered by artists throughout the state. As you meander throughout this 1907 building, you\u2019ll be mesmerized by photographs, ceramics, paintings, sculptures, textiles and drawings. Test your eye for art with the \u201cBe a Fine Arts Detective\u201d sleuthing activity for all ages. Each day within the Studio: HERE corner, an artist presents an up-close look at the \u201cnuts and bolts\u201d of how they create their art.",
+    "description": "Minnesota\u2019s largest juried art exhibition showcases more than 300 of the finest pieces of artwork selected from thousands entered by artists throughout the state. As you meander throughout this 1907 building, you\u2019ll be mesmerized by photographs, ceramics, paintings, sculptures, textiles and drawings. Test your eye for art with the \u201cBe a Fine Arts Detective\u201d sleuthing activity for all ages. Each day within the Studio: HERE corner, an artist presents an up-close look at the \u201cnuts and bolts\u201d of how they create their art.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/fine-arts-center/featured.848x477.jpg?v=20210629.224422",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
@@ -896,22 +752,6 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "grandstand-ramp",
-    "id": "74873e81-5bd7-9e97-70e0-bb3c45f7119a",
-    "name": "Grandstand Ramp",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.980819,
-      "lng": -93.173504
-    }
-  },
-  {
     "description": "From pop to country to rock to everything in between, the Grandstand hosts 11 nights of the nation's top touring talent! These shows require a paid admission ticket.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/grandstand-stage/featured.848x477.jpg?v=20210629.224423",
     "hours": null,
@@ -976,7 +816,7 @@
     }
   },
   {
-    "description": "Health Fair 11 offers free or low-cost health checks, as well as health education and information. This year\u2019s opportunities include information on food allergies, annual flu shots, hearing assessments, blood typing, gluten-free fair food guides, and much more! Stop by to learn about all of the healthy options for you and your family!\n\nPlease note: Face coverings are required in Health Fair 11.",
+    "description": "Health Fair 11 offers free or low-cost health checks, as well as health education and information. Get information on food allergies, annual flu shots, blood typing, gluten-free fair food guides, and much more! Stop by to learn about all of the healthy options for you and your family!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/health-fair-11/featured.848x477.jpg?v=20210629.224422",
     "hours": "9:00\u00a0am \u2013 8:00\u00a0pm",
     "cost": null,
@@ -1088,7 +928,7 @@
     }
   },
   {
-    "description": "The sounds of cultures from Minnesota and around the world heat up the International Bazaar Stage. Stop by during the day to experience polka, brass, jazz, funk, Tex-Mex, R&B, rock, dance and more, and come back for Bazaar After Dark shows each night at 8 p.m. (7:30 p.m. on Labor Day). Free with fair admission!",
+    "description": "The sounds of cultures from Minnesota and around the world heat up the International Bazaar Stage. Stop by during the day to experience polka, brass, jazz, funk, Tex-Mex, R&B, rock, dance and more, and come back for Bazaar After Dark shows each night. Free with fair admission!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/international-bazaar-stage/featured.848x477.jpg?v=20210629.224421",
     "hours": null,
     "cost": null,
@@ -1139,7 +979,7 @@
     "description": "Kidway features rides and games of skill for children and families, as well as excellent food options!\n\nAll information is subject to change.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/kidway/featured.848x477.jpg?v=20210629.224425",
     "hours": "9:00\u00a0am \u2013 10:00\u00a0pm; Closes at 8 p.m. on Labor Day. Daily closing times may vary. Ticket booths close \u00bd hour before rides & games close. All info. subject to change.",
-    "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2023 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 24\n\nFriday, Aug. 25\n\nMonday, Aug. 28\n\nThursday, Aug. 31\n\nFriday, Sept. 1\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at the Kidway! Get your coupon book for just $5.\n\n",
+    "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at the Kidway! Get your coupon book for just $5.\n\n",
     "category": "ride_attraction",
     "slug": "kidway",
     "id": "83a4233d-1c1b-dc98-de94-6232e4beef7c",
@@ -1216,39 +1056,7 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "livestock-complex",
-    "id": "eb71d6d1-a9ef-7199-8274-70529847e08c",
-    "name": "Livestock Complex",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.97861,
-      "lng": -93.176208
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "loop-gate-on-como-avenue-east-of-clough",
-    "id": "ebda774f-60b5-39f5-ee89-9738df4e9aac",
-    "name": "Loop Gate, on Como Avenue east of Clough",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.977691,
-      "lng": -93.172845
-    }
-  },
-  {
-    "description": "Year-round, please contact Lost & Found at lostandfound@mnstatefair.org or 651-288-4555.\nDuring the State Fair, Lost & Found is located at 1842 West Dan Patch Avenue across from West End Market. The hours below pertain to fair time. Lost & Found for the 2023 Minnesota State Fair will close on Sept. 29, 2023.",
+    "description": "During the State Fair, Lost & Found is located at 1842 West Dan Patch Ave., across from West End Market. The hours in the box below pertain to fair time.\n\nLost & Found is located at 1842 Dan Patch Ave., across from West End Market, Tuesday-Friday, Sept. 3-5, from 9 a.m. to 3 p.m.; Friday, Sept. 6, from 9 a.m. to noon; Tuesday-Friday, Sept. 10-13, from 9 a.m. to 3 p.m.\n\nLost & Found is located at the Admin Too building, 1312 Cosgrove St., Monday, Sept. 16, to Friday, Sept. 27, from 9 a.m. to 3 p.m. (excluding Saturdays and Sundays).\n\nLost & Found for the 2024 Minnesota State Fair will close on Sept. 27, 2024, at 3 p.m.\n\nYear-round, please contact Lost & Found at lostandfound@mnstatefair.org or 651-288-4555.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/lost-and-found/featured.848x477.jpg?v=20210629.224418",
     "hours": "8:00\u00a0am \u2013 11:30\u00a0pm; Closes at 10 p.m. on Labor Day (NOTE: these hours are for fair-time only)",
     "cost": null,
@@ -1315,7 +1123,7 @@
     "description": "Mighty Midway features rides, games of skill, food concessions and endless fun to be had!\n\n1 Must be at least 14 years old to ride\n\nAll information is subject to change.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/mighty-midway/featured.848x477.jpg?v=20210629.224416",
     "hours": "10:00\u00a0am \u2013 11:00\u00a0pm; Closes at 9 p.m. on Labor Day. Daily closing times may vary. Ticket booths close \u00bd hour before rides & games close. All info. subject to change.",
-    "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2023 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 24\n\nFriday, Aug. 25\n\nMonday, Aug. 28\n\nThursday, Aug. 31\n\nFriday, Sept. 1\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at Mighty Midway! Get your coupon book for just $5.\n\n",
+    "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at Mighty Midway! Get your coupon book for just $5.\n\n",
     "category": "ride_attraction",
     "slug": "mighty-midway",
     "id": "4d9852f6-918e-43c5-7ba3-3be7d3b90d38",
@@ -1440,7 +1248,7 @@
     }
   },
   {
-    "description": "The North End Event Center, the stunning centerpiece of the redeveloped North End, houses a 12,000-square-foot state-of-the-art exhibit hall. In 2023, stop by to visit the Sweet & Selfie Experience, free with fair admission!",
+    "description": "The North End Event Center, the stunning centerpiece of the redeveloped North End, houses a 12,000-square-foot state-of-the-art exhibit hall.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/north-end-event-center/featured.848x477.jpg?v=20220821.160700",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
@@ -1536,57 +1344,9 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "outside-of-the-north-end-gate",
-    "id": "2200ed63-1dd8-2423-5601-5538e649c3b9",
-    "name": "Outside of the North End Gate",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.987881,
-      "lng": -93.16851
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "outside-of-the-west-end-gate",
-    "id": "1a3d27fb-0b84-b525-64d1-d8dd96b5e24d",
-    "name": "Outside of the West End Gate",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.983216,
-      "lng": -93.175019
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "parade-announcement-area",
-    "id": "19e137c6-81f8-b7eb-e67a-26d92c1af771",
-    "name": "Parade Announcement Area",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.980119,
-      "lng": -93.168178
-    }
-  },
-  {
-    "description": "Our furry, four-legged friends have an area of their own! In an open-air pavilion, meet dozens of different dog breeds that come to visit throughout the fair. In the corner Pet Surgery Suite, pet spay and neutering surgeries are presented. Plus, shop for treats, toys, grooming products, accessories and even unique animal-themed clothing and furniture. The grassy outdoor demonstration area features daily police K-9, agility and obedience demonstrations.",
+    "description": "Our furry, four-legged friends have an area of their own! In an open-air pavilion, meet dozens of different dog breeds that come to visit throughout the fair. In the corner Pet Surgery Suite, pet spay and neutering surgeries are presented. Plus, shop for treats, toys, grooming products, accessories and even unique animal-themed clothing and furniture. The grassy outdoor demonstration area features police K-9, agility and obedience demonstrations.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/pet-pavilions/featured.848x477.jpg?v=20210629.224420",
-    "hours": "8:00\u00a0am \u2013 8:00\u00a0pm; Shopping opens at 9 a.m.",
+    "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
     "category": "building",
     "slug": "pet-pavilions",
@@ -1616,7 +1376,7 @@
     }
   },
   {
-    "description": "Stop by Ramberg Center, sponsored by Cal Spas, to play Blue Ribbon BINGO benefiting the Minnesota State Fair Foundation. BINGO sessions will happen every hour approximately on the hour from 9 a.m. to 8 p.m. (7 p.m. labor day) daily. BINGO participants must be 18 years of age or older, unless accompanied by a parent or guardian. Be prepared to show ID.",
+    "description": "Stop by Ramberg Center to play Blue Ribbon BINGO benefiting the Minnesota State Fair Foundation. BINGO sessions will happen every hour approximately on the hour from 9 a.m. to 8 p.m. (7 p.m. labor day) daily. BINGO participants must be 18 years of age or older, unless accompanied by a parent or guardian. Be prepared to show ID.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/ramberg-center/featured.848x477.jpg?v=20220523.184210",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes 8 p.m. on Labor Day",
     "cost": null,
@@ -1653,22 +1413,6 @@
     "hours": null,
     "cost": null,
     "category": null,
-    "slug": "randall-ave-and-cosgrove-st",
-    "id": "735dfc23-a7fc-10b1-3560-ff9249144104",
-    "name": "Randall Ave. & Cooper Street",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.984242,
-      "lng": -93.169049
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
     "slug": "randall-ave-south-of-progress-center",
     "id": "b893dc7a-780d-be85-4280-6eee1a9d6b8d",
     "name": "Randall Ave., south of Progress Center",
@@ -1696,7 +1440,7 @@
     }
   },
   {
-    "description": "Always bustling with activity, the Robert A. Christensen Pavilion (formerly Swine Barn) is home to 2,000 swine in a multitude of breeds competing over the fair\u2019s 12 days in 4-H, FFA and open class exhibitions. Most of the competitions take place in show rings right in the center of the barn. Don't miss a visit to the winner of the largest boar contest, and stop by the Oink Booth educational exhibit to see a sow and piglets up close and learn more about the swine industry.",
+    "description": "Always bustling with activity, the Robert A. Christensen Pavilion is home to 2,000 swine in a multitude of breeds competing over the fair\u2019s 12 days in 4-H, FFA and open class exhibitions. Most of the competitions take place in show rings right in the center of the barn. Don't miss a visit to the winner of the largest boar contest, and stop by the Oink Booth educational exhibit to see a sow and piglets up close and learn more about the swine industry.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/robert-a-christensen-pavilion/featured.848x477.jpg?v=20210629.224418",
     "hours": "Please check the daily schedule for detailed Christensen Pavilion hours.",
     "cost": null,
@@ -1712,7 +1456,7 @@
     }
   },
   {
-    "description": "All day long you can hear the sounds of indie rock, folk music and pop from the Schell\u2019s Stage at Schilling Amphitheater. Maybe even catch some fiddling or bluegrass in between it all. Be sure to come back for West End at Sunset shows each night starting at 8 p.m. (7:30 p.m. on Labor Day). Free with fair admission!",
+    "description": "All day long you can hear the sounds of indie rock, folk music and pop from the Schell\u2019s Stage at Schilling Amphitheater. Be sure to come back for West End at Sunset shows each night. Free with fair admission!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/schells-stage-at-schilling-amphitheater/featured.848x477.jpg?v=20210621.223903",
     "hours": null,
     "cost": null,
@@ -1872,23 +1616,7 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "sw-corner-of-randall-and-cooper",
-    "id": "8a6c196d-0ed6-8bb3-0427-58a5af4c0795",
-    "name": "SW Corner of Randall and Cooper",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.984315,
-      "lng": -93.169366
-    }
-  },
-  {
-    "description": "This educational, interactive exhibit inspires Minnesotans to get connected to the food they eat. The actions we take every day matter, as we are directly linked to our food. Centering around six areas of action \u2013 Buy Local; Eat Local; Grow Food; Nurture Soil; Promote Justice; and Reduce Waste, The Common Table: Minnesota Eats exhibit provides a learning opportunity and takeaway for every age and interest. The exhibit features various garden types, including an aquaponics system, more than 200 edible plants, an interactive foodscape and waste reduction kitchen, as well as dirt and compost displays, all informed by members of the local food community.",
+    "description": "This educational, interactive exhibit inspires Minnesotans to get connected to the food they eat. The actions we take every day matter, as we are directly linked to our food. Centering around six areas of action \u2013 Buy Local; Eat Local; Grow Food; Nurture Soil; Promote Justice; and Reduce Waste, The Common Table: Minnesota Eats exhibit provides a learning opportunity and takeaway for every age and interest. The exhibit features various garden types, including an aquaponics system, more than 200 edible plants, an interactive foodscape and waste reduction kitchen, as well as dirt and compost displays, all informed by members of the local food community. The common table is supported by the Metro Food Justice Network.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/the-common-table/featured.848x477.jpg?v=20210629.224421",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8:00 pm on Labor Day",
     "cost": null,
@@ -1920,7 +1648,7 @@
     }
   },
   {
-    "description": "Get your groove on at The Garden Stage. During the day, step up to the mic and belt it out in karaoke, then stick around at night to boogie down with the D.J. entertainment.",
+    "description": "Get your groove on at The Garden Stage. Step up to the mic and belt it out in karaoke!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/the-garden-stage/featured.848x477.jpg?v=20210629.224422",
     "hours": "8:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
@@ -1984,6 +1712,22 @@
     }
   },
   {
+    "description": "Happening daily at The North Woods, don\u2019t miss a (p)awfully fun time at the All-Star Stunt Dogs Splash, where talented pups fly through the air and perform tricks! Also here, strong and skilled lumberjacks and lumberjills climb trees, saw logs and so much more at the Timberworks Lumberjack Show. It's all free with fair admission!",
+    "image": null,
+    "hours": null,
+    "cost": null,
+    "category": null,
+    "slug": "the-north-woods",
+    "id": "134c9b73-b787-93c8-0464-1578222a7b31",
+    "name": "The North Woods",
+    "location": {
+      "image": null,
+      "directions": null,
+      "lat": 44.985313,
+      "lng": -93.168843
+    }
+  },
+  {
     "description": "Entertainers are booked and compensated by the independent concessionaires that host them at these privately owned venues. The Minnesota State Fair is not responsible for scheduling of any entertainers listed below (schedules are posted as information becomes available and are subject to change).",
     "image": null,
     "hours": null,
@@ -2005,38 +1749,6 @@
     "hours": null,
     "cost": null,
     "category": null,
-    "slug": "underwood-st-east-of-dairy-building",
-    "id": "c0695ffc-3d6e-95ed-14e3-146ed5542a5d",
-    "name": "Underwood St. east of Dairy Building",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.977979,
-      "lng": -93.170607
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "underwood-st-north-of-judson",
-    "id": "62c45b52-db40-2574-43dc-b2b87aac6521",
-    "name": "Underwood St. north of Judson",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.979224,
-      "lng": -93.170616
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
     "slug": "university-of-minnesota-central",
     "id": "8b3d7631-6c4a-bd30-841c-38c0243f7e29",
     "name": "University of Minnesota Central",
@@ -2048,7 +1760,7 @@
     }
   },
   {
-    "description": "A hub for information, banking, shopping and more, Visitors Plaza is an important stop when you're at the fair! Get all of your questions answered from 7:30 a.m. to 9 p.m. at the information booth, shop 'til you drop at the State FairWear Gift Shop from 8 a.m. to 9 p.m. (8 p.m. Labor Day), complete your banking needs at Bremer Bank from 7 a.m. to 4 p.m., and stop at the UPS Store for mail services and more from 11 a.m. to 5 p.m. (Closed Sundays and Labor Day) Plus, share your feedback at Guest Relations from 7:30 a.m. to 10:30 p.m. (9 p.m. on Labor Day) Don't miss our lovable gopher mascots Fairchild and Fairborne at 11 a.m. and 4 p.m. every day of the fair!",
+    "description": "A hub for information, banking, shopping and more, Visitors Plaza is an important stop when you're at the fair! Get all of your questions answered from 7:30 a.m. to 9 p.m. at the information booth, shop 'til you drop at the State FairWear Gift Shop from 9 a.m. to 9 p.m. (8 p.m. Labor Day) and complete your banking needs at Bremer Bank from 7:30 a.m. to 3 p.m. Plus, share your feedback at Guest Relations from 7:30 a.m. to 10:30 p.m. (9 p.m. on Labor Day) Don't miss our lovable gopher mascots Fairchild and Fairborne at 11 a.m. and 4 p.m. every day of the fair!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/visitor-plaza/featured.848x477.jpg?v=20210629.224426",
     "hours": "7:00\u00a0am \u2013 10:30\u00a0pm; Closes at 9 p.m. on Labor Day",
     "cost": null,
@@ -2117,22 +1829,6 @@
     "hours": null,
     "cost": null,
     "category": null,
-    "slug": "west-of-chambers-st-between-west-dan-patch-and-carnes-avenues",
-    "id": "f929e91a-fd8a-ef61-6320-9ccf8d5ed938",
-    "name": "West of Chambers St. between West Dan Patch & Carnes avenues",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.98048,
-      "lng": -93.174622
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
     "slug": "wright-avenue-north-of-kidway",
     "id": "53d1d180-b3da-ec47-739c-98fa46b7ca1b",
     "name": "Wright Avenue north of Kidway",
@@ -2162,7 +1858,7 @@
   {
     "description": "Touted as the \u201coriginal tunnel of love,\u201d Ye Old Mill is the oldest attraction on the fairgrounds. Take a relaxing boat ride in a dark tunnel \u2013 and see some kitschy vignettes while you do!",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/ye-old-mill/featured.848x477.jpg?v=20210629.224425",
-    "hours": "8:00\u00a0am \u2013 10:00\u00a0pm",
+    "hours": "9:00\u00a0am \u2013 10:00\u00a0pm",
     "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
     "category": "ride_attraction",
     "slug": "ye-old-mill",
