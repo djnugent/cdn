@@ -85,7 +85,8 @@
                     "type": "object",
                     "properties": {
                         "name": {
-                            "type": "string"
+                            "type": "string",
+                            "minLength": 3
                         },
                         "description": {
                             "type": [
@@ -107,7 +108,13 @@
                             }
                         },
                         "isNew": {
-                            "type": "string"
+                            "type": "string",
+                            "enum": [
+                                "no",
+                                "true_inline",
+                                "true_featured",
+                                "true_advertised"
+                            ]
                         },
                         "catagory": {
                             "type": "string",
