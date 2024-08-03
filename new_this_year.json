@@ -56,6 +56,14 @@
         "vendor_slug": "5052.1"
     },
     {
+        "description": "Brewed butterfly pea flower tea sweetened with natural flavor and cane sugar. Garnished with a swirl of edible glitter and a rock candy swizzle stick to stir for a color-changing effect. (Gluten-Free, Caffeine-Free, Vegan) (New Vendor)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cotton-candy-iced-tea/landing.720x600.jpg",
+        "slug": "cotton-candy-iced-tea",
+        "id": "d28b4a97-c55a-00f9-3f7c-227746b2b430",
+        "name": "Cotton Candy Iced Tea",
+        "vendor_slug": "3386.2"
+    },
+    {
         "description": "Chicken wings marinated in hot sauce, grilled and then fried with corn, chicken apple sausage and potatoes. Tossed in a \"crab boil\" butter and finished with a lemon wedge and parsley. (Gluten-Free)",
         "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/crab-boil-wings/landing.720x600.jpg",
         "slug": "crab-boil-wings",
@@ -134,6 +142,54 @@
         "id": "5fad1b4d-1694-031e-e4d4-bd367fecf299",
         "name": "Mocha Madness Shave Ice",
         "vendor_slug": "2784.1"
+    },
+    {
+        "description": "Chan's Eatery serves Korean corndogs (hot dog and mozzarella cheese, battered with panko, deep-fried and finished with a dusting of cinnamon sugar. Option to add a coating of fried potatoes or to substitute toppings for hot Cheetos\u00ae with spicy mayo); Mochi donuts in eight varieties (original glaze, churro, cookies \u2018n cream, Fruity Pebbles\u2122, chocolate, strawberry, matcha and taro); Fruit and milk boba teas with optional tapioca and jelly toppings.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-chans-eatery/landing.720x600.jpg",
+        "slug": "new-vendor-chans-eatery",
+        "id": "47e36537-eb4f-6ff3-f7cc-6573b678f234",
+        "name": "New Vendor",
+        "vendor_slug": "9238.1"
+    },
+    {
+        "description": "El Burrito Mercado serves Quesabirria Taquitos (deep-fried, rolled tacos filled with beef marinated in red sauce & cheese, topped with salsa verde and crumbled cheese); Esquites (corn kernels cooked with herbs, topped with sour cream, crumbled cheese, chile powder and lime, served in a cup); and Agua de Sandia Loca (watermelon drink with chamoy and bits of seasoned dried mango). All items are gluten-friendly.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-el-burrito-mercado/landing.720x600.jpg",
+        "slug": "new-vendor-el-burrito-mercado",
+        "id": "75da4afb-c385-9834-9cff-94576e952a35",
+        "name": "New Vendor",
+        "vendor_slug": "1730.1"
+    },
+    {
+        "description": "Kosharina Egyptian Cuisine serves Koshari (rice, pasta, chickpeas, lentils, tomato sauce, garlicky vinegar \"dakkah\" sauce, topped with fried onions) in three varieties (chicken, beef and vegetable); plus caffeine-free iced hibiscus tea. Koshari is gluten-free without pasta, and the vegetable variety is vegan.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-kosharina-egyptian-cuisine/landing.720x600.jpg",
+        "slug": "new-vendor-kosharina-egyptian-cuisine",
+        "id": "e1e91452-3eca-47a4-6dc9-52dff1800fbc",
+        "name": "New Vendor",
+        "vendor_slug": "10432.1"
+    },
+    {
+        "description": "Loon Lake Iced Tea serves Official New Food Cotton Candy Iced Tea, plus a variety of brewed, naturally flavored, cane sugar-sweetened iced teas, including blood orange, blueberry, peach, strawberry and unsweetened.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-loon-lake-iced-tea/landing.720x600.jpg",
+        "slug": "new-vendor-loon-lake-iced-tea",
+        "id": "769666ff-9822-89db-0e7e-620f05c01b05",
+        "name": "New Vendor",
+        "vendor_slug": "3386.2"
+    },
+    {
+        "description": "Midtown Global Market's Indigenous Food Lab serves Official New Food Nixtamal & Wild Rice Bowl with W\u00f3\u017eapi & Bison Meatballs or Sweet Potato Dumplings, with the option to add cricket & seed mix. All items are gluten-free. (Aug. 28 to Sept. 2 only)",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-midtown-global-markets-indigenous-food-lab/landing.720x600.jpg",
+        "slug": "new-vendor-midtown-global-markets-indigenous-food-lab",
+        "id": "41a2070d-9d51-bf42-64ad-07f2e9bd440d",
+        "name": "New Vendor",
+        "vendor_slug": "2764.2"
+    },
+    {
+        "description": "Paella Depot serves Chicken & Chorizo Paella (traditional Spanish caramelized rice dish with leeks, red bell peppers, zucchini and snap peas, with option to add fried egg or seafood). Plus, aguas frescas in six flavors made from fruit puree, whole fruit, lime juice, agave and water. All items are gluten-free and dairy-free.",
+        "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/new-vendor-paella-depot/landing.720x600.jpg",
+        "slug": "new-vendor-paella-depot",
+        "id": "0f13c446-d707-2e19-b436-9abbd73e610d",
+        "name": "New Vendor",
+        "vendor_slug": "6268.1"
     },
     {
         "description": "Choice of bison meatballs or sweet potato dumplings, topped with mixed berry w\u00f3\u017eapi sauce, and served on a bed of nixtamal (white corn, blue corn and yellow corn) mixed with wild rice and seasoned with maple and spices. Cricket & seed mix topping optional. (Gluten-Free, Vegan option) (Aug. 28 to Sept. 2 only) (New Vendor)",
