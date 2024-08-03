@@ -965,7 +965,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null
     },
@@ -1423,7 +1423,7 @@
         "accepts_credit_cards": null,
         "vegetarian_options": true,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": true
     },
     {
         "id": "49da47c6-b336-d2be-0a74-7bfbc7669353",
@@ -17247,7 +17247,7 @@
         "accepts_credit_cards": null,
         "vegetarian_options": false,
         "gluten_free_options": true,
-        "vegan_options": false
+        "vegan_options": true
     },
     {
         "id": "dd1b4b05-8373-e582-e9ed-09fefc163240",
@@ -18128,7 +18128,7 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null
     },
     {
@@ -18373,7 +18373,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null
     },
@@ -20126,7 +20126,7 @@
         "has_blue_ribbon_bargain": false,
         "offers": {},
         "hours": null,
-        "accepts_credit_cards": null,
+        "accepts_credit_cards": true,
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null
@@ -21770,7 +21770,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null
     },
@@ -22389,7 +22389,7 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null
     },
     {
@@ -23863,8 +23863,8 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "d760f076-443a-6676-5464-2a554bb17427",
@@ -29804,7 +29804,7 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": true,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null
     },
     {
@@ -30601,8 +30601,8 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
         "vegan_options": null
     },
     {
@@ -30968,7 +30968,7 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null
     },
     {
@@ -31148,7 +31148,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": true
     },
@@ -33135,7 +33135,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null
     },
