@@ -1,0 +1,129 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "title": "Landmarks",
+    "description": "State fair landmarks",
+    "type": "object",
+    "properties": {
+        "atms": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "description": "Sub type of ATM",
+                        "enum": [
+                            "normal"
+                        ]
+                    },
+                    "location": {
+                        "type": "array",
+                        "description": "Lat lon",
+                        "items": {
+                            "type": "number"
+                        },
+                        "minItems": 2,
+                        "maxItems": 2
+                    }
+                },
+                "required": [
+                    "type",
+                    "location"
+                ]
+            }
+        },
+        "restrooms": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "description": "Sub type of restroom",
+                        "enum": [
+                            "normal",
+                            "baby_change",
+                            "accessible_baby_change",
+                            "family_accessible"
+                        ]
+                    },
+                    "location": {
+                        "type": "array",
+                        "description": "Lat lon",
+                        "items": {
+                            "type": "number"
+                        },
+                        "minItems": 2,
+                        "maxItems": 2
+                    }
+                },
+                "required": [
+                    "type",
+                    "location"
+                ]
+            }
+        },
+        "water": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "description": "Sub type of water",
+                        "enum": [
+                            "normal"
+                        ]
+                    },
+                    "location": {
+                        "type": "array",
+                        "description": "Lat lon",
+                        "items": {
+                            "type": "number"
+                        },
+                        "minItems": 2,
+                        "maxItems": 2
+                    }
+                },
+                "required": [
+                    "type",
+                    "location"
+                ]
+            }
+        },
+        "gates": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "description": "Sub type of gate",
+                        "enum": [
+                            "normal"
+                        ]
+                    },
+                    "location": {
+                        "type": "array",
+                        "description": "Lat lon",
+                        "items": {
+                            "type": "number"
+                        },
+                        "minItems": 2,
+                        "maxItems": 2
+                    }
+                },
+                "required": [
+                    "type",
+                    "location"
+                ]
+            }
+        }
+    },
+    "required": [
+        "atms",
+        "restrooms",
+        "water",
+        "gates"
+    ]
+}

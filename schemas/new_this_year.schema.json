@@ -1,0 +1,37 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "description": {
+                "type": "string"
+            },
+            "image": {
+                "type": "string",
+                "format": "uri"
+            },
+            "slug": {
+                "type": "string"
+            },
+            "id": {
+                "type": "string",
+                "format": "uuid"
+            },
+            "name": {
+                "type": "string"
+            },
+            "vendor_slug": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "description",
+            "image",
+            "slug",
+            "id",
+            "name",
+            "vendor_slug"
+        ]
+    }
+}

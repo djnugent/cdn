@@ -1,0 +1,138 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "image": {
+                "type": [
+                    "string",
+                    "null"
+                ],
+                "format": "uri"
+            },
+            "offers": {
+                "type": "object",
+                "additionalProperties": {
+                    "type": "string"
+                }
+            },
+            "hours": {
+                "type": [
+                    "string",
+                    "null"
+                ]
+            },
+            "slug": {
+                "type": "string",
+                "pattern": "^[0-9]+\\.[0-9]+$"
+            },
+            "id": {
+                "type": "string",
+                "format": "uuid"
+            },
+            "name": {
+                "type": "string"
+            },
+            "locations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "image": {
+                            "type": [
+                                "string",
+                                "null"
+                            ],
+                            "format": "uri"
+                        },
+                        "directions": {
+                            "type": [
+                                "string",
+                                "null"
+                            ]
+                        },
+                        "lat": {
+                            "type": "number",
+                            "format": "float",
+                            "not": {
+                                "enum": [
+                                    0
+                                ]
+                            }
+                        },
+                        "lng": {
+                            "type": "number",
+                            "format": "float",
+                            "not": {
+                                "enum": [
+                                    0
+                                ]
+                            }
+                        }
+                    },
+                    "required": [
+                        "image",
+                        "directions",
+                        "lat",
+                        "lng"
+                    ]
+                }
+            },
+            "items": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "description": {
+                            "type": [
+                                "string",
+                                "null"
+                            ]
+                        },
+                        "image": {
+                            "type": [
+                                "string",
+                                "null"
+                            ],
+                            "format": "uri"
+                        },
+                        "details": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "isNew": {
+                            "type": "string"
+                        },
+                        "catagory": {
+                            "type": "string",
+                            "enum": [
+                                "food_drink",
+                                "alchoholic_beverage"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "has_blue_ribbon_bargain": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "image",
+        "offers",
+        "hours",
+        "slug",
+        "id",
+        "name",
+        "locations",
+        "items",
+        "has_blue_ribbon_bargain"
+    ]
+}
