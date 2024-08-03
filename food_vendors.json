@@ -23790,16 +23790,6 @@
         ],
         "items": [
             {
-                "name": "cotton candy iced tea",
-                "description": null,
-                "image": null,
-                "details": [
-                    "pea flower tea with garnish"
-                ],
-                "isNew": "true_inline",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "blueberry iced tea",
                 "description": null,
                 "image": null,
