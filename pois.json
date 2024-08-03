@@ -208,22 +208,6 @@
     }
   },
   {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": "building",
-    "slug": "cattle-annex",
-    "id": "c5949fd4-6182-5b34-a627-a60190f7f84a",
-    "name": "Cattle Annex",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.97751,
-      "lng": -93.176263
-    }
-  },
-  {
     "description": "This majestic, century-old, 117,450-square-foot brick structure is so massive it can house 1,000 head of cattle! Wander the aisles for an up-close look at a variety of dairy and beef cattle breeds. Watch cows being milked, join in fun ag-related activities, and learn about cattle at the Moo Booth and Milking Parlor.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/cattle-barn/featured.848x477.jpg?v=20210629.224426",
     "hours": "Please check the daily schedule for detailed Cattle Barn hours.",
