@@ -1,0 +1,46 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "events.json"
+            ],
+            "url": "./schemas/events.schema.json"
+        },
+        {
+            "fileMatch": [
+                "landmarks.json"
+            ],
+            "url": "./schemas/landmarks.schema.json"
+        },
+        {
+            "fileMatch": [
+                "lists.json"
+            ],
+            "url": "./schemas/lists.schema.json"
+        },
+        {
+            "fileMatch": [
+                "new_this_year.json"
+            ],
+            "url": "./schemas/new_this_year.schema.json"
+        },
+        {
+            "fileMatch": [
+                "pois.json"
+            ],
+            "url": "./schemas/pois.schema.json"
+        },
+        {
+            "fileMatch": [
+                "food_vendors.json"
+            ],
+            "url": "./schemas/food_vendors.schema.json"
+        },
+        {
+            "fileMatch": [
+                "shop_vendors.json"
+            ],
+            "url": "./schemas/shop_vendors.schema.json"
+        }
+    ]
+}
