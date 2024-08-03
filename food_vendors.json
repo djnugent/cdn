@@ -2537,6 +2537,36 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "food_drink"
+            },
+            {
+                "name": "Quesabirria Taquitos",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Deep Fried, deep-fried, rolled tacos filled with beef marinated in red sauce & cheese, topped with salsa verde and crumbled cheese"
+                ],
+                "isNew": "true_advertised",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Esquites",
+                "description": null,
+                "image": null,
+                "details": [
+                    "corn kernels cooked with herbs, topped with sour cream, crumbled cheese, chile powder and lime, served in a cup"
+                ],
+                "isNew": "true_advertised",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Agua de Sandia Loca",
+                "description": null,
+                "image": null,
+                "details": [
+                    "watermelon drink with chamoy and bits of seasoned dried mango"
+                ],
+                "isNew": "true_advertised",
+                "catagory": "food_drink"
             }
         ],
         "has_blue_ribbon_bargain": false,
