@@ -959,6 +959,126 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A refreshing frozen blend of watermelon and mint, this agua fresca-inspired slushie will keep you cool on hot summer days. 6% ABV. Brewed in Minneapolis, Minn., by Indeed Brewing Company.",
+                "image": null,
+                "name": "Agua Fresca Hard Slushie",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This sessionable mead is made of honey from midwestern pollinators, fermented dry, and then sweetened with freshly pressed black currant juice. 6% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
+                "image": null,
+                "name": "Black Currant Mead",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Dry champagne-like cider sweetened with freshly pressed blood orange juice, a refreshing drink perfect for any time of day. 6.2% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
+                "image": null,
+                "name": "Blood Orange Mimosa Cider",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Erupting with pops of tart raspberries and a hint of lime, this cream ale is a flavor bomb in the heart of summer. 5.5% ABV. Brewed in Minneapolis, Minn., by Indeed Brewing Company.",
+                "image": null,
+                "name": "Firecracker Cream Ale",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "The late summer morning haze that settles over the Mighty Midway meets its match with this IPA. Filled with robust, juicy notes of pineapple and tropical fruit and haze for, well, days. 7.2% ABV. Brewed in Minneapolis, Minn., by Surly Brewing Company.",
+                "image": null,
+                "name": "Hazy Days IPA",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A medium-bodied, golden lager with the perfect blend of sweet malty flavor and fruity-floral hop aroma. This beer packs a punch, so grab your State Fair favorite foods and enjoy the people watching! 7.8% ABV. Brewed in New Ulm, Minn., by August Schell Brewing Co.",
+                "image": null,
+                "name": "Imperial Lager",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Blending tropical orange, pineapple and rum flavor into a refreshing frozen drink, escape to paradise with this hard slushie. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Mai Tai Slushie",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Delight your senses with this light and refreshing blonde ale, bursting with juicy pineapple notes. A vibrant fusion where tropical meets traditional. 4.7% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Pineapple Party",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A tasty sour beer with a little extra fizz. Choose from three flavors: raspberry, watermelon or woodruff. A fun take on traditional-flavored sour beers, done as it is in Germany. 5% ABV. Brewed in New Ulm, Minn., by August Schell Brewing Co.",
+                "image": null,
+                "name": "Sour Batch Fizz",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Freshly pressed apples fermented dry and then sweetened with rhubarb, strawberry juice, blackstrap molasses and lactose sugars. This Minnesota classic treat is making its cider-style State Fair debut. 5.9% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
+                "image": null,
+                "name": "Strawberry Rhubarb Crumble",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This refreshing malt-based non-distilled mojito bursts with citrusy tangerine that dances harmoniously with the invigorating bite of fresh mint leaves. It\u2019s a vibrant and tropical escape in every sip, perfect for those seeking a taste of summer bliss. 6% ABV. Brewed in New Ulm, Minn., by August Schell Brewing Co. in collaboration with Tattersall Distilling, Minneapolis, Minn.",
+                "image": null,
+                "name": "Tangerine Sunset Mojito",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This summer sensation combines the crisp, refreshing taste of a traditional k\u00f6lsch with a bright burst of lemony citrus \u2013 a tangy and enticing ale perfect for hot summer days. A nicely balanced blend of maltiness and zesty lemon notes delivers an ultra-fresh new drinking experience. 4.4% ABV. Brewed in Saint Paul, Minn., by Dual Citizen Brewing Company.",
+                "image": null,
+                "name": "Touchy Peely",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -1414,6 +1534,66 @@
                 "image": null,
                 "details": [],
                 "isNew": "true_inline",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Experience the irresistible sweetness of ripe blackberries with every pour. Let the smooth, fruity notes of blackberry sweep you off your feet, while relaxation meets fruity perfection. 5.2% ABV. Brewed in Duluth, Minn., by Wild State Cider.",
+                "image": null,
+                "name": "Blackberry Breeze",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Fruity with an edge, Blackberry Limeade Lager is subtly sweet with a twist of tart citrus. 5.2% ABV. Brewed in Minneapolis, Minn., by Indeed Brewing Company.",
+                "image": null,
+                "name": "Blackberry Limeade Lager",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A sweet, fruity, tart and sparkling lower-calorie and lower-carb seltzer. Dig your toes into the sand and buckle your seat belt, this drink is ready to start your fair vacation right. Enjoy solo or in a Tropical Escape Seltzer Flight with Passion Fruit Daiquiri and Watermelon Hard Candy. 8% ABV. Brewed in Roseville, Minn., by Bent Brewstillery.",
+                "image": null,
+                "name": "Imperial Mai Tai Seltzer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Citrusy hints of melon, pineapple and kiwi, sure to transport you back to a sunset stroll on the beach. Enjoy this delicate balance of sweet and tart lower-calorie and lower-carb seltzer. Enjoy solo or in a Tropical Escape Seltzer Flight with Imperial Mai Tai and Watermelon Hard Candy. 5% ABV. Brewed in Roseville, Minn., by Bent Brewstillery.",
+                "image": null,
+                "name": "Passion Fruit Daiquiri Seltzer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This vivid purple double dry-hopped Cold IPA uses 100 percent Minnesota malt as a backbone for a \u201cprincely\u201d amount of hops lending fruit, fresh pineapple and nectarine notes. 5.5% ABV. Brewed in Roseville, Minn., by Bent Brewstillery.",
+                "image": null,
+                "name": "Purple Reign IPA",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Starting sour and finishing sweet, this watermelon-flavored hard candy-inspired seltzer is a throwback to the bike-riding days visiting the corner convenience store. Experience memories of hands full of candy and bellies full of delight \u2013 in a cup! Order solo or in a Tropical Escape Seltzer Flight with Passion Fruit Daiquiri and Imperial Mai Tai. 5% ABV. Brewed in Roseville, Minn., by Bent Brewstillery.",
+                "image": null,
+                "name": "Watermelon Hard Candy Seltzer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -3393,6 +3573,26 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "The State Fair has cute pink piglets, the neon pink glow of Mighty Midway and now pink beer! This colorful flavor-blast beer comes with a wild blend of Strata hops, luscious marshmallows and a mix of tropical fruit flavor that\u2019ll take your taste buds to paradise! 7.1% ABV. 41 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
+                "image": null,
+                "name": "Tropical Fruit Smoothy IPA",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Experience a unique fusion of nostalgia and refreshment with this blend of bubblegum and vibrant fruity notes. This slushy delivers a playful and memorable taste that is perfectly balanced and refreshingly light. Plus, every slushy comes garnished with bubblegum \u2013 enjoy the bubbly fun! 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Tutti Frutti Bubblegum Hard Slushy",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -4153,6 +4353,66 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A delightful fusion of fresh-pressed apples and warm pie spices for a beautifully balanced taste. Unleash the taste of autumn! 6% ABV. Brewed in Duluth, Minn., by Wild State Cider.",
+                "image": null,
+                "name": "Apple Pie Hazy Cider",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A tropical sour ale with an infusion of jalape\u00f1o. Enjoy this blend of fruit and spice for a refreshing kick. 4.8% ABV. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
+                "image": null,
+                "name": "Barn Storm",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A frozen seltzer with tropical fruit and sweet strawberry flavors. Call it a mixtape in your mouth! 5% ABV. Brewed in Minneapolis, Minn., by Bauhaus Brew Labs.",
+                "image": null,
+                "name": "Boombox Freeze",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A hearty wheat ale with notes of creamy chocolate and banana flavors. Try it out for a drinkable twist on the classic dessert duo. 4.8% ABV. Brewed in Minneapolis, Minn., by The Freehouse.",
+                "image": null,
+                "name": "Chocobananas Wheat Ale",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This silky New Zealand Hazy IPA has smooth notes of tropical fruits including mango, passion fruit, guava and lime. Enjoy in the shade of a beautiful Minnesota summer day. 6% ABV. 35 IBU. Brewed in Saint Paul, Minn., by Dual Citizen Brewing Company in collaboration with The Freehouse, Minneapolis, Minn.",
+                "image": null,
+                "name": "A Hazy Shade",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Unwind with a divine blend of white wine, peaches, mangos and citrus. Light, sweet and incredibly refreshing. 6.3% ABV. Wine made in Scandia, Minn., by Rustic Roots Winery.",
+                "image": null,
+                "name": "Steph\u2019s Summer Spritzer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -4669,6 +4929,56 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Get your freeze on with this delicious, sweet and flavorful slushie made with Quirk seltzer and a fruity and floral mix of flavors including cherry blossom and lime & cherry limeade. 4% ABV. Brewed by Boulevard Beverage Co.",
+                "image": null,
+                "name": "Cherry Lime Freeze",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Charred to perfection, this lager boasts a caramelized flavor atop its juicy pineapple base. 5.2% ABV. 10 IBUs. Brewed in Minneapolis, Minn., by Indeed Brewing Company.",
+                "image": null,
+                "name": "Grilled Pineapple Lager",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A Minnesota-made sparkling Edelweiss wine made with fresh pureed lemons. A citrus-forward refreshing drink perfect for sipping on a scenic fair day. Enjoy solo or in a Bellini Flight with orange, lemon and peach. 12% ABV. Wine made in Cannon River, Minn., by Cannon River Winery.",
+                "image": null,
+                "name": "Lemon Bellini",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A citrusy delight of Minnesota-made sparkling Edelweiss wine, perfectly blended with fresh pureed oranges. Indulge in its refreshing zest, solo or in a Bellini Flight with a trio of orange, lemon and peach. 12% ABV. Brewed in Cannon River, Minn., by Cannon River Winery.",
+                "image": null,
+                "name": "Orange Bellini",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A delightful pear cider inspired by the effervescent charm of Italian sparkling wines. Time for a bubbly toast! 5.5% ABV. Brewed in Spring Valley, Minn., by Loon Juice Cider Company.",
+                "image": null,
+                "name": "Sparkling Pearsecco",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -5534,6 +5844,46 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A delicious cocktail-inspired sugar-free Bolo Hard Seltzer, featuring notes of blackberry, lime, mint and sweet honey with a lovely purple hue. Your tropical escape awaits! 5% ABV. Brewed in Minneapolis, Minn., by Bauhaus Brew Labs.",
+                "image": null,
+                "name": "Blackberry Mojito Hard Seltzer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This fun, breakfast-inspired brew perfectly combines the zing of tart blueberries with a maple sweetness and a smooth malty finish. The playful notes of caramel, brown sugar and blueberry will bring you back to summer mornings at the breakfast table. 4.9% ABV. 10 IBUs. Brewed in Cold Spring, Minn., by Third Street Brewhouse.",
+                "image": null,
+                "name": "Blueberry Pancake Lager",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A blend of natural pineapple, real coconut cream and rum flavors combine in this classic tropical frozen cocktail-inspired seltzer slushie for the ultimate island escape. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Frozen Pi\u00f1a Colada",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Spice things up with this frozen cocktail-inspired slushie made with pineapple and tequila flavors, Proper Bartender Habanero Bitters and topped with Taj\u00edn seasoning. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Frozen Spicy Pineapple Margarita",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -8750,6 +9100,46 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A taste of fresh strawberries, creamy vanilla and sweet cake flavors all in one glass. It\u2019s a perfect sippable treat. 4.9% ABV. Brewed in Cold Spring, Minn., by Third Street Brewhouse.",
+                "image": null,
+                "name": "Cakewalk Berry Bliss Lager",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A refreshing cream ale inspired by the legendary Arnold Palmer beverage. This unique brew combines the crispness of a classic cream ale with the zesty tang of lemonade and the classic taste of iced tea. Cheers to embracing the bright side of life with every refreshing gulp. 4.2% ABV. Brewed in Eagan, Minn., by Bald Man Brewing.",
+                "image": null,
+                "name": "Iced Tea Lemonade Blonde Ale",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A luscious and creamy mudslide-inspired slushie. Filled with flavors of coffee, Irish cream and heavy cream. This lactose-free boozy milkshake is served with an edible straw. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Mudslide Slushie",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Experience a burst of flavors with a blend of red and sparkling white wine, enhanced with a surprising popping candy twist. Give your classic glass of wine a pop of surprise! 8% ABV. Brewed in Cannon River, Minn., by Cannon River Winery.",
+                "image": null,
+                "name": "Popping Good Wine",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -10646,6 +11036,26 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A blend of freshly pressed apples fermented dry then sweetened with pineapple juice and coconut cream. Garnished with a pineapple and cherry skewer. Enjoy the beach in a glass! 5.9% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
+                "image": null,
+                "name": "Pi\u00f1a Ciderlada",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A flavorful and aromatic light lager brewed with clementines, resulting in a bright and citrus-forward brew. Zesty, tangy and fruity notes, garnished with a candy peach ring. Its crisp body and clementine aroma will have you singing \u201coh my darling!\u201d 4.2% ABV. Brewed in Cold Spring, Minn., by Third Street Brewhouse.",
+                "image": null,
+                "name": "Sweet Clementine Beer",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -12270,6 +12680,26 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This western-inspired tasty golden ale is crafted with prickly pear and mezcal flavors. Saddle up! 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Golden Spike Ale",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A triple threat of flavors exploding with bright, vibrant and fresh fruitiness from a blend of strawberry, blueberry and raspberry. This crisp, berry-licious cream ale will dance onto your tastebuds. 5% ABV. Brewed in Minneapolis, Minn., by Fulton Brewing.",
+                "image": null,
+                "name": "Triple Berry Cream Ale",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -14583,6 +15013,46 @@
                 "details": [],
                 "isNew": "true_inline",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This refreshing tropical wine spritz is made from Minnesota-grown grapes with a hint of tropical fruit and light bubbles. Cheers! 7% ABV. Wine made in Scandia, Minn., by Rustic Roots Winery & Lift Bridge Brewing Company, Stillwater, Minn.",
+                "image": null,
+                "name": "Lake Dayz Spritz",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Juicy and bursting with tropical fruit, this refreshing cider is crafted with fresh-pressed apples, bright prickly pear and tart, zingy passion fruit flavor. 5.5% ABV. Brewed in Duluth, Minn., by Wild State Cider.",
+                "image": null,
+                "name": "Prickly Pear Passion Fruit Cider",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Add an extra twist to your usual IPA. Amp up your beer with a bold burst of strawberry and guava. This fruited drink reinvents the signature Miraculum Midwest IPA. 6.4% ABV. 75 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
+                "image": null,
+                "name": "Strawberry Guava Miraculum",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Kickstart your fair day with a lively blend of refreshing watermelon, citrus and Red Bull Red. This seltzer-based slushie will keep you cool and caffeinated. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Watermelon Crush",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -15598,6 +16068,16 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "food_drink"
+            },
+            {
+                "description": "Featuring a variety of non-alcoholic brews, this brand-new exclusive tap line is focused solely on alcohol-free craft beer, cider and seltzers. Stop by for a glass or a flight of specialty Minnesota-made drinks from a number of local breweries, rotating daily. Note: 21+ only, photo ID required. At Minnesota Craft Brewers Guild.",
+                "image": null,
+                "name": "NA Rotating Brews",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -21054,6 +21534,26 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Take a delightful sip down memory lane with a vibrant and refreshing spin on a beloved summertime treat served slushie-style. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Pink Lady Lemonade",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This vibrant passion fruit, lime and rum-flavored hard slushie will transport you to the streets of New Orleans with every icy sip. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Red Devil Hurricane",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -21522,6 +22022,16 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A symphony of smooth bourbon flavor, juicy peaches and sweet tea. A dose of southern hospitality in every sip. Garnished with a candy peach ring. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Chelsey\u2019s Southern Sipper",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -22934,7 +23444,27 @@
                 "description": null,
                 "image": null,
                 "details": [],
-                "isNew": "no",
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A tropical whirlwind of mango, pineapple and lime. Enjoy a frozen fruity flavor giving refreshing beach vibes. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Baja Breeze Slushie",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A refreshing and light-bodied Mexican-style lager brewed with purple corn, featuring notes of honey and biscuit. This is a perfect drink to accompany your favorite fair foods. 4.6% ABV. Brewed in Saint Paul, Minn., by Summit Brewing Company.",
+                "image": null,
+                "name": "Purple Maize",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -25737,6 +26267,36 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Delivering delicious cinnamon and lemon flavors that are sweet, tangy and refreshing. This beer embodies the rich flavors and traditions of Italy in every sip. 5% ABV. Brewed in North Mankato, Minn., by Mankato Brewery.",
+                "image": null,
+                "name": "Cinnamon Lemoncello Cake\u2019d Up",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A burst of vibrant flavor that\u2019s both tart and subtly sweet, perfect for adding a touch of sophistication to your State Fair experience. It is sure to delight your taste buds \u2013 solo or paired with delicious fair eats. 5% ABV. Brewed in North Mankato, Minn., by Mankato Brewery.",
+                "image": null,
+                "name": "Lingonberry Blast",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This Minnesota aviation-inspired delight is a refreshing lingonberry-flavored shandy that\u2019s just the right mix of tart, sweet and a hint of pink \u2013 perfect for your high-flying taste buds. It\u2019s light enough to keep you grounded while still giving your spirits a lift. Brewed in Excelsior, Minn., by Excelsior Brewing Company.",
+                "image": null,
+                "name": "\u201cThe Lingonburg\u201d \u2013 Lingonberry Shandy",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -28287,6 +28847,26 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Let your tastebuds embark on an epic quest with this purple punch-inspired kettle sour. Comes with a Viking souvenir rubber ducky ready to conquer the high seas, and perhaps football season! 4.5% ABV. Brewed in Minneapolis, Minn., by Surly Brewing Company.",
+                "image": null,
+                "name": "Attack of the Quack!",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Take a step inside the speakeasy and enjoy this refreshing malt-based take on a classic cocktail, crafted with flavors of aged bourbon and cherry. Served with a smoky surprise. 7% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Grumpy Old Manhattan",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
@@ -32319,6 +32899,26 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "A burst of mango, citrus and dark rum-inspired flavors. Destinations await with this vibrant and refreshing frozen drink made with real fruit juice. Feeling bold? Try it mixed with Frozen Strawberry Daiquiri for a Ball Park Vice. 6% ABV. Brewed in Stillwater, Minn., by Liftbridge Brewing Company.",
+                "image": null,
+                "name": "Frozen Mango Tango",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "This strawberry and rum-flavored frozen cocktail-inspired drink is made with real fruit juice. Set sail, this is a vacation in a cup. PRO TIP: Get it mixed with Frozen Mango Tango for our version of a Ball Park Vice. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
+                "image": null,
+                "name": "Frozen Strawberry Daiquiri",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -33462,6 +34062,16 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Inspired by the perfect fair-food condiment, this mustard beer is a full-bodied, hop-forward, Session IPA spiced with mustard seeds. Sit back and enjoy this beer while watching a horse or livestock show. 4.5% ABV. Brewed in Hastings, Minn., by Spiral Brewery.",
+                "image": null,
+                "name": "Mustard Stain IPA",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -33710,6 +34320,16 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "description": "Combining the flavors of the traditional campfire treat, this drink gives notes of toasted marshmallows, rich chocolate and graham cracker crunch. Flavors are fused together into a frozen seltzer-based slushie for a refreshing sense of nostalgia bringing an outdoor adventure to every sip. 5% ABV. Brewed in Saint Paul, Minn., by Urban Growler Brewing.",
+                "image": null,
+                "name": "S\u2019more Than A Feeling Slushie",
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "true_featured",
                 "catagory": "alchoholic_beverage"
             }
         ],
