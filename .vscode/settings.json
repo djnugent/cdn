@@ -41,6 +41,13 @@
                 "shop_vendors.json"
             ],
             "url": "./schemas/shop_vendors.schema.json"
+        },
+        {
+            "fileMatch": [
+                "specialty_sips.json"
+            ],
+            "url": "./schemas/specialty_sips.schema.json"
         }
+
     ]
 }

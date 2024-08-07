@@ -123,7 +123,15 @@
                                 "alchoholic_beverage"
                             ]
                         }
-                    }
+                    },
+                    "required": [
+                        "name",
+                        "description",
+                        "image",
+                        "details",
+                        "isNew",
+                        "catagory"
+                    ]
                 }
             }
         },

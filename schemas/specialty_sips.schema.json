@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "description": {
+                "type": "string",
+                "minLength": 3
+            },
+            "name": {
+                "type": "string",
+                "minLength": 3
+            },
+            "vendor_slug": {
+                "type": "string",
+                "minLength": 2
+            }
+        },
+        "required": [
+            "description",
+            "name",
+            "vendor_slug"
+        ]
+    }
+}
