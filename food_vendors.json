@@ -958,7 +958,7 @@
             {
                 "name": "Deep-Fried Ranch Dressing",
                 "description": "Ranch dressing filling made with ranch seasoning, buttermilk and cream cheese in a panko shell, deep-fried and dusted with ranch powder. Served with a side of hot honey sauce crafted with Cry Baby Craig's hot sauce. (Vegetarian)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/deep-fried-ranch-dressing/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/deep-fried-ranch-dressing/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -1510,7 +1510,7 @@
             {
                 "name": "Blazing Greek Bites",
                 "description": "Deep-fried bites made from a blend of chickpeas, tomato, roasted red pepper, scallions and cayenne pepper. Served with a side of roasted red pepper hummus. (Gluten-Free, Vegan)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/blazing-greek-bites/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/blazing-greek-bites/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -1891,7 +1891,7 @@
             {
                 "name": "Wrangler Waffle Burger",
                 "description": "Fresh all-beef patty and signature Whataburger\u00ae Patty Melt Sauce layered with American cheese and served in a caramelized onion-infused Nordic Waffle.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/wrangler-waffle-burger/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/wrangler-waffle-burger/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -4346,7 +4346,7 @@
             {
                 "name": "PB Bacon Cakes",
                 "description": "Thick-cut bacon dipped in pancake batter, griddled and topped with peanut butter whipped cream, grape jelly and banana chips.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/pb-bacon-cakes/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/pb-bacon-cakes/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -5152,7 +5152,7 @@
             {
                 "name": "Lady's Slipper Marble Sundae",
                 "description": "Bridgeman's strawberry ice cream, lemon marshmallow cream and ladyfinger cookies layered in a cup and topped with whipped cream and a cherry.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/ladys-slipper-marble-sundae/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/ladys-slipper-marble-sundae/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -5289,7 +5289,7 @@
             {
                 "name": "Marco's Garden",
                 "description": "Local rhubarb jam, thyme-marinated locally sourced tomatoes, farmer cheese, jalape\u00f1o and honey served with a side of grilled gluten-free flatbread. (Gluten-Free, Vegan option uses thyme tofu dip and maple syrup instead of cheese and honey.)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/marcos-garden/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/marcos-garden/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -8168,7 +8168,7 @@
             {
                 "name": "Sweet Corn Cola Float",
                 "description": "Minnesota-made sweet corn cola and sweet corn ice cream in a cup, finished with whipped cream, popping candy and house-made frozen caramel.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/sweet-corn-cola-float/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/sweet-corn-cola-float/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -15002,7 +15002,7 @@
             {
                 "name": "Walking Shepherd's Pie",
                 "description": "Two handmade hot pastries filled with braised ground beef, mashed potatoes and a blend of onions, carrots and peas tossed in herb gravy.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/walking-shepherds-pie/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/walking-shepherds-pie/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -16528,7 +16528,7 @@
             {
                 "name": "Dill Pickle Tots",
                 "description": "Fried tater tots tossed in dill seasoning with a hint of vinegar flavor \u2013 like a dill pickle potato chip. (Vegan)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/dill-pickle-tots/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/dill-pickle-tots/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -17928,7 +17928,7 @@
             {
                 "name": "Nixtamal & Wild Rice Bowl with W\u00f3\u017eapi & Bison Meatballs or Sweet Potato Dumplings",
                 "description": "Choice of bison meatballs or sweet potato dumplings, topped with mixed berry w\u00f3\u017eapi sauce, and served on a bed of nixtamal (white corn, blue corn and yellow corn) mixed with wild rice and seasoned with maple and spices. Cricket & seed mix topping optional. (Gluten-Free, Vegan option) (Aug. 28 to Sept. 2 only) (New Vendor)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/nixtamal-wild-rice-bowl-with-wozapi-bison-meatballs-or-sweet-potato-dumplings/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/nixtamal-wild-rice-bowl-with-wozapi-bison-meatballs-or-sweet-potato-dumplings/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -18842,7 +18842,7 @@
             {
                 "name": "Mocha Madness Shave Ice",
                 "description": "Fluffy shave ice with caffeine-free coffee flavoring and an overflowing caramel macchiato cold foam center. Drizzled with chocolate syrup and garnished with dark chocolate espresso beans. (Gluten-Free)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/mocha-madness-shave-ice/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/mocha-madness-shave-ice/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -19080,7 +19080,7 @@
             {
                 "name": "Turkey Kristo",
                 "description": "Minnesota-made Texas toast from Pan-O-Gold Bakery, sliced Ferndale Market turkey, CannonBelles white cheddar cheese, apple butter made from locally sourced Westcott Orchard apples, and house-made spicy brown mustard mayo, dusted with powdered sugar. (White Cheddar Kristo vegetarian option uses extra cheese instead of turkey.)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/turkey-kristo/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/turkey-kristo/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -22124,7 +22124,7 @@
             {
                 "name": "Sweet Heat Bacon Crunch",
                 "description": "Double-smoked slab bacon tossed in RC's red barbecue sauce and topped with hot honey & chili crunch, served over a bed of white rice, and garnished with green onions.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/sweet-heat-bacon-crunch/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/sweet-heat-bacon-crunch/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -22559,7 +22559,7 @@
             {
                 "name": "Swedish Ice Cream Sundae",
                 "description": "Vanilla ice cream covered in lingonberry jam, sprinkled with Swedish ginger cookie crumble, and garnished with a ginger cookie heart. (Vegetarian)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/swedish-ice-cream-sundae/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/swedish-ice-cream-sundae/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -23351,7 +23351,7 @@
             {
                 "name": "3 Piggy Pals On-A-Stick",
                 "description": "Three smoked sausage slices wrapped in bacon, filled with a cream cheese mix, and drizzled with barbecue sauce. Topped with a jalape\u00f1o slice and served on-a-stick. (Gluten-Friendly)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/3-piggy-pals-on-a-stick/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/3-piggy-pals-on-a-stick/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -24829,7 +24829,7 @@
             {
                 "name": "Cotton Candy Iced Tea",
                 "description": "Brewed butterfly pea flower tea sweetened with natural flavor and cane sugar. Garnished with a swirl of edible glitter and a rock candy swizzle stick to stir for a color-changing effect. (Gluten-Free, Caffeine-Free, Vegan) (New Vendor)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cotton-candy-iced-tea/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cotton-candy-iced-tea/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -27416,7 +27416,7 @@
             {
                 "name": "Patata Frita Focacciawich",
                 "description": "\"Patata Frita\" kettle chip-flavored ice cream created by Minnesota Dairy Lab, sandwiched between focaccia bread from Wrecktangle Pizza. Topped with a blend of honey butter, kettle chips and herbs.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/patata-frita-focacciawich/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/patata-frita-focacciawich/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -27978,7 +27978,7 @@
             {
                 "name": "Swedish 'Sota Sliders",
                 "description": "Hamline Church Dining Hall's Cranberry-Wild Rice Meatball formed into patties, paired with dill Havarti cheese and a red relish of beets, red onions, red peppers, lingonberries and cranberries, served on two brioche buns.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/swedish-sota-sliders/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/swedish-sota-sliders/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -28178,7 +28178,7 @@
             {
                 "name": "Deep-Fried Halloumi Cheese",
                 "description": "Halloumi cheese, crafted from a blend of sheep and goat milk, wrapped in pastry dough and deep-fried. Served with a side of sweet chili sauce. (Vegetarian)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/deep-fried-halloumi-cheese/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/deep-fried-halloumi-cheese/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -28829,7 +28829,7 @@
             {
                 "name": "Ham and Pickle Roll Up on a Potato Skin",
                 "description": "Three fried potato skins filled with a blend of sour cream, cream cheese, chopped pickles and ham. Topped with potato chip crumbles. (Gluten-Friendly)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/ham-and-pickle-roll-up-on-a-potato-skin/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/ham-and-pickle-roll-up-on-a-potato-skin/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -30094,7 +30094,7 @@
             {
                 "name": "Strawberry Lemonade Donut",
                 "description": "Hand-cut yeast-raised donut frosted with lemon buttercream, rolled in strawberry lemonade crunch, and garnished with lemon gummy candy and freeze-dried strawberry slice. Served with a strawberry lemonade-filled pipette to squeeze in more flavor. (Vegetarian)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/strawberry-lemonade-donut/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/strawberry-lemonade-donut/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -30644,7 +30644,7 @@
             {
                 "name": "Cookie Butter Crunch Mini Donuts",
                 "description": "Vanilla-flavored mini donuts coated with vanilla sugar, topped with Biscoff\u00ae cookie butter drizzle and cookie crumbles, and served in a bucket rimmed with cookie butter and cookie crumbles.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cookie-butter-crunch-mini-donuts/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/cookie-butter-crunch-mini-donuts/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -31599,7 +31599,7 @@
             {
                 "name": "Strawberries and Cream Waffle Stick",
                 "description": "Belgian waffle filled with strawberry shortcake cookie dough, topped with whipped cream and strawberry sauce, and served on-a-stick.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/strawberries-and-cream-waffle-stick/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/strawberries-and-cream-waffle-stick/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -32012,7 +32012,7 @@
             {
                 "name": "Crab Boil Wings",
                 "description": "Chicken wings marinated in hot sauce, grilled and then fried with corn, chicken apple sausage and potatoes. Tossed in a \"crab boil\" butter and finished with a lemon wedge and parsley. (Gluten-Free)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/crab-boil-wings/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/crab-boil-wings/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -32169,7 +32169,7 @@
             {
                 "name": "Raging Ball",
                 "description": "Deep-fried sesame mochi dough ball with vegan cheeseburger filling. Made with house-made vegan burger mix, vegan cheddar cheese, grilled onions and pickles. Topped with bacon-flavored powdered sugar. (Gluten-Friendly, Vegan)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/raging-ball/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/raging-ball/landing.720x600.jpg",
                 "details": [
                     "vegan",
                     "deep-fried sesame ball",
@@ -33667,7 +33667,7 @@
             {
                 "name": "Afro Poppers",
                 "description": "Bite-size pastries infused with an African blend of spices \u2013 ground vanilla, cardamom, ginger, cloves and nutmeg \u2013 deep-fried and coated with choice of coconut flakes, sugar or served plain. Topped with choice of drizzle \u2013 mango chutney, caramel or chocolate.",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/afro-poppers/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/afro-poppers/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -33988,7 +33988,7 @@
             {
                 "name": "Fried Bee-Nana Pie",
                 "description": "Handmade pie filled with Minnesota honey, fresh banana and Biscoff\u00ae cookie butter; battered and deep-fried. (Vegetarian)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/fried-bee-nana-pie/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/fried-bee-nana-pie/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
@@ -34592,7 +34592,7 @@
             {
                 "name": "Chile Mango Whip",
                 "description": "Mango Dole Soft Serve in a cup rimmed and topped with chamoy and Taj\u00edn. Garnished with a tamarind candy straw.\n\nAlternate flavors of Dole Soft Serve include pineapple, strawberry and lemon. (Gluten-Free, Vegan)",
-                "image": "'https://assets.mnstatefair.org/_core/img/database/new-this-year/food/chile-mango-whip/landing.720x600.jpg'",
+                "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/chile-mango-whip/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink"
