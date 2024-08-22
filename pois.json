@@ -464,7 +464,7 @@
     }
   },
   {
-    "description": "Get inspired to lead a more sustainable life with easy, everyday reduce-reuse-recycle how-tos and engaging, interactive exhibits on renewable energy, green technology, organic agriculture, transportation alternatives, healthy cooking, and clean air and water. Presented by the Minnesota Pollution Control Agency and the Minnesota State Fair.",
+    "description": "Get inspired to lead a more sustainable life with easy, everyday reduce-reuse-recycle how-tos and engaging, interactive exhibits on renewable energy, green technology, organic agriculture, transportation alternatives, healthy cooking, and clean air and water. Presented by the Minnesota Pollution Control Agency and the Minnesota State Fair.\n\nASL interpretation offered Aug. 22, Aug. 24-25, from 11 a.m.-3 p.m., and select braille documents available (while supplies last).",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/eco-experience/featured.848x477.jpg?v=20240628.164418",
     "hours": "9:00\u00a0am \u2013 9:00\u00a0pm; Closes at 8 p.m. on Labor Day",
     "cost": null,
@@ -898,7 +898,7 @@
   {
     "description": null,
     "image": null,
-    "hours": null,
+    "hours": "Please check the daily schedule for detailed Horse Barn Annex hours.",
     "cost": null,
     "category": null,
     "slug": "horse-barn-annex",
@@ -1397,22 +1397,6 @@
     "hours": null,
     "cost": null,
     "category": null,
-    "slug": "randall-and-cooper",
-    "id": "fd025de2-3130-a3eb-9313-a567877c5c21",
-    "name": "Underwood Street, east of FAN Central",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.980989,
-      "lng": -93.170718
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
     "slug": "randall-ave-south-of-progress-center",
     "id": "b893dc7a-780d-be85-4280-6eee1a9d6b8d",
     "name": "Randall Ave., south of Progress Center",
@@ -1522,7 +1506,7 @@
   {
     "description": "Get a bird\u2019s-eye view of the spectacular fairgrounds while traveling from the heart of the fairgrounds to the North End and back. This chairlift-style ride is a great form of transportation \u2014 and an excellent way to snap some aerial shots! Proudly sponsored by Sun Country Airlines.",
     "image": "https://assets.mnstatefair.org/_core/img/database/locations/skyglider/featured.848x477.jpg?v=20210629.224417",
-    "hours": "Opens at 9:00\u00a0am; closes immediately after fireworks",
+    "hours": "Opens at 9:00\u00a0am; Closes immediately after fireworks",
     "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
     "category": "ride_attraction",
     "slug": "skyglider",
@@ -1773,22 +1757,6 @@
       "directions": null,
       "lat": 44.981391,
       "lng": -93.170078
-    }
-  },
-  {
-    "description": null,
-    "image": null,
-    "hours": null,
-    "cost": null,
-    "category": null,
-    "slug": "west-dan-patch",
-    "id": "75c8908e-c6ad-74a4-fbb2-ec39bf963223",
-    "name": "West Dan Patch",
-    "location": {
-      "image": null,
-      "directions": null,
-      "lat": 44.980713,
-      "lng": -93.176392
     }
   },
   {
