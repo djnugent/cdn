@@ -240,11 +240,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 10 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "53cb4809-6eb0-ad3e-8d71-661bd69e67a5",
@@ -289,9 +289,9 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 9 a.m. to 9 p.m. daily",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true
     },
@@ -427,8 +427,8 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$2.50 off one 32 oz. tumeric ginger lemonade (Regularly $8)\nOR $1 off one cup of Jamaican Blue Mountain coffee (Regularly $4)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true
@@ -716,17 +716,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Schell's Oktoberfest Infused Brat",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Oktoberfest infused fried onions",
-                    "brat bun"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Southern Chicken Biscuit Sandwich",
                 "description": null,
                 "image": null,
@@ -824,18 +813,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Tot Dog",
-                "description": null,
-                "image": null,
-                "details": [
-                    "all-beef hot dog",
-                    "corn dog batter with minced tater tots and cheddar cheese and onions",
-                    "deep-fried"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Pepsi",
                 "description": null,
                 "image": null,
@@ -900,14 +877,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Red Bull slushes",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "coffee",
                 "description": null,
                 "image": null,
@@ -931,18 +900,6 @@
                     "cheesecake pieces covered in funnel cake batter & fried",
                     "dusted with powdered sugar & salt",
                     "strawberry dipping sauce"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Fruity Cereal Milk Biscuit",
-                "description": null,
-                "image": null,
-                "details": [
-                    "biscuit with fruity cereal milk & cereal bits",
-                    "icing flavored with fruity cereal",
-                    "topped with cereal bits"
                 ],
                 "isNew": "no",
                 "catagory": "food_drink"
@@ -1117,7 +1074,7 @@
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
             },
-            {
+                        {
                 "name": "Sociable Cider Werks Black Current Mead",
                 "description": null,
                 "image": null,
@@ -1239,7 +1196,7 @@
         "has_blue_ribbon_bargain": false,
         "offers": {},
         "hours": "Open 7 a.m. to 10 p.m. (9 p.m. Labor Day)",
-        "accepts_credit_cards": null,
+        "accepts_credit_cards": true,
         "vegetarian_options": true,
         "gluten_free_options": false,
         "vegan_options": false
@@ -1325,27 +1282,11 @@
                 "catagory": "alchoholic_beverage"
             },
             {
-                "name": "Schell's Imperial Lager",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage"
-            },
-            {
                 "name": "Schell's Sangria",
                 "description": null,
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "alchoholic_beverage"
-            },
-            {
-                "name": "Schell's Sour Batch Fizz",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
                 "catagory": "alchoholic_beverage"
             },
             {
@@ -2008,10 +1949,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2 off one sno cone (Regularly $5)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
@@ -2415,11 +2354,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 7 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": true
     },
     {
         "id": "b48d7df7-3fe1-a336-c2b1-5d727153fd49",
@@ -2651,7 +2590,7 @@
         "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": false,
         "vegetarian_options": false,
-        "gluten_free_options": false,
+        "gluten_free_options": true,
         "vegan_options": false
     },
     {
@@ -2856,9 +2795,9 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": null
     },
@@ -3034,10 +2973,10 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "$3 off Island Lemonade (Reg. $9)",
-            "Seniors Day, Aug. 28 & 31": "$3 off Island Lemonade (Reg. $9)",
-            "Military Appreciation Day, Aug. 29": "$3 off Island Lemonade (Reg. $9)",
-            "Kids Day, Aug. 30 & Sept. 4": "$3 off Island Lemonade (Reg. $9)"
+            "Opening Day, Aug. 22": "$3 off Island Lemonade (Reg. $9)",
+            "Seniors Day, Aug. 26 & 29": "$3 off Island Lemonade (Reg. $9)",
+            "Military Appreciation Day, Aug. 27": "$3 off Island Lemonade (Reg. $9)",
+            "Kids Day, Aug. 28 & Sept. 2": "$3 off Island Lemonade (Reg. $9)"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -3862,8 +3801,8 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "Buy a best value bucket and get a regular lemonade for $3",
-            "Military Appreciation Day, Aug. 29": "Buy a best value bucket and get a regular lemonade for $3"
+            "Opening Day, Aug. 22": "Buy a best value bucket and get a regular lemonade for $3",
+            "Military Appreciation Day, Aug. 27": "Buy a best value bucket and get a regular lemonade for $3"
         },
         "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
@@ -4081,10 +4020,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one regular calzone (sausage or pepperoni)\n(Regularly $12)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 8 a.m. to 10:30 p.m. (9 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -4599,10 +4536,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one large order of tater tots (Regularly \n$8) OR buy any burger, get one side of tater \ntots FREE"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -4838,14 +4773,6 @@
             },
             {
                 "name": "bottled water",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Italian sausage",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -8174,10 +8101,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one serving of New Mexico Chile Dog \nSliders\n(Regularly $10)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -8237,10 +8162,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2 off one regular cone of cotton candy\n(Regularly $4)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 9 a.m. to 10 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": false,
         "vegetarian_options": true,
@@ -8899,6 +8822,14 @@
                 "catagory": "food_drink"
             },
             {
+                "name": "1919 Draft Root Beer",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
                 "name": "Bald Man Iced Tea Lemonade Blonde Ale",
                 "description": null,
                 "image": null,
@@ -9147,10 +9078,8 @@
                 "catagory": "alchoholic_beverage"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2.75 off one order of chicken tenders\n(Regularly $8.50)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -9196,7 +9125,7 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "hours": "Open 7:30 a.m. to 11 p.m. (9 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
         "gluten_free_options": true,
@@ -9248,7 +9177,7 @@
         "hours": "Open 9 a.m. to 11 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
-        "gluten_free_options": false,
+        "gluten_free_options": true,
         "vegan_options": true
     },
     {
@@ -9325,14 +9254,6 @@
                     "3 Musketeers"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "red velvet funnel cakes",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
                 "catagory": "food_drink"
             }
         ],
@@ -10267,7 +10188,7 @@
                 "lng": -93.17158311153847
             },
             {
-                "image": null,
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/10014.1/featured.848x477.jpg?v=20240814.164013",
                 "directions": "West side of Liggett Street between Carnes and Judson avenues, outside the Horse Barn",
                 "lat": 44.97896395683453,
                 "lng": -93.17545937884616
@@ -10801,6 +10722,14 @@
                 "catagory": "alchoholic_beverage"
             },
             {
+                "name": "Big Drop One Trail Non-Alcoholic Pale Ale",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
                 "name": "Blacklist Dill Pickle K\u00f6lsch",
                 "description": null,
                 "image": null,
@@ -10809,7 +10738,7 @@
                 "catagory": "alchoholic_beverage"
             },
             {
-                "name": "Blacklist Lake Walk Pilsner",
+                "name": "Blacklist Golden Ale",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -10882,14 +10811,6 @@
             },
             {
                 "name": "Grain Belt Premium",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "alchoholic_beverage"
-            },
-            {
-                "name": "Gr\u00fcvi Non-Alcoholic IPA",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -10979,7 +10900,7 @@
                 "catagory": "alchoholic_beverage"
             },
             {
-                "name": "Sapsucker Farms Yellow Belly Juicy Apple Cider",
+                "name": "Sapsucker Farms Yellow Belly Juicy Pineapple Cider",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -11276,7 +11197,7 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Crab Cake Benedict Sandwich",
+                "name": "crab cake Benedict breakfast sandwich",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -11286,10 +11207,10 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "$2 off crab cake Benedict breakfast sandwich (Reg. $13.95)",
-            "Seniors Day, Aug. 28 & 31": "For $1 each, add up to five crunchy butterfly shrimp to your order of deep-fried lobster, calamari & chips, clam strips & chips or beer-batter cod & chips (Reg. $2 each)",
-            "Military Appreciation Day, Aug. 29": "$2 off crab cake Benedict breakfast sandwich (Reg. $13.95)",
-            "Kids Day, Aug. 30 & Sept. 4": "For $1 each, add up to five crunchy butterfly shrimp to your order of deep-fried lobster, calamari & chips, clam strips & chips or beer-batter cod & chips (Reg. $2 each)"
+            "Opening Day, Aug. 22": "$2 off crab cake Benedict breakfast sandwich (Reg. $13.95)",
+            "Seniors Day, Aug. 26 & 29": "For $1 each, add up to five crunchy butterfly shrimp to your order of deep-fried lobster, calamari & chips, clam strips & chips or beer-batter cod & chips (Reg. $2 each)",
+            "Military Appreciation Day, Aug. 27": "$2 off crab cake Benedict breakfast sandwich (Reg. $13.95)",
+            "Kids Day, Aug. 28 & Sept. 2": "For $1 each, add up to five crunchy butterfly shrimp to your order of deep-fried lobster, calamari & chips, clam strips & chips or beer-batter cod & chips (Reg. $2 each)"
         },
         "hours": "Open 8 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
@@ -11941,6 +11862,22 @@
                 "image": null,
                 "details": [],
                 "isNew": "true_inline",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Vegan iced blueberry and lemon scone",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Gluten-free iced toasted almond & date scone",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
                 "catagory": "food_drink"
             }
         ],
@@ -13212,10 +13149,10 @@
         "has_blue_ribbon_bargain": true,
         "offers": {
             "Blue Ribbon Bargain Book": "$2 off one slice of pizza (Regularly $6) OR buy one slice of pizza at the regular price, get another slice for $2",
-            "Opening Day, Aug. 24": "Buy one slice of pizza, get a free small pop",
-            "Seniors Day, Aug. 28 & 31": "Buy one slice of pizza, get a free small pop",
-            "Military Appreciation Day, Aug. 29": "Buy one slice of pizza, get a free small pop",
-            "Kids Day, Aug. 30 & Sept. 4": "Buy one slice of pizza, get a free small pop"
+            "Opening Day, Aug. 22": "Buy one slice of pizza, get a free small pop",
+            "Seniors Day, Aug. 26 & 29": "Buy one slice of pizza, get a free small pop",
+            "Military Appreciation Day, Aug. 27": "Buy one slice of pizza, get a free small pop",
+            "Kids Day, Aug. 28 & Sept. 2": "Buy one slice of pizza, get a free small pop"
         },
         "hours": "Open 10 a.m. to 11 p.m. (9 p.m. Labor Day)",
         "accepts_credit_cards": true,
@@ -13519,11 +13456,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$1.50 off one 16 oz. or 32 oz. \u201cfresh-squeezed\u201d Orange or Strawberry Treet, or \u201cfresh-squeezed\u201d lemonade  (Regularly $5 & $7)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "514350e4-8b79-8264-9093-63ae3e0314e3",
@@ -13748,11 +13685,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$2 off a one-flavor 16 oz. milk shake (Regularly $6) Choice of chocolate, strawberry, pineapple or vanilla (no substitutions)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "c0218f5d-0278-5425-b0c7-5b3eb6dd1591",
@@ -13835,11 +13772,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$4.75 off one mega-size Greek gyro sandwich (Regularly $15.50)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "22604bf5-13f0-fdb0-22bf-d46cb1f1647d",
@@ -14128,11 +14065,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$3 off one large serving of Hawaiian shaved ice (Regularly $9) OR $6 off two large servings of Hawaiian shaved ice (Regularly $12)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "835fe987-cc2c-b78a-7e53-82ba4240f21a",
@@ -14855,14 +14792,6 @@
         ],
         "items": [
             {
-                "name": "Dill-iscious Grilled Cheese Bites",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Reuben Rolls",
                 "description": null,
                 "image": null,
@@ -15005,6 +14934,16 @@
                 "image": "https://assets.mnstatefair.org/_core/img/database/new-this-year/food/walking-shepherds-pie/landing.720x600.jpg",
                 "details": [],
                 "isNew": "true_featured",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Irish Tater Kegs",
+                "description": null,
+                "image": null,
+                "details": [
+                    "gluten friendly"
+                ],
+                "isNew": "no",
                 "catagory": "food_drink"
             },
             {
@@ -15473,15 +15412,13 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one regular Polish sausage on a bun with sauerkraut (Regularly $9) OR buy one regular Polish sausage, get one 50% off"
-        },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": false
     },
     {
         "id": "c628b4c0-64e0-9c38-d4a0-49c1eee1e8f7",
@@ -15696,11 +15633,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$2 off one ham, egg, cheese breakfast wrap sandwich (7-10:30 a.m.) (Regularly $6) OR $6 off one fresh, made-to-order meal deal: \u201coriginal\u201d deli sandwich, chips, potato salad, pickle and one 12 oz. soda (all day) (Regularly $20)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 7:15 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "a545488d-a98d-3c3f-4185-1d64119b5c6a",
@@ -15855,15 +15792,15 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "50% off medium and large espresso tonic",
-            "Seniors Day, Aug. 28 & 31": "50% off iced tea",
-            "Military Appreciation Day, Aug. 29": "50% off an Americano"
+            "Opening Day, Aug. 22": "50% off medium and large espresso tonic",
+            "Seniors Day, Aug. 26 & 29": "50% off iced tea",
+            "Military Appreciation Day, Aug. 27": "50% off an Americano"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "eeebde11-2f6e-e423-663c-ac028bae30ca",
@@ -16044,11 +15981,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$3 off one Cuban Fusion fajita (served beginning at 11 a.m.) (Regularly $9) OR $3 off one original sausage breakfast burrito (served until 11 a.m.) (Regularly $9)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 7 a.m. to 10 p.m. (11 p.m. weekends, 9 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "5c3695ba-5454-012e-78d2-b67cb75c6ac6",
@@ -16822,11 +16759,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$2.25 off one waffle cone (Regularly $7) OR $2.25 off one frozen banana (Regularly $7)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 10 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "f9212b95-b130-4cc1-c60f-1efbd16dd883",
@@ -16944,11 +16881,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "0cf9659c-3538-2e35-61af-0a114141b637",
@@ -17819,10 +17756,10 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": "Open 8 a.m. to 11 p.m. (Labor Day 9 p.m.)",
+        "hours": "Open 8 a.m. to 11 p.m. (9 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
-        "gluten_free_options": false,
+        "gluten_free_options": true,
         "vegan_options": false
     },
     {
@@ -17946,7 +17883,7 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": false,
+        "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true
     },
@@ -18643,11 +18580,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8 a.m. to 11 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "fc6d2d2d-198c-8226-1b79-9c7069c308e3",
@@ -18804,11 +18741,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": true,
+        "vegan_options": false
     },
     {
         "id": "fba24c5c-337a-e09d-213b-a08b70d26cf7",
@@ -18850,11 +18787,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 8:30 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": true
     },
     {
         "id": "2d46af20-56bd-b57a-c718-27981055b84f",
@@ -19101,8 +19038,8 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "303b930e-bd2b-2a80-d137-b755e03088eb",
@@ -19375,11 +19312,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8 a.m. to 10 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": true,
+        "vegan_options": false
     },
     {
         "id": "af00793d-26fb-cb5a-7420-7db11ad460f0",
@@ -19941,10 +19878,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one order of classic mac \u2018n\u2019 cheese (Regularly $8) OR $2 off one fresh-squeezed lemonade (Regularly $7)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 8 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -20320,13 +20255,12 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
+        "has_blue_ribbon_bargain": false,
         "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one order of spring rolls (Regularly $8) OR buy any two sides for $14 (Regularly $16)",
-            "Opening Day, Aug. 24": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
-            "Seniors Day, Aug. 28 & 31": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
-            "Military Appreciation Day, Aug. 29": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
-            "Kids Day, Aug. 30 & Sept. 4": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14"
+            "Opening Day, Aug. 22": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
+            "Seniors Day, Aug. 26 & 29": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
+            "Military Appreciation Day, Aug. 27": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
+            "Kids Day, Aug. 28 & Sept. 2": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14"
         },
         "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
@@ -20636,16 +20570,16 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "Two slices of pizza for $4",
-            "Seniors Day, Aug. 28 & 31": "Two slices of pizza for $4",
-            "Military Appreciation Day, Aug. 29": "Two slices of pizza for $4",
-            "Kids Day, Aug. 30 & Sept. 4": "Two slices of pizza for $4"
+            "Opening Day, Aug. 22": "Two slices of pizza for $4",
+            "Seniors Day, Aug. 26 & 29": "Two slices of pizza for $4",
+            "Military Appreciation Day, Aug. 27": "Two slices of pizza for $4",
+            "Kids Day, Aug. 28 & Sept. 2": "Two slices of pizza for $4"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 7 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "5216d588-5db6-cdf9-6dab-796cdb7206c7",
@@ -20858,11 +20792,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "532e8ef0-1892-d3b9-3e5e-b033ad3fec46",
@@ -21259,10 +21193,10 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "$5 peaches & cream",
-            "Seniors Day, Aug. 28 & 31": "$5 peaches & cream",
-            "Military Appreciation Day, Aug. 29": "$5 peaches & cream",
-            "Kids Day, Aug. 30 & Sept. 4": "$5 peaches & cream"
+            "Opening Day, Aug. 22": "$5 peaches & cream",
+            "Seniors Day, Aug. 26 & 29": "$5 peaches & cream",
+            "Military Appreciation Day, Aug. 27": "$5 peaches & cream",
+            "Kids Day, Aug. 28 & Sept. 2": "$5 peaches & cream"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -21432,11 +21366,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8:30 to 9:30 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "c644e40f-ccee-48eb-fb35-6fe7667435c6",
@@ -22570,8 +22504,8 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "aa46af49-a846-91da-58d8-8189820740a3",
@@ -23212,11 +23146,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "07e3f76d-bac0-c29b-767d-fe63a393b9b9",
@@ -23361,9 +23295,9 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": false,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": false
     },
     {
         "id": "0d8b6b52-4fcd-31cb-0b38-162c33857aac",
@@ -23879,9 +23813,9 @@
                 "catagory": "alchoholic_beverage"
             },
             {
+                "name": "Summit Purple Maize",
                 "description": "A refreshing and light-bodied Mexican-style lager brewed with purple corn, featuring notes of honey and biscuit. This is a perfect drink to accompany your favorite fair foods. 4.6% ABV. Brewed in Saint Paul, Minn., by Summit Brewing Company.",
                 "image": null,
-                "name": "Purple Maize",
                 "details": [
                     "Specialty Sip 2024"
                 ],
@@ -24711,11 +24645,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": true
     },
     {
         "id": "d9e64e98-3efb-89c6-37e0-3c19afad08db",
@@ -24754,11 +24688,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$3 off one large strawberries & creme parfait (Regularly $10) \nOR buy one strawberry iced tea, get one FREE"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "e011358e-b540-aaab-8169-b7ea0e8e5a09",
@@ -24837,9 +24771,9 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
         "gluten_free_options": true,
         "vegan_options": true
     },
@@ -24995,10 +24929,10 @@
             "Blue Ribbon Bargain Book": "$3 off one strawberry shortcake (Regularly $8) OR $1 off one strawberry cheesecake, one chocolate-dipped cheesecake on-a-stick or one strawberry donut delight (Regularly $8)"
         },
         "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "45612dfb-89ab-0a5e-7d0e-2fbfd70520cf",
@@ -25347,11 +25281,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "d5649983-7d53-b0de-b0c5-684c6b8adb2a",
@@ -25683,6 +25617,14 @@
                     "Cotija",
                     "pico de gallo"
                 ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "shrimp aguachile",
+                "description": null,
+                "image": null,
+                "details": [],
                 "isNew": "no",
                 "catagory": "food_drink"
             },
@@ -27008,10 +26950,10 @@
         "has_blue_ribbon_bargain": false,
         "offers": {},
         "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "2270b200-4719-9da7-110d-06abaa4ae455",
@@ -27101,11 +27043,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 10:30 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "62314e5b-685b-2be7-d141-141831aaaed7",
@@ -27422,11 +27364,10 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
+        "has_blue_ribbon_bargain": false,
         "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one jumbo ice cream float (Regularly $8)\nOR buy one jumbo ice cream float, get one FREE",
-            "Seniors Day, Aug. 28 & 31": "Buy one chipwich ice cream sandwich or hot waffle ice cream sandwich, get a jumbo hot coffee free (a $5 value)",
-            "Military Appreciation Day, Aug. 29": "$2 off root beer float"
+            "Seniors Day, Aug. 26 & 29": "Buy one chipwich ice cream sandwich or hot waffle ice cream sandwich, get a jumbo hot coffee free (a $5 value)",
+            "Military Appreciation Day, Aug. 27": "$2 off root beer float"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -27598,7 +27539,7 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": "Open 7 a.m. to 10 p.m. (98:30 p.m. Labor Day)",
+        "hours": "Open 7 a.m. to 10 p.m. (8:30 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
         "gluten_free_options": true,
@@ -27984,10 +27925,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one burger meal deal (Regularly $12)\nOR buy one regular-price dinner meal, get one fountain soda FREE"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -28293,11 +28232,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "1fd871c3-aeb6-56f9-256d-7cf60af7ac4f",
@@ -29327,10 +29266,8 @@
                 "catagory": "alchoholic_beverage"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3.50 off one jalape\u00f1o popper panini (Regularly $11)\nOR $3.50 off any breakfast sandwich (Regularly $11)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
@@ -29592,11 +29529,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$1 off one 16 oz. soda (Regularly $3) OR $1 off one 32 oz. soda (Regularly $5)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "bcbfaffb-73d7-8dd9-e60c-8d30cc60d32d",
@@ -29889,7 +29826,6 @@
                 "image": null,
                 "details": [
                     "caramel",
-                    "hot fudge",
                     "nuts",
                     "ice cream"
                 ],
@@ -29986,9 +29922,9 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$2 off one serving of lemonade sorbet (Reg. $6)\nOR buy one jumbo size 32 oz. fresh-squeezed lemonade, get one bottle of water FREE (Reg. $3)"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 9 a.m. to 11 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": false,
         "gluten_free_options": true,
         "vegan_options": true
     },
@@ -30180,11 +30116,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "c941f8c3-1252-b028-dbc7-843a993336e4",
@@ -30492,9 +30428,9 @@
         "has_blue_ribbon_bargain": true,
         "offers": {
             "Blue Ribbon Bargain Book": "$4 off one jumbo corndog (Regularly $10) OR two jumbo corndogs for $10 (Regularly $12)",
-            "Seniors Day, Aug. 28 & 31": "$15 burger, fries and small soda combo",
-            "Military Appreciation Day, Aug. 29": "Free drink refill with any purchase",
-            "Kids Day, Aug. 30 & Sept. 4": "$5 hot dogs"
+            "Seniors Day, Aug. 26 & 29": "$15 burger, fries and small soda combo",
+            "Military Appreciation Day, Aug. 27": "Free drink refill with any purchase",
+            "Kids Day, Aug. 28 & Sept. 2": "$5 hot dogs"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -30862,7 +30798,7 @@
         "accepts_credit_cards": null,
         "vegetarian_options": true,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": false
     },
     {
         "id": "c083db2c-1ff7-ae38-25c7-a428e099ecac",
@@ -31003,11 +30939,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 8:30 a.m. to 10 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "1403f6f0-c715-da44-830b-3ab999245707",
@@ -31068,11 +31004,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "ca9722ff-29c4-62ea-a7bf-d90139181d77",
@@ -31608,10 +31544,10 @@
         "has_blue_ribbon_bargain": false,
         "offers": {},
         "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "37947aa2-0d9f-420f-5863-9bee8d9175ec",
@@ -31662,7 +31598,7 @@
         "accepts_credit_cards": null,
         "vegetarian_options": true,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": false
     },
     {
         "id": "23d66a4a-d759-a49f-df30-f7f098ed26a1",
@@ -32022,9 +31958,9 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "vegetarian_options": false,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": false
     },
     {
         "id": "446f7d8f-a59e-441c-b621-f3faf7d3075f",
@@ -32144,11 +32080,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "ffd5f7a1-764f-af6d-b4fa-1bd2a4f0c3e0",
@@ -32212,7 +32148,7 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": true,
-        "gluten_free_options": null,
+        "gluten_free_options": false,
         "vegan_options": true
     },
     {
@@ -32429,10 +32365,10 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "$2 off fresh baked potatoes",
-            "Seniors Day, Aug. 28 & 31": "$2 off fresh baked potatoes",
-            "Military Appreciation Day, Aug. 29": "$2 off fresh baked potatoes",
-            "Kids Day, Aug. 30 & Sept. 4": "$2 off fresh baked potatoes"
+            "Opening Day, Aug. 22": "$2 off fresh baked potatoes",
+            "Seniors Day, Aug. 26 & 29": "$2 off fresh baked potatoes",
+            "Military Appreciation Day, Aug. 27": "$2 off fresh baked potatoes",
+            "Kids Day, Aug. 28 & Sept. 2": "$2 off fresh baked potatoes"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -32638,7 +32574,7 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Barrel Theory Riain Drops",
+                "name": "Barrel Theory Rain Drops",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -33529,11 +33465,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
+        "hours": "Open 8:30 a.m. to 9:30 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
         "gluten_free_options": true,
-        "vegan_options": null
+        "vegan_options": false
     },
     {
         "id": "62ddd92b-9f66-f4dd-5d73-86d245fb9678",
@@ -34001,8 +33937,8 @@
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "25a1106d-95d7-583f-7ebc-7d79df6e42ef",
@@ -34523,7 +34459,7 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Opening Day, Aug. 24": "$2 off The Deal (3 doughnuts)"
+            "Opening Day, Aug. 22": "$2 off The Deal (3 doughnuts)"
         },
         "hours": null,
         "accepts_credit_cards": null,
@@ -34602,9 +34538,9 @@
         "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "vegetarian_options": false,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "fb9babf8-f44f-85a3-9ec3-941beafdce68",
@@ -34842,7 +34778,7 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {
-            "Military Appreciation Day, Aug. 29": "$2 off large bag of kettle corn"
+            "Military Appreciation Day, Aug. 27": "$2 off large bag of kettle corn"
         },
         "hours": null,
         "accepts_credit_cards": null,
