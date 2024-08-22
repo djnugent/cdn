@@ -1074,7 +1074,7 @@
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
             },
-            {
+                        {
                 "name": "Sociable Cider Werks Black Current Mead",
                 "description": null,
                 "image": null,
@@ -1949,10 +1949,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2 off one sno cone (Regularly $5)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
@@ -4022,10 +4020,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one regular calzone (sausage or pepperoni)\n(Regularly $12)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 8 a.m. to 10:30 p.m. (9 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -4540,10 +4536,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one large order of tater tots (Regularly \n$8) OR buy any burger, get one side of tater \ntots FREE"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -8107,10 +8101,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one serving of New Mexico Chile Dog \nSliders\n(Regularly $10)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -8170,10 +8162,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2 off one regular cone of cotton candy\n(Regularly $4)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 9 a.m. to 10 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": false,
         "vegetarian_options": true,
@@ -8832,6 +8822,14 @@
                 "catagory": "food_drink"
             },
             {
+                "name": "1919 Draft Root Beer",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
                 "name": "Bald Man Iced Tea Lemonade Blonde Ale",
                 "description": null,
                 "image": null,
@@ -9080,10 +9078,8 @@
                 "catagory": "alchoholic_beverage"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$2.75 off one order of chicken tenders\n(Regularly $8.50)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": true,
         "vegetarian_options": false,
@@ -9258,14 +9254,6 @@
                     "3 Musketeers"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "red velvet funnel cakes",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
                 "catagory": "food_drink"
             }
         ],
@@ -11874,6 +11862,22 @@
                 "image": null,
                 "details": [],
                 "isNew": "true_inline",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Vegan iced blueberry and lemon scone",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Gluten-free iced toasted almond & date scone",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
                 "catagory": "food_drink"
             }
         ],
@@ -15408,10 +15412,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one regular Polish sausage on a bun with sauerkraut (Regularly $9) OR buy one regular Polish sausage, get one 50% off"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": false,
         "vegetarian_options": true,
@@ -19876,10 +19878,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one order of classic mac \u2018n\u2019 cheese (Regularly $8) OR $2 off one fresh-squeezed lemonade (Regularly $7)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 8 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -20255,9 +20255,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
+        "has_blue_ribbon_bargain": false,
         "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one order of spring rolls (Regularly $8) OR buy any two sides for $14 (Regularly $16)",
             "Opening Day, Aug. 22": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
             "Seniors Day, Aug. 26 & 29": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
             "Military Appreciation Day, Aug. 27": "$3 off one order of spring rolls OR buy any two sides including spring rolls, egg rolls, cream cheese wontons, fried rice, lo mein or chicken (limit one chicken side) for $14",
@@ -23814,6 +23813,7 @@
                 "catagory": "alchoholic_beverage"
             },
             {
+                "name": "Summit Purple Maize",
                 "description": "A refreshing and light-bodied Mexican-style lager brewed with purple corn, featuring notes of honey and biscuit. This is a perfect drink to accompany your favorite fair foods. 4.6% ABV. Brewed in Saint Paul, Minn., by Summit Brewing Company.",
                 "image": null,
                 "details": [
@@ -24688,11 +24688,11 @@
         "offers": {
             "Blue Ribbon Bargain Book": "$3 off one large strawberries & creme parfait (Regularly $10) \nOR buy one strawberry iced tea, get one FREE"
         },
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
+        "vegetarian_options": true,
+        "gluten_free_options": true,
+        "vegan_options": true
     },
     {
         "id": "e011358e-b540-aaab-8169-b7ea0e8e5a09",
@@ -24771,8 +24771,8 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
+        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "accepts_credit_cards": false,
         "vegetarian_options": false,
         "gluten_free_options": true,
         "vegan_options": true
@@ -27043,11 +27043,11 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": null,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null
+        "hours": "Open 9 a.m. to 10:30 p.m. (9 p.m. Labor Day)",
+        "accepts_credit_cards": true,
+        "vegetarian_options": false,
+        "gluten_free_options": false,
+        "vegan_options": false
     },
     {
         "id": "62314e5b-685b-2be7-d141-141831aaaed7",
@@ -27364,9 +27364,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
+        "has_blue_ribbon_bargain": false,
         "offers": {
-            "Blue Ribbon Bargain Book": "$3 off one jumbo ice cream float (Regularly $8)\nOR buy one jumbo ice cream float, get one FREE",
             "Seniors Day, Aug. 26 & 29": "Buy one chipwich ice cream sandwich or hot waffle ice cream sandwich, get a jumbo hot coffee free (a $5 value)",
             "Military Appreciation Day, Aug. 27": "$2 off root beer float"
         },
@@ -27926,10 +27925,8 @@
                 "catagory": "food_drink"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$4 off one burger meal deal (Regularly $12)\nOR buy one regular-price dinner meal, get one fountain soda FREE"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": "Open 7 a.m. to 9 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": true,
@@ -29269,10 +29266,8 @@
                 "catagory": "alchoholic_beverage"
             }
         ],
-        "has_blue_ribbon_bargain": true,
-        "offers": {
-            "Blue Ribbon Bargain Book": "$3.50 off one jalape\u00f1o popper panini (Regularly $11)\nOR $3.50 off any breakfast sandwich (Regularly $11)"
-        },
+        "has_blue_ribbon_bargain": false,
+        "offers": {},
         "hours": null,
         "accepts_credit_cards": null,
         "vegetarian_options": null,
@@ -29831,7 +29826,6 @@
                 "image": null,
                 "details": [
                     "caramel",
-                    "hot fudge",
                     "nuts",
                     "ice cream"
                 ],
