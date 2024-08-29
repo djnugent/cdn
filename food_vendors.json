@@ -251,11 +251,11 @@
         "slug": "10432.1",
         "name": "Kosharina Egyptian Cuisine",
         "description": "Kosharina Egyptian Cuisine serves Koshari (rice, pasta, chickpeas, lentils, tomato sauce, garlicky vinegar \"dakkah\" sauce, topped with fried onions) in three varieties (chicken, beef and vegetable); plus caffeine-free iced hibiscus tea. Koshari is gluten-free without pasta, and the vegetable variety is vegan.",
-        "image": null,
+        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/10432.1/featured.848x477.jpg?v=20240826.162019",
         "new_vendor": true,
         "locations": [
             {
-                "image": null,
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/10432.1/featured.848x477.jpg?v=20240826.162019",
                 "directions": "Located south of the Grandstand Building under the Grandstand Ramp",
                 "lat": 44.980671,
                 "lng": -93.173359
@@ -1074,7 +1074,7 @@
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
             },
-                        {
+            {
                 "name": "Sociable Cider Werks Black Current Mead",
                 "description": null,
                 "image": null,
@@ -9255,6 +9255,14 @@
                 ],
                 "isNew": "no",
                 "catagory": "food_drink"
+            },
+            {
+                "name": "Red Velvet Battered Oreos with Cream Cheese Icing",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -11847,16 +11855,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Sweet Corn Ba-sant",
-                "description": null,
-                "image": null,
-                "details": [
-                    "fresh sweet corn custard and garnished with crunchy caramel corn"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Shroomy Calamari",
                 "description": null,
                 "image": null,
@@ -12617,7 +12615,7 @@
         ],
         "has_blue_ribbon_bargain": false,
         "offers": {},
-        "hours": "Open 9 a.m. to 9 p.m. (8 p.m. Labor Day)",
+        "hours": "Open 9 a.m. to 10:30 p.m. (8 p.m. Labor Day)",
         "accepts_credit_cards": true,
         "vegetarian_options": false,
         "gluten_free_options": true,
@@ -18081,6 +18079,14 @@
             },
             {
                 "name": "Corona",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage"
+            },
+            {
+                "name": "Deschutes Fresh Squeezd IPA",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -24656,11 +24662,11 @@
         "slug": "3386.1",
         "name": "Strawberries 'N Creme",
         "description": null,
-        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/3386.1/featured.848x477.jpg?v=20220827.151818",
+        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/3386.1/featured.848x477.jpg?v=20240826.162016",
         "new_vendor": false,
         "locations": [
             {
-                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/3386.1/featured.848x477.jpg?v=20220827.151818",
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/3386.1/featured.848x477.jpg?v=20240826.162016",
                 "directions": "Southwest corner of Randall Ave. & Underwood St.",
                 "lat": 44.98418887769784,
                 "lng": -93.17068716730769
@@ -29785,11 +29791,11 @@
         "slug": "4097.1",
         "name": "Granny's Apples",
         "description": null,
-        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/4097.1/featured.848x477.jpg?v=20210629.224406",
+        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/4097.1/featured.848x477.jpg?v=20240823.183623",
         "new_vendor": false,
         "locations": [
             {
-                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/4097.1/featured.848x477.jpg?v=20210629.224406",
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/4097.1/featured.848x477.jpg?v=20240823.183623",
                 "directions": "In the Food Building, west wall",
                 "lat": 44.98033776978417,
                 "lng": -93.17023149807692
@@ -29953,14 +29959,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Dill Pickle Donut",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "bottled water",
                 "description": null,
                 "image": null,
@@ -30060,22 +30058,6 @@
             }
         ],
         "items": [
-            {
-                "name": "Sashimi Tuna Tacos",
-                "description": null,
-                "image": null,
-                "details": [
-                    "crisp wonton",
-                    "Sashimi Tuna",
-                    "avocado",
-                    "Thai peanut slaw",
-                    "pickled ginger",
-                    "wasabi",
-                    "sesame soy"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
             {
                 "name": "potato chips",
                 "description": null,
@@ -30629,14 +30611,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Palestinian Nitro Coffee",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Creamy Dreamy traditional hummus bowl",
                 "description": null,
                 "image": null,
@@ -30659,33 +30633,6 @@
                     "parsley",
                     "pine nuts",
                     "sumac"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Sweet Baba",
-                "description": null,
-                "image": null,
-                "details": [
-                    "baklava hummus",
-                    "crumbled baklava",
-                    "pistachio",
-                    "rose water syrup"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Chili Baba",
-                "description": null,
-                "image": null,
-                "details": [
-                    "traditional hummus",
-                    "garlic chili oil",
-                    "scallions",
-                    "kimchi",
-                    "EVOO"
                 ],
                 "isNew": "no",
                 "catagory": "food_drink"
@@ -30715,32 +30662,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Bougie Baba",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Truffle hummus",
-                    "roasted wild mushrooms",
-                    "almonds"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Baba-Racha",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Sriracha hummus",
-                    "warm chickpeas",
-                    "jalape\u00f1os",
-                    "tahini",
-                    "crispy onions"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "Dill & Curd",
                 "description": null,
                 "image": null,
@@ -30764,21 +30685,6 @@
                     "scallions",
                     "buffalo sauce & dust",
                     "served with pita puffs"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Coco-Nuts bowl",
-                "description": null,
-                "image": null,
-                "details": [
-                    "hazelnut chocolate hummus",
-                    "chocolate chips",
-                    "hazelnuts",
-                    "shredded coconut & bananas",
-                    "served with powdered sugar pita puffs",
-                    "vegetarian"
                 ],
                 "isNew": "no",
                 "catagory": "food_drink"
@@ -33392,11 +33298,11 @@
         "slug": "6268.1",
         "name": "Paella Depot",
         "description": "Paella Depot serves Chicken & Chorizo Paella (traditional Spanish caramelized rice dish with leeks, red bell peppers, zucchini and snap peas, with option to add fried egg or seafood). Plus, aguas frescas in six flavors made from fruit puree, whole fruit, lime juice, agave and water. All items are gluten-free and dairy-free.",
-        "image": null,
+        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/6268.1/featured.848x477.jpg?v=20240826.162014",
         "new_vendor": true,
         "locations": [
             {
-                "image": null,
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/6268.1/featured.848x477.jpg?v=20240826.162014",
                 "directions": "South side of Judson Avenue between Clough & Nelson streets",
                 "lat": 44.97844802413389,
                 "lng": -93.17231546941923
@@ -34547,11 +34453,11 @@
         "slug": "9238.1",
         "name": "Chan's Eatery",
         "description": "Chan's Eatery serves Korean corndogs (hot dog and mozzarella cheese, battered with panko, deep-fried and finished with a dusting of cinnamon sugar. Option to add a coating of fried potatoes or to substitute toppings for hot Cheetos\u00ae with spicy mayo); Mochi donuts in eight varieties (original glaze, churro, cookies \u2018n cream, Fruity Pebbles\u2122, chocolate, strawberry, matcha and taro); Fruit and milk boba teas with optional tapioca and jelly toppings.",
-        "image": null,
+        "image": "https://assets.mnstatefair.org/_core/img/database/vendors/9238.1/featured.848x477.jpg?v=20240826.162014",
         "new_vendor": true,
         "locations": [
             {
-                "image": null,
+                "image": "https://assets.mnstatefair.org/_core/img/database/vendors/9238.1/featured.848x477.jpg?v=20240826.162014",
                 "directions": "East side of Underwood Street between Murphy & Lee avenues",
                 "lat": 44.98606924050633,
                 "lng": -93.17019763076922
