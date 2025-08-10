@@ -4,7 +4,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "exercise-ring",
         "id": "f89000e8-8765-4bb8-88a4-c165692c3bbd",
         "name": "Exercise Ring",
@@ -13,6 +13,23 @@
             "directions": null,
             "lat": -86.82539,
             "lng": 44.977532
+        },
+        "new_vendor": true
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butter-sculptures.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "butter-sculptures",
+        "id": "169bf6dd-b532-4db5-9214-ffa57fe0862d",
+        "name": "Butter Sculptures",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": -86.82883,
+            "lng": 44.977924
         },
         "new_vendor": true
     },
@@ -38,23 +55,6 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
-        "slug": "parade-announcement-area",
-        "id": "a25869e3-0075-430c-9497-3a07e008b237",
-        "name": "Parade Announcement Area",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": -86.831822,
-            "lng": 44.980119
-        },
-        "new_vendor": true
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
         "category": "building",
         "slug": "cattle-annex",
         "id": "8a44bac0-c33b-4f3e-aa4b-7c27188d5a79",
@@ -69,18 +69,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butter-sculptures.jpg",
+        "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
-        "slug": "butter-sculptures",
-        "id": "169bf6dd-b532-4db5-9214-ffa57fe0862d",
-        "name": "Butter Sculptures",
+        "category": "booth_showcase",
+        "slug": "parade-announcement-area",
+        "id": "a25869e3-0075-430c-9497-3a07e008b237",
+        "name": "Parade Announcement Area",
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.82883,
-            "lng": 44.977924
+            "lat": -86.831822,
+            "lng": 44.980119
         },
         "new_vendor": true
     },
@@ -89,7 +89,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-crop-art-exhibit.jpg",
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "crop-art-exhibit",
         "id": "411dcab7-bf30-4cde-b807-30b8ff7bed72",
         "name": "Crop Art Exhibit",
@@ -239,23 +239,6 @@
     },
     {
         "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "poi",
-        "slug": "wright-avenue",
-        "id": "5402a2cb-7b28-4f4a-961d-f592e759bf12",
-        "name": "Wright Avenue",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.983278,
-            "lng": -93.169416
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4h-building.jpg",
         "hours": null,
         "cost": null,
@@ -293,15 +276,15 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
-        "slug": "kstp-tv",
-        "id": "806e1f2a-91b4-4206-baa7-29dec830c77c",
-        "name": "KSTP TV",
+        "category": "booth_showcase",
+        "slug": "wright-avenue",
+        "id": "5402a2cb-7b28-4f4a-961d-f592e759bf12",
+        "name": "Wright Avenue",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.980382,
-            "lng": -93.174283
+            "lat": 44.983278,
+            "lng": -93.169416
         },
         "new_vendor": false
     },
@@ -528,10 +511,27 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "kstp-tv",
+        "id": "806e1f2a-91b4-4206-baa7-29dec830c77c",
+        "name": "KSTP TV",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.980382,
+            "lng": -93.174283
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kare-11-tv.jpg",
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "kare-11-tv",
         "id": "9c25db55-2ce9-4010-9f6b-91f7dc048085",
         "name": "Kare 11 TV",
@@ -735,7 +735,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fox-9-tv.jpg",
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "fox-9-tv",
         "id": "f2bcf0d5-9e03-4e82-aa80-103cf27bfcdf",
         "name": "Fox 9 TV",
@@ -1279,7 +1279,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "west-grandstand-plaza",
         "id": "717a4a71-36f8-420a-abe3-8e82d4f073dc",
         "name": "West Grandstand Plaza",
@@ -1480,6 +1480,40 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cambria-kitchen.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "cambria-kitchen",
+        "id": "db812ed4-465b-4a08-825b-2929fa7bdce2",
+        "name": "Cambria Kitchen",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981711,
+            "lng": -93.167618
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "cosgrove-st-south-of-home-improvement-building",
+        "id": "890fde56-4333-4b0f-87fb-098c007d0327",
+        "name": "Cosgrove St., south of Home Improvement Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981654,
+            "lng": -93.168249
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-first-aid-west.jpg",
         "hours": null,
         "cost": null,
@@ -1500,41 +1534,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
-        "slug": "cosgrove-st-south-of-home-improvement-building",
-        "id": "890fde56-4333-4b0f-87fb-098c007d0327",
-        "name": "Cosgrove St., south of Home Improvement Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981654,
-            "lng": -93.168249
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cambria-kitchen.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "poi",
-        "slug": "cambria-kitchen",
-        "id": "db812ed4-465b-4a08-825b-2929fa7bdce2",
-        "name": "Cambria Kitchen",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981711,
-            "lng": -93.167618
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "east-grandstand-plaza",
         "id": "1b283408-e944-4f58-81ac-bdccc3ab9195",
         "name": "East Grandstand Plaza",
@@ -1637,23 +1637,6 @@
         "hours": null,
         "cost": null,
         "category": "booth_showcase",
-        "slug": "history-walking-tour",
-        "id": "75862c9f-f045-4df5-b052-6ebdd27b2383",
-        "name": "History Walking Tour",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979273,
-            "lng": -93.168538
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "poi",
         "slug": "horse-barn-annex",
         "id": "fe7b8b50-2441-4db3-a428-04d7fd58e3dc",
         "name": "Horse Barn Annex",
@@ -1667,10 +1650,27 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "history-walking-tour",
+        "id": "75862c9f-f045-4df5-b052-6ebdd27b2383",
+        "name": "History Walking Tour",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979273,
+            "lng": -93.168538
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-jv-bailey-house.jpg",
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "jv-bailey-house",
         "id": "0edd4da8-3d99-4cd0-a5fb-d3bd0fdbe456",
         "name": "J.V. Bailey House",
@@ -1687,7 +1687,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "wright-avenue-south-of-family-fair-in-baldwin-park",
         "id": "34c792db-ca40-416e-a649-e00514e51485",
         "name": "Wright Avenue south of Family Fair",
@@ -1789,7 +1789,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "randall-ave-south-of-progress-center",
         "id": "c4f5963c-3493-41c0-97d1-3f6f98ee3d8b",
         "name": "Randall Ave., south of Progress Center",
@@ -1908,7 +1908,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "south-of-agriculture-horticulture-building",
         "id": "9d1d798c-f7c9-4fbd-983d-8e01fa77485f",
         "name": "South of Agriculture Horticulture Building",
@@ -1917,6 +1917,40 @@
             "directions": null,
             "lat": 44.97875,
             "lng": -93.169699
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "the-north-woods",
+        "id": "43866064-0292-4922-b77f-8a95c7886a72",
+        "name": "The North Woods",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.985313,
+            "lng": -93.168843
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "university-of-minnesota-central",
+        "id": "73fd5a26-c600-4bb8-aa4f-be46efdf2437",
+        "name": "University of Minnesota Central",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981085,
+            "lng": -93.169588
         },
         "new_vendor": false
     },
@@ -1976,41 +2010,7 @@
         "image": null,
         "hours": null,
         "cost": null,
-        "category": "poi",
-        "slug": "the-north-woods",
-        "id": "43866064-0292-4922-b77f-8a95c7886a72",
-        "name": "The North Woods",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.985313,
-            "lng": -93.168843
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "poi",
-        "slug": "university-of-minnesota-central",
-        "id": "73fd5a26-c600-4bb8-aa4f-be46efdf2437",
-        "name": "University of Minnesota Central",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981085,
-            "lng": -93.169588
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "poi",
+        "category": "booth_showcase",
         "slug": "wright-avenue-north-of-kidway",
         "id": "1e859ea4-f739-4380-a060-77799bd82457",
         "name": "Wright Avenue north of Kidway",
