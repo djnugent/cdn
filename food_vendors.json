@@ -134,7 +134,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1416.1.jpg",
@@ -647,7 +648,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1328.1.jpg",
@@ -801,7 +803,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1511.1.jpg",
@@ -871,7 +874,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-217.1.jpg",
@@ -931,7 +935,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2196.2.jpg",
@@ -1137,7 +1142,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2342.1.jpg",
@@ -1328,7 +1334,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-265.1.jpg",
@@ -1418,7 +1425,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3077.1.jpg",
@@ -1512,7 +1520,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3255.1.jpg",
@@ -1734,7 +1743,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3645.1.jpg",
@@ -1806,7 +1816,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-792.3.jpg",
@@ -2138,7 +2149,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1730.1.jpg",
@@ -2213,7 +2225,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-162.1.jpg",
@@ -2325,7 +2338,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2708.1.jpg",
@@ -2446,7 +2460,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2737.1.jpg",
@@ -2558,7 +2573,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1996.1.jpg",
@@ -2692,7 +2708,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2005.1.jpg",
@@ -2780,7 +2797,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2037.1.jpg",
@@ -2820,7 +2838,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2075.1.jpg",
@@ -3160,7 +3179,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-210.1.jpg",
@@ -3429,7 +3449,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2120.1.jpg",
@@ -3489,7 +3510,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2247.1.jpg",
@@ -3634,7 +3656,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-230.1.jpg",
@@ -4123,7 +4146,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-241.1.jpg",
@@ -4269,7 +4293,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2447.1.jpg",
@@ -4355,7 +4380,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2493.1.jpg",
@@ -4427,7 +4453,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3089.1.jpg",
@@ -4548,7 +4575,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5146.1.jpg",
@@ -4685,7 +4713,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2878.1.jpg",
@@ -4849,7 +4878,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3012.1.jpg",
@@ -5003,7 +5033,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4758.1.jpg",
@@ -5051,7 +5082,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-226.1.jpg",
@@ -5185,7 +5217,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2527.1.jpg",
@@ -5329,7 +5362,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2569.1.jpg",
@@ -5428,7 +5462,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2987.1.jpg",
@@ -5514,7 +5549,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3448.1.jpg",
@@ -5732,7 +5768,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3276.1.jpg",
@@ -6040,7 +6077,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3386.2.jpg",
@@ -6132,7 +6170,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2764.2.jpg",
@@ -6214,7 +6253,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5581.2.jpg",
@@ -6368,7 +6408,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-228.1.jpg",
@@ -6453,7 +6494,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2340.1.jpg",
@@ -6531,7 +6573,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2375.1.jpg",
@@ -6721,7 +6764,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2387.1.jpg",
@@ -6769,7 +6813,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2437.1.jpg",
@@ -6843,7 +6888,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3332.1.jpg",
@@ -6941,7 +6987,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-246.1.jpg",
@@ -7091,7 +7138,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2471.1.jpg",
@@ -7189,7 +7237,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2477.1.jpg",
@@ -7223,7 +7272,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2417.1.jpg",
@@ -7373,7 +7423,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2359.1.jpg",
@@ -7435,7 +7486,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-256.1.jpg",
@@ -7864,7 +7916,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2565.1.jpg",
@@ -7984,7 +8037,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-257.1.jpg",
@@ -8194,7 +8248,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2582.1.jpg",
@@ -8352,7 +8407,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2604.1.jpg",
@@ -8536,7 +8592,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2607.1.jpg",
@@ -8648,7 +8705,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-266.1.jpg",
@@ -8825,7 +8883,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3466.1.jpg",
@@ -8949,7 +9008,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5754.1.jpg",
@@ -9059,7 +9119,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2673.1.jpg",
@@ -9171,7 +9232,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2681.1.jpg",
@@ -9349,7 +9411,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2710.1.jpg",
@@ -9610,7 +9673,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2719.1.jpg",
@@ -9667,7 +9731,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2649.1.jpg",
@@ -9784,7 +9849,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2758.1.jpg",
@@ -10008,7 +10074,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2733.1.jpg",
@@ -10056,7 +10123,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2770.2.jpg",
@@ -10244,7 +10312,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": false
+        "dairy_free_options": false,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2743.1.jpg",
@@ -10297,7 +10366,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2768.1.jpg",
@@ -10641,7 +10711,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2886.1.jpg",
@@ -10837,7 +10908,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2941.2.jpg",
@@ -10965,7 +11037,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2953.1.jpg",
@@ -11001,7 +11074,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2991.1.jpg",
@@ -11145,7 +11219,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3008.1.jpg",
@@ -11229,7 +11304,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3173.1.jpg",
@@ -11329,7 +11405,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3060.1.jpg",
@@ -11420,7 +11497,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3066.1.jpg",
@@ -11497,7 +11575,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2764.1.jpg",
@@ -11561,7 +11640,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3549.1.jpg",
@@ -11654,7 +11734,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-6137.1.jpg",
@@ -11874,7 +11955,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2780.1.jpg",
@@ -12034,7 +12116,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3095.1.jpg",
@@ -12160,7 +12243,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3101.1.jpg",
@@ -12392,7 +12476,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3231.1.jpg",
@@ -12662,7 +12747,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3131.1.jpg",
@@ -13016,7 +13102,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2784.1.jpg",
@@ -13077,7 +13164,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2838.1.jpg",
@@ -13151,7 +13239,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3276.2.jpg",
@@ -13247,7 +13336,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3280.1.jpg",
@@ -13319,7 +13409,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3398.1.jpg",
@@ -13461,7 +13552,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3340.1.jpg",
@@ -13605,7 +13697,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3340.2.jpg",
@@ -13661,7 +13754,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3477.1.jpg",
@@ -13701,7 +13795,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3412.1.jpg",
@@ -13755,7 +13850,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3249.1.jpg",
@@ -13872,7 +13968,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3360.1.jpg",
@@ -13926,7 +14023,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3386.1.jpg",
@@ -13968,7 +14066,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3408.1.jpg",
@@ -14056,7 +14155,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3404.1.jpg",
@@ -14136,7 +14236,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3684.1.jpg",
@@ -14491,7 +14592,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3127.1.jpg",
@@ -14539,7 +14641,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3247.1.jpg",
@@ -14695,7 +14798,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3235.1.jpg",
@@ -14892,7 +14996,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3239.1.jpg",
@@ -15073,7 +15178,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3505.1.jpg",
@@ -15115,7 +15221,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3541.1.jpg",
@@ -15188,7 +15295,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3567.1.jpg",
@@ -15416,7 +15524,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4072.1.jpg",
@@ -15656,7 +15765,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3699.1.jpg",
@@ -15721,7 +15831,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3759.1.jpg",
@@ -15857,7 +15968,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3759.2.jpg",
@@ -15923,7 +16035,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3766.1.jpg",
@@ -16079,7 +16192,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3792.1.jpg",
@@ -16111,7 +16225,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3790.1.jpg",
@@ -16536,7 +16651,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3666.1.jpg",
@@ -16624,7 +16740,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4752.1.jpg",
@@ -16747,7 +16864,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4150.1.jpg",
@@ -16825,7 +16943,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4847.1.jpg",
@@ -16958,7 +17077,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5910.1.jpg",
@@ -17038,7 +17158,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5177.1.jpg",
@@ -17086,7 +17207,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3745.1.jpg",
@@ -17120,7 +17242,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5546.1.jpg",
@@ -17216,7 +17339,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5275.1.jpg",
@@ -17339,7 +17463,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5581.1.jpg",
@@ -17387,7 +17512,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5609.1.jpg",
@@ -17467,7 +17593,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5659.1.jpg",
@@ -17517,7 +17644,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5733.1.jpg",
@@ -17617,7 +17745,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5799.1.jpg",
@@ -17757,7 +17886,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5836.1.jpg",
@@ -17891,7 +18021,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": true,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5937.1.jpg",
@@ -18034,7 +18165,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-7388.1.jpg",
@@ -18114,7 +18246,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-6202.1.jpg",
@@ -18154,7 +18287,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5052.1.jpg",
@@ -18319,7 +18453,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-8386.1.jpg",
@@ -18351,7 +18486,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-8535.1.jpg",
@@ -18433,7 +18569,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-8233.1.jpg",
@@ -18499,7 +18636,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-8073.1.jpg",
@@ -18563,7 +18701,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3769.1.jpg",
@@ -18616,7 +18755,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1288.1.jpg",
@@ -18724,7 +18864,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-7099.1.jpg",
@@ -18780,7 +18921,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -18928,7 +19070,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-792.1.jpg",
@@ -19302,7 +19445,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2941.1.jpg",
@@ -19518,7 +19662,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-6268.1.jpg",
@@ -19601,7 +19746,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-9238.1.jpg",
@@ -19750,7 +19896,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-11505.1.jpg",
@@ -19814,7 +19961,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": null,
@@ -19921,7 +20069,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": null,
@@ -20057,7 +20206,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-9067.1.jpg",
@@ -20108,7 +20258,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": null,
@@ -20168,7 +20319,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-10990.1.jpg",
@@ -20232,7 +20384,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": false
+        "dairy_free_options": false,
+        "new_vendor": true
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-10432.1.jpg",
@@ -20280,7 +20433,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1416.2.jpg",
@@ -20410,7 +20564,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1457.1.jpg",
@@ -20758,7 +20913,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1509.1.jpg",
@@ -20884,7 +21040,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1509.3.jpg",
@@ -20916,7 +21073,8 @@
         "vegetarian_options": false,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1509.4.jpg",
@@ -20956,7 +21114,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-154.1.jpg",
@@ -21082,7 +21241,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1548.1.jpg",
@@ -21180,7 +21340,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1573.1.jpg",
@@ -21297,7 +21458,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1746.1.jpg",
@@ -21476,7 +21638,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1783.1.jpg",
@@ -21566,7 +21729,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1856.1.jpg",
@@ -21664,7 +21828,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1872.1.jpg",
@@ -22136,7 +22301,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1899.1.jpg",
@@ -22197,7 +22363,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1932.1.jpg",
@@ -22317,7 +22484,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1948.1.jpg",
@@ -22413,7 +22581,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1952.1.jpg",
@@ -22455,7 +22624,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1956.1.jpg",
@@ -22527,7 +22697,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1968.1.jpg",
@@ -22822,7 +22993,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1974.1.jpg",
@@ -22934,7 +23106,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-198.1.jpg",
@@ -23345,7 +23518,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1887.1.jpg",
@@ -23467,7 +23641,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -23744,7 +23919,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2021.1.jpg",
@@ -24241,7 +24417,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2029.1.jpg",
@@ -24371,7 +24548,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2031.1.jpg",
@@ -24455,7 +24633,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2041.1.jpg",
@@ -24571,7 +24750,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2065.1.jpg",
@@ -24707,7 +24887,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2069.1.jpg",
@@ -24755,7 +24936,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2079.1.jpg",
@@ -24823,7 +25005,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2084.1.jpg",
@@ -24961,7 +25144,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2084.2.jpg",
@@ -25121,7 +25305,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2112.1.jpg",
@@ -25193,7 +25378,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2114.1.jpg",
@@ -25281,7 +25467,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-212.1.jpg",
@@ -25666,7 +25853,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2122.3.jpg",
@@ -25718,7 +25906,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2142.1.jpg",
@@ -25787,7 +25976,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-215.1.jpg",
@@ -25938,7 +26128,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-216.1.jpg",
@@ -26545,7 +26736,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2182.1.jpg",
@@ -26593,7 +26785,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2192.1.jpg",
@@ -26685,7 +26878,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2196.1.jpg",
@@ -26789,7 +26983,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2198.1.jpg",
@@ -26925,7 +27120,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2208.1.jpg",
@@ -26997,7 +27193,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-227.1.jpg",
@@ -27075,7 +27272,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -27303,7 +27501,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-225.1.jpg",
@@ -27415,7 +27614,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2279.1.jpg",
@@ -27543,7 +27743,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2305.1.jpg",
@@ -27776,7 +27977,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2332.1.jpg",
@@ -28142,7 +28344,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2336.1.jpg",
@@ -28451,7 +28654,8 @@
         "vegetarian_options": true,
         "gluten_free_options": true,
         "vegan_options": true,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2348.1.jpg",
@@ -28921,7 +29125,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-239.1.jpg",
@@ -29033,7 +29238,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.jpg",
@@ -29114,7 +29320,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-252.1.jpg",
@@ -29446,7 +29653,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2415.9.jpg",
@@ -29478,7 +29686,8 @@
         "vegetarian_options": null,
         "gluten_free_options": false,
         "vegan_options": false,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2529.1.jpg",
@@ -29595,7 +29804,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -29739,7 +29949,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2561.1.jpg",
@@ -29782,7 +29993,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2770.1.jpg",
@@ -29822,7 +30034,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
-        "dairy_free_options": false
+        "dairy_free_options": false,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2924.1.jpg",
@@ -29933,7 +30146,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -30071,7 +30285,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -30150,7 +30365,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3111.1.jpg",
@@ -30268,7 +30484,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3195.1.jpg",
@@ -30308,7 +30525,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2776.1.jpg",
@@ -30404,7 +30622,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3217.1.jpg",
@@ -30709,7 +30928,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -30851,7 +31071,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-9260.1.jpg",
@@ -31034,7 +31255,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3251.1.jpg",
@@ -31170,7 +31392,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -31414,7 +31637,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3450.1.jpg",
@@ -32101,7 +32325,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3436.1.jpg",
@@ -32416,7 +32641,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3394.1.jpg",
@@ -32544,7 +32770,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-11704.1.jpg",
@@ -32608,7 +32835,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -32690,7 +32918,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3553.1.jpg",
@@ -32820,7 +33049,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3689.1.jpg",
@@ -33030,7 +33260,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": true,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3695.1.jpg",
@@ -33150,7 +33381,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3718.1.jpg",
@@ -33238,7 +33470,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -33320,7 +33553,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3986.1.jpg",
@@ -33381,7 +33615,8 @@
         "vegetarian_options": null,
         "gluten_free_options": true,
         "vegan_options": null,
-        "dairy_free_options": true
+        "dairy_free_options": true,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4872.1.jpg",
@@ -33559,7 +33794,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -33719,7 +33955,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5175.1.jpg",
@@ -33793,7 +34030,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-6041.1.jpg",
@@ -34132,7 +34370,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-792.2.jpg",
@@ -34450,7 +34689,8 @@
         "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": null,
@@ -34556,7 +34796,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-792.4.jpg",
@@ -34818,7 +35059,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-616.1.jpg",
@@ -35268,7 +35510,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-9613.1.jpg",
@@ -35398,7 +35641,8 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-10369.1.jpg",
@@ -35652,6 +35896,7 @@
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
-        "dairy_free_options": null
+        "dairy_free_options": null,
+        "new_vendor": false
     }
 ]

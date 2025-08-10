@@ -13,7 +13,8 @@
             "directions": null,
             "lat": -86.82539,
             "lng": 44.977532
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -29,7 +30,8 @@
             "directions": null,
             "lat": -86.823792,
             "lng": 44.97861
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -45,7 +47,8 @@
             "directions": null,
             "lat": -86.831822,
             "lng": 44.980119
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -61,7 +64,8 @@
             "directions": null,
             "lat": -86.823737,
             "lng": 44.97751
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -77,7 +81,8 @@
             "directions": null,
             "lat": -86.82883,
             "lng": 44.977924
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -93,7 +98,8 @@
             "directions": null,
             "lat": -86.830611,
             "lng": 44.979382
-        }
+        },
+        "new_vendor": true
     },
     {
         "description": "",
@@ -109,7 +115,8 @@
             "directions": null,
             "lat": 44.978055,
             "lng": -93.177944
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -125,7 +132,8 @@
             "directions": null,
             "lat": 44.980527,
             "lng": -93.176793
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -141,7 +149,8 @@
             "directions": null,
             "lat": 44.981069,
             "lng": -93.168258
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -157,7 +166,8 @@
             "directions": null,
             "lat": 44.98202,
             "lng": -93.168276
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -173,7 +183,8 @@
             "directions": null,
             "lat": 44.981307,
             "lng": -93.176189
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -189,7 +200,8 @@
             "directions": null,
             "lat": 44.981422,
             "lng": -93.171057
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -205,7 +217,8 @@
             "directions": null,
             "lat": 44.979912,
             "lng": -93.169338
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -221,7 +234,8 @@
             "directions": null,
             "lat": 44.978954,
             "lng": -93.169317
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -237,7 +251,8 @@
             "directions": null,
             "lat": 44.983278,
             "lng": -93.169416
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -253,7 +268,8 @@
             "directions": null,
             "lat": 44.983305,
             "lng": -93.167568
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -269,7 +285,8 @@
             "directions": null,
             "lat": 44.97814,
             "lng": -93.171746
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -285,7 +302,8 @@
             "directions": null,
             "lat": 44.980382,
             "lng": -93.174283
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -301,7 +319,8 @@
             "directions": null,
             "lat": 44.979215,
             "lng": -93.169699
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -317,7 +336,8 @@
             "directions": null,
             "lat": 44.979194,
             "lng": -93.176192
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -333,7 +353,8 @@
             "directions": null,
             "lat": 44.979008,
             "lng": -93.174468
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -349,7 +370,8 @@
             "directions": null,
             "lat": 44.97871,
             "lng": -93.174409
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -365,7 +387,8 @@
             "directions": null,
             "lat": 44.982082,
             "lng": -93.167892
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -381,7 +404,8 @@
             "directions": null,
             "lat": 44.981437,
             "lng": -93.170792
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -397,7 +421,8 @@
             "directions": null,
             "lat": 44.979693,
             "lng": -93.173768
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -413,7 +438,8 @@
             "directions": null,
             "lat": 44.98079,
             "lng": -93.172645
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -429,7 +455,8 @@
             "directions": null,
             "lat": 44.978103,
             "lng": -93.176251
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -445,7 +472,8 @@
             "directions": null,
             "lat": 44.978157,
             "lng": -93.173039
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -461,7 +489,8 @@
             "directions": null,
             "lat": 44.979645,
             "lng": -93.175128
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -477,7 +506,8 @@
             "directions": null,
             "lat": 44.97906,
             "lng": -93.177741
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -493,7 +523,8 @@
             "directions": null,
             "lat": 44.981608,
             "lng": -93.167562
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -509,7 +540,8 @@
             "directions": null,
             "lat": 44.978936,
             "lng": -93.171836
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -525,7 +557,8 @@
             "directions": null,
             "lat": 44.981733,
             "lng": -93.170228
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -541,7 +574,8 @@
             "directions": null,
             "lat": 44.978236,
             "lng": -93.170921
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -557,7 +591,8 @@
             "directions": null,
             "lat": 44.983701,
             "lng": -93.167772
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -573,7 +608,8 @@
             "directions": null,
             "lat": 44.984882,
             "lng": -93.167999
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -589,7 +625,8 @@
             "directions": null,
             "lat": 44.982521,
             "lng": -93.16755
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -605,7 +642,8 @@
             "directions": null,
             "lat": 44.979682,
             "lng": -93.17618
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -621,7 +659,8 @@
             "directions": null,
             "lat": 44.984191,
             "lng": -93.168584
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -637,7 +676,8 @@
             "directions": null,
             "lat": 44.980847,
             "lng": -93.171007
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -653,7 +693,8 @@
             "directions": null,
             "lat": 44.984138,
             "lng": -93.167605
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -669,7 +710,8 @@
             "directions": null,
             "lat": 44.980236,
             "lng": -93.171925
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -685,7 +727,8 @@
             "directions": null,
             "lat": 44.980203,
             "lng": -93.169816
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -701,7 +744,8 @@
             "directions": null,
             "lat": 44.980723,
             "lng": -93.171962
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -717,7 +761,8 @@
             "directions": null,
             "lat": 44.980044,
             "lng": -93.17146
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -733,7 +778,8 @@
             "directions": null,
             "lat": 44.97945,
             "lng": -93.17327
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -749,7 +795,8 @@
             "directions": null,
             "lat": 44.9864,
             "lng": -93.16988
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -765,7 +812,8 @@
             "directions": null,
             "lat": 44.985622,
             "lng": -93.169015
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -781,7 +829,8 @@
             "directions": null,
             "lat": 44.981217,
             "lng": -93.173157
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -797,7 +846,8 @@
             "directions": null,
             "lat": 44.981997,
             "lng": -93.173279
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -813,7 +863,8 @@
             "directions": null,
             "lat": 44.984145,
             "lng": -93.169462
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -829,7 +880,8 @@
             "directions": null,
             "lat": 44.978339,
             "lng": -93.170115
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -845,7 +897,8 @@
             "directions": null,
             "lat": 44.982401,
             "lng": -93.169816
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -861,7 +914,8 @@
             "directions": null,
             "lat": 44.981876,
             "lng": -93.168587
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -877,7 +931,8 @@
             "directions": null,
             "lat": 44.984703,
             "lng": -93.16884
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -893,7 +948,8 @@
             "directions": null,
             "lat": 44.978117,
             "lng": -93.174366
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -909,7 +965,8 @@
             "directions": null,
             "lat": 44.978081,
             "lng": -93.169693
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -925,7 +982,8 @@
             "directions": null,
             "lat": 44.984207,
             "lng": -93.168637
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -941,7 +999,8 @@
             "directions": null,
             "lat": 44.983413,
             "lng": -93.167805
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -957,7 +1016,8 @@
             "directions": null,
             "lat": 44.979282,
             "lng": -93.170844
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -973,7 +1033,8 @@
             "directions": null,
             "lat": 44.979341,
             "lng": -93.17206
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -989,7 +1050,8 @@
             "directions": null,
             "lat": 44.978352,
             "lng": -93.176617
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1005,7 +1067,8 @@
             "directions": null,
             "lat": 44.978843,
             "lng": -93.171663
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1021,7 +1084,8 @@
             "directions": null,
             "lat": 44.987279,
             "lng": -93.169018
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1037,7 +1101,8 @@
             "directions": null,
             "lat": 44.978326,
             "lng": -93.177451
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1053,7 +1118,8 @@
             "directions": null,
             "lat": 44.985811,
             "lng": -93.169813
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1069,7 +1135,8 @@
             "directions": null,
             "lat": 44.98745,
             "lng": -93.170977
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1085,7 +1152,8 @@
             "directions": null,
             "lat": 44.979762,
             "lng": -93.170977
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1101,7 +1169,8 @@
             "directions": null,
             "lat": 44.978954,
             "lng": -93.171151
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1117,7 +1186,8 @@
             "directions": null,
             "lat": 44.980895,
             "lng": -93.174933
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1133,7 +1203,8 @@
             "directions": null,
             "lat": 44.978976,
             "lng": -93.173898
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1149,7 +1220,8 @@
             "directions": null,
             "lat": 44.985812,
             "lng": -93.170709
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1165,7 +1237,8 @@
             "directions": null,
             "lat": 44.979713,
             "lng": -93.168446
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1181,7 +1254,8 @@
             "directions": null,
             "lat": 44.981391,
             "lng": -93.170078
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1197,7 +1271,8 @@
             "directions": null,
             "lat": 44.981046,
             "lng": -93.176511
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1213,7 +1288,8 @@
             "directions": null,
             "lat": 44.980979,
             "lng": -93.174391
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1229,7 +1305,8 @@
             "directions": null,
             "lat": 44.983409,
             "lng": -93.16863
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1245,7 +1322,8 @@
             "directions": null,
             "lat": 44.978117,
             "lng": -93.172999
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1261,7 +1339,8 @@
             "directions": null,
             "lat": 44.978892,
             "lng": -93.172673
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1277,7 +1356,8 @@
             "directions": null,
             "lat": 44.981147,
             "lng": -93.175315
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1293,7 +1373,8 @@
             "directions": null,
             "lat": 44.980385,
             "lng": -93.174049
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1309,7 +1390,8 @@
             "directions": null,
             "lat": 44.980181,
             "lng": -93.168763
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1325,7 +1407,8 @@
             "directions": null,
             "lat": 44.980892,
             "lng": -93.168791
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1341,7 +1424,8 @@
             "directions": null,
             "lat": 44.981517,
             "lng": -93.177621
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1357,7 +1441,8 @@
             "directions": null,
             "lat": 44.979841,
             "lng": -93.174422
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1373,7 +1458,8 @@
             "directions": null,
             "lat": 44.985493,
             "lng": -93.169785
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1389,7 +1475,8 @@
             "directions": null,
             "lat": 44.979162,
             "lng": -93.176263
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1405,7 +1492,8 @@
             "directions": null,
             "lat": 44.980573,
             "lng": -93.176004
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1421,7 +1509,8 @@
             "directions": null,
             "lat": 44.981654,
             "lng": -93.168249
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1437,7 +1526,8 @@
             "directions": null,
             "lat": 44.981711,
             "lng": -93.167618
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1453,7 +1543,8 @@
             "directions": null,
             "lat": 44.981184,
             "lng": -93.172156
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1469,7 +1560,8 @@
             "directions": null,
             "lat": 44.983571,
             "lng": -93.16856
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1485,7 +1577,8 @@
             "directions": null,
             "lat": 44.980051,
             "lng": -93.171066
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1501,7 +1594,8 @@
             "directions": null,
             "lat": 44.981422,
             "lng": -93.17021
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1517,7 +1611,8 @@
             "directions": null,
             "lat": 44.979013,
             "lng": -93.174625
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1533,7 +1628,8 @@
             "directions": null,
             "lat": 44.980036,
             "lng": -93.171691
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1549,7 +1645,8 @@
             "directions": null,
             "lat": 44.979273,
             "lng": -93.168538
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1565,7 +1662,8 @@
             "directions": null,
             "lat": 44.97918,
             "lng": -93.17723
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1581,7 +1679,8 @@
             "directions": null,
             "lat": 44.97915,
             "lng": -93.168366
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1597,7 +1696,8 @@
             "directions": null,
             "lat": 44.983274,
             "lng": -93.168338
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1613,7 +1713,8 @@
             "directions": null,
             "lat": 44.978388,
             "lng": -93.169437
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1629,7 +1730,8 @@
             "directions": null,
             "lat": 44.985462,
             "lng": -93.169717
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1645,7 +1747,8 @@
             "directions": null,
             "lat": 44.980146,
             "lng": -93.17735
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1661,7 +1764,8 @@
             "directions": null,
             "lat": 44.981384,
             "lng": -93.169511
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1677,7 +1781,8 @@
             "directions": null,
             "lat": 44.981122,
             "lng": -93.1698
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1693,7 +1798,8 @@
             "directions": null,
             "lat": 44.984514,
             "lng": -93.167858
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1709,7 +1815,8 @@
             "directions": null,
             "lat": 44.986892,
             "lng": -93.169409
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1725,7 +1832,8 @@
             "directions": null,
             "lat": 44.981481,
             "lng": -93.171177
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1741,7 +1849,8 @@
             "directions": null,
             "lat": 44.979775,
             "lng": -93.169311
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1757,7 +1866,8 @@
             "directions": null,
             "lat": 44.978787,
             "lng": -93.17254
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1773,7 +1883,8 @@
             "directions": null,
             "lat": 44.980514,
             "lng": -93.175863
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1789,7 +1900,8 @@
             "directions": null,
             "lat": 44.981015,
             "lng": -93.175711
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1805,7 +1917,8 @@
             "directions": null,
             "lat": 44.97875,
             "lng": -93.169699
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1821,7 +1934,8 @@
             "directions": null,
             "lat": 44.979553,
             "lng": -93.169677
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1837,7 +1951,8 @@
             "directions": null,
             "lat": 44.987677,
             "lng": -93.169203
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1853,7 +1968,8 @@
             "directions": null,
             "lat": 44.985378,
             "lng": -93.168707
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1869,7 +1985,8 @@
             "directions": null,
             "lat": 44.985313,
             "lng": -93.168843
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1885,7 +2002,8 @@
             "directions": null,
             "lat": 44.981085,
             "lng": -93.169588
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1901,7 +2019,8 @@
             "directions": null,
             "lat": 44.983278,
             "lng": -93.169416
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1917,7 +2036,8 @@
             "directions": null,
             "lat": 44.987293,
             "lng": -93.170142
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1933,7 +2053,8 @@
             "directions": null,
             "lat": 44.980909,
             "lng": -93.170078
-        }
+        },
+        "new_vendor": false
     },
     {
         "description": "",
@@ -1949,6 +2070,7 @@
             "directions": null,
             "lat": 44.980549,
             "lng": -93.176251
-        }
+        },
+        "new_vendor": false
     }
 ]
