@@ -12,7 +12,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-afro-bean-pops.jpg",
         "slug": "9beb9170-7580-4028-93df-51b4265900b1",
         "id": "9beb9170-7580-4028-93df-51b4265900b1",
-        "name": "Afro Deli",
+        "name": "Afro Bean Pops",
         "vendor_slug": "7388.1"
     },
     {
@@ -20,7 +20,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-athena's-whipped-feta.jpg",
         "slug": "2bbcfe1c-c7e5-4b3f-b430-85dae89e7a6c",
         "id": "2bbcfe1c-c7e5-4b3f-b430-85dae89e7a6c",
-        "name": "Dino's Gyros",
+        "name": "Athena's Whipped Feta",
         "vendor_slug": "1457.1"
     },
     {
@@ -28,7 +28,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-birthday-cake-cookie-dough-on-a-stick.jpg",
         "slug": "94a758ef-6030-4e86-9a03-95f1a16923d3",
         "id": "94a758ef-6030-4e86-9a03-95f1a16923d3",
-        "name": "Kora & Mila's Cookie Dough",
+        "name": "Birthday Cake Cookie Dough On-A-Stick",
         "vendor_slug": "3699.1"
     },
     {
@@ -36,7 +36,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-bison-meatball-sub.jpg",
         "slug": "c9ae79e0-33db-4bcb-adb7-3bd65af51e02",
         "id": "c9ae79e0-33db-4bcb-adb7-3bd65af51e02",
-        "name": "Minnesota Farmers Union Coffee Shop",
+        "name": "Bison Meatball Sub",
         "vendor_slug": "2878.1"
     },
     {
@@ -44,7 +44,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-cannoli-gelato-nachos.jpg",
         "slug": "f8d309e1-8a3b-48c4-a60f-66c257010393",
         "id": "f8d309e1-8a3b-48c4-a60f-66c257010393",
-        "name": "Mancini's al Fresco",
+        "name": "Cannoli Gelato Nachos",
         "vendor_slug": "198.1"
     },
     {
@@ -52,7 +52,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-caprese-curds.jpg",
         "slug": "d8023d05-c2f0-499d-87fa-b629007c8368",
         "id": "d8023d05-c2f0-499d-87fa-b629007c8368",
-        "name": "LuLu's Public House",
+        "name": "Caprese Curds",
         "vendor_slug": "1416.1"
     },
     {
@@ -60,7 +60,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-cherry-bigfoot-limeade-float.jpg",
         "slug": "8b953dfa-240f-4859-95fd-5e4b9d7b0a74",
         "id": "8b953dfa-240f-4859-95fd-5e4b9d7b0a74",
-        "name": "Tasti Whip",
+        "name": "Cherry Bigfoot Limeade Float",
         "vendor_slug": "8535.1"
     },
     {
@@ -68,7 +68,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-chicken-fried-bacon-fries.jpg",
         "slug": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
         "id": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
-        "name": "Soul Bowl",
+        "name": "Chicken-Fried Bacon Fries",
         "vendor_slug": "5799.1"
     },
     {
@@ -76,7 +76,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-cinna-sugar-crust-tidbits.jpg",
         "slug": "60ce0f22-2267-49d9-b138-88abb57b8cd2",
         "id": "60ce0f22-2267-49d9-b138-88abb57b8cd2",
-        "name": "Sara's Tipsy Pies",
+        "name": "Cinna-sugar Crust Tidbits",
         "vendor_slug": "1288.1"
     },
     {
@@ -84,7 +84,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-croffle-cloud.jpg",
         "slug": "99135086-b078-40ea-a026-030d0e5fb488",
         "id": "99135086-b078-40ea-a026-030d0e5fb488",
-        "name": "Spinning Wylde",
+        "name": "Croffle Cloud",
         "vendor_slug": "5175.1"
     },
     {
@@ -92,7 +92,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-deep-fried-tofuego-bites.jpg",
         "slug": "341c3f6c-8fd0-48da-a0ff-61b9037f8052",
         "id": "341c3f6c-8fd0-48da-a0ff-61b9037f8052",
-        "name": "Snack House",
+        "name": "Deep-Fried Tofuego Bites",
         "vendor_slug": "792.1"
     },
     {
@@ -100,7 +100,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-dill-pickle-iced-tea.jpg",
         "slug": "48b6ef7c-27af-4ffa-95ae-916088a2b158",
         "id": "48b6ef7c-27af-4ffa-95ae-916088a2b158",
-        "name": "Loon Lake Iced Tea",
+        "name": "Dill Pickle Iced Tea",
         "vendor_slug": "3386.2"
     },
     {
@@ -108,7 +108,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-fawaffle.jpg",
         "slug": "fe11bd46-00b9-4395-9157-39e900952a8c",
         "id": "fe11bd46-00b9-4395-9157-39e900952a8c",
-        "name": "Baba's",
+        "name": "Fawaffle",
         "vendor_slug": "5146.1"
     },
     {
@@ -116,7 +116,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-flauta-dippers.png",
         "slug": "1baaab28-1d1b-49d4-90bb-81f62f49297e",
         "id": "1baaab28-1d1b-49d4-90bb-81f62f49297e",
-        "name": "El Burrito Mercado",
+        "name": "Flauta Dippers",
         "vendor_slug": "10312.2"
     },
     {
@@ -124,7 +124,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-freaky-fryday.jpg",
         "slug": "bf6d05aa-3f5d-4723-ba32-ce1e99c4860e",
         "id": "bf6d05aa-3f5d-4723-ba32-ce1e99c4860e",
-        "name": "The Herbivorous Butcher",
+        "name": "Freaky Fryday",
         "vendor_slug": "5836.1"
     },
     {
@@ -140,7 +140,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-grandma-doreen\u2019s-dessert-dog.jpg",
         "slug": "f05eb0d3-3e60-499a-ab0c-9f644b5491f0",
         "id": "f05eb0d3-3e60-499a-ab0c-9f644b5491f0",
-        "name": "West End Creamery",
+        "name": "Grandma Doreen's Dessert Dog",
         "vendor_slug": "3567.1"
     },
     {
@@ -148,7 +148,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-green-apple-sucker-ice-cream.jpg",
         "slug": "96e9fc16-654f-45fa-bc08-9bd3b2fac8ed",
         "id": "96e9fc16-654f-45fa-bc08-9bd3b2fac8ed",
-        "name": "Granny's Apples",
+        "name": "Green Apple Sucker Ice Cream",
         "vendor_slug": "11704.1"
     },
     {
@@ -156,7 +156,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-hot-honey-jalape\u00f1o-popper-donut.jpg",
         "slug": "2bd8e4d4-3aac-4ea2-877e-44500a11baf9",
         "id": "2bd8e4d4-3aac-4ea2-877e-44500a11baf9",
-        "name": "Fluffy's Hand Cut Donuts",
+        "name": "Hot Honey Jalapeno Popper Donut",
         "vendor_slug": "4752.1"
     },
     {
@@ -164,7 +164,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-hot-honey-pizza-ballzz.jpg",
         "slug": "91a1ab70-b094-4c99-9653-119ced1c3cf7",
         "id": "91a1ab70-b094-4c99-9653-119ced1c3cf7",
-        "name": "Green Mill",
+        "name": "Hot Honey Pizza Ballzz",
         "vendor_slug": "2437.1"
     },
     {
@@ -172,7 +172,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-hula-kalua-pork.jpg",
         "slug": "0d6f110e-725d-4052-bb29-0d16abfe1fce",
         "id": "0d6f110e-725d-4052-bb29-0d16abfe1fce",
-        "name": "RC's BBQ",
+        "name": "Hula Kalua Pork",
         "vendor_slug": "3217.1"
     },
     {
@@ -180,7 +180,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-land-of-10000-cakes.jpg",
         "slug": "4b6d1125-b214-4bcc-8882-bee184207c5c",
         "id": "4b6d1125-b214-4bcc-8882-bee184207c5c",
-        "name": "Bridgeman's Ice Cream",
+        "name": "Land of 10,000 Cakes",
         "vendor_slug": "1996.1"
     },
     {
@@ -188,7 +188,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-patisserie-sweets-in-two-varieties.jpg",
         "slug": "27280a08-9b34-4571-9c80-8ce67597f493",
         "id": "27280a08-9b34-4571-9c80-8ce67597f493",
-        "name": "Minnesota Farmers Union Coffee Shop",
+        "name": "Apple Glaze Patisserie Sweets",
         "vendor_slug": "2878.1"
     },
     {
@@ -196,7 +196,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-pimento-cheese-puffs.jpg",
         "slug": "6f41fccb-2bea-47b1-ab5b-7084635b8672",
         "id": "6f41fccb-2bea-47b1-ab5b-7084635b8672",
-        "name": "Shanghai Henri's",
+        "name": "Pimento Cheese Puffs",
         "vendor_slug": "3276.1"
     },
     {
@@ -204,7 +204,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-pizza-cheese-curd-tacos.jpg",
         "slug": "28cee5b9-660f-4848-aa97-958e2866f860",
         "id": "28cee5b9-660f-4848-aa97-958e2866f860",
-        "name": "Richie's Cheese Curd Tacos",
+        "name": "Pizza Cheese Curd Tacos",
         "vendor_slug": "5275.1"
     },
     {
@@ -212,7 +212,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-pot-of-gold-potato-dumplings.jpg",
         "slug": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
         "id": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
-        "name": "O'Gara's at the Fair",
+        "name": "Pot of Gold Dumplings",
         "vendor_slug": "256.1"
     },
     {
@@ -220,7 +220,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-shrimp--pork-toast-on-a-stick.jpg",
         "slug": "6febccff-26e3-4cb9-8098-19ae4176d16c",
         "id": "6febccff-26e3-4cb9-8098-19ae4176d16c",
-        "name": "Union Hmong Kitchen",
+        "name": "Shrimp & Pork Toast On-A-Stick",
         "vendor_slug": "5659.1"
     },
     {
@@ -228,7 +228,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-smashadilla.jpg",
         "slug": "0b1a826f-5a01-46d0-9d52-3acb6be0df43",
         "id": "0b1a826f-5a01-46d0-9d52-3acb6be0df43",
-        "name": "Gass Station Grill",
+        "name": "Smashadilla",
         "vendor_slug": "2375.1"
     },
     {
@@ -236,7 +236,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-somali-street-fries.jpg",
         "slug": "ef3784a7-243c-4757-be02-5e827853f10b",
         "id": "ef3784a7-243c-4757-be02-5e827853f10b",
-        "name": "Midtown Global Market's Indigenous Food Lab",
+        "name": "Somali Street Fries",
         "vendor_slug": "2764.2"
     },
     {
@@ -244,7 +244,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-sweet-squeakers.jpg",
         "slug": "f69e3f1b-24fd-4f7c-adf4-688e94bbaf2f",
         "id": "f69e3f1b-24fd-4f7c-adf4-688e94bbaf2f",
-        "name": "The Blue Barn",
+        "name": "Sweet Squeakers",
         "vendor_slug": "1968.1"
     },
     {
@@ -252,7 +252,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-tandoori-chicken-quesaratha.jpg",
         "slug": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
         "id": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
-        "name": "Holy Land Deli",
+        "name": "Tandoori Chicken Quesaratha",
         "vendor_slug": "3689.1"
     },
     {
@@ -260,7 +260,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-timber-twists.jpg",
         "slug": "b1548b75-66da-4416-8d68-eba87f2a9daf",
         "id": "b1548b75-66da-4416-8d68-eba87f2a9daf",
-        "name": "Giggles' Campfire Grill",
+        "name": "Timber Twists",
         "vendor_slug": "230.1"
     },
     {
@@ -268,7 +268,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-triple-chocolate-mini-donuts.jpg",
         "slug": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
         "id": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
-        "name": "Mini Donuts & Cheese Curds",
+        "name": "Triple Chocolate Mini Donuts",
         "vendor_slug": "5052.1"
     },
     {
@@ -276,7 +276,7 @@
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-uncrustaburger.jpg",
         "slug": "2a2d99e3-47d1-408c-9329-cf654b5090a8",
         "id": "2a2d99e3-47d1-408c-9329-cf654b5090a8",
-        "name": "Coasters",
+        "name": "Uncrustaburger",
         "vendor_slug": "216.1"
     },
     {
