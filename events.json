@@ -9212,20 +9212,6 @@
         ]
     },
     {
-        "description": "$67 - $103.75 (All seats reserved), $107 - $125.25 (General Admission Pit, no seating), $134 - $149.25 (Party Deck)\n\nOld Dominion is a Grammy-nominated country band known for blending modern pop and rock with classic country songwriting. With hits like \"Hotel Key\" and \"Snapback,\" they\u2019ve become a staple of country radio and arena tours across the U.S.\n\nYam Haus is a Minneapolis-based pop rock band known for their energetic live shows and infectious hooks. They've built a dedicated fanbase with songs like \"West Coast\" and appearances on national TV.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-old-dominion-with-special-guest-yam-haus.jpg",
-        "slug": "grandstand-old-dominion-with-special-guest-yam-haus",
-        "id": "e67d368b-96b3-49d7-8966-69d7c26cdc90",
-        "name": "Old Dominion with special guest Yam Haus",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-21T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "stem-day-gubernatorial-proclamation",
@@ -10300,6 +10286,20 @@
         ]
     },
     {
+        "description": "$67 - $103.75 (All seats reserved), $107 - $125.25 (General Admission Pit, no seating), $134 - $149.25 (Party Deck)\n\nOld Dominion is a Grammy-nominated country band known for blending modern pop and rock with classic country songwriting. With hits like \"Hotel Key\" and \"Snapback,\" they\u2019ve become a staple of country radio and arena tours across the U.S.\n\nYam Haus is a Minneapolis-based pop rock band known for their energetic live shows and infectious hooks. They've built a dedicated fanbase with songs like \"West Coast\" and appearances on national TV.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-old-dominion-with-special-guest-yam-haus.jpg",
+        "slug": "grandstand-old-dominion-with-special-guest-yam-haus",
+        "id": "e67d368b-96b3-49d7-8966-69d7c26cdc90",
+        "name": "Old Dominion with special guest Yam Haus",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-21T19:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
         "description": "",
         "image": null,
         "slug": "some-shitty-cover-band",
@@ -11358,20 +11358,6 @@
         ]
     },
     {
-        "description": "$56 - $91.25 (All seats reserved),$112 - $125.75 (Party Deck)\n\nMeghan Trainor is a Grammy-winning pop singer-songwriter known for her retro-inspired sound and empowering anthems like \"All About That Bass\" and \"Made You Look.\" Her catchy hooks and bold style have made her a chart-topping force in pop music.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-meghan-trainor-with-special-guest-ellis.jpg",
-        "slug": "grandstand-meghan-trainor-with-special-guest-ellis",
-        "id": "819117c9-bf98-4e01-9ed4-629596803de7",
-        "name": "Meghan Trainor with special guest Ellis",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-22T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "agrilympics-celebrity-milking-contest",
@@ -11774,6 +11760,20 @@
             {
                 "start": "2025-08-30T18:30:00-05:00",
                 "end": "2025-08-30T21:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$56 - $91.25 (All seats reserved),$112 - $125.75 (Party Deck)\n\nMeghan Trainor is a Grammy-winning pop singer-songwriter known for her retro-inspired sound and empowering anthems like \"All About That Bass\" and \"Made You Look.\" Her catchy hooks and bold style have made her a chart-topping force in pop music.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-meghan-trainor-with-special-guest-ellis.jpg",
+        "slug": "grandstand-meghan-trainor-with-special-guest-ellis",
+        "id": "819117c9-bf98-4e01-9ed4-629596803de7",
+        "name": "Meghan Trainor with special guest Ellis",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-22T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -12532,20 +12532,6 @@
         ]
     },
     {
-        "description": "$51.50 - $75.25 (All seats reserved),$71.50 - $86.75 (General Admission Pit, no seating),$71.50 - $85.25 (Party Deck)\n\nAtmosphere & Friends: Minnesota brings together some of hip-hop\u2019s most influential artists for a powerhouse night. Minneapolis legends Atmosphere, known for their introspective lyrics and underground roots, are joined by iconic West Coast group Cypress Hill, lyrical heavyweight Lupe Fiasco, alternative rap pioneers The Pharcyde, and local turntable master DJ Abilities. This lineup celebrates decades of innovative hip-hop with deep Minnesota ties.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities.jpg",
-        "slug": "grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities",
-        "id": "e90bf50c-d66d-4a1e-9a9e-d8d31533ef07",
-        "name": "Atmosphere & Friends: Minnesota with Atmosphere, Cypress Hill, Lupe Fiasco, The Pharcyde, and DJ Abilities",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-23T12:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "cfans-spotlight-water-quality-matters",
@@ -13220,6 +13206,20 @@
             {
                 "start": "2025-08-23T17:00:00-05:00",
                 "end": "2025-08-23T18:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$51.50 - $75.25 (All seats reserved),$71.50 - $86.75 (General Admission Pit, no seating),$71.50 - $85.25 (Party Deck)\n\nAtmosphere & Friends: Minnesota brings together some of hip-hop\u2019s most influential artists for a powerhouse night. Minneapolis legends Atmosphere, known for their introspective lyrics and underground roots, are joined by iconic West Coast group Cypress Hill, lyrical heavyweight Lupe Fiasco, alternative rap pioneers The Pharcyde, and local turntable master DJ Abilities. This lineup celebrates decades of innovative hip-hop with deep Minnesota ties.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities.jpg",
+        "slug": "grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities",
+        "id": "e90bf50c-d66d-4a1e-9a9e-d8d31533ef07",
+        "name": "Atmosphere & Friends: Minnesota with Atmosphere, Cypress Hill, Lupe Fiasco, The Pharcyde, and DJ Abilities",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-23T17:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -13942,20 +13942,6 @@
         ]
     },
     {
-        "description": "$56 - $89.25 (All seats reserved),$110 - $123.75 (Party Deck)\n\nMelissa Etheridge is a Grammy- and Oscar-winning rock singer-songwriter known for her raw vocals, emotional lyrics, and hits like \"Come to My Window\" and \"I'm the Only One.\" She\u2019s been a powerful voice in rock music and LGBTQ+ advocacy for over three decades.\n\nIndigo Girls, the folk-rock duo of Amy Ray and Emily Saliers, are celebrated for their harmonies, activism, and enduring songs like \"Closer to Fine\" and \"Galileo.\" Together on the Yes We Are Tour, they bring a night of heartfelt music and timeless songwriting.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour.jpg",
-        "slug": "grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour",
-        "id": "0e699f4c-3a15-4260-8da3-817c6bd07dc1",
-        "name": "Melissa Etheridge and Indigo Girls: Yes We Are Tour",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-24T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "draft-horse-barrel-racing",
@@ -14138,6 +14124,20 @@
             {
                 "start": "2025-08-25T18:30:00-05:00",
                 "end": "2025-08-25T21:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$56 - $89.25 (All seats reserved),$110 - $123.75 (Party Deck)\n\nMelissa Etheridge is a Grammy- and Oscar-winning rock singer-songwriter known for her raw vocals, emotional lyrics, and hits like \"Come to My Window\" and \"I'm the Only One.\" She\u2019s been a powerful voice in rock music and LGBTQ+ advocacy for over three decades.\n\nIndigo Girls, the folk-rock duo of Amy Ray and Emily Saliers, are celebrated for their harmonies, activism, and enduring songs like \"Closer to Fine\" and \"Galileo.\" Together on the Yes We Are Tour, they bring a night of heartfelt music and timeless songwriting.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour.jpg",
+        "slug": "grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour",
+        "id": "0e699f4c-3a15-4260-8da3-817c6bd07dc1",
+        "name": "Melissa Etheridge and Indigo Girls: Yes We Are Tour",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-24T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -15174,20 +15174,6 @@
         ]
     },
     {
-        "description": "$33 - $43.75 (All seats reserved),$66 - $76.75 (Party Deck)\n\nHappy Together Tour 2025 is a nostalgic celebration of the iconic hits of the \u201960s and \u201970s, headlined by The Turtles, known for their timeless anthem \"Happy Together.\" Joining them are Jay and the Americans, Little Anthony, Gary Puckett & The Union Gap, The Vogues, and The Cowsills\u2014a lineup of legendary artists performing the classic songs that defined a generation.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-happy-together-tour-2025-featuring-the-turtles-jay-and-the-americans-little-anthony-gary-puckett--the-union-gap-the-vogues-and-the-cowsills.jpg",
-        "slug": "grandstand-happy-together-tour-2025-featuring-the-turtles-jay-and-the-americans-little-anthony-gary-puckett--the-union-gap-the-vogues-and-the-cowsills",
-        "id": "5db35db7-49cf-4387-bdbc-68d9f571bccc",
-        "name": "Happy Together Tour 2025 featuring The Turtles, Jay and the Americans, Little Anthony, Gary Puckett & The Union Gap, The Vogues and The Cowsills",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-25T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "the-climate-resilient-garden",
@@ -15690,6 +15676,20 @@
             {
                 "start": "2025-08-25T18:00:00-05:00",
                 "end": "2025-08-25T22:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$33 - $43.75 (All seats reserved),$66 - $76.75 (Party Deck)\n\nHappy Together Tour 2025 is a nostalgic celebration of the iconic hits of the \u201960s and \u201970s, headlined by The Turtles, known for their timeless anthem \"Happy Together.\" Joining them are Jay and the Americans, Little Anthony, Gary Puckett & The Union Gap, The Vogues, and The Cowsills\u2014a lineup of legendary artists performing the classic songs that defined a generation.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-happy-together-tour-2025-featuring-the-turtles-jay-and-the-americans-little-anthony-gary-puckett--the-union-gap-the-vogues-and-the-cowsills.jpg",
+        "slug": "grandstand-happy-together-tour-2025-featuring-the-turtles-jay-and-the-americans-little-anthony-gary-puckett--the-union-gap-the-vogues-and-the-cowsills",
+        "id": "5db35db7-49cf-4387-bdbc-68d9f571bccc",
+        "name": "Happy Together Tour 2025 featuring The Turtles, Jay and the Americans, Little Anthony, Gary Puckett & The Union Gap, The Vogues and The Cowsills",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-25T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -16554,20 +16554,6 @@
         ]
     },
     {
-        "description": "$77 - $292 (All seats reserved),$154 - $169.25 (Party Deck)\n\nDef Leppard are rock icons whose explosive anthems and arena-filling energy helped define '80s hard rock. With multi-platinum albums like \"Pyromania\" and \"Hysteria,\" they\u2019ve delivered decades of chart-topping hits including \"Pour Some Sugar on Me\" and \"Photograph.\"\n\nBrother Cane is a Southern rock band best known for their '90s radio hits like \"And Fools Shine On\" and \"Got No Shame.\" They bring a gritty, guitar-driven sound that blends hard rock with bluesy roots.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-def-leppard-with-special-guest-brother-cane.jpg",
-        "slug": "grandstand-def-leppard-with-special-guest-brother-cane",
-        "id": "f76fbc20-c351-4996-a3f4-fa8408831824",
-        "name": "Def Leppard with special guest Brother Cane",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-26T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "open-class-sheep-babydoll-southdown",
@@ -16730,6 +16716,20 @@
             {
                 "start": "2025-08-27T18:30:00-05:00",
                 "end": "2025-08-27T21:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$77 - $292 (All seats reserved),$154 - $169.25 (Party Deck)\n\nDef Leppard are rock icons whose explosive anthems and arena-filling energy helped define '80s hard rock. With multi-platinum albums like \"Pyromania\" and \"Hysteria,\" they\u2019ve delivered decades of chart-topping hits including \"Pour Some Sugar on Me\" and \"Photograph.\"\n\nBrother Cane is a Southern rock band best known for their '90s radio hits like \"And Fools Shine On\" and \"Got No Shame.\" They bring a gritty, guitar-driven sound that blends hard rock with bluesy roots.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-def-leppard-with-special-guest-brother-cane.jpg",
+        "slug": "grandstand-def-leppard-with-special-guest-brother-cane",
+        "id": "f76fbc20-c351-4996-a3f4-fa8408831824",
+        "name": "Def Leppard with special guest Brother Cane",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-26T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -17662,20 +17662,6 @@
         ]
     },
     {
-        "description": "$56 - $91.25 (All seats reserved),$112 - $125.75 (Party Deck)\n\nHank Williams Jr. is a country music legend whose outlaw spirit and Southern rock flair have made him a genre-defining artist for over five decades. Known for hits like \"Family Tradition\" and \"A Country Boy Can Survive,\" he\u2019s a true icon of American music.\n\nMarty Stuart and His Fabulous Superlatives deliver a masterful blend of country, rockabilly, and bluegrass, led by Grammy-winning singer and guitar virtuoso Marty Stuart. Their high-energy performances honor country tradition with unmatched musicianship.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-hank-williams-jr.-with-special-guest-marty-stuart-and-his-fabulous-superlatives.jpg",
-        "slug": "grandstand-hank-williams-jr.-with-special-guest-marty-stuart-and-his-fabulous-superlatives",
-        "id": "a57b2681-cec3-4d2c-896a-3e1e055d60b0",
-        "name": "Hank Williams Jr. with special guest Marty Stuart and His Fabulous Superlatives",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-27T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "experience-mn-4-h-at-the-state-fair",
@@ -18030,6 +18016,20 @@
             {
                 "start": "2025-08-27T19:00:00-05:00",
                 "end": "2025-08-27T19:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$56 - $91.25 (All seats reserved),$112 - $125.75 (Party Deck)\n\nHank Williams Jr. is a country music legend whose outlaw spirit and Southern rock flair have made him a genre-defining artist for over five decades. Known for hits like \"Family Tradition\" and \"A Country Boy Can Survive,\" he\u2019s a true icon of American music.\n\nMarty Stuart and His Fabulous Superlatives deliver a masterful blend of country, rockabilly, and bluegrass, led by Grammy-winning singer and guitar virtuoso Marty Stuart. Their high-energy performances honor country tradition with unmatched musicianship.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-hank-williams-jr.-with-special-guest-marty-stuart-and-his-fabulous-superlatives.jpg",
+        "slug": "grandstand-hank-williams-jr.-with-special-guest-marty-stuart-and-his-fabulous-superlatives",
+        "id": "a57b2681-cec3-4d2c-896a-3e1e055d60b0",
+        "name": "Hank Williams Jr. with special guest Marty Stuart and His Fabulous Superlatives",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-27T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -18884,20 +18884,6 @@
         ]
     },
     {
-        "description": "$44 - $74.75 (All seats reserved),$88 - $100.25 (Party Deck)\n\nDaryl Hall, best known as one half of Hall & Oates, brings decades of soulful pop and rock hits to the stage, including classics like \"Rich Girl,\" \"Sara Smile,\" and \"You Make My Dreams.\" His solo performances showcase his signature vocals and deep catalog of timeless music.\n\nThe Rascals rose to fame in the 1960s with their blue-eyed soul sound and chart-topping hits like \"Good Lovin\u2019\" and \"Groovin\u2019.\" Their upbeat, feel-good tunes helped shape the sound of a generation.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-daryl-hall-with-special-guest-the-rascals.jpg",
-        "slug": "grandstand-daryl-hall-with-special-guest-the-rascals",
-        "id": "89a8faf5-b435-483e-a0a3-d3106fed7f3b",
-        "name": "Daryl Hall with special guest The Rascals",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-28T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "daily-parade-marching-bands-aug-28",
@@ -19118,6 +19104,20 @@
             {
                 "start": "2025-08-28T19:00:00-05:00",
                 "end": "2025-08-28T19:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$44 - $74.75 (All seats reserved),$88 - $100.25 (Party Deck)\n\nDaryl Hall, best known as one half of Hall & Oates, brings decades of soulful pop and rock hits to the stage, including classics like \"Rich Girl,\" \"Sara Smile,\" and \"You Make My Dreams.\" His solo performances showcase his signature vocals and deep catalog of timeless music.\n\nThe Rascals rose to fame in the 1960s with their blue-eyed soul sound and chart-topping hits like \"Good Lovin\u2019\" and \"Groovin\u2019.\" Their upbeat, feel-good tunes helped shape the sound of a generation.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-daryl-hall-with-special-guest-the-rascals.jpg",
+        "slug": "grandstand-daryl-hall-with-special-guest-the-rascals",
+        "id": "89a8faf5-b435-483e-a0a3-d3106fed7f3b",
+        "name": "Daryl Hall with special guest The Rascals",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-28T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -19922,20 +19922,6 @@
         ]
     },
     {
-        "description": "$54 - $86.25 (All seats reserved),$108 - $121.75 (Party Deck)\n\nThe Avett Brothers blend folk, rock, and bluegrass with heartfelt songwriting and raw, energetic performances. Known for songs like *\"I and Love and You\"* and *\"Live and Die,\"* they\u2019ve built a devoted following with their honest lyrics and genre-crossing sound.\n\nThe Milk Carton Kids are a Grammy-nominated duo whose close harmonies and acoustic arrangements recall the golden era of folk. Their introspective songs and dry stage banter make for an intimate and memorable live experience.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-avett-brothers-with-special-guest-the-milk-carton-kids.jpg",
-        "slug": "grandstand-the-avett-brothers-with-special-guest-the-milk-carton-kids",
-        "id": "8fa6bdb4-86c5-495a-bfa3-053c2cc9ebbf",
-        "name": "The Avett Brothers with special guest The Milk Carton Kids",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-29T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "turf-alternativesxx",
@@ -20280,6 +20266,20 @@
             {
                 "start": "2025-08-31T08:00:00-05:00",
                 "end": "2025-08-31T09:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$54 - $86.25 (All seats reserved),$108 - $121.75 (Party Deck)\n\nThe Avett Brothers blend folk, rock, and bluegrass with heartfelt songwriting and raw, energetic performances. Known for songs like *\"I and Love and You\"* and *\"Live and Die,\"* they\u2019ve built a devoted following with their honest lyrics and genre-crossing sound.\n\nThe Milk Carton Kids are a Grammy-nominated duo whose close harmonies and acoustic arrangements recall the golden era of folk. Their introspective songs and dry stage banter make for an intimate and memorable live experience.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-avett-brothers-with-special-guest-the-milk-carton-kids.jpg",
+        "slug": "grandstand-the-avett-brothers-with-special-guest-the-milk-carton-kids",
+        "id": "8fa6bdb4-86c5-495a-bfa3-053c2cc9ebbf",
+        "name": "The Avett Brothers with special guest The Milk Carton Kids",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-29T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -21054,20 +21054,6 @@
         ]
     },
     {
-        "description": "$54 - $86.25 (All seats reserved),$108 - $121.75 (Party Deck)\n\nNelly is a multi-platinum hip-hop artist known for blending catchy hooks with Southern rap, delivering hits like \"Hot in Herre\" and \"Dilemma.\" He helped shape early 2000s hip-hop with his smooth style and crossover appeal.\n\nJa Rule rose to fame in the early 2000s with his gritty voice and melodic rap hits like \"Always on Time\" and \"Livin\u2019 It Up.\"\nM\u00fda is an R&B singer and dancer known for smooth vocals and hits like \"Case of the Ex\" and \"Lady Marmalade.\"\nYing Yang Twins brought the Atlanta crunk movement mainstream with party anthems like \"Salt Shaker\" and \"Wait (The Whisper Song).\"",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-nelly-with-special-guests-ja-rule-m\u00fda-and-ying-yang-twins.jpg",
-        "slug": "grandstand-nelly-with-special-guests-ja-rule-m\u00fda-and-ying-yang-twins",
-        "id": "bcd18380-c2e7-4661-9b2f-aeb8690f23be",
-        "name": "Nelly with special guests Ja Rule, M\u00fda and Ying Yang Twins",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-30T14:00:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "mad-mojo-jet",
@@ -21244,6 +21230,20 @@
             {
                 "start": "2025-08-31T18:00:00-05:00",
                 "end": "2025-08-31T21:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$54 - $86.25 (All seats reserved),$108 - $121.75 (Party Deck)\n\nNelly is a multi-platinum hip-hop artist known for blending catchy hooks with Southern rap, delivering hits like \"Hot in Herre\" and \"Dilemma.\" He helped shape early 2000s hip-hop with his smooth style and crossover appeal.\n\nJa Rule rose to fame in the early 2000s with his gritty voice and melodic rap hits like \"Always on Time\" and \"Livin\u2019 It Up.\"\nM\u00fda is an R&B singer and dancer known for smooth vocals and hits like \"Case of the Ex\" and \"Lady Marmalade.\"\nYing Yang Twins brought the Atlanta crunk movement mainstream with party anthems like \"Salt Shaker\" and \"Wait (The Whisper Song).\"",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-nelly-with-special-guests-ja-rule-m\u00fda-and-ying-yang-twins.jpg",
+        "slug": "grandstand-nelly-with-special-guests-ja-rule-m\u00fda-and-ying-yang-twins",
+        "id": "bcd18380-c2e7-4661-9b2f-aeb8690f23be",
+        "name": "Nelly with special guests Ja Rule, M\u00fda and Ying Yang Twins",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-30T19:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -22026,20 +22026,6 @@
         ]
     },
     {
-        "description": "Free\n\nThe Minnesota State Fair Amateur Talent Contest Finals showcase the top local performers competing for cash prizes and bragging rights. This free event features singers, dancers, and musicians who won their way through nightly semifinals, coming together for a night of diverse and exciting talent on the Grandstand stage.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-minnesota-state-fair-amateur-talent-contest-finals.jpg",
-        "slug": "grandstand-minnesota-state-fair-amateur-talent-contest-finals",
-        "id": "f2b36f2a-e151-4c80-a853-8e0860d3e067",
-        "name": "Minnesota State Fair Amateur Talent Contest Finals",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-08-31T14:30:00-05:00",
-                "end": null
-            }
-        ]
-    },
-    {
         "description": "",
         "image": null,
         "slug": "russ-parrish",
@@ -22310,6 +22296,20 @@
         ]
     },
     {
+        "description": "Free\n\nThe Minnesota State Fair Amateur Talent Contest Finals showcase the top local performers competing for cash prizes and bragging rights. This free event features singers, dancers, and musicians who won their way through nightly semifinals, coming together for a night of diverse and exciting talent on the Grandstand stage.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-minnesota-state-fair-amateur-talent-contest-finals.jpg",
+        "slug": "grandstand-minnesota-state-fair-amateur-talent-contest-finals",
+        "id": "f2b36f2a-e151-4c80-a853-8e0860d3e067",
+        "name": "Minnesota State Fair Amateur Talent Contest Finals",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-08-31T19:30:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
         "description": "",
         "image": null,
         "slug": "brute-squad",
@@ -22356,20 +22356,6 @@
             {
                 "start": "2025-09-01T19:30:00-05:00",
                 "end": "2025-09-01T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "$10 - $19.25 (All general admission seating)\n\nThe Rock and Roll Playhouse creates fun, family-friendly concerts that introduce kids to popular music through interactive performances. Featuring Bri & The Anti-Heroes, this show brings Taylor Swift\u2019s hits and more to life in a kid-safe, energetic way that encourages singing and dancing.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes.jpg",
-        "slug": "grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes",
-        "id": "8c29ea97-0190-494c-b4a8-af00d0846356",
-        "name": "The Rock and Roll Playhouse Plays Music of Taylor Swift & More for Kids featuring Bri & The Anti-Heroes",
-        "venue_slug": "grandstand-stage",
-        "schedule": [
-            {
-                "start": "2025-09-01T06:00:00-05:00",
-                "end": null
             }
         ]
     },
@@ -22647,14 +22633,14 @@
     },
     {
         "description": "$10 - $19.25 (All general admission seating)\n\nThe Rock and Roll Playhouse creates fun, family-friendly concerts that introduce kids to popular music through interactive performances. Featuring Bri & The Anti-Heroes, this show brings Taylor Swift\u2019s hits and more to life in a kid-safe, energetic way that encourages singing and dancing.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes---afternoon.jpg",
-        "slug": "grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes---afternoon",
-        "id": "16c413fc-1949-4d5e-9de4-0cfbe2f2cc53",
-        "name": "The Rock and Roll Playhouse Plays Music of Taylor Swift & More for Kids featuring Bri & The Anti-Heroes - Afternoon",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes.jpg",
+        "slug": "grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes",
+        "id": "8c29ea97-0190-494c-b4a8-af00d0846356",
+        "name": "The Rock and Roll Playhouse Plays Music of Taylor Swift & More for Kids featuring Bri & The Anti-Heroes",
         "venue_slug": "grandstand-stage",
         "schedule": [
             {
-                "start": "2025-09-01T10:00:00-05:00",
+                "start": "2025-09-01T11:00:00-05:00",
                 "end": null
             }
         ]
@@ -22868,6 +22854,20 @@
             {
                 "start": "2025-09-01T15:00:00-05:00",
                 "end": "2025-09-01T18:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "$10 - $19.25 (All general admission seating)\n\nThe Rock and Roll Playhouse creates fun, family-friendly concerts that introduce kids to popular music through interactive performances. Featuring Bri & The Anti-Heroes, this show brings Taylor Swift\u2019s hits and more to life in a kid-safe, energetic way that encourages singing and dancing.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes---afternoon.jpg",
+        "slug": "grandstand-the-rock-and-roll-playhouse-plays-music-of-taylor-swift--more-for-kids-featuring-bri--the-anti-heroes---afternoon",
+        "id": "16c413fc-1949-4d5e-9de4-0cfbe2f2cc53",
+        "name": "The Rock and Roll Playhouse Plays Music of Taylor Swift & More for Kids featuring Bri & The Anti-Heroes - Afternoon",
+        "venue_slug": "grandstand-stage",
+        "schedule": [
+            {
+                "start": "2025-09-01T15:00:00-05:00",
+                "end": null
             }
         ]
     },
