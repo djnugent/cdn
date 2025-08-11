@@ -1,6 +1,6 @@
 [
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -17,7 +17,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": "Princess Kay and her court each have their likenesses carved into a 90-pound block of butter by sculptor Gerry Kulzer. This tradition, dating back to 1965, honors contestants in the Midwest Dairy Princess Kay of the Milky Way competition. These young women serve as the goodwill ambassadors for Minnesota\u2019s dairy farmers. Princess Kay\u2019s likeness is carved over the first two days of the fair, followed by one of the finalists\u2019 likenesses carved each day of the fair through Labor Day. The princess being sculpted and the sculptor rotate in a 40\u00b0 display cooler and periodically answer questions from the audience. After the fair, each contestant takes home their sculpture to enjoy for years to come. Stop by the southeast corner of the Dairy Building to experience this udder-ly unique form of art!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butter-sculptures.jpg",
         "hours": null,
         "cost": null,
@@ -34,7 +34,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -51,7 +51,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -68,7 +68,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -85,7 +85,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": "Unique to the Minnesota State Fair, crop art originated in 1965 and has been a cherished tradition since. Each art piece is made from Minnesota-grown seeds, stems and other plant parts on supporting backgrounds with or without the use of paints and dyes. Works of art entered in this year\u2019s competition, as well as pieces by renowned crop artists, are on display all 12 days of the fair.\u00a0Each year the crop art competition garners nearly 700 entries and continues to \u201cgrow.\u201d Stop by the Agriculture Horticulture Building to marvel at these crop-tastic creations!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-crop-art-exhibit.jpg",
         "hours": null,
         "cost": null,
@@ -102,7 +102,7 @@
         "new_vendor": true
     },
     {
-        "description": "",
+        "description": "Take a stroll through the butterfly house and get up close with these winged wonders. Watch them zip around, land on flowers, and maybe even on you! It's a peaceful escape and a perfect chance to learn about their life cycle and the environment they thrive in.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butterfly-house.jpg",
         "hours": null,
         "cost": "$4 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
@@ -119,7 +119,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This building features exhibits and vendors focused on home renovation, offering ideas, products, and expert advice for updating or remodeling your space. It's a one-stop spot for homeowners looking to tackle projects big or small.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-home-improvement-building.jpg",
         "hours": null,
         "cost": null,
@@ -136,7 +136,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Common Table is an educational exhibit focused on food systems, sustainability, and community action. It features interactive displays on topics like local farming, soil health, food justice, composting, and waste reduction. Visitors can explore gardens, aquaponics setups, and hands-on learning areas created with input from Minnesota\u2019s food advocates.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-common-table.jpg",
         "hours": null,
         "cost": null,
@@ -153,7 +153,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Crossroads Chapel and Stage offers a welcoming space for spiritual connection and entertainment. This venue hosts free live music performances and provides complimentary Bibles to fairgoers. It serves as a place for reflection and community engagement during the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-crossroads-chapel-and-stage.jpg",
         "hours": null,
         "cost": null,
@@ -170,7 +170,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This livestock barn houses pigs from various breeds, showcased in competitions throughout the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-robert-a-christensen-pavilion.jpg",
         "hours": null,
         "cost": null,
@@ -187,7 +187,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located at 1842 West Dan Patch Ave. Hours: Tuesday\u2013Friday, 9 a.m. to 3 p.m., and Friday, Sept. 6, 9 a.m. to noon. After the fair, head to 1312 Cosgrove St. Monday\u2013Friday, 9 a.m. to 3 p.m. lostandfound@mnstatefair.org or 651-288-4555.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-lost-and-found.jpg",
         "hours": null,
         "cost": null,
@@ -204,7 +204,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Skyride carries visitors across the fairgrounds from east to west and back. It offers a high-up view of the fair, making it a convenient and scenic way to travel between major areas.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-skyride.jpg",
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
@@ -221,7 +221,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "O\u2019Gara\u2019s at the Fair is a lively Irish pub located on the southwest corner of Dan Patch Avenue and Cosgrove Street, just inside the main gate. Open daily from 9 a.m. to 11 p.m., it offers a spacious patio, live music, and a variety of food and drink options. New for 2025, O\u2019Gara\u2019s introduces the Pot of Gold Potato Dumplings\u2014cheesy garlic mashed potatoes folded into flaky dumplings and deep-fried, served with chive onion dip. They also debut six new beverages, including the Shamrock Slushie and Irish Sticky Toffee Pudding ale, alongside returning favorites like Blood Orange Cream Ale",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ogaras.jpg",
         "hours": null,
         "cost": null,
@@ -238,7 +238,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located in West End Market, this exhibit showcases over 150 years of the Minnesota State Fair\u2019s history, including competitions, agriculture, entertainment, rides, games, food, and local industry. Created in partnership with the Minnesota Historical Society and State Fair Foundation, it features stories and artifacts that reveal how the fair has evolved over time.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-history-and-heritage-center.jpg",
         "hours": null,
         "cost": null,
@@ -255,7 +255,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This University of Minnesota research hub invites fair visitors of all ages to participate in real-world studies spanning topics like public health, technology, language, and social behavior. With involvement from over 30 academic departments, it\u2019s a unique place to engage with ongoing research and meet the scientists behind the work.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-driven-to-discover.jpg",
         "hours": null,
         "cost": null,
@@ -272,7 +272,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The SkyGlider is a chairlift ride that carries visitors between the center of the fairgrounds and the North End, offering wide views from above. It's a relaxing way to travel and take in the sights.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-skyglider.jpg",
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -289,7 +289,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -306,7 +306,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Adventure Park features some of the fair\u2019s most adrenaline-pumping rides. This area is geared toward thrill seekers looking for high-intensity fun.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-adventure-park.jpg",
         "hours": null,
         "cost": "See each individual attraction for pricing.\n\nNotes: Adventure Park attractions do not accept Mighty Midway and Kidway tickets.\n\n",
@@ -323,7 +323,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This bustling space showcases top projects from Minnesota 4\u2011H youth, spanning aviation, fine arts, health, veterinary science, and many more categories. The building also hosts energetic song and dance performances, engineering challenges, and live demonstrations that highlight youth creativity and innovation.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4h-building.jpg",
         "hours": null,
         "cost": null,
@@ -340,7 +340,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -357,7 +357,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Stop by to BOB FM to hear your favorite country radio station broadcasting live from the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-bob-fm.jpg",
         "hours": null,
         "cost": null,
@@ -374,7 +374,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Welcome to the cow palace! Check out different cattle breeds and dive into some moo-velous activities at the Moo Booth and Milking Parlor",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cattle-barn.jpg",
         "hours": null,
         "cost": null,
@@ -391,7 +391,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Cafe Caribe offers a vibrant Caribbean-themed experience at the Minnesota State Fair, featuring tropical drinks, island-inspired cuisine, and live music performances. Located on the south side of Carnes Avenue between Chambers and Clough streets, it's a popular spot for fairgoers seeking a festive atmosphere. The venue hosts a variety of musicians throughout the fair, providing entertainment for visitors of all ages.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cafe-caribe.jpg",
         "hours": null,
         "cost": null,
@@ -408,7 +408,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Cosgrove Stage features daily performances by community-based dance groups, highlighting a range of cultural styles and local talent. It's a lively spot to experience the rhythm and movement of Minnesota\u2019s diverse communities.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cosgrove-stage.jpg",
         "hours": null,
         "cost": null,
@@ -425,7 +425,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Compeer Arena hosts livestock competitions featuring cattle, goats, llamas, sheep, and horses. These events showcase the skills and dedication of 4-H, FFA, and open-class exhibitors. The arena is located on the north side of Judson Avenue, west of the Horse Barn.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-compeer-arena.jpg",
         "hours": null,
         "cost": null,
@@ -442,7 +442,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This distinctive octagonal building highlights Minnesota\u2019s agricultural abundance with exhibits like crop art made from local seeds, award-winning fruits and vegetables, giant pumpkins, and vibrant flower displays. Visitors can also explore bee and honey exhibits, sample beer flights from the Minnesota Craft Brewers Guild, and enjoy a themed floral installation created by local florists.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-agriculture-horticulture-building.jpg",
         "hours": null,
         "cost": null,
@@ -459,7 +459,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "A timeless ride at the fair, the Carousel features beautifully painted wooden horses that circle to familiar, cheerful music. It offers a charming, nostalgic experience suitable for visitors of all ages.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-carousel.jpg",
         "hours": null,
         "cost": "$3 per rider\n\nNotes: This ride does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -476,7 +476,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This popular venue showcases over 8,000 entries of handcrafted excellence\u2014everything from show-stopping cakes and quilts to detailed woodworking, needlework, and home-canned goods made by Minnesotans. Inside, the Cambria Kitchen hosts live cooking demos that offer tips, techniques, and tasty inspiration throughout the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-creative-activities-building.jpg",
         "hours": null,
         "cost": null,
@@ -493,7 +493,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Coasters is a vibrant venue offering a mix of live entertainment and specialty beverages.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-coasters.jpg",
         "hours": null,
         "cost": null,
@@ -510,7 +510,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Head to the Christensen Farms Stage to meet veterinarians and animals from the CHS Miracle of Birth Center, learn about FFA programs, and discover firsthand what it's like to work on a modern farm.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-christensen-farms-stage.jpg",
         "hours": null,
         "cost": null,
@@ -527,7 +527,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This family-friendly exhibit showcases sheep and includes hands-on activities that teach about wool and sheep care. Open during the first eight days of the fair, it offers educational fun for visitors of all ages.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-baa-booth.jpg",
         "hours": null,
         "cost": null,
@@ -544,7 +544,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Presented by the Minnesota Horse Expo and Minnesota Horse Council, the Aisle of Breeds brings together a diverse collection of horse breeds. Guests can chat with owners, interact with the horses, ask questions about equine care, and discover local riding schools and trail opportunities in Minnesota.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-aisle-of-breeds.jpg",
         "hours": null,
         "cost": null,
@@ -561,7 +561,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kare-11-tv.jpg",
         "hours": null,
         "cost": null,
@@ -578,7 +578,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "First Aid East provides medical support for minor injuries or health issues during your visit. For emergencies, fairgoers should call 911 or 9-911 from a fairground phone. There is also a First Aid West location available.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-first-aid-east.jpg",
         "hours": null,
         "cost": null,
@@ -595,7 +595,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Need to get out of the sun but still want to eat? Head over to the food building for a delicious snack.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-food-building.jpg",
         "hours": null,
         "cost": null,
@@ -612,7 +612,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Dairy Building features butter sculptures of Princess Kay finalists and serves a variety of dairy treats like malts and sundaes. It also houses vendors offering Minnesota-made goods, including outdoor gear, home products, and wool items.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dairy-building.jpg",
         "hours": null,
         "cost": null,
@@ -629,7 +629,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Housed in a historic 1907 building, this center displays over 300 pieces selected from thousands of Minnesota artists, featuring mediums like painting, sculpture, ceramics, photography, textiles, and drawing. Visitors can try the \u201cFine Arts Detective\u201d activity to engage with the artwork, and check out daily artist demos in the Studio: HERE corner for a behind-the-scenes look at creative processes.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fine-arts-center.jpg",
         "hours": null,
         "cost": null,
@@ -646,7 +646,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This towering five-story slide has been thrilling visitors for decades, offering a classic fair experience that's bigger and faster than any backyard slide. Riders of all ages can enjoy a breezy, nostalgic descent on this iconic Minnesota State Fair attraction.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giant-slide.jpg",
         "hours": null,
         "cost": "$4 per rider\n\nNotes: Riders must be 45 inches or taller to ride unaccompanied; anyone under 45 inches must ride with a parent or guardian. Expectant mothers, heart and back patients are advised not to ride. This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -663,7 +663,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Housed within the Horse Barn, EquiMania! is an interactive, educational exhibit focused on all things equine\u2014from horse behavior, welfare, and anatomy to nutrition, parasite prevention, safety, and careers. Developed from a University of Guelph traveling show, it includes engaging displays and quizzes that teach visitors of all backgrounds about caring for horses and exploring equestrian professions.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-equimania.jpg",
         "hours": null,
         "cost": null,
@@ -680,7 +680,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located in Baldwin Park, the Family Fair Stage offers a full schedule of entertainment for all ages, featuring performances like breakdancing, magic shows, and comedy acts. It\u2019s a free, family-friendly destination that brings playful energy to the fairgrounds.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-family-fair-stage.jpg",
         "hours": null,
         "cost": null,
@@ -697,7 +697,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This building highlights the achievements of Minnesota students from kindergarten through high school, showcasing ribbon-winning entries in art, writing, woodworking, crafts, and school projects. Visitors can also watch live robotics demos by middle and high school teams and explore informational displays from various educational institutions and nonprofit groups.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-education-building.jpg",
         "hours": null,
         "cost": null,
@@ -714,7 +714,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This exhibit offers practical ideas for sustainable living, featuring interactive displays on recycling, renewable energy, green tech, organic farming, eco-friendly transit, healthy cooking, and clean air and water\u2014all designed to inspire daily habits. The Minnesota Pollution Control Agency hosts the space and ensures accessibility with ASL interpreters and select braille documents during specified dates.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-eco-experience.jpg",
         "hours": null,
         "cost": null,
@@ -731,7 +731,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "One stop shop for sport fans. Pick up swag for your favorite MN team - ranging from the Vikings to the Lynx. FAN Central is the place to get you sports fix while at the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fan-central.jpg",
         "hours": null,
         "cost": null,
@@ -748,7 +748,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fox-9-tv.jpg",
         "hours": null,
         "cost": null,
@@ -765,7 +765,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "A centerpiece of the fairgrounds, the Grandstand offers two levels of indoor shopping with nearly 200 vendors, including a curated boutique section called The Veranda. Outdoors, the venue hosts nightly concerts and special events featuring national performers and the Amateur Talent Contest Finals.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-grandstand-building.jpg",
         "hours": null,
         "cost": null,
@@ -782,7 +782,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Grandstand Stage hosts major evening concerts featuring nationally known artists across a range of music genres. These performances require a separate ticket from general fair admission.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-grandstand-stage.jpg",
         "hours": null,
         "cost": null,
@@ -799,7 +799,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located on Carnes Avenue, the French Cr\u00eaperie serves sweet and savory cr\u00eapes alongside wine slushies made with Minnesota wine. It\u2019s a tasty spot for a classic fair treat with a twist.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-french-creperie.jpg",
         "hours": null,
         "cost": null,
@@ -816,7 +816,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Get ready for an immersive, music-and-light-filled labyrinth where visitors race to uncover hidden letters and find the exit under time pressure. Designed for thrill-seekers, this oversized maze also allows friends and family to cheer from an elevated viewing deck. Admission is $5 per person.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-krazy-maze.jpg",
         "hours": null,
         "cost": "$5 per person\n\nNotes: No age or height restrictions. This ride does not accept Mighty Midway and Kidway ride & game tickets\n\n",
@@ -833,7 +833,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Kidway is a family-friendly zone designed with younger guests in mind, offering age-appropriate rides, interactive games, and kid-approved food options. It\u2019s a fun and safe place where little ones can enjoy fairtime thrills and tasty treats.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kidway.jpg",
         "hours": null,
         "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at the Kidway! Get your coupon book for just $5.\n\n",
@@ -850,7 +850,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This spooky attraction delivers classic Halloween-style scares and eerie surprises as you walk through darkened corridors at the fair. It operates exclusively during the Minnesota State Fair\u2019s 12-day run, offering a fun fright for those seeking a thrill.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-haunted-house.jpg",
         "hours": null,
         "cost": "$5 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -867,7 +867,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This interactive attraction invites visitors to sing along karaoke-style with a field of microphones and a giant screen displaying lyrics to popular and nostalgic songs. Special show tune sessions happen daily at noon and 6:30 p.m., and audio software helps participants stay in sync. It's a fun group experience for singers of all skill levels.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giant-sing-along.jpg",
         "hours": null,
         "cost": null,
@@ -884,7 +884,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Standing 156 feet tall, the Great Big Wheel is one of the largest traveling Ferris wheels in North America. With 36 enclosed gondolas, each seating up to six riders, it offers sweeping views of the fairgrounds and a colorful light show after dark.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-great-big-wheel.jpg",
         "hours": null,
         "cost": "$7 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
@@ -901,7 +901,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Giggles' Campfire Grill offers a rustic, log-cabin atmosphere reminiscent of northern Minnesota. Since 2000, this family-owned establishment has been serving a variety of dishes, including walleye cakes, elk burgers, and smoked salmon wraps, alongside a selection of craft beers and specialty sips",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giggles-campfire-grill.jpg",
         "hours": null,
         "cost": null,
@@ -918,7 +918,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Learn about Minnesota wildlife at the DNR stage. Our eco system is a magestic place - get a glimpse into the animals that inhabit it.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-garden-stage.jpg",
         "hours": null,
         "cost": null,
@@ -935,7 +935,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The sounds of cultures from Minnesota and around the world heat up the International Bazaar Stage. Stop by during the day to experience polka, brass, jazz, funk, Tex-Mex, R&B, rock, dance and more, and come back for Bazaar After Dark shows each night. Free with fair admission!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-summit-stage-at-the-bazaar.jpg",
         "hours": null,
         "cost": null,
@@ -952,7 +952,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Feeling piggy? Checkout the Oink booth to learn more about a pig and their farms. Dont forget to visit the sow with her piglets.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-oink-booth.jpg",
         "hours": null,
         "cost": null,
@@ -969,7 +969,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Step into the Warner Coliseum, where the action never slows down! From bull riding to barrel racing, draft horses to sheepherding dogs, it\u2019s a nonstop showcase of skill and horsepower. Plus, grab some western wear while you\u2019re there\u2014because every cowboy and cowgirl needs a good hat!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-lee-and-rose-warner-coliseum.jpg",
         "hours": null,
         "cost": null,
@@ -986,7 +986,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This interactive booth turns math into hands\u2011on fun for all ages, featuring geometric and reptile\u2011inspired tiles for pattern play, sorting and counting activities using colorful egg cards, and a cozy area to browse books about numbers and shapes. Sponsored by the Minnesota State Fair Foundation, it's a clever stop for a playful learning break.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-math-on-a-stick.jpg",
         "hours": null,
         "cost": null,
@@ -1003,7 +1003,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "A fairground staple since the 1980s, this show brings close-up encounters with reptiles like snakes, lizards, and alligators. It\u2019s a hands-on, educational experience designed to amaze both kids and adults alike.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-montys-traveling-reptile-show.jpg",
         "hours": null,
         "cost": "$3 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -1020,7 +1020,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Minnesota Wine Country offers a curated selection of wines crafted by local wineries. Visitors can enjoy wine tastings, discover new blends, and learn about Minnesota's growing wine industry. The venue also features live music, creating a vibrant atmosphere for guests to relax and savor regional flavors.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-wine-country.jpg",
         "hours": null,
         "cost": null,
@@ -1037,7 +1037,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Minnesota Public Radio (MPR) brings its signature blend of music, news, and community engagement to the Minnesota State Fair at its booth located at the corner of Judson and Nelson. Visitors can enjoy live broadcasts, exclusive merchandise, and interactive activities that celebrate Minnesota's diverse culture.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-mpr.jpg",
         "hours": null,
         "cost": null,
@@ -1054,7 +1054,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Step inside the barn doors at this interactive exhibit and explore dairy and beef farming up close. You can see milking equipment in action, try your hand at hand-milking a cow, meet the animals, and learn about farm technology. Bonus: there are fun challenges and free prizes to take home.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-moo-booth.jpg",
         "hours": null,
         "cost": null,
@@ -1071,7 +1071,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This living-history exhibit, run by the Minnesota Newspaper Foundation, recreates a traditional newspaper office using vintage letterpress equipment. Visitors can watch how type was set, pick up a copy of \"The Maynard News,\" and learn about the role of local newspapers in Minnesota\u2019s communities. The museum also explores press freedom and offers unique print-themed keepsakes.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-newspaper-museum.jpg",
         "hours": null,
         "cost": null,
@@ -1088,7 +1088,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This centerpiece of the North End is a modern 12,000-square-foot exhibit hall designed to host large displays, demonstrations, and gatherings during the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-north-end-event-center.jpg",
         "hours": null,
         "cost": null,
@@ -1105,7 +1105,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Sadly the fair doesn't let you bring in your favorite furry friend but dont let that stop you from getting your fix and picking them up a new toy or collar. There are plenty of place to shop and spoil your pet. The Pet Pavilion hosts a variety of demonstrations ranging from police K-9 agility to spay and neutering surgeries. Check the schedule for more details.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-pet-pavilions.jpg",
         "hours": null,
         "cost": null,
@@ -1122,7 +1122,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Barn full of baa-ing, clucking, and hopping fun!  From sheep to goats, rabbits to roosters, there\u2019s something new to see every day. Don\u2019t miss the Baa Booth (first 8 days) or the Goat Booth (last 4 days) for hands-on fun and tons of furry friends",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-sheep-and-poultry-barn.jpg",
         "hours": null,
         "cost": null,
@@ -1139,7 +1139,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Ready to shout BINGO for a good cause? Swing by Ramberg Center for Blue Ribbon BINGO\u2014happening every hour from 9 a.m. to 8 p.m. (7 p.m. on Labor Day). 18+ unless you bring a parent or guardian. Bring your A-game and your ID.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ramberg-center.jpg",
         "hours": null,
         "cost": null,
@@ -1156,7 +1156,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Come visit Twin Cities PBS Live at the state fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-tpt-twin-cities-pbs.jpg",
         "hours": null,
         "cost": null,
@@ -1173,7 +1173,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Take a ride through Ye Old Mill. It's a classic for a reason.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ye-old-mill.jpg",
         "hours": null,
         "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -1190,7 +1190,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Step back in time at the Old Iron Show, where antique farm equipment meets horsepower and history.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-old-iron-show.jpg",
         "hours": null,
         "cost": null,
@@ -1207,7 +1207,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located near the main entrance, Visitors Plaza offers essentials like an information booth, banking services, and official State Fair merchandise",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-visitor-plaza.jpg",
         "hours": null,
         "cost": null,
@@ -1224,7 +1224,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "RC\u2019s BBQ Stage offers a lively atmosphere with live music performances. This venue is operated by RC\u2019s BBQ, a popular food vendor known for its smoked meats and barbecue dishes. The stage features a variety of entertainers, providing fairgoers with a diverse lineup of musical acts.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-rcs-bbq.jpg",
         "hours": null,
         "cost": null,
@@ -1241,7 +1241,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Operating since 1965, the Space Tower gently lifts riders high above the fairgrounds for a rotating, panoramic view of the Twin Cities. It\u2019s a relaxing way to take in the scenery from one of the tallest points at the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-space-tower.jpg",
         "hours": null,
         "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -1258,7 +1258,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "West End Market is a vibrant fair neighborhood blending culture, crafts, and cuisine. You'll find the History & Heritage Center alongside the Schell\u2019s Stage at Schilling Amphitheater, which hosts live performances throughout the fair. Browse artisan stalls featuring handmade, upcycled, and Minnesota-themed goods, and enjoy a variety of food and drink options to satisfy your taste buds.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-west-end-market.jpg",
         "hours": null,
         "cost": null,
@@ -1275,7 +1275,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1292,7 +1292,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Say cheese at the iconic streetcar arch! It been a staple of the fair from the early days and is the perfect selfie spot at the West End Gate. Snap a pic while you're here\u2014it's basically a fair tradition",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-historic-streetcar-arch.jpg",
         "hours": null,
         "cost": null,
@@ -1309,7 +1309,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Get ready for cuteness overload! Visit the baby animal exhibit to meet calves, lambs, piglets, and goats! It\u2019s free, it\u2019s fun, and FFA volunteers and vets will teach you all about farming and animal care.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-chs-miracle-of-birth-center.jpg",
         "hours": null,
         "cost": null,
@@ -1326,7 +1326,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Step into a slice of Minnesota wilderness at the fair\u2014scale a 65-foot fire tower for sweeping views (weather permitting), peer into a massive 50,000-gallon fish pond featuring around 45 native species, catch a live raptor demonstration, or enjoy outdoor musical performances. It's a blend of nature discovery and entertainment in one spot!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dnr-building-and-park.jpg",
         "hours": null,
         "cost": null,
@@ -1343,7 +1343,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located in Baldwin Park, Alphabet Forest offers creative word-based activities for visitors of all ages, including photo ops, crafts, and a fair-themed dictionary project. Kids can read books, including Braille options, and meet featured authors and illustrators daily at the Blue Ribbon Homegrown Author Showcase. Visitors can also join the Fabulous Fair Alphabet Game and earn a ribbon by spotting fair-related words for every letter of the alphabet.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-alphabet-forest.jpg",
         "hours": null,
         "cost": null,
@@ -1360,7 +1360,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Celebrate Minnesota\u2019s culture, community, and creativity at the Dan Patch Park Stage, where interactive programs run alongside informational booths and guest organizations from around the state. Special themed days in 2025 include: \n\nAug. 21: STEM Day\n\nAug. 22: Governor's Fire Prevention Day\n\nAug. 23: Hubbard Broadcasting Day\n\nAug. 25: Mental Health Awareness\n\nAug. 26: Military Appreciation Day\n\nAug. 27: Theater Day\n\nAug. 28: UCare Stretch & Stroll Day\n\nAug. 29: MPR Day\n\nAug. 30: Pan-Latino Day\n\nSept. 1: Hmong Minnesota Day",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dan-patch-park-stage.jpg",
         "hours": null,
         "cost": null,
@@ -1377,7 +1377,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Delivering both local and national talent for decades, the Leinie Lodge Bandshell is always a top draw \u2014 plus it's FREE with fair admission!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-bandshell.jpg",
         "hours": null,
         "cost": null,
@@ -1394,7 +1394,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Just like the name implies, this building features a wide variety of goods and gadgets \u2013 from practical and unique to trendy and fun \u2013 for every fair guest.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1411,7 +1411,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "All day long you can hear the sounds of indie rock, folk music and pop from the Schell\u2019s Stage at Schilling Amphitheater. Be sure to come back for West End at Sunset shows each night. Free with fair admission!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-west-end-market-stage-at-schilling-amphitheater.jpg",
         "hours": null,
         "cost": null,
@@ -1428,7 +1428,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Entertainers are booked and compensated by the independent concessionaires that host them at these privately owned venues. The Minnesota State Fair is not responsible for scheduling of any entertainers listed below (schedules are posted as information becomes available and are subject to change).",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-frontier.jpg",
         "hours": null,
         "cost": null,
@@ -1445,7 +1445,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Farm hands ages 11+ can grab a bookmark and pencil to learn even more about the farm and agriculture! At each stop along the path, answer agriculture-related trivia, and at the end of your journey, check your answers at the Ag-Vestigator Education Station. Receive a ribbon for your farm knowledge! Located within Little Farm Hands.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1462,7 +1462,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This barn stables a wide variety of horse breeds, showcased in competitions throughout the fair.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-horse-barn.jpg",
         "hours": null,
         "cost": null,
@@ -1479,7 +1479,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1496,7 +1496,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "First Aid West offers on-site medical care for minor injuries and health concerns during the fair. In serious situations, guests can call 911 directly\u2014or dial 9\u2011911 from a fair phone\u2014for emergency assistance.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-first-aid-west.jpg",
         "hours": null,
         "cost": null,
@@ -1513,7 +1513,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located inside the Creative Activities Building, Cambria Kitchen is a state-of-the-art culinary demonstration space featuring a curved island and tiered seating for optimal viewing. Throughout the fair, it hosts daily cooking presentations, including appearances by renowned chefs. These sessions offer fairgoers the opportunity to learn new recipes and cooking techniques firsthand.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cambria-kitchen.jpg",
         "hours": null,
         "cost": null,
@@ -1530,7 +1530,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1547,7 +1547,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Baldwin Park transforms into a family fun zone, packed with interactive experiences like the Alphabet Forest\u2014where you can make word-themed crafts, meet authors, and snap photos with oversized letters. It also hosts the Math On\u2011A\u2011Stick booth, perfect for playful number and pattern discovery, alongside a shady stage offering music, jugglers, magic acts, and dance. Nearby vendors round out the experience with family-friendly apparel, toys, and more.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1564,7 +1564,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Dino\u2019s Gyros offers a flavorful selection of Mediterranean-inspired dishes. Their menu features classic gyros, falafel, and specialty items like spicy feta bites and feta-stuffed pastries.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dinos-gyros.jpg",
         "hours": null,
         "cost": null,
@@ -1581,7 +1581,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Baaaahh!  Want the scoop on goats? Learn what it take to be the ultimate GOAT. Come visit the goat booth",
         "image": null,
         "hours": null,
         "cost": "Notes:  Free with fair admission\n\n",
@@ -1598,7 +1598,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Mancini\u2019s al Fresco brings St. Paul\u2019s classic supper club experience to the Minnesota State Fair. Located on the north side of Carnes Avenue between Nelson and Underwood streets, this open-air venue offers a menu inspired by Mancini\u2019s Char House, featuring dishes like the Italian Bomba Sandwich and Porchetta Pig Wings.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-mancinis-al-fresco.jpg",
         "hours": null,
         "cost": null,
@@ -1615,7 +1615,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located in Visitors Plaza, Guest Relations is the place to share feedback or ask questions during your visit. You can also contact the team by email at guestservices@mnstatefair.org.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-guest-relations.jpg",
         "hours": null,
         "cost": null,
@@ -1632,7 +1632,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1649,7 +1649,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Ready for a world tour without leaving the fair? Stroll through the International Bazaar for global eats, cool crafts, funky clothes, and unique d\u00e9cor. Plus, enjoy nonstop music and dance performances, with top-tier shows lighting up the stage after dark!",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-international-bazaar.jpg",
         "hours": null,
         "cost": null,
@@ -1666,7 +1666,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Explore the fair's rich history with the Minnesota State Fair History Walking Tour. Learn about key moments and landmarks that have shaped the fair over the years.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1683,7 +1683,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Horse Barn Annex serves as an extension of the Horse Barn at the Minnesota State Fair, providing additional space for equine competitions and exhibits. This facility accommodates various horse breeds and hosts educational displays, offering visitors an opportunity to learn about equine care and breeding. The annex contributes to the fair's comprehensive livestock experience, complementing the main Horse Barn and other related exhibits.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1700,7 +1700,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Built in 1911, this historic house on the fairgrounds was once home to horticulture leaders and fair board members. Now restored, it serves as office space for the Minnesota State Fair Foundation and hosts community meetings.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-jv-bailey-house.jpg",
         "hours": null,
         "cost": null,
@@ -1717,7 +1717,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This hands-on exhibit lets kids experience life on the farm by completing chores, harvesting crops, and trading goods at a mock farmers market. Along the way, families explore gardens filled with crops like wheat, sunflowers, and sugar beets, while learning how food moves from farm to table.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-little-farm-hands.jpg",
         "hours": null,
         "cost": null,
@@ -1734,7 +1734,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Minnesota AFL-CIO Pavilion highlights the work and impact of labor unions across the state. Visitors can connect with union representatives, watch live music, and participate in interactive activities that showcase organized labor\u2019s role in Minnesota\u2019s communities.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-afl-cio.jpg",
         "hours": null,
         "cost": null,
@@ -1751,7 +1751,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Mighty Midway is packed with amusement rides, classic fair games, and food stands, offering fun for thrill-seekers and families alike. Some attractions have age or height requirements.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-mighty-midway.jpg",
         "hours": null,
         "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at Mighty Midway! Get your coupon book for just $5.\n\n",
@@ -1768,7 +1768,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1785,7 +1785,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The University of Minnesota Outdoor Stage offers a variety of performances and presentations throughout the fair.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1802,7 +1802,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Catch a ride and a view! Zoom over the fairgrounds on the chairlift\u2014perfect for getting from A to B and scoring those epic aerial shots. It\u2019s like a fairground tour... with a little breeze and a lot of height!",
         "image": null,
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -1819,7 +1819,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The East Side Terminal is the starting point for the Skyride\u2019s westbound trip across the fairgrounds. This gondola lift offers a scenic, elevated ride that helps you travel easily while enjoying aerial views of the fair.",
         "image": null,
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
@@ -1836,7 +1836,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The DNR Volunteer Outdoor Stage, situated at the northwest corner of Judson Avenue and Nelson Street, offers a variety of live entertainment and educational programs throughout the Minnesota State Fair. This stage features performances and presentations that highlight Minnesota's natural resources, wildlife, and conservation efforts. It's a great spot to enjoy free shows while learning more about the state's environmental initiatives.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-outdoor-stage.jpg",
         "hours": null,
         "cost": null,
@@ -1853,7 +1853,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The South Side Terminal is where you begin your SkyGlider ride\u2014a charming chairlift that travels from the fair\u2019s center up to the North End. It\u2019s both a convenient way to get around and a fantastic chance to capture aerial photos of the fairgrounds.",
         "image": null,
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -1870,7 +1870,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "For emergencies during the fair, dial 911 or 9-911 from a State Fair phone. For non-emergency assistance, contact Police Headquarters at 651-291-1111.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-police-headquarters.jpg",
         "hours": null,
         "cost": null,
@@ -1887,7 +1887,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1904,7 +1904,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This outdoor performance area in The North Woods hosts two lively shows included with fair admission: the All\u2011Star Stunt Dogs Splash, where athletic canines leap and perform tricks, and the Timberworks Lumberjack Show, featuring traditional competitions like tree climbing and log sawing. It\u2019s a fun, action-packed destination for families and fairgoers alike.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1921,7 +1921,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": null,
         "image": null,
         "hours": null,
         "cost": null,
@@ -1938,7 +1938,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The North Woods features live shows including high-flying canine performances and traditional lumberjack demonstrations with log rolling, sawing, and tree climbing.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1955,7 +1955,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The North End is the fair\u2019s newest neighborhood, offering a fresh destination with attractions like the North End Event Center, a giant corn fairstalk sculpture, and interactive photo installations by local artist Adam Turman. It\u2019s also home to specialty vendors from Minnesota, making it a vibrant spot to explore.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1972,7 +1972,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "The Hangar is a spacious venue featuring craft beer, hearty food, and live music. Housed in a renovated 1909 airplane hangar, it offers indoor and outdoor seating for thousands of fair visitors.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-hangar.jpg",
         "hours": null,
         "cost": null,
@@ -1989,7 +1989,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This terminal marks the westbound departure point for the fair\u2019s gondola-style Skyride, offering a peaceful aerial trek back to the east side of the grounds. It\u2019s a scenic shortcut that lets you glide above crowds while enjoying sweeping views of the fair\u2019s layout.",
         "image": null,
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
@@ -2006,7 +2006,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "This stage invites fairgoers to showcase their vocal skills with open mic karaoke sessions. It\u2019s a fun, interactive spot where visitors can take the spotlight and entertain the crowd.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-garden-stage.jpg",
         "hours": null,
         "cost": null,
@@ -2023,7 +2023,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located in the Food Building, this hub features live performances, interactive demos, and chances to meet student-athletes. Visitors can also find Gopher merchandise and learn about university programs.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -2040,7 +2040,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Located inside the Agriculture Horticulture Building, this stage hosts daily demonstrations starting at 10 a.m. led by experts in gardening, landscaping, and floral design. Visitors can watch hands-on presentations and get their questions answered by horticulture pros.",
         "image": null,
         "hours": null,
         "cost": null,
@@ -2057,7 +2057,7 @@
         "new_vendor": false
     },
     {
-        "description": "",
+        "description": "Care & Assistance is a guest service facility. We're here to help if a member of your party gets lost or seperated. Free wristbands are availble to help reunite lost persons with their party. Infant care facilities and nursery available. Wheelchair recharge station.",
         "image": null,
         "hours": null,
         "cost": null,
