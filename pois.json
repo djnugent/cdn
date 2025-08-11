@@ -103,6 +103,74 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butterfly-house.jpg",
+        "hours": null,
+        "cost": "$4 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
+        "category": "ride_attraction",
+        "slug": "butterfly-house",
+        "id": "c1af3728-ae8b-4c14-9f9b-0a069a6b57ab",
+        "name": "Butterfly House",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981437,
+            "lng": -93.170792
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-home-improvement-building.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "home-improvement-building",
+        "id": "79bfd5b3-b514-400e-bdaf-4a4f7149cdb6",
+        "name": "Home Improvement Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981876,
+            "lng": -93.168587
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-common-table.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "the-common-table",
+        "id": "b0033b40-95ad-459c-96b6-e5474b4c6ce1",
+        "name": "The Common Table",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978954,
+            "lng": -93.169317
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-crossroads-chapel-and-stage.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "crossroads-chapel-and-stage",
+        "id": "f23822fb-485e-464b-9f38-ad826f13769d",
+        "name": "Crossroads Chapel and Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981733,
+            "lng": -93.170228
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-robert-a-christensen-pavilion.jpg",
         "hours": null,
         "cost": null,
@@ -137,6 +205,23 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-skyride.jpg",
+        "hours": null,
+        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
+        "category": "ride_attraction",
+        "slug": "skyride",
+        "id": "1aead59d-a172-487f-997b-efbc602683be",
+        "name": "Skyride",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979912,
+            "lng": -93.169338
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ogaras.jpg",
         "hours": null,
         "cost": null,
@@ -149,23 +234,6 @@
             "directions": null,
             "lat": 44.981069,
             "lng": -93.168258
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-driven-to-discover.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "driven-to-discover",
-        "id": "0b8257a2-a1d0-4578-94ce-5a7e30f67558",
-        "name": "Driven to Discover Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.98202,
-            "lng": -93.168276
         },
         "new_vendor": false
     },
@@ -188,6 +256,23 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-driven-to-discover.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "driven-to-discover",
+        "id": "0b8257a2-a1d0-4578-94ce-5a7e30f67558",
+        "name": "Driven to Discover Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.98202,
+            "lng": -93.168276
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-skyglider.jpg",
         "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
@@ -200,74 +285,6 @@
             "directions": null,
             "lat": 44.981422,
             "lng": -93.171057
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-skyride.jpg",
-        "hours": null,
-        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
-        "category": "ride_attraction",
-        "slug": "skyride",
-        "id": "1aead59d-a172-487f-997b-efbc602683be",
-        "name": "Skyride",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979912,
-            "lng": -93.169338
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-common-table.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "the-common-table",
-        "id": "b0033b40-95ad-459c-96b6-e5474b4c6ce1",
-        "name": "The Common Table",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978954,
-            "lng": -93.169317
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4h-building.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "4h-building",
-        "id": "1453ea49-72e8-4ffe-8b72-44aab799422f",
-        "name": "4-H Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.983305,
-            "lng": -93.167568
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-adventure-park.jpg",
-        "hours": null,
-        "cost": "See each individual attraction for pricing.\n\nNotes: Adventure Park attractions do not accept Mighty Midway and Kidway tickets.\n\n",
-        "category": "ride_attraction",
-        "slug": "adventure-park",
-        "id": "55c4d464-0a21-4c2d-a75f-ad01476373e3",
-        "name": "Adventure Park",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.97814,
-            "lng": -93.171746
         },
         "new_vendor": false
     },
@@ -290,222 +307,35 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-agriculture-horticulture-building.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-adventure-park.jpg",
         "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "agriculture-horticulture-building",
-        "id": "83256bc7-0a35-4899-a4f0-c6795dec8063",
-        "name": "Agriculture Horticulture Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979215,
-            "lng": -93.169699
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-aisle-of-breeds.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "aisle-of-breeds",
-        "id": "c0615eaf-3de7-4a1c-a1a1-32326c9bd5ef",
-        "name": "Aisle of Breeds",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979194,
-            "lng": -93.176192
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-baa-booth.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "baa-booth",
-        "id": "1b00a0cd-0452-4c26-8f46-f4744f6429cb",
-        "name": "Baa Booth",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979008,
-            "lng": -93.174468
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-bob-fm.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "bob-fm",
-        "id": "c08b4e64-c77b-46f5-ba1e-2ad5199ef821",
-        "name": "BOB FM",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.97871,
-            "lng": -93.174409
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cosgrove-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "cosgrove-stage",
-        "id": "9464933e-6957-48c9-97a5-e24cecc7e6ea",
-        "name": "Cosgrove Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.982082,
-            "lng": -93.167892
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-butterfly-house.jpg",
-        "hours": null,
-        "cost": "$4 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
+        "cost": "See each individual attraction for pricing.\n\nNotes: Adventure Park attractions do not accept Mighty Midway and Kidway tickets.\n\n",
         "category": "ride_attraction",
-        "slug": "butterfly-house",
-        "id": "c1af3728-ae8b-4c14-9f9b-0a069a6b57ab",
-        "name": "Butterfly House",
+        "slug": "adventure-park",
+        "id": "55c4d464-0a21-4c2d-a75f-ad01476373e3",
+        "name": "Adventure Park",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.981437,
-            "lng": -93.170792
+            "lat": 44.97814,
+            "lng": -93.171746
         },
         "new_vendor": false
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cafe-caribe.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "cafe-caribe",
-        "id": "12311f68-3623-4d75-bbf4-cdec4cf9b6d8",
-        "name": "Cafe Caribe",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979693,
-            "lng": -93.173768
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-carousel.jpg",
-        "hours": null,
-        "cost": "$3 per rider\n\nNotes: This ride does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
-        "category": "ride_attraction",
-        "slug": "carousel",
-        "id": "ddd21d8c-c2f0-4f41-8b99-3a3951465821",
-        "name": "Carousel",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.98079,
-            "lng": -93.172645
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cattle-barn.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4h-building.jpg",
         "hours": null,
         "cost": null,
         "category": "building",
-        "slug": "cattle-barn",
-        "id": "59afeb4e-26d4-40bc-aa1c-10282ab83861",
-        "name": "Cattle Barn",
+        "slug": "4h-building",
+        "id": "1453ea49-72e8-4ffe-8b72-44aab799422f",
+        "name": "4-H Building",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.978103,
-            "lng": -93.176251
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-christensen-farms-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "christensen-farms-stage",
-        "id": "d66315af-229f-4b59-8150-5a3bb92a62f7",
-        "name": "Christensen Farms Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978157,
-            "lng": -93.173039
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-coasters.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "coasters",
-        "id": "ed92ab50-19ec-438d-84fd-1f151e59d4e5",
-        "name": "Coasters",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979645,
-            "lng": -93.175128
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-compeer-arena.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "compeer-arena",
-        "id": "f4c7e917-2d1a-4670-84ba-303811be19f4",
-        "name": "Compeer Arena",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.97906,
-            "lng": -93.177741
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-creative-activities-building.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "creative-activities-building",
-        "id": "d9000a63-8762-4384-bf57-cf6e4f807450",
-        "name": "Creative Activities Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981608,
-            "lng": -93.167562
+            "lat": 44.983305,
+            "lng": -93.167568
         },
         "new_vendor": false
     },
@@ -528,6 +358,210 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-bob-fm.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "bob-fm",
+        "id": "c08b4e64-c77b-46f5-ba1e-2ad5199ef821",
+        "name": "BOB FM",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.97871,
+            "lng": -93.174409
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cattle-barn.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "cattle-barn",
+        "id": "59afeb4e-26d4-40bc-aa1c-10282ab83861",
+        "name": "Cattle Barn",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978103,
+            "lng": -93.176251
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cafe-caribe.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "cafe-caribe",
+        "id": "12311f68-3623-4d75-bbf4-cdec4cf9b6d8",
+        "name": "Cafe Caribe",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979693,
+            "lng": -93.173768
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cosgrove-stage.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "cosgrove-stage",
+        "id": "9464933e-6957-48c9-97a5-e24cecc7e6ea",
+        "name": "Cosgrove Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.982082,
+            "lng": -93.167892
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-compeer-arena.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "compeer-arena",
+        "id": "f4c7e917-2d1a-4670-84ba-303811be19f4",
+        "name": "Compeer Arena",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.97906,
+            "lng": -93.177741
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-agriculture-horticulture-building.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "agriculture-horticulture-building",
+        "id": "83256bc7-0a35-4899-a4f0-c6795dec8063",
+        "name": "Agriculture Horticulture Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979215,
+            "lng": -93.169699
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-carousel.jpg",
+        "hours": null,
+        "cost": "$3 per rider\n\nNotes: This ride does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
+        "category": "ride_attraction",
+        "slug": "carousel",
+        "id": "ddd21d8c-c2f0-4f41-8b99-3a3951465821",
+        "name": "Carousel",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.98079,
+            "lng": -93.172645
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-creative-activities-building.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "creative-activities-building",
+        "id": "d9000a63-8762-4384-bf57-cf6e4f807450",
+        "name": "Creative Activities Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981608,
+            "lng": -93.167562
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-coasters.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "coasters",
+        "id": "ed92ab50-19ec-438d-84fd-1f151e59d4e5",
+        "name": "Coasters",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979645,
+            "lng": -93.175128
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-christensen-farms-stage.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "christensen-farms-stage",
+        "id": "d66315af-229f-4b59-8150-5a3bb92a62f7",
+        "name": "Christensen Farms Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978157,
+            "lng": -93.173039
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-baa-booth.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "baa-booth",
+        "id": "1b00a0cd-0452-4c26-8f46-f4744f6429cb",
+        "name": "Baa Booth",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979008,
+            "lng": -93.174468
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-aisle-of-breeds.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "aisle-of-breeds",
+        "id": "c0615eaf-3de7-4a1c-a1a1-32326c9bd5ef",
+        "name": "Aisle of Breeds",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979194,
+            "lng": -93.176192
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kare-11-tv.jpg",
         "hours": null,
         "cost": null,
@@ -540,40 +574,6 @@
             "directions": null,
             "lat": 44.978936,
             "lng": -93.171836
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-crossroads-chapel-and-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "crossroads-chapel-and-stage",
-        "id": "f23822fb-485e-464b-9f38-ad826f13769d",
-        "name": "Crossroads Chapel and Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981733,
-            "lng": -93.170228
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dairy-building.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "dairy-building",
-        "id": "0600bc32-af56-48c5-91c6-304328126bef",
-        "name": "Dairy Building",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978236,
-            "lng": -93.170921
         },
         "new_vendor": false
     },
@@ -596,86 +596,35 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-eco-experience.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "eco-experience",
-        "id": "7c680fee-73a8-4b0c-8f2b-a510e9d107e7",
-        "name": "Eco Experience",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.984882,
-            "lng": -93.167999
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-education-building.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-food-building.jpg",
         "hours": null,
         "cost": null,
         "category": "building",
-        "slug": "education-building",
-        "id": "6811d07b-f067-4769-9517-f8ba4e396a12",
-        "name": "Education Building",
+        "slug": "food-building",
+        "id": "adf0d836-37d9-4ef6-8e26-0819741281ec",
+        "name": "Food Building",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.982521,
-            "lng": -93.16755
+            "lat": 44.980203,
+            "lng": -93.169816
         },
         "new_vendor": false
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-equimania.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-dairy-building.jpg",
         "hours": null,
         "cost": null,
-        "category": "booth_showcase",
-        "slug": "equimania",
-        "id": "82cdec3d-f751-4a9f-a08c-435f709ed1ed",
-        "name": "EquiMania!",
+        "category": "building",
+        "slug": "dairy-building",
+        "id": "0600bc32-af56-48c5-91c6-304328126bef",
+        "name": "Dairy Building",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.979682,
-            "lng": -93.17618
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-family-fair-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "family-fair-stage",
-        "id": "510c7db2-3015-42fb-9390-00c83ec62f40",
-        "name": "Family Fair Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.984191,
-            "lng": -93.168584
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fan-central.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "fan-central",
-        "id": "b2c4662e-7c0a-4602-9614-c61c73fb0070",
-        "name": "FAN Central",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.980847,
-            "lng": -93.171007
+            "lat": 44.978236,
+            "lng": -93.170921
         },
         "new_vendor": false
     },
@@ -715,18 +664,86 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-food-building.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-equimania.jpg",
         "hours": null,
         "cost": null,
-        "category": "building",
-        "slug": "food-building",
-        "id": "adf0d836-37d9-4ef6-8e26-0819741281ec",
-        "name": "Food Building",
+        "category": "booth_showcase",
+        "slug": "equimania",
+        "id": "82cdec3d-f751-4a9f-a08c-435f709ed1ed",
+        "name": "EquiMania!",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.980203,
-            "lng": -93.169816
+            "lat": 44.979682,
+            "lng": -93.17618
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-family-fair-stage.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "family-fair-stage",
+        "id": "510c7db2-3015-42fb-9390-00c83ec62f40",
+        "name": "Family Fair Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.984191,
+            "lng": -93.168584
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-education-building.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "education-building",
+        "id": "6811d07b-f067-4769-9517-f8ba4e396a12",
+        "name": "Education Building",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.982521,
+            "lng": -93.16755
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-eco-experience.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "eco-experience",
+        "id": "7c680fee-73a8-4b0c-8f2b-a510e9d107e7",
+        "name": "Eco Experience",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.984882,
+            "lng": -93.167999
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-fan-central.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "fan-central",
+        "id": "b2c4662e-7c0a-4602-9614-c61c73fb0070",
+        "name": "FAN Central",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.980847,
+            "lng": -93.171007
         },
         "new_vendor": false
     },
@@ -744,74 +761,6 @@
             "directions": null,
             "lat": 44.980723,
             "lng": -93.171962
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-french-creperie.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "french-creperie",
-        "id": "0314555f-d740-4028-9513-84d9103f403c",
-        "name": "French Cr\u00e9perie",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.980044,
-            "lng": -93.17146
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-garden-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "garden-stage",
-        "id": "02c0d3c1-25cd-4a20-bdea-38477cc4f0eb",
-        "name": "DNR Garden Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.97945,
-            "lng": -93.17327
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giant-sing-along.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "ride_attraction",
-        "slug": "giant-sing-along",
-        "id": "cd47d55d-df99-4ed7-80da-61f5c5a15a72",
-        "name": "Giant Sing Along",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.9864,
-            "lng": -93.16988
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giggles-campfire-grill.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "giggles-campfire-grill",
-        "id": "1d8ef24e-70cd-4439-945a-d1913e3f0597",
-        "name": "Giggles' Campfire Grill",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.985622,
-            "lng": -93.169015
         },
         "new_vendor": false
     },
@@ -851,69 +800,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-great-big-wheel.jpg",
-        "hours": null,
-        "cost": "$7 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
-        "category": "ride_attraction",
-        "slug": "great-big-wheel",
-        "id": "a162cc3c-35cf-48ec-ad42-44b2f24509e9",
-        "name": "Great Big Wheel",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.984145,
-            "lng": -93.169462
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-haunted-house.jpg",
-        "hours": null,
-        "cost": "$5 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
-        "category": "ride_attraction",
-        "slug": "haunted-house",
-        "id": "37a6ba25-cf27-4b88-ac1a-29f781a3615b",
-        "name": "Haunted House",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978339,
-            "lng": -93.170115
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kidway.jpg",
-        "hours": null,
-        "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at the Kidway! Get your coupon book for just $5.\n\n",
-        "category": "ride_attraction",
-        "slug": "kidway",
-        "id": "ea39e5ef-1a8c-498b-96b7-082ac8af4ebf",
-        "name": "Kidway",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.982401,
-            "lng": -93.169816
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-home-improvement-building.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-french-creperie.jpg",
         "hours": null,
         "cost": null,
-        "category": "building",
-        "slug": "home-improvement-building",
-        "id": "79bfd5b3-b514-400e-bdaf-4a4f7149cdb6",
-        "name": "Home Improvement Building",
+        "category": "stage",
+        "slug": "french-creperie",
+        "id": "0314555f-d740-4028-9513-84d9103f403c",
+        "name": "French Cr\u00e9perie",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.981876,
-            "lng": -93.168587
+            "lat": 44.980044,
+            "lng": -93.17146
         },
         "new_vendor": false
     },
@@ -936,18 +834,103 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-lee-and-rose-warner-coliseum.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-kidway.jpg",
         "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "lee-and-rose-warner-coliseum",
-        "id": "7c353b3c-c2dd-49db-8140-aacdd23c30dc",
-        "name": "Lee & Rose Warner Coliseum",
+        "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at the Kidway! Get your coupon book for just $5.\n\n",
+        "category": "ride_attraction",
+        "slug": "kidway",
+        "id": "ea39e5ef-1a8c-498b-96b7-082ac8af4ebf",
+        "name": "Kidway",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.978117,
-            "lng": -93.174366
+            "lat": 44.982401,
+            "lng": -93.169816
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-haunted-house.jpg",
+        "hours": null,
+        "cost": "$5 per person\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
+        "category": "ride_attraction",
+        "slug": "haunted-house",
+        "id": "37a6ba25-cf27-4b88-ac1a-29f781a3615b",
+        "name": "Haunted House",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978339,
+            "lng": -93.170115
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giant-sing-along.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "ride_attraction",
+        "slug": "giant-sing-along",
+        "id": "cd47d55d-df99-4ed7-80da-61f5c5a15a72",
+        "name": "Giant Sing Along",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.9864,
+            "lng": -93.16988
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-great-big-wheel.jpg",
+        "hours": null,
+        "cost": "$7 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
+        "category": "ride_attraction",
+        "slug": "great-big-wheel",
+        "id": "a162cc3c-35cf-48ec-ad42-44b2f24509e9",
+        "name": "Great Big Wheel",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.984145,
+            "lng": -93.169462
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-giggles-campfire-grill.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "giggles-campfire-grill",
+        "id": "1d8ef24e-70cd-4439-945a-d1913e3f0597",
+        "name": "Giggles' Campfire Grill",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.985622,
+            "lng": -93.169015
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-garden-stage.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "garden-stage",
+        "id": "02c0d3c1-25cd-4a20-bdea-38477cc4f0eb",
+        "name": "DNR Garden Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.97945,
+            "lng": -93.17327
         },
         "new_vendor": false
     },
@@ -970,6 +953,40 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-oink-booth.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "oink-booth",
+        "id": "c4c312cc-f686-430e-b6c9-3b6320608d1e",
+        "name": "Oink Booth",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978326,
+            "lng": -93.177451
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-lee-and-rose-warner-coliseum.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "lee-and-rose-warner-coliseum",
+        "id": "7c353b3c-c2dd-49db-8140-aacdd23c30dc",
+        "name": "Lee & Rose Warner Coliseum",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978117,
+            "lng": -93.174366
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-math-on-a-stick.jpg",
         "hours": null,
         "cost": null,
@@ -982,40 +999,6 @@
             "directions": null,
             "lat": 44.984207,
             "lng": -93.168637
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-newspaper-museum.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "minnesota-newspaper-museum",
-        "id": "84b2cac0-8292-4bbb-a406-678a8289e312",
-        "name": "Minnesota Newspaper Museum",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.983413,
-            "lng": -93.167805
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-wine-country.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "minnesota-wine-country",
-        "id": "99729dbc-1b78-46ae-be2a-7915b389f8bd",
-        "name": "Minnesota Wine Country",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979282,
-            "lng": -93.170844
         },
         "new_vendor": false
     },
@@ -1038,18 +1021,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-moo-booth.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-wine-country.jpg",
         "hours": null,
         "cost": null,
-        "category": "booth_showcase",
-        "slug": "moo-booth",
-        "id": "076308ab-d862-4e61-b89d-ac96a3f6e106",
-        "name": "Moo Booth",
+        "category": "stage",
+        "slug": "minnesota-wine-country",
+        "id": "99729dbc-1b78-46ae-be2a-7915b389f8bd",
+        "name": "Minnesota Wine Country",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.978352,
-            "lng": -93.176617
+            "lat": 44.979282,
+            "lng": -93.170844
         },
         "new_vendor": false
     },
@@ -1072,6 +1055,40 @@
     },
     {
         "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-moo-booth.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "moo-booth",
+        "id": "076308ab-d862-4e61-b89d-ac96a3f6e106",
+        "name": "Moo Booth",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.978352,
+            "lng": -93.176617
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-minnesota-newspaper-museum.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "minnesota-newspaper-museum",
+        "id": "84b2cac0-8292-4bbb-a406-678a8289e312",
+        "name": "Minnesota Newspaper Museum",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.983413,
+            "lng": -93.167805
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-north-end-event-center.jpg",
         "hours": null,
         "cost": null,
@@ -1084,40 +1101,6 @@
             "directions": null,
             "lat": 44.987279,
             "lng": -93.169018
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-oink-booth.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "oink-booth",
-        "id": "c4c312cc-f686-430e-b6c9-3b6320608d1e",
-        "name": "Oink Booth",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978326,
-            "lng": -93.177451
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-old-iron-show.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "old-iron-show",
-        "id": "67e1a3b6-02f9-4a69-9d1e-ea2536f94977",
-        "name": "Old Iron Show",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.985811,
-            "lng": -93.169813
         },
         "new_vendor": false
     },
@@ -1140,18 +1123,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ye-old-mill.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-sheep-and-poultry-barn.jpg",
         "hours": null,
-        "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
-        "category": "ride_attraction",
-        "slug": "ye-old-mill",
-        "id": "aded8e64-66d3-49cf-be61-2fc8b8425eff",
-        "name": "Ye Old Mill",
+        "cost": null,
+        "category": "building",
+        "slug": "sheep-and-poultry-barn",
+        "id": "caa98029-e74d-4e9c-a7aa-9148c66192cf",
+        "name": "Sheep & Poultry Barn",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.979762,
-            "lng": -93.170977
+            "lat": 44.978976,
+            "lng": -93.173898
         },
         "new_vendor": false
     },
@@ -1174,40 +1157,6 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-rcs-bbq.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "rcs-bbq",
-        "id": "db7bfc47-d998-4947-b2a9-0138f5a0b5c8",
-        "name": "RC's BBQ",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.980895,
-            "lng": -93.174933
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-sheep-and-poultry-barn.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "sheep-and-poultry-barn",
-        "id": "caa98029-e74d-4e9c-a7aa-9148c66192cf",
-        "name": "Sheep & Poultry Barn",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.978976,
-            "lng": -93.173898
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-tpt-twin-cities-pbs.jpg",
         "hours": null,
         "cost": null,
@@ -1225,18 +1174,35 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-space-tower.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-ye-old-mill.jpg",
         "hours": null,
         "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
         "category": "ride_attraction",
-        "slug": "space-tower",
-        "id": "b6651d49-357a-43fd-9538-fe0782570b41",
-        "name": "Space Tower",
+        "slug": "ye-old-mill",
+        "id": "aded8e64-66d3-49cf-be61-2fc8b8425eff",
+        "name": "Ye Old Mill",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.979713,
-            "lng": -93.168446
+            "lat": 44.979762,
+            "lng": -93.170977
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-old-iron-show.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "old-iron-show",
+        "id": "67e1a3b6-02f9-4a69-9d1e-ea2536f94977",
+        "name": "Old Iron Show",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.985811,
+            "lng": -93.169813
         },
         "new_vendor": false
     },
@@ -1254,6 +1220,40 @@
             "directions": null,
             "lat": 44.981391,
             "lng": -93.170078
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-rcs-bbq.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "rcs-bbq",
+        "id": "db7bfc47-d998-4947-b2a9-0138f5a0b5c8",
+        "name": "RC's BBQ",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.980895,
+            "lng": -93.174933
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-space-tower.jpg",
+        "hours": null,
+        "cost": "$5 per rider\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
+        "category": "ride_attraction",
+        "slug": "space-tower",
+        "id": "b6651d49-357a-43fd-9538-fe0782570b41",
+        "name": "Space Tower",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979713,
+            "lng": -93.168446
         },
         "new_vendor": false
     },
@@ -1293,18 +1293,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-alphabet-forest.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-historic-streetcar-arch.jpg",
         "hours": null,
         "cost": null,
         "category": "booth_showcase",
-        "slug": "alphabet-forest",
-        "id": "96363cff-e9bf-46e5-a49f-e8d3653d6022",
-        "name": "Alphabet Forest",
+        "slug": "historic-streetcar-arch",
+        "id": "d78fbceb-75cc-4380-9d9d-27224810c07d",
+        "name": "Historic Streetcar Arch",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.983409,
-            "lng": -93.16863
+            "lat": 44.981147,
+            "lng": -93.175315
         },
         "new_vendor": false
     },
@@ -1344,18 +1344,18 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-historic-streetcar-arch.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-alphabet-forest.jpg",
         "hours": null,
         "cost": null,
         "category": "booth_showcase",
-        "slug": "historic-streetcar-arch",
-        "id": "d78fbceb-75cc-4380-9d9d-27224810c07d",
-        "name": "Historic Streetcar Arch",
+        "slug": "alphabet-forest",
+        "id": "96363cff-e9bf-46e5-a49f-e8d3653d6022",
+        "name": "Alphabet Forest",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.981147,
-            "lng": -93.175315
+            "lat": 44.983409,
+            "lng": -93.16863
         },
         "new_vendor": false
     },
@@ -1480,23 +1480,6 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cambria-kitchen.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "cambria-kitchen",
-        "id": "db812ed4-465b-4a08-825b-2929fa7bdce2",
-        "name": "Cambria Kitchen",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981711,
-            "lng": -93.167618
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
         "image": null,
         "hours": null,
         "cost": null,
@@ -1526,6 +1509,23 @@
             "directions": null,
             "lat": 44.980573,
             "lng": -93.176004
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-cambria-kitchen.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "cambria-kitchen",
+        "id": "db812ed4-465b-4a08-825b-2929fa7bdce2",
+        "name": "Cambria Kitchen",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981711,
+            "lng": -93.167618
         },
         "new_vendor": false
     },
@@ -1582,23 +1582,6 @@
     },
     {
         "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-guest-relations.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "guest_services",
-        "slug": "guest-relations",
-        "id": "ae9e42fb-2d41-493a-95b7-97b5e13cd7bb",
-        "name": "Guest Relations",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981422,
-            "lng": -93.17021
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
         "image": null,
         "hours": null,
         "cost": "Notes:  Free with fair admission\n\n",
@@ -1633,52 +1616,18 @@
     },
     {
         "description": "",
-        "image": null,
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-guest-relations.jpg",
         "hours": null,
         "cost": null,
-        "category": "booth_showcase",
-        "slug": "horse-barn-annex",
-        "id": "fe7b8b50-2441-4db3-a428-04d7fd58e3dc",
-        "name": "Horse Barn Annex",
+        "category": "guest_services",
+        "slug": "guest-relations",
+        "id": "ae9e42fb-2d41-493a-95b7-97b5e13cd7bb",
+        "name": "Guest Relations",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.97918,
-            "lng": -93.17723
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "history-walking-tour",
-        "id": "75862c9f-f045-4df5-b052-6ebdd27b2383",
-        "name": "History Walking Tour",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979273,
-            "lng": -93.168538
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-jv-bailey-house.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "jv-bailey-house",
-        "id": "0edd4da8-3d99-4cd0-a5fb-d3bd0fdbe456",
-        "name": "J.V. Bailey House",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.97915,
-            "lng": -93.168366
+            "lat": 44.981422,
+            "lng": -93.17021
         },
         "new_vendor": false
     },
@@ -1718,6 +1667,57 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "history-walking-tour",
+        "id": "75862c9f-f045-4df5-b052-6ebdd27b2383",
+        "name": "History Walking Tour",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979273,
+            "lng": -93.168538
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "horse-barn-annex",
+        "id": "fe7b8b50-2441-4db3-a428-04d7fd58e3dc",
+        "name": "Horse Barn Annex",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.97918,
+            "lng": -93.17723
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-jv-bailey-house.jpg",
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "jv-bailey-house",
+        "id": "0edd4da8-3d99-4cd0-a5fb-d3bd0fdbe456",
+        "name": "J.V. Bailey House",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.97915,
+            "lng": -93.168366
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-little-farm-hands.jpg",
         "hours": null,
         "cost": null,
@@ -1730,23 +1730,6 @@
             "directions": null,
             "lat": 44.985462,
             "lng": -93.169717
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-mighty-midway.jpg",
-        "hours": null,
-        "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at Mighty Midway! Get your coupon book for just $5.\n\n",
-        "category": "ride_attraction",
-        "slug": "mighty-midway",
-        "id": "0272ed31-f03c-47ec-845b-ce2905c71007",
-        "name": "Mighty Midway",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.980146,
-            "lng": -93.17735
         },
         "new_vendor": false
     },
@@ -1769,18 +1752,18 @@
     },
     {
         "description": "",
-        "image": null,
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-mighty-midway.jpg",
         "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "outdoor-stageDNR",
-        "id": "ce68b201-0a12-4b2c-a59e-a4464540c8eb",
-        "name": "University of Minnesota Outdoor Stage",
+        "cost": "$1 for an individual ticket\n$30 for 33 tickets\n$60 for 70 tickets\n\nNotes: For more savings, ride and play on special discount days! During the 2024 State Fair, special ride & game promotions are offered all day on:\n\nThursday, Aug. 22\n\nFriday, Aug. 23\n\nMonday, Aug. 26\n\nThursday, Aug. 29\n\nFriday, Aug. 30\n\nPick up the State Fair\u2019s Blue Ribbon Bargain Book to save even more at Mighty Midway! Get your coupon book for just $5.\n\n",
+        "category": "ride_attraction",
+        "slug": "mighty-midway",
+        "id": "0272ed31-f03c-47ec-845b-ce2905c71007",
+        "name": "Mighty Midway",
         "location": {
             "image": null,
             "directions": null,
-            "lat": 44.981122,
-            "lng": -93.1698
+            "lat": 44.980146,
+            "lng": -93.17735
         },
         "new_vendor": false
     },
@@ -1805,6 +1788,23 @@
         "description": "",
         "image": null,
         "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "outdoor-stageDNR",
+        "id": "ce68b201-0a12-4b2c-a59e-a4464540c8eb",
+        "name": "University of Minnesota Outdoor Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981122,
+            "lng": -93.1698
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
         "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
         "category": "ride_attraction",
         "slug": "skyglider-north",
@@ -1815,23 +1815,6 @@
             "directions": null,
             "lat": 44.986892,
             "lng": -93.169409
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
-        "category": "ride_attraction",
-        "slug": "skyglider-south",
-        "id": "273784ba-a3e4-49b4-8e87-154e75d6061f",
-        "name": "SkyGlider (South Side Terminal)",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981481,
-            "lng": -93.171177
         },
         "new_vendor": false
     },
@@ -1871,6 +1854,23 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets.\n\n",
+        "category": "ride_attraction",
+        "slug": "skyglider-south",
+        "id": "273784ba-a3e4-49b4-8e87-154e75d6061f",
+        "name": "SkyGlider (South Side Terminal)",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981481,
+            "lng": -93.171177
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-police-headquarters.jpg",
         "hours": null,
         "cost": null,
@@ -1890,23 +1890,6 @@
         "description": "",
         "image": null,
         "hours": null,
-        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
-        "category": "ride_attraction",
-        "slug": "skyride-west",
-        "id": "527fa9b3-a7eb-4546-b6a0-ea70f325c123",
-        "name": "Skyride (West Side Terminal)",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981015,
-            "lng": -93.175711
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
         "cost": null,
         "category": "booth_showcase",
         "slug": "south-of-agriculture-horticulture-building",
@@ -1917,74 +1900,6 @@
             "directions": null,
             "lat": 44.97875,
             "lng": -93.169699
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "the-north-woods",
-        "id": "43866064-0292-4922-b77f-8a95c7886a72",
-        "name": "The North Woods",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.985313,
-            "lng": -93.168843
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "university-of-minnesota-central",
-        "id": "73fd5a26-c600-4bb8-aa4f-be46efdf2437",
-        "name": "University of Minnesota Central",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.981085,
-            "lng": -93.169588
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "booth_showcase",
-        "slug": "the-dirt-demo-stage",
-        "id": "f569a207-94ca-42cd-a196-ce3bcc3b5b59",
-        "name": "The DIRT Demo Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.979553,
-            "lng": -93.169677
-        },
-        "new_vendor": false
-    },
-    {
-        "description": "",
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "the-north-end",
-        "id": "d4ae9c64-d80c-4893-a4a7-4d19b88dde1c",
-        "name": "North End",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.987677,
-            "lng": -93.169203
         },
         "new_vendor": false
     },
@@ -2024,6 +1939,40 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "the-north-woods",
+        "id": "43866064-0292-4922-b77f-8a95c7886a72",
+        "name": "The North Woods",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.985313,
+            "lng": -93.168843
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "building",
+        "slug": "the-north-end",
+        "id": "d4ae9c64-d80c-4893-a4a7-4d19b88dde1c",
+        "name": "North End",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.987677,
+            "lng": -93.169203
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-hangar.jpg",
         "hours": null,
         "cost": null,
@@ -2041,6 +1990,23 @@
     },
     {
         "description": "",
+        "image": null,
+        "hours": null,
+        "cost": "$6 one way\n$10 round trip\n\nNotes: This attraction does not accept Mighty Midway and Kidway ride & game tickets. Accepts credit cards.\n\n",
+        "category": "ride_attraction",
+        "slug": "skyride-west",
+        "id": "527fa9b3-a7eb-4546-b6a0-ea70f325c123",
+        "name": "Skyride (West Side Terminal)",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981015,
+            "lng": -93.175711
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-garden-stage.jpg",
         "hours": null,
         "cost": null,
@@ -2053,6 +2019,40 @@
             "directions": null,
             "lat": 44.980909,
             "lng": -93.170078
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "university-of-minnesota-central",
+        "id": "73fd5a26-c600-4bb8-aa4f-be46efdf2437",
+        "name": "University of Minnesota Central",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.981085,
+            "lng": -93.169588
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "the-dirt-demo-stage",
+        "id": "f569a207-94ca-42cd-a196-ce3bcc3b5b59",
+        "name": "The DIRT Demo Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.979553,
+            "lng": -93.169677
         },
         "new_vendor": false
     },
