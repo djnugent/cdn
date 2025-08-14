@@ -64,14 +64,6 @@
         "vendor_slug": "8535.1"
     },
     {
-        "description": "Introducing our 2025 NEW FOOD:\n\ud83e\udd53 CHICKEN FRIED BACON FRIES \ud83e\udd53\n100% beef bacon \u27a1\ufe0f cut like fries \u27a1\ufe0f double battered in tempura flour \u27a1\ufe0f fried to golden perfection. Served with TWO signature sauces:\n\n\ud83d\udd25 Cashville Hot \u2013 a spicy-sweet brown sugar Nashville hot blend\n\u2728 24K Gold BBQ \u2013 a passion fruit Charleston gold BBQ sauce that\u2019s tangy, smoky, and pure gold in flavor",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-chicken-fried-bacon-fries.jpg",
-        "slug": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
-        "id": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
-        "name": "Chicken-Fried Bacon Fries",
-        "vendor_slug": "5799.1"
-    },
-    {
         "description": "Freshly baked flaky pie crust strips covered in cinnamon and sugar. Served with a side of whiskey-flavored caramel dipping sauce.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-cinna-sugar-crust-tidbits.jpg",
         "slug": "60ce0f22-2267-49d9-b138-88abb57b8cd2",
@@ -208,14 +200,6 @@
         "vendor_slug": "5275.1"
     },
     {
-        "description": "Your new obsession has arrived! POT OF GOLD POTATO DUMPLINGS\ud83d\udc9b Made by Saturdaydumplingco - Crispy on the outside, soft on the inside, served with the one and only Top The Tater. Find them at O\u2019Gara\u2019s \u2014 where comfort food meets fair season\u2728\ud83c\uddee\ud83c\uddea\u2618\ufe0f\ud83c\udfa1",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-pot-of-gold-potato-dumplings.jpg",
-        "slug": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
-        "id": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
-        "name": "Pot of Gold Dumplings",
-        "vendor_slug": "256.1"
-    },
-    {
         "description": "A mixture of ground pork and shrimp combined with Hmong aromatics \u2013 lemongrass, ginger, garlic, shallots and Thai chilis \u2013 seasoned with fish sauce, spread on Texas toast and deep fried. Served on-a-stick with a side of apricot jelly hot sauce.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-shrimp--pork-toast-on-a-stick.jpg",
         "slug": "6febccff-26e3-4cb9-8098-19ae4176d16c",
@@ -248,28 +232,12 @@
         "vendor_slug": "1968.1"
     },
     {
-        "description": "Tandoori chicken + cheese + peppers folded into flaky paratha \ud83d\udd25\nGriddled to perfection + served with our Avocado Cilantro Lime Sauce.\nIt\u2019s next level!",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-tandoori-chicken-quesaratha.jpg",
-        "slug": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
-        "id": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
-        "name": "Tandoori Chicken Quesaratha",
-        "vendor_slug": "3689.1"
-    },
-    {
         "description": "This creation combines savory Italian sausage, creamy mozzarella, and rich cream cheese, all seasoned to perfection with a hint of barbecue rub. The mixture is expertly piped into tender manicotti shells, wrapped in crispy bacon, and infused with smoky flavors from our wood-fired smoker. Served with a side of Giggles\u2019 signature dipping sauce.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-timber-twists.jpg",
         "slug": "b1548b75-66da-4416-8d68-eba87f2a9daf",
         "id": "b1548b75-66da-4416-8d68-eba87f2a9daf",
         "name": "Timber Twists",
         "vendor_slug": "230.1"
-    },
-    {
-        "description": "Our Triple Chocolate Mini Donuts are dusted with powdered sugar, drizzled with chocolate icing, and topped with chocolate sprinkles and mini milk chocolate chips. Served in a bucket rimmed with more chocolate icing and sprinkles and they're vegetarian! It\u2019s a flavor explosion you won\u2019t want to miss! \ud83c\udf69\ud83d\ude0b",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-triple-chocolate-mini-donuts.jpg",
-        "slug": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
-        "id": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
-        "name": "Triple Chocolate Mini Donuts",
-        "vendor_slug": "5052.1"
     },
     {
         "description": "A 4 oz. hamburger patty with cheese, pickles and special sauce, sandwiched between two deep-fried peanut butter & grape jelly Uncrustables\u00ae.",
@@ -286,6 +254,22 @@
         "id": "a4f1ec2f-1071-457a-8829-43796e59117d",
         "name": "Beans & Beignets",
         "vendor_slug": "11830.1"
+    },
+    {
+        "description": "Pot of Gold Potato Dumplings made by Saturdaydumplingco - Crispy on the outside, soft on the inside, served with the one and only Top The Tater. Find them at O\u2019Gara\u2019s \u2014 where comfort food meets fair season.",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-pot-of-gold-potato-dumplings.jpg",
+        "slug": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
+        "id": "ecc83359-9cbb-48bf-b3c9-ff351294541e",
+        "name": "Pot of Gold Dumplings",
+        "vendor_slug": "256.1"
+    },
+    {
+        "description": "Our Triple Chocolate Mini Donuts are dusted with powdered sugar, drizzled with chocolate icing, and topped with chocolate sprinkles and mini milk chocolate chips. Served in a bucket rimmed with more chocolate icing and sprinkles and they're vegetarian! It\u2019s a flavor explosion you won\u2019t want to miss!",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-triple-chocolate-mini-donuts.jpg",
+        "slug": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
+        "id": "23fe8ad3-9e87-4b43-83ed-b21fdf4e51d1",
+        "name": "Triple Chocolate Mini Donuts",
+        "vendor_slug": "5052.1"
     },
     {
         "description": "Chocolate Strawberry Cup serves fresh strawberries in a cup with toppings in four flavors: Dubai Chocolate Strawberry Cup (layered with Belgian-style chocolate, pistachio butter, kataifi and pistachios); Matcha White Chocolate Strawberry Cup (layered with matcha white chocolate and melted chocolate topped with marshmallow sauce); Chocolate Strawberry Cup (covered with melted Belgian-style chocolate); and Chocolate Strawberries & Cream (covered in melted chocolate and topped with a tower of whipped cream and chocolate drizzle). All strawberry cups are gluten free, except the Dubai chocolate cup.",
@@ -326,5 +310,21 @@
         "id": "97f74d7c-47cd-4ef5-8b81-94c38f6db48e",
         "name": "Midtown Global Market's MomoDosa",
         "vendor_slug": "2764.1"
+    },
+    {
+        "description": "100% beef bacon cut like fries double battered in tempura flour fried to golden perfection. Served with TWO signature sauces:\n\nCashville Hot \u2013 a spicy-sweet brown sugar Nashville hot blend 24K Gold BBQ \u2013 a passion fruit Charleston gold BBQ sauce that\u2019s tangy, smoky, and pure gold in flavor",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-chicken-fried-bacon-fries.jpg",
+        "slug": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
+        "id": "c3d2d9d8-e2cc-4c2b-ac7f-620f51c16b55",
+        "name": "Chicken-Fried Bacon Fries",
+        "vendor_slug": "5799.1"
+    },
+    {
+        "description": "Tandoori chicken + cheese + peppers folded into flaky paratha.\nGriddled to perfection + served with our Avocado Cilantro Lime Sauce.\nIt\u2019s next level!",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-tandoori-chicken-quesaratha.jpg",
+        "slug": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
+        "id": "c4ba8279-0d1f-4e8c-8227-5d9ebc984fe1",
+        "name": "Tandoori Chicken Quesaratha",
+        "vendor_slug": "3689.1"
     }
 ]
