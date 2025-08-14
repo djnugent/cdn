@@ -191,7 +191,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "El Jimador Margarita Slushy",
@@ -199,7 +199,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Gray Duck Spiked Nitro Cold Brew",
@@ -207,7 +207,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cucumber Melon Refresher",
@@ -217,7 +217,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Boozy Root Beer Float",
@@ -227,7 +227,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hot Honey Mead",
@@ -237,7 +237,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hot Honey Play Grade Cream Ale",
@@ -247,7 +247,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lemon Meringue",
@@ -257,7 +257,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Peach Dipped Pale Ale",
@@ -267,7 +267,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Per Se Paloma - NA",
@@ -275,7 +275,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blackberry Bramble",
@@ -285,7 +285,7 @@
                     "Specialty Sip 2025. Also available at: Schell's Booth"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -293,7 +293,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Tropical Island Sour",
@@ -303,7 +303,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Tropical Treat",
@@ -313,7 +313,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "BANG BANG Chicken Tenders",
@@ -432,7 +432,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Per Se Hibiscus Margarita (Non-Alcoholic)",
@@ -440,7 +440,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Rasmelon Lemonade Slushie",
@@ -448,7 +448,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -456,7 +456,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Oktoberfest",
@@ -464,7 +464,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Lime",
@@ -472,7 +472,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Raspberry",
@@ -480,7 +480,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bull Bites",
@@ -556,7 +556,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Tropical Lonely Blonde",
@@ -564,7 +564,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Per Se Mojito - NA",
@@ -572,7 +572,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blood Orange Cidermosa",
@@ -582,7 +582,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "POG Party",
@@ -592,7 +592,7 @@
                     "Specialty Sip 2025. Also available at: Schell's Booth"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Caprese Curds",
@@ -608,7 +608,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Arnold Palmer Spiked Raspberry Slushie",
@@ -616,7 +616,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Castle Danger Sea Salt & Lime Lager",
@@ -624,7 +624,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -632,7 +632,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -640,7 +640,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -1843,7 +1843,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -1851,7 +1851,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -1859,7 +1859,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -1867,7 +1867,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -1875,7 +1875,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Gray Duck Bomba Juice Hard Seltzer",
@@ -1883,7 +1883,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -1891,7 +1891,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -1899,7 +1899,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -1907,7 +1907,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minneapolis Cider Orchard Blend",
@@ -1915,7 +1915,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -1923,7 +1923,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Miraculum",
@@ -1931,7 +1931,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Spiral T\u00f6wnie",
@@ -1939,7 +1939,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -1947,7 +1947,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -1955,7 +1955,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -1963,7 +1963,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Barq's Root Beer",
@@ -2013,7 +2013,7 @@
                     "Specialty Sip 2025. Also available at: Snack House, Sabino's Pizza Pies, Swine & Spuds"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sprite",
@@ -2153,82 +2153,6 @@
         "new_vendor": false
     },
     {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1730.1.jpg",
-        "offers": {},
-        "hours": "Open 9 a.m. to 9 p.m.",
-        "slug": "10312.2",
-        "id": "102d076c-d658-4bb5-bf32-9b9be3b056e4",
-        "name": "El Burrito Mercado",
-        "locations": [
-            {
-                "image": null,
-                "directions": "At the International Bazaar, south center section",
-                "lat": 44.97819284892086,
-                "lng": -93.16909540384616
-            }
-        ],
-        "items": [
-            {
-                "name": "Quesabirria Taquitos",
-                "description": null,
-                "image": null,
-                "details": [
-                    "deep-fried",
-                    "rolled tacos filled with beef marinated in red sauce & cheese",
-                    "special salsa verde and crumbled cheese toppings"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Flauta Dippers",
-                "description": "Fried chicken filled rolled tacos, served in a cup with warm salsa verde, crema & crumbly queso",
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-flauta-dippers.png",
-                "details": [],
-                "isNew": "true_featured",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Esquites",
-                "description": null,
-                "image": null,
-                "details": [
-                    "corn kernels cooked with herbs; sour cream",
-                    "crumbled cheese",
-                    "chile powder and lime toppings",
-                    "served in a cup"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Agua de Sandia Loca",
-                "description": null,
-                "image": null,
-                "details": [
-                    "watermelon drink with splash of chamoy sauce and bits of seasoned dehydrated mango bits"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Cafe-Chata",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": true,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-162.1.jpg",
         "offers": {},
         "hours": "Open 9 a.m. to 9 p.m.",
@@ -2335,6 +2259,82 @@
         ],
         "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": false,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-10312.2.jpg",
+        "offers": {},
+        "hours": "Open 9 a.m. to 9 p.m.",
+        "slug": "10312.2",
+        "id": "102d076c-d658-4bb5-bf32-9b9be3b056e4",
+        "name": "El Burrito Mercado",
+        "locations": [
+            {
+                "image": null,
+                "directions": "At the International Bazaar, south center section",
+                "lat": 44.97819284892086,
+                "lng": -93.16909540384616
+            }
+        ],
+        "items": [
+            {
+                "name": "Quesabirria Taquitos",
+                "description": null,
+                "image": null,
+                "details": [
+                    "deep-fried",
+                    "rolled tacos filled with beef marinated in red sauce & cheese",
+                    "special salsa verde and crumbled cheese toppings"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Flauta Dippers",
+                "description": "Fried chicken filled rolled tacos, served in a cup with warm salsa verde, crema & crumbly queso",
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-flauta-dippers.png",
+                "details": [],
+                "isNew": "true_featured",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Esquites",
+                "description": null,
+                "image": null,
+                "details": [
+                    "corn kernels cooked with herbs; sour cream",
+                    "crumbled cheese",
+                    "chile powder and lime toppings",
+                    "served in a cup"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Agua de Sandia Loca",
+                "description": null,
+                "image": null,
+                "details": [
+                    "watermelon drink with splash of chamoy sauce and bits of seasoned dehydrated mango bits"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Cafe-Chata",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": true,
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
@@ -2891,7 +2891,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Tropical Lonely Blonde",
@@ -2899,7 +2899,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -2907,7 +2907,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -2915,7 +2915,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bell's Two Hearted",
@@ -2923,7 +2923,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blue Moon",
@@ -2931,7 +2931,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "1/6 lb. hot dogs on poppy seed or gluten-free bun",
@@ -3019,7 +3019,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -3027,7 +3027,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -3035,7 +3035,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Spiked Refresher Strawberry",
@@ -3043,7 +3043,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -3051,7 +3051,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -3059,7 +3059,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -3067,7 +3067,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Oktoberfest",
@@ -3075,7 +3075,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer IPA",
@@ -3083,7 +3083,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -3091,7 +3091,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -3099,7 +3099,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "potato chips",
@@ -3171,7 +3171,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -3706,7 +3706,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "7 Vines 10,000 Lakes",
@@ -3714,7 +3714,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Allagash White Belgian-Style Wheat",
@@ -3722,7 +3722,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coronado Salty Crew Blonde Ale",
@@ -3730,7 +3730,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fat Orange Cat Brew Co. Baby Kittens",
@@ -3738,7 +3738,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hoplark 0.0 Really Really Hoppy - NA",
@@ -3746,7 +3746,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -3754,7 +3754,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pipeworks Ninja Vs. Unicorn IPA",
@@ -3762,7 +3762,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Strawberry Blaze",
@@ -3772,7 +3772,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Wild Apple Cider",
@@ -3780,7 +3780,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "orange soda",
@@ -3886,7 +3886,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "S'Mores Beer",
@@ -3896,7 +3896,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "raspberry lemonade",
@@ -3920,7 +3920,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Clown Shoes Mango K\u00f6lsch",
@@ -3928,7 +3928,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -3936,7 +3936,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Drastic Measures Stupid Good Hazy IPA",
@@ -3944,7 +3944,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Einstok Icelandic White Ale",
@@ -3952,7 +3952,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -3960,7 +3960,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Millstream German Pilsner",
@@ -3968,7 +3968,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Millstream Oktoberfest",
@@ -3976,7 +3976,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "NICE'D Pink Pucker Punch Slushie",
@@ -3984,7 +3984,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "NICE'D Tropical Punch Slushie",
@@ -3992,7 +3992,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sociable Cider Werks Training Wheels Hazy Blueberry",
@@ -4000,7 +4000,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -4008,7 +4008,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -4016,7 +4016,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Starry",
@@ -4082,7 +4082,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blacklist Dill Pickle K\u00f6lsch",
@@ -4092,7 +4092,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mankato Orange Shandy",
@@ -4102,7 +4102,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pi\u00f1a Ciderlada",
@@ -4112,7 +4112,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sweet Clementine Beer",
@@ -4122,7 +4122,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Timber Twists",
@@ -4138,7 +4138,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -5803,7 +5803,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grandstand Lime Up",
@@ -5813,7 +5813,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Shanghai Sunset",
@@ -5823,7 +5823,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Murphy's Irish Stout",
@@ -5831,7 +5831,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coca-Cola Zero",
@@ -5878,7 +5878,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Hard Lemonade",
@@ -5888,7 +5888,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Country White",
@@ -5896,7 +5896,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bell's Two Hearted",
@@ -5904,7 +5904,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -5912,7 +5912,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -5920,7 +5920,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -5928,7 +5928,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -5936,7 +5936,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mello Yello",
@@ -5986,7 +5986,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oktoberfest",
@@ -5994,7 +5994,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Apple Cider Pumpkin Spice",
@@ -6004,7 +6004,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cocktail-Inspired Bloody Mary",
@@ -6014,7 +6014,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pimento Cheese Puffs",
@@ -6069,7 +6069,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -7561,7 +7561,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mello Yello",
@@ -7585,7 +7585,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pineapple Peach Hazy Pale Ale",
@@ -7595,7 +7595,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Midway Sunset Mocktail - NA",
@@ -7605,7 +7605,7 @@
                     "Specialty Sip 2025. Also available at: Ball Park Cafe, Bandstand Concessions"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Padraigs Red Chimney Irish Red Ale",
@@ -7613,7 +7613,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer Hazy IPA",
@@ -7621,7 +7621,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fish & Chips",
@@ -7700,7 +7700,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "O'Perol Spritz",
@@ -7710,7 +7710,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob ULTRA",
@@ -7718,7 +7718,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Nialas IPA - NA",
@@ -7726,7 +7726,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -7734,7 +7734,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Guinness",
@@ -7742,7 +7742,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -7750,7 +7750,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -7758,7 +7758,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -7766,7 +7766,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Oktoberfest",
@@ -7774,7 +7774,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -7782,7 +7782,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Rustic Roots Red",
@@ -7790,7 +7790,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Rustic Roots White",
@@ -7798,7 +7798,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Reuben fritters",
@@ -7864,7 +7864,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Shamrock Slushie  (SIPS",
@@ -7874,7 +7874,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pot of Gold Dumplings",
@@ -7892,7 +7892,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -7900,7 +7900,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton 300",
@@ -7908,7 +7908,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -9144,7 +9144,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -9152,7 +9152,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -9160,7 +9160,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -9168,7 +9168,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Quirk Rainbow Sherbet Hard Seltzer",
@@ -9176,7 +9176,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer Hazy IPA",
@@ -9184,7 +9184,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Berry Weiss",
@@ -9192,7 +9192,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Honey Weiss",
@@ -9200,7 +9200,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -9208,7 +9208,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel beer",
@@ -9224,7 +9224,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -10399,7 +10399,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cali Squeeze Blood Orange Hefeweizen",
@@ -10407,7 +10407,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium Light",
@@ -10415,7 +10415,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob ULTRA Zero - NA",
@@ -10423,7 +10423,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -10431,7 +10431,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Diet Mountain Dew",
@@ -10447,7 +10447,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Blu",
@@ -10455,7 +10455,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Nordeast",
@@ -10463,7 +10463,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -10471,7 +10471,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hamm's",
@@ -10479,7 +10479,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -10487,7 +10487,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -10495,7 +10495,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -10503,7 +10503,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "sweet rolls",
@@ -10527,7 +10527,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -10535,7 +10535,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oktoberfest",
@@ -10543,7 +10543,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Furious IPA",
@@ -10551,7 +10551,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -10559,7 +10559,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Raspberry",
@@ -10567,7 +10567,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "bratwurst",
@@ -10695,7 +10695,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Hard Black Cherry Lemonade",
@@ -10703,7 +10703,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -12811,7 +12811,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Miller Lite",
@@ -12819,7 +12819,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -12827,7 +12827,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "breakfast jambalaya",
@@ -12847,7 +12847,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Athletic Free Wave Hazy IPA - NA",
@@ -12855,7 +12855,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bud Light Chelada Taj\u00edn",
@@ -12863,7 +12863,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "jambalaya",
@@ -12900,7 +12900,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alaskan Amber",
@@ -12908,7 +12908,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Busch Light",
@@ -12916,7 +12916,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -12924,7 +12924,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -12932,7 +12932,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Diet Coke",
@@ -12966,7 +12966,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -12974,7 +12974,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "New Belgium Voodoo Ranger IPA",
@@ -12982,7 +12982,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit S\u00e1ga Hazy IPA",
@@ -12990,7 +12990,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -12998,7 +12998,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Pineapple",
@@ -13006,7 +13006,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blackened pork chop",
@@ -13086,7 +13086,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -13094,7 +13094,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -13264,7 +13264,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Light Lager",
@@ -13272,7 +13272,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Nialas IPA - NA",
@@ -13280,7 +13280,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -13288,7 +13288,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oatmeal Stout",
@@ -13296,7 +13296,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oktoberfest",
@@ -13304,7 +13304,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit S\u00e1ga IPA",
@@ -13312,7 +13312,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Twins Pils",
@@ -13320,7 +13320,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "beer",
@@ -15567,7 +15567,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Forestedge Northstar Loon",
@@ -15575,7 +15575,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Rustic Roots Frontenac Gris",
@@ -15583,7 +15583,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "wine-fried brie",
@@ -15601,7 +15601,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River SHIMMER Sparkling Ros\u00e9",
@@ -15609,7 +15609,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake Brianna",
@@ -15617,7 +15617,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Winehaven Lakeside Ros\u00e9",
@@ -15625,7 +15625,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Mango Sangria Wine Slushie",
@@ -15633,7 +15633,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Perfect Storm",
@@ -15641,7 +15641,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Forestedge Ladyslipper",
@@ -15649,7 +15649,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Garvin Heights Bluff Country Blush",
@@ -15657,7 +15657,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Garvin Heights Wild Berry Bluff Wine Slushie",
@@ -15665,7 +15665,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Parley Lake Barn Quilt Red",
@@ -15673,7 +15673,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake Green Apple Wine Slushie",
@@ -15681,7 +15681,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Saint Croix Vineyards Frontenac",
@@ -15689,7 +15689,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Saint Croix Vineyards Marquette Ros\u00e9",
@@ -15697,7 +15697,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Saint Croix Vineyards Peaches and Gris Wine Slushie",
@@ -15705,7 +15705,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Winehaven Marquette Reserve",
@@ -15713,7 +15713,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Winehaven Raspberry Wine Slushie",
@@ -15721,7 +15721,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minnesota-made wine slushies",
@@ -16250,7 +16250,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Tropical Lonely Blonde",
@@ -16258,7 +16258,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium Light",
@@ -16266,7 +16266,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Gray Duck Spiked Nitro Cold Brew",
@@ -16274,7 +16274,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -16282,7 +16282,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Paulaner Hefe-Weizen",
@@ -16290,7 +16290,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Notorious P.I.L.S.",
@@ -16298,7 +16298,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Furious IPA",
@@ -16306,7 +16306,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Galaxy Groove",
@@ -16316,7 +16316,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Naughty Shirley",
@@ -16326,7 +16326,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "THE STINGER!",
@@ -16336,7 +16336,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Quirk Raspberry Rocket Pop",
@@ -16344,7 +16344,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Quirk Strawberry Lemon & Basil",
@@ -16352,7 +16352,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sociable Cider Werks Training Wheels Hazy Blueberry",
@@ -16360,7 +16360,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -16368,7 +16368,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Urban Growler Basil Limeade Seltzer",
@@ -16376,7 +16376,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Twisted Tea",
@@ -16384,7 +16384,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Urban Growler Vanilla Latte Blonde Ale",
@@ -16392,7 +16392,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "breakfast ciabattas",
@@ -16412,7 +16412,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Hard Seltzer Blood Orange",
@@ -16420,7 +16420,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Sparkling Edelweiss",
@@ -16428,7 +16428,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River The Perfet Sotrm Peppin",
@@ -16436,7 +16436,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -16444,7 +16444,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minnesota wine",
@@ -16506,7 +16506,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hamm's",
@@ -16514,7 +16514,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Strawberry Refresher",
@@ -16522,7 +16522,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -16530,7 +16530,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake Brianna",
@@ -16538,7 +16538,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake Frontenac Gris",
@@ -16546,7 +16546,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake Marquette",
@@ -16554,7 +16554,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Round Lake PB&J Hard Honey",
@@ -16562,7 +16562,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -16570,7 +16570,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Urban Growler Cowbell Cream Ale",
@@ -16578,7 +16578,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Hazy Pink Pineapple Cider",
@@ -16586,7 +16586,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Wild Apple Cider",
@@ -16594,7 +16594,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Flirty Fruity Bubbles",
@@ -16604,7 +16604,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Diet Coke",
@@ -16643,7 +16643,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -19199,7 +19199,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -19207,7 +19207,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blushing Dragon Slushie",
@@ -19217,7 +19217,7 @@
                     "Specialty Sip 2025. Also available at: Swine & Spuds"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "vegan ice cream",
@@ -19235,7 +19235,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -19243,7 +19243,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Gray Duck Bomba Juice Hard Seltzer",
@@ -19251,7 +19251,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -19259,7 +19259,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -19267,7 +19267,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -19275,7 +19275,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minneapolis Cider Orchard Blend",
@@ -19283,7 +19283,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -19291,7 +19291,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Miraculum",
@@ -19299,7 +19299,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Spiral T\u00f6wnie",
@@ -19307,7 +19307,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -19315,7 +19315,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -19323,7 +19323,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -19331,7 +19331,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -19339,7 +19339,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "POWERADE",
@@ -19397,7 +19397,7 @@
                     "Specialty Sip 2025. Also available at: Aldo's Burgers, Sabino's Pizza Pies, Swine & Spuds"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "bottled water",
@@ -20468,7 +20468,7 @@
                     "Specialty Sip 2025. Also available at: LuLu's Public House"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "POG Party",
@@ -20478,7 +20478,7 @@
                     "Specialty Sip 2025. Also available at: LuLu's Public House"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge POG Party",
@@ -20488,7 +20488,7 @@
                     "Specialty Sip 2025. Also available at: LuLu's Public House"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blu Frozen Topper",
@@ -20498,7 +20498,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Soft Serve Royal Raspberry Beer",
@@ -20508,7 +20508,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Hazy Pink Pineapple Cider",
@@ -20516,7 +20516,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Miraculum",
@@ -20524,7 +20524,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Royal Raspberry Sour",
@@ -20532,7 +20532,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Utepils Ewald the Golden",
@@ -20540,7 +20540,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Blu",
@@ -20548,7 +20548,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -20556,7 +20556,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -20597,7 +20597,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Greek Goddess",
@@ -20607,7 +20607,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lil' Sour Buddies",
@@ -20617,7 +20617,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Picklerita",
@@ -20627,7 +20627,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Spiked Refresher Strawberry",
@@ -20635,7 +20635,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Invictus Salted Nut Roll Golden Ale",
@@ -20643,7 +20643,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Aegean Dream: Blood Orange and Sea Salt Lager",
@@ -20653,7 +20653,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -20661,7 +20661,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Strawberry Lemonade - \"ALE\"",
@@ -20671,7 +20671,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Twisted Tea",
@@ -20679,7 +20679,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "meal combos",
@@ -20749,7 +20749,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hamm's",
@@ -20757,7 +20757,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -20765,7 +20765,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -20773,7 +20773,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -20781,7 +20781,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -20789,7 +20789,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -20797,7 +20797,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oktoberfest",
@@ -20805,7 +20805,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Saga Hazy IPA",
@@ -20813,7 +20813,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bomba Bull Frose All Day Slushy",
@@ -20823,7 +20823,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "gyros",
@@ -20895,7 +20895,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pomegranate Spritz",
@@ -20905,7 +20905,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -21940,7 +21940,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "pink lemonade",
@@ -21986,7 +21986,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pineapple Upside-Down Cake Slushy",
@@ -21996,7 +21996,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fair State Mirror Universe",
@@ -22004,7 +22004,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -22012,7 +22012,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Big Wood Caramel Apple Craft Seltzer",
@@ -22022,7 +22022,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Dreamsicle Hard Slushy",
@@ -22032,7 +22032,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blue Moon",
@@ -22040,7 +22040,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bud Light Straw-Ber-Ita",
@@ -22048,7 +22048,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -22056,7 +22056,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -22064,7 +22064,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Jack Daniel's Country Cocktail Downhome Punch Slushy",
@@ -22072,7 +22072,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pibb Xtra",
@@ -22136,7 +22136,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -22144,7 +22144,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -22152,7 +22152,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -22160,7 +22160,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Harder Lemonade",
@@ -22168,7 +22168,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -22176,7 +22176,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Royal Raspberry Sour",
@@ -22184,7 +22184,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sierra Nevada Hazy Little Thing IPA",
@@ -22192,7 +22192,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Smirnoff Ice Smash Red, White & Berry Slushy",
@@ -22200,7 +22200,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -22208,7 +22208,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Twisted Tea Slushy",
@@ -22216,7 +22216,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -22224,7 +22224,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "breakfast croissant",
@@ -22263,7 +22263,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hurricane",
@@ -22273,7 +22273,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Boozy Salted Caramel Milkshake",
@@ -22283,7 +22283,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Tutti Frutti Bubblegum Hard Slushy",
@@ -22293,7 +22293,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -22787,7 +22787,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Aloha Ice",
@@ -22797,7 +22797,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Backyard Bloody Mary",
@@ -22807,7 +22807,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Prickly Pear Sour",
@@ -22817,7 +22817,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sweet Squeakers",
@@ -22833,7 +22833,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Steel Toe Size 7",
@@ -22841,7 +22841,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "The Freehouse No. 85 Highland Pils",
@@ -22849,7 +22849,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Chicken in the Waffle",
@@ -22901,7 +22901,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Iron Range Pierogies",
@@ -22959,7 +22959,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Strawberry Summer Spritz",
@@ -22969,7 +22969,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Athletic Free Wave Hazy IPA Non-Alcoholic",
@@ -22977,7 +22977,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -22985,7 +22985,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -23163,7 +23163,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Breezy Melon Squeezy",
@@ -23173,7 +23173,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Stella Artois 0.0 - NA",
@@ -23181,7 +23181,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "grilled steak sandwich on ciabatta with or without mushrooms & onions",
@@ -23302,7 +23302,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Mancini's Levee Red",
@@ -23310,7 +23310,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Sparkle Edelweiss",
@@ -23318,7 +23318,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River West 7th White",
@@ -23326,7 +23326,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Italian scrambler",
@@ -23418,7 +23418,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Oktoberfest",
@@ -23426,7 +23426,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Sangria",
@@ -23434,7 +23434,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -23442,7 +23442,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -23450,7 +23450,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -23458,7 +23458,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blood Orange Bellini",
@@ -23468,7 +23468,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cherry Lime Freeze Slushie",
@@ -23478,7 +23478,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -23486,7 +23486,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -23494,7 +23494,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -23502,7 +23502,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -23510,7 +23510,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -24075,7 +24075,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Vitamin Water XXX",
@@ -24091,7 +24091,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Spiked Refresher Strawberry",
@@ -24099,7 +24099,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "chicken wings",
@@ -24157,7 +24157,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -24165,7 +24165,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -24173,7 +24173,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -24181,7 +24181,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Frozen Spicy Pinapple Margarita",
@@ -24189,7 +24189,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -24197,7 +24197,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Harder Lemonade",
@@ -24205,7 +24205,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -24213,7 +24213,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Furious IPA",
@@ -24221,7 +24221,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Truly Wild Berry Hard Seltzer",
@@ -24229,7 +24229,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Frozen Pi\u00f1a Colada",
@@ -24239,7 +24239,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "sausage breakfast wrap",
@@ -24279,7 +24279,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Winehaven Marquette Reserve",
@@ -24287,7 +24287,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cajun burger",
@@ -24345,7 +24345,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Key Lime Pie",
@@ -24355,7 +24355,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pineapple WHIPlash",
@@ -24365,7 +24365,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Frozen Espresso Martini Hard Seltzer",
@@ -24375,7 +24375,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bauhauss BOLO Blackberry Mojito Hard Seltzer",
@@ -24385,7 +24385,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -24393,7 +24393,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer IPA",
@@ -24401,7 +24401,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Winehaven Frontenac Gris",
@@ -24409,7 +24409,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -26216,7 +26216,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -26224,7 +26224,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Athletic Free Wave Hazy IPA - NA",
@@ -26232,7 +26232,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "3 Floyds Gumballhead",
@@ -26240,7 +26240,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Flavorwave IPA",
@@ -26248,7 +26248,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Miller Lite",
@@ -26256,7 +26256,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sgt. Pepper Slushie",
@@ -26266,7 +26266,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Rockin' Ros\u00e9",
@@ -26276,7 +26276,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lupulin Hooey Hazy IPA",
@@ -26284,7 +26284,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Quirk Blueberry Lemon & Lavender",
@@ -26292,7 +26292,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Toppling Goliath Pompeii IPA",
@@ -26300,7 +26300,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer Hazy IPA",
@@ -26308,7 +26308,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Strawberry Peach Cider",
@@ -26316,7 +26316,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "bottled water",
@@ -26492,7 +26492,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cali Squeeze Blood Orange Citrus Wheat Ale",
@@ -26500,7 +26500,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Feisty Ros\u00e9",
@@ -26508,7 +26508,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Feisty White",
@@ -26516,7 +26516,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -26524,7 +26524,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -26532,7 +26532,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -26540,7 +26540,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -26548,7 +26548,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -26556,7 +26556,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -26564,7 +26564,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -26572,7 +26572,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "beer",
@@ -26636,7 +26636,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Truly Wild Berry Hard Seltzer",
@@ -26644,7 +26644,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Macaroni and cheese",
@@ -26718,7 +26718,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Cosmopolitan Martini Slushie",
@@ -26728,7 +26728,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -28164,7 +28164,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Country Ros\u00e9",
@@ -28172,7 +28172,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grape Ape Wine Slushy",
@@ -28182,7 +28182,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Red Sangria Wine Slushy",
@@ -28192,7 +28192,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Cherry Wine Slushy",
@@ -28202,7 +28202,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Country Red",
@@ -28210,7 +28210,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Country White",
@@ -28218,7 +28218,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly Red Sangria Wine Slushy",
@@ -28226,7 +28226,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Alexis Bailly White Sangria Slushy",
@@ -28234,7 +28234,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Carlos Creek Minnterra Red",
@@ -28242,7 +28242,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Carlos Creek Minnterra Rose",
@@ -28250,7 +28250,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Carlos Creek Minnterra White",
@@ -28258,7 +28258,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "breakfast crepes",
@@ -28336,7 +28336,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -28681,7 +28681,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Spiked Refresher Strawberry",
@@ -28689,7 +28689,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coca-Cola Zero",
@@ -28705,7 +28705,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Huckleberry Haze IPA",
@@ -28715,7 +28715,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Yosemite SAMwich",
@@ -28889,7 +28889,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Hard Lemonade",
@@ -28897,7 +28897,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton OMG Seltzer Slushy",
@@ -28907,7 +28907,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -28915,7 +28915,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -28923,7 +28923,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -28931,7 +28931,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -28939,7 +28939,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -28947,7 +28947,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -28955,7 +28955,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -28963,7 +28963,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -28971,7 +28971,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -28979,7 +28979,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Shiner Bock",
@@ -28987,7 +28987,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Oktoberfest",
@@ -28995,7 +28995,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Twisted Tea",
@@ -29003,7 +29003,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -29011,7 +29011,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "cheese fries",
@@ -29093,7 +29093,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -29101,7 +29101,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bell's Two Hearted Ale",
@@ -29109,7 +29109,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Blue Moon",
@@ -29117,7 +29117,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -30649,7 +30649,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Mexican Honey Light",
@@ -30657,7 +30657,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Furious IPA",
@@ -30665,7 +30665,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Strawberry Peach Cider",
@@ -30673,7 +30673,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "smoked chicken sandwich",
@@ -30723,7 +30723,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bauhaus \u201cNah\u201d Non-Alcoholic Citrus Berry Sour - NA",
@@ -30731,7 +30731,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Busch Light",
@@ -30739,7 +30739,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Hard Seltzer Blood Orange",
@@ -30747,7 +30747,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Chelsey's Southern Sipper",
@@ -30757,7 +30757,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -30765,7 +30765,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -30773,7 +30773,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lagunitas Hazy Wonder",
@@ -30781,7 +30781,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -30789,7 +30789,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -30797,7 +30797,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob ULTRA",
@@ -30805,7 +30805,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "brisket sandwich",
@@ -30912,7 +30912,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Hamm's",
@@ -30920,7 +30920,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": true,
@@ -31662,7 +31662,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Arnold Palmer Spiked Original",
@@ -31670,7 +31670,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bad Weather Hopcromancer IPA",
@@ -31678,7 +31678,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sociable Cider Werks Freewheeler Dry Apple",
@@ -31686,7 +31686,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pink Prickly Pear Agave Altitude",
@@ -31696,7 +31696,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Castle Danger Sea Salt & Lime Lager",
@@ -31704,7 +31704,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Hard Seltzer Blood Orange",
@@ -31712,7 +31712,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Flavorwave IPA",
@@ -31720,7 +31720,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lagunitas Hazy IPA",
@@ -31728,7 +31728,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Tropical Hazy IPA",
@@ -31736,7 +31736,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Orange Drink",
@@ -31744,7 +31744,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Royal Blueberry Sour",
@@ -31752,7 +31752,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Vizzy Hard Seltzer Pineapple Mango",
@@ -31760,7 +31760,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Hazy Pink Pineapple Cider",
@@ -31768,7 +31768,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Third Street Minnesota Gold Micro Razz",
@@ -31776,7 +31776,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Island Hopper",
@@ -31867,7 +31867,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Excelsior \"The Lingonburg\" - Lingonberry Shandy",
@@ -31875,7 +31875,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Garage Beer Lime",
@@ -31883,7 +31883,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lagunitas Hoppy Refresher Sparkling Hop Water - NA",
@@ -31891,7 +31891,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Lager",
@@ -31899,7 +31899,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Nialas IPA - NA",
@@ -31907,7 +31907,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Castle Danger Cream Ale",
@@ -31915,7 +31915,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -31923,7 +31923,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Corona",
@@ -31931,7 +31931,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Haze IPA",
@@ -31939,7 +31939,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -31947,7 +31947,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Excelsior Big Island Blond Ale",
@@ -31955,7 +31955,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Texas burger",
@@ -31995,7 +31995,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Blu",
@@ -32003,7 +32003,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -32011,7 +32011,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Happy Thursday Spiked Refresher",
@@ -32019,7 +32019,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Indeed Pistachio Cream Ale",
@@ -32027,7 +32027,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -32035,7 +32035,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -32043,7 +32043,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge The Bomb Hard Seltzer",
@@ -32051,7 +32051,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -32059,7 +32059,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -32067,7 +32067,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mike's Harder Lemonade",
@@ -32075,7 +32075,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -32083,7 +32083,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "New Belgium Voodoo Ranger IPA",
@@ -32091,7 +32091,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Schell's Oktoberfest",
@@ -32099,7 +32099,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Smirnoff Ice Red, White & Berry",
@@ -32107,7 +32107,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sociable Cider Werks Training Wheels Hazy Blueberry",
@@ -32115,7 +32115,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Extra Pale Ale",
@@ -32123,7 +32123,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "waffle fries",
@@ -32195,7 +32195,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Topo Chico Hard Seltzer Strawberry Guava",
@@ -32203,7 +32203,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Twisted Tea",
@@ -32211,7 +32211,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "WarPigs Foggy Geezer IPA",
@@ -32219,7 +32219,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Bad Apple Honeycrisp Lager",
@@ -32229,7 +32229,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Strawberry Rhubarb Runway",
@@ -32239,7 +32239,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "smoked brisket sandwich",
@@ -32420,7 +32420,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -32428,7 +32428,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Stone Delicious IPA",
@@ -32436,7 +32436,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "bottled water",
@@ -32486,7 +32486,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -32494,7 +32494,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Honey Weiss",
@@ -32502,7 +32502,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelada",
@@ -32510,7 +32510,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -32518,7 +32518,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -32526,7 +32526,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Lime",
@@ -32534,7 +32534,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "chorizo burrito",
@@ -32604,7 +32604,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "HeadFlyer Gold Medal Lager",
@@ -32612,7 +32612,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "beer",
@@ -34073,7 +34073,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Midway Sunset Mocktail - NA",
@@ -34083,7 +34083,7 @@
                     "Specialty Sip 2025. Also available at: Ball Park Cafe, O'Gara's at the Fair"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Athletic Upside Dawn Golden - NA",
@@ -34091,7 +34091,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pepsi",
@@ -34146,7 +34146,7 @@
                     "Specialty Sip 2024. Also available at: Ball Park Cafe"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Feisty B Red",
@@ -34154,7 +34154,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Cannon River Gunflint White",
@@ -34162,7 +34162,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -34170,7 +34170,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Deschutes Fresh Squeezed IPA",
@@ -34178,7 +34178,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -34186,7 +34186,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -34194,7 +34194,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -34202,7 +34202,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modist Dream Yard Hazy IPA",
@@ -34210,7 +34210,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Paulaner Oktoberfest",
@@ -34218,7 +34218,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Hazy Pink Pineapple Cider",
@@ -34226,7 +34226,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -34234,7 +34234,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Facepunch Pretzels",
@@ -34362,7 +34362,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -34437,7 +34437,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -34445,7 +34445,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -34453,7 +34453,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -34461,7 +34461,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -34469,7 +34469,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -34477,7 +34477,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -34485,7 +34485,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "popcorn",
@@ -34509,7 +34509,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minneapolis Cider Orchard Blend",
@@ -34517,7 +34517,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -34525,7 +34525,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Miraculum",
@@ -34533,7 +34533,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Spiral T\u00f6wnie",
@@ -34541,7 +34541,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -34549,7 +34549,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -34557,7 +34557,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -34565,7 +34565,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Aloha Pineapple Haze",
@@ -34575,7 +34575,7 @@
                     "Specialty Sip 2025. Also available at: Aldo's Burgers, Snack House, Swine & Spuds"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Three pigs pizza",
@@ -34628,7 +34628,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "pepperoni pizza",
@@ -34823,7 +34823,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -34831,7 +34831,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Firestone Walker Mind Haze IPA",
@@ -34839,7 +34839,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Grain Belt Premium",
@@ -34847,7 +34847,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Kona Big Wave Golden Ale",
@@ -34855,7 +34855,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Leinenkugel's Summer Shandy",
@@ -34863,7 +34863,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -34871,7 +34871,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minneapolis Cider Orchard Blend",
@@ -34879,7 +34879,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modelo Especial",
@@ -34887,7 +34887,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Miraculum",
@@ -34895,7 +34895,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Spiral T\u00f6wnie",
@@ -34903,7 +34903,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Mister Surly's Orange Whip Cream Ale",
@@ -34911,7 +34911,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Black Cherry",
@@ -34919,7 +34919,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "White Claw Hard Seltzer Mango",
@@ -34927,7 +34927,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coca-Cola",
@@ -34969,7 +34969,7 @@
                     "Specialty Sip 2025. Also available at: Aldo's Burgers, Snack House, Sabino's Pizza Pies"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "deep-fried Dilly Dog",
@@ -35003,7 +35003,7 @@
                     "Specialty Sip 2025. Also available at: Snack House"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fulton Lonely Blonde",
@@ -35011,7 +35011,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Gray Duck Bomba Juice Hard Seltzer",
@@ -35019,7 +35019,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "pork belly on-a-stick",
@@ -35086,7 +35086,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Back Channel Lime Margarita Brian Seltzer",
@@ -35094,7 +35094,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Castle Danger Maple M\u00e4rzen",
@@ -35102,7 +35102,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Elm Creek Rare Candy Sour",
@@ -35110,7 +35110,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Insight Crazy Aunt Ale",
@@ -35118,7 +35118,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Junkyard Peanut Butter Bandit",
@@ -35126,7 +35126,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Liquid Superdelic",
@@ -35136,7 +35136,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Metrodome IPA",
@@ -35146,7 +35146,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mexican Fruit Cup",
@@ -35156,7 +35156,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Midway Sunset Mocktail - NA",
@@ -35166,7 +35166,7 @@
                     "Specialty Sip 2025. Also available at: Bandstand Concessions, O'Gara's at the Fair"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Mini Donut Beer",
@@ -35176,7 +35176,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Passion Fruit Vanilla Seltzy",
@@ -35186,7 +35186,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Shandyland Cider",
@@ -35196,7 +35196,7 @@
                     "Specialty Sip 2025"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Liftbridge Frozen Blueberry Lemonade",
@@ -35204,7 +35204,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Luce Line New Zealand Joy Ride IPA",
@@ -35212,7 +35212,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Nialas Latitude - NA",
@@ -35220,7 +35220,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Surly Grapefruit Supreme Ale",
@@ -35228,7 +35228,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coca-Cola",
@@ -35286,7 +35286,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Minnesota Mule Cider",
@@ -35296,7 +35296,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Barrel Theory Rude Awakening",
@@ -35304,7 +35304,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Coors Light",
@@ -35312,7 +35312,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Hard Seltzer The Bomb",
@@ -35320,7 +35320,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Mango Blonde",
@@ -35328,7 +35328,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Michelob Golden Draft Light",
@@ -35336,7 +35336,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Modist Sea Salt Lime Supra Deluxe",
@@ -35344,7 +35344,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Pryes Blood Orange Miraculum IPA",
@@ -35352,7 +35352,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Steel Two Size 7 IPA",
@@ -35360,7 +35360,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Summit Nialas IPA",
@@ -35368,7 +35368,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Sweetland Orchard\u00a0Cherry Rhubarb",
@@ -35376,7 +35376,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wild State Hazy Pink Pineapple Cider",
@@ -35384,7 +35384,7 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Frozen Strawberry Daiquiri",
@@ -35394,7 +35394,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Lift Bridge Great Ape Seltzer",
@@ -35404,7 +35404,7 @@
                     "Specialty Sip 2024. Also available at: Bandstand Concessions"
                 ],
                 "isNew": "no",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "garlic fries",
@@ -35462,7 +35462,7 @@
                     "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
-                "catagory": "food_drink"
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Fastball Burger",
