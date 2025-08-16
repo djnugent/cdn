@@ -11,8 +11,8 @@
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.82539,
-            "lng": 44.977532
+            "lat": 44.977532,
+            "lng": -93.17461
         },
         "new_vendor": true
     },
@@ -28,25 +28,8 @@
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.82883,
-            "lng": 44.977924
-        },
-        "new_vendor": true
-    },
-    {
-        "description": null,
-        "image": null,
-        "hours": null,
-        "cost": null,
-        "category": "building",
-        "slug": "livestock-complex",
-        "id": "0334b9b6-ffbe-40f1-a808-b7709b822236",
-        "name": "Livestock Complex",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": -86.823792,
-            "lng": 44.97861
+            "lat": 44.977924,
+            "lng": -93.17117
         },
         "new_vendor": true
     },
@@ -62,8 +45,8 @@
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.823737,
-            "lng": 44.97751
+            "lat": 44.97751,
+            "lng": -93.176263
         },
         "new_vendor": true
     },
@@ -79,8 +62,8 @@
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.831822,
-            "lng": 44.980119
+            "lat": 44.980119,
+            "lng": -93.168178
         },
         "new_vendor": true
     },
@@ -96,8 +79,8 @@
         "location": {
             "image": null,
             "directions": null,
-            "lat": -86.830611,
-            "lng": 44.979382
+            "lat": 44.979382,
+            "lng": -93.169389
         },
         "new_vendor": true
     },

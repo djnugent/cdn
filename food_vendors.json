@@ -17658,16 +17658,28 @@
         "name": "Bridge N' Barrel Root Beer",
         "locations": [
             {
+                "image": null,
+                "directions": null,
+                "lat": 44.9813,
+                "lng": -93.1681851
+            },
+            {
+                "image": null,
+                "directions": null,
+                "lat": 44.9799881,
+                "lng": -93.1705997
+            },
+            {
+                "image": null,
+                "directions": null,
+                "lat": 44.9846013,
+                "lng": -93.1706031
+            },
+            {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5733.1.jpg",
                 "directions": "North side of Dan Patch Ave. between Nelson and Underwood streets",
                 "lat": 44.98133046043166,
                 "lng": -93.17121365
-            },
-            {
-                "image": null,
-                "directions": "Northwest corner of Wright Avenue and Cooper Street",
-                "lat": 44.98336902158273,
-                "lng": -93.1693725
             },
             {
                 "image": null,
