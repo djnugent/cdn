@@ -27288,7 +27288,7 @@
         "new_vendor": false
     },
     {
-        "image": null,
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.1.jpg",
         "offers": {
             "Coupon Book": "$2.50 off one-flavor 16 oz. milk shake (Regularly $7.50)"
         },
@@ -27298,7 +27298,7 @@
         "name": "Dairy Bar",
         "locations": [
             {
-                "image": null,
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.1.jpg",
                 "directions": "Outside the Food Building, southwest side",
                 "lat": 44.98008073381295,
                 "lng": -93.17006524038462
