@@ -3,6 +3,7 @@
         "description": "A refreshing blend of award-winning Tejas Margarita Mix combined with White Claw Hard Seltzer. 5% ABV.",
         "name": "Clawgarita Black Cherry",
         "vendor_slug": "3436.1",
+        "item_id": "377b25e8-0420-4cab-8ed9-ec1e977f6683",
         "tags": [
             "seltzer"
         ],
@@ -12,6 +13,7 @@
         "description": "You\u2019ve had the cousin, but this IPA is more mullet, more jean jacket and all party! The perfect guilty pleasure, pairing with fried food, music, people watching and mullet sightings! 6.5% ABV. Brewed in Big Lake, Minn., by Lupulin Brewing.",
         "name": "Fair Mullet",
         "vendor_slug": "616.1",
+        "item_id": "131b5496-1e1f-498d-b1ed-ec5ad19ad3cb",
         "tags": [
             "ipa",
             "beer"
@@ -22,6 +24,7 @@
         "description": "A burst of mango, citrus and dark rum-inspired flavors. Destinations await with this vibrant and refreshing frozen drink made with real fruit juice. Feeling bold? Try it mixed with Frozen Strawberry Daiquiri for a Ball Park Vice. 5% ABV. Brewed in Stillwater, Minn., by Liftbridge Brewing Company.",
         "name": "Frozen Mango Tango",
         "vendor_slug": "616.1",
+        "item_id": "fd88679a-419a-427b-9e9c-80d4041950a0",
         "tags": [
             "slushy"
         ],
@@ -31,6 +34,7 @@
         "description": "This strawberry and rum-flavored frozen cocktail-inspired drink is made with real fruit juice. Set sail, this is a vacation in a cup. PRO TIP: Get it mixed with Frozen Mango Tango for our version of a Ball Park Vice. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Frozen Strawberry Daiquiri",
         "vendor_slug": "616.1",
+        "item_id": "5f0ac646-cc68-43de-aadf-9918fb5422a7",
         "tags": [
             "slushy"
         ],
@@ -40,6 +44,7 @@
         "description": "The beloved Minnesota cocktail is made new in seltzer form with loads of grape and lemon-lime flavors. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company. Also served at Bandstand Concessions.",
         "name": "Lift Bridge Great Ape Seltzer",
         "vendor_slug": "6041.1",
+        "item_id": "1efcf102-5c61-4bcc-8a8a-7c0c818da3ae",
         "tags": [
             "seltzer"
         ],
@@ -49,6 +54,7 @@
         "description": "Sweet tropical berry candy, juicy pineapple citrus and a hint of honey-like malt, this double dry-hopped hazy IPA is a true flavor experience. Loaded with oat and wheat for a fluffy body that\u2019s soft, smooth and perfectly balanced. 6% ABV. Brewed in Minneapolis, Minn., by Modist Brewing.",
         "name": "Liquid Superdelic",
         "vendor_slug": "616.1",
+        "item_id": "4e81b845-f862-47bf-a086-4c1a05bf4afc",
         "tags": [
             "beer",
             "ipa"
@@ -59,6 +65,7 @@
         "description": "A positively stacked lineup of Mosaic, Krush & Strata Hyperboost fuse together for a bold, hoppy IPA. 6.5% ABV. Brewed in Saint Paul, Minn., by BlackStack Brewing.",
         "name": "Metrodome IPA",
         "vendor_slug": "616.1",
+        "item_id": "77c14e2a-68b0-4a1a-95a2-ef3d80ce1296",
         "tags": [
             "beer"
         ],
@@ -68,6 +75,7 @@
         "description": "A bold, tropical punch flavor wave with mango, pineapple, watermelon, a splash of zesty lime and finished with a Taj\u00edn rim. This exclusive offering brings the heat and refreshment of a getaway straight to your glass. 4.8% ABV. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Mexican Fruit Cup",
         "vendor_slug": "616.1",
+        "item_id": "c7e60d24-2159-46ac-b402-fdc3192651a8",
         "tags": [
             "beer"
         ],
@@ -77,6 +85,7 @@
         "description": "This red sangria slushy is mixed with Country Red Wine and Ratafia Wine to make a unique, flavorful treat. 6% ABV. Wine made in Hastings, Minn., by Alexis Bailly Vineyard.",
         "name": "Red Sangria Wine Slushy",
         "vendor_slug": "2332.1",
+        "item_id": "60c1ff62-9afc-4b17-9287-d9add3066faf",
         "tags": [
             "slushy",
             "wine"
@@ -87,6 +96,7 @@
         "description": "Sweet and refreshingly cold Country White Wine is infused with mint, tarragon, pear juice and elderberry flowers. 6% ABV. Wine made in Hastings, Minn., by Alexis Bailly Vineyard.",
         "name": "White Sangria Wine Slushy",
         "vendor_slug": "2332.1",
+        "item_id": "2efb4bc0-d4e1-4f97-8c49-d260684d719c",
         "tags": [
             "wine",
             "slushy"
@@ -97,6 +107,7 @@
         "description": "Infused with fresh dill and cucumber, this brew is garnished with a dill pickle and a cube of Havarti dill cheese. 4.8% ABV. 21 IBUs. Brewed in Amana, Iowa, by Millstream Brewing Co.",
         "name": "Blacklist Dill Pickle K\u00f6lsch",
         "vendor_slug": "230.1",
+        "item_id": "ab2460a7-c5c3-4d30-8f36-e2f474bc9a0f",
         "tags": [
             "beer"
         ],
@@ -106,6 +117,7 @@
         "description": "This golden wit beer is brewed with oranges and fresh lemon juice. 4% ABV. 10 IBUs. Brewed in Amana, Iowa, by Millstream Brewing Co.",
         "name": "Mankato Orange Shandy",
         "vendor_slug": "230.1",
+        "item_id": "bb1cb4cd-148d-40bf-a709-0eef01a8f356",
         "tags": [
             "beer"
         ],
@@ -115,6 +127,7 @@
         "description": "A blend of freshly pressed apples fermented dry then sweetened with pineapple juice and coconut cream. Garnished with a pineapple and cherry skewer. Enjoy the beach in a glass! 5.9% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Pi\u00f1a Ciderlada",
         "vendor_slug": "230.1",
+        "item_id": "5e2d2c82-ed4b-45b0-91e9-11b9f4706162",
         "tags": [
             "cider"
         ],
@@ -124,6 +137,7 @@
         "description": "A blend of Honeycrisp, Haralson and SweeTango apples is brewed with a touch of sorghum to add body, then fermented dry for a tart, crisp, apple flavor. Fresh raspberry puree in the brewing process sweetens the cider with a ripe berry flavor. Garnished with fresh raspberries. (Gluten-free) 6.4% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Works.",
         "name": "Raspberry Hard Cider",
         "vendor_slug": "230.1",
+        "item_id": "483b7a89-d5c3-4781-9fb3-dd599a9dac16",
         "tags": [
             "cider"
         ],
@@ -133,6 +147,7 @@
         "description": "This limited-time shandy combines the flavors of tangy rhubarb and zesty lemons, offering a refreshing and balanced drinking experience with its smooth mouthfeel and the unmistakable taste of Minnesota. Garnished with a strawberry, blackberry, and mint skewer. 4% ABV. 10 IBUs. Brewed in Amana, Iowa, by Millstream Brewing Co.",
         "name": "Mankato Rhubarb Shandy",
         "vendor_slug": "230.1",
+        "item_id": "25e0b1ab-d7d0-4fad-9505-db8b757986af",
         "tags": [
             "beer"
         ],
@@ -142,6 +157,7 @@
         "description": "Vienna, Munich and caramel malts combine to give this amber ale its distinct smooth and approachable character, with flavors of graham cracker, chocolate, marshmallow and a hint of smoke. Each glass is rimmed with chocolate and crushed graham crackers and topped with a marshmallow. 5.5% ABV. 12 IBUs. Brewed in Excelsior, Minn., by Excelsior Brewing Company.",
         "name": "S'Mores Beer",
         "vendor_slug": "230.1",
+        "item_id": "f838ef6d-6469-42f1-b547-c904dbb3abf9",
         "tags": [
             "beer"
         ],
@@ -151,6 +167,7 @@
         "description": "Notes of fresh strawberry, mandarin orange, white cherry and pomegranate. Reminiscent of a dry Proven\u00e7al ros\u00e9 with wonderful minerality and a flutter of tannin that lingers on the palate. 13.1% ABV. Wine made in Dellwood, Minn., by 7 Vines Vineyard.",
         "name": "Silver Ros\u00e9",
         "vendor_slug": "230.1",
+        "item_id": "907ac919-fdea-44ea-a746-3d39f0e089dc",
         "tags": [
             "wine",
             "rose"
@@ -161,6 +178,7 @@
         "description": "This strawberry blonde ale is packed full of bright flavors and finished with a jalape\u00f1o kick. Garnished with a Taj\u00edn-dusted lime. 4.5% ABV. 15 IBUs. Brewed in Amana, Iowa, by Millstream Brewing Co.",
         "name": "Strawberry Blaze",
         "vendor_slug": "230.1",
+        "item_id": "53811b2d-4955-46c3-bfe3-8dcb7e349a66",
         "tags": [
             "beer"
         ],
@@ -170,6 +188,7 @@
         "description": "A flavorful and aromatic light lager brewed with clementines, resulting in a bright and citrus-forward brew. Zesty, tangy and fruity notes, garnished with a candy peach ring. Its crisp body and clementine aroma will have you singing \"oh my darling!\" 4.2% ABV. 4 IBUs. Brewed in Cold Spring, Minn., by Third Street Brewhouse.",
         "name": "Sweet Clementine Beer",
         "vendor_slug": "230.1",
+        "item_id": "cd469e31-2de6-4714-8095-6488b0b3bcb0",
         "tags": [
             "beer"
         ],
@@ -179,6 +198,7 @@
         "description": "Juicy blackberries meet bright, tart lemon. This fruity duo delivers a refreshing sweet-and-sour summer combination. 5% ABV. Brewed in New Ulm, Minn. & River Falls, Wis., by August Schell Brewing in collaboration with Tattersall. Also served at West End Brews.",
         "name": "Blackberry Bramble",
         "vendor_slug": "1416.2",
+        "item_id": "6a4d8e9d-3106-40e6-96a6-29172c406879",
         "tags": [
             "beer"
         ],
@@ -188,6 +208,7 @@
         "description": "Dry champagne-like cider sweetened with freshly pressed blood orange juice, a refreshing drink perfect for any time of day. 6.2% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Blood Orange Cidermosa",
         "vendor_slug": "1416.1",
+        "item_id": "8910ba8a-e7d8-4fd7-bed8-cb958fc9e7e8",
         "tags": [
             "cider",
             "bubbly"
@@ -198,6 +219,7 @@
         "description": "The iconic root beer float gets a boozy, frozen makeover. Rich in flavor with a nostalgic feeling and just the right amount of fun. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Boozy Root Beer Float",
         "vendor_slug": "1416.1",
+        "item_id": "bbb622a9-f76c-4e23-8fbf-18aabdae603a",
         "tags": [
             "slushy"
         ],
@@ -207,6 +229,7 @@
         "description": "Freshly pressed apples, Michigan cherry juice, rhubarb and a hint of molasses fuse together. Tart, sweet and perfectly balanced \u2013 it\u2019s comfort in a cup. 5.9% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Cherry Rhubarb Crumble",
         "vendor_slug": "1416.1",
+        "item_id": "44e2f898-f5b9-4dda-8fb3-17fc14ea46cc",
         "tags": [
             "cider"
         ],
@@ -216,6 +239,7 @@
         "description": "Cucumber melon fuses with sweet watermelon. Finishes with a cool, crisp rush of cucumber for a light and boozy refresher! 4% ABV. Brewed in New Ulm, Minn., by August Schell Brewing.",
         "name": "Cucumber Melon Refresher",
         "vendor_slug": "1416.1",
+        "item_id": "fabd7e5a-22ca-4b09-a31c-68f1b992609a",
         "tags": [
             "beer"
         ],
@@ -225,6 +249,7 @@
         "description": "A blend of subtle habanero pepper heat and delicate sweetness of honey with a clean, dry finish. Crafted from fermented Midwestern clover honey and lightly carbonated for a gentle effervescence. 6% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Hot Honey Mead",
         "vendor_slug": "1416.1",
+        "item_id": "fadec0bb-c35c-46f1-ab0d-5444809e18a6",
         "tags": [
             "cider",
             "bubbly"
@@ -235,6 +260,7 @@
         "description": "Sweet honey and a dash of \u2018Minnesota Nice\u2019 spice flavor pairing. This bold flavor delivers a fresh take on the Midwest classic cream ale. 5.5% ABV. Brewed in Minneapolis, Minn., by Bauhaus Brew Labs.",
         "name": "Hot Honey Play Grade Cream Ale",
         "vendor_slug": "1416.1",
+        "item_id": "fb762453-3619-4c9c-ad9f-bb5c700b68b6",
         "tags": [
             "beer",
             "ale"
@@ -245,6 +271,7 @@
         "description": "Delivering all the flavor of lemon meringue dessert in a frozen, boozy form. It\u2019s indulgent, tart and made to savor in every sip. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lemon Meringue",
         "vendor_slug": "1416.1",
+        "item_id": "8dd4d2d3-7381-482c-b70b-d2f07ed35f35",
         "tags": [
             "slushy"
         ],
@@ -254,6 +281,7 @@
         "description": "Freshly picked peach flavor shines through this bright-tasting pale ale, brewed using the innovative dip hop method. Delivering a hop-derived essence that\u2019s both vibrant and refreshing. 5.9% ABV. 50 IBUs. Brewed in Minneapolis, Minn., by Indeed Brewing.",
         "name": "Peach Dipped Pale Ale",
         "vendor_slug": "1416.1",
+        "item_id": "0f234878-8cfd-45f3-9c09-6817f6631231",
         "tags": [
             "beer"
         ],
@@ -263,6 +291,7 @@
         "description": "Pineapple, orange and guava (POG) unite to create a juicy, vibrant and tropical-blonde ale. Let's party! 4.8% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company. Also served at West End Brews.",
         "name": "POG Party",
         "vendor_slug": "1416.2",
+        "item_id": "9195c81a-423f-45ec-87d7-cb50d115c3a1",
         "tags": [
             "beer",
             "ale"
@@ -273,6 +302,7 @@
         "description": "Strawberry, passion fruit, peach and orange packed into a lively sour. An invigorating blend of fruity flavor captures the essence of a tropical breeze. 4.8% ABV. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Tropical Island Sour",
         "vendor_slug": "1416.1",
+        "item_id": "a1524da5-be36-492d-bdc1-0ed16e62496e",
         "tags": [
             "beer",
             "sour"
@@ -283,6 +313,7 @@
         "description": "A tropical wave of island fruits merge together in this boozy, frozen twist on nostalgic fruit punch. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Tropical Treat",
         "vendor_slug": "1416.1",
+        "item_id": "aaefe678-4093-428c-b2b2-4fb3a166e6e5",
         "tags": [
             "slushy"
         ],
@@ -292,6 +323,7 @@
         "description": "Succulent blood orange brings sweet, citrusy zest to this fruity, bubbly cocktail, perfectly paired with crisp Minnesota Sparkling Edelweiss wine. Bright, playful and ideal for toasting summer moments. 12% ABV. Made in Cannon Falls, Minn., by Cannon River Winery.",
         "name": "Blood Orange Bellini",
         "vendor_slug": "198.1",
+        "item_id": "8e9cac59-42b5-4110-9ec2-274b16fc1bb0",
         "tags": [
             "bubbly",
             "wine"
@@ -302,6 +334,7 @@
         "description": "Tart yuzu mixes with a mellow watermelon flavor to add perfect sweetness to a classic German K\u00f6lsch. A hint of mint ties it all together into a friendly summer sipper. 5% ABV. 15 IBUs. Brewed in Minneapolis, Minn., by Indeed Brewing.",
         "name": "Breezy Melon Squeezy",
         "vendor_slug": "198.1",
+        "item_id": "3c9de0d3-0781-4e6e-9b8c-161825c153fd",
         "tags": [
             "beer"
         ],
@@ -311,6 +344,7 @@
         "description": "Get your freeze on with this delicious, sweet and flavorful slushie made with Quirk seltzer and a fruity and floral mix of flavors including cherry blossom and lime & cherry limeade. 4% ABV. Brewed by Boulevard Beverage Co.",
         "name": "Cherry Lime Freeze Slushie",
         "vendor_slug": "198.1",
+        "item_id": "8ed557e4-eb8d-4a0f-ad9f-2aa5de47c18f",
         "tags": [
             "seltzer",
             "slushy"
@@ -321,6 +355,7 @@
         "description": "Filled with pineapple flavor, this hazy beer delights the senses with vibrant tropical fruit notes from its hop blend and natural pineapple puree. Light, juicy and irresistibly refreshing, it's perfect for a sunny day. 5% ABV. 33 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Aloha Pineapple Haze",
         "vendor_slug": "792.4",
+        "item_id": "c8dd70b0-9ea9-4805-b473-d2901d3dd14c",
         "tags": [
             "beer"
         ],
@@ -330,6 +365,7 @@
         "description": "This irresistible blend of creamy caramel, a hint of salt and premium brewed alcohol blended in a smooth milkshake is served with a melt-in-your-mouth caramel spoon. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lift Bridge Boozy Salted Caramel Milkshake",
         "vendor_slug": "1872.1",
+        "item_id": "31a56f12-79d5-46ed-a4f6-48c9cb6b6d46",
         "tags": [
             "beer"
         ],
@@ -339,6 +375,7 @@
         "description": "A light, bubbly and refreshing seltzer crafted with bright, crisp, green apple. Served in a glass rimmed with buttery, rich caramel, which blends perfectly with each tantalizing sip. 5% ABV. Brewed in Vadnais Heights, Minn., by Big Wood Brewery.",
         "name": "Big Wood Caramel Apple Craft Seltzer",
         "vendor_slug": "1872.1",
+        "item_id": "91ddf678-5eee-4e07-9096-8de2a4183928",
         "tags": [
             "seltzer"
         ],
@@ -348,6 +385,7 @@
         "description": "Honoring two State Fair traditions \u2013 chocolate chip cookies and craft beer \u2013 this sweet sipper with a malty backbone is golden tan in color and features hints of chocolate and vanilla. Each glass is rimmed with semi-sweet chocolate. 5.2% ABV. 25 IBUs. Brewed in Vadnais Heights, Minn., by Big Wood Brewery.",
         "name": "Chocolate Chip Cookie Beer",
         "vendor_slug": "1872.1",
+        "item_id": "a79d143c-bbea-4301-9e52-209639c2a7bf",
         "tags": [
             "beer"
         ],
@@ -357,6 +395,7 @@
         "description": "This icy concoction combines the nostalgia of a dreamsicle with a boozy twist. A refreshing blend of tangy orange and creamy vanilla flavors, harmoniously blended with premium brewed alcohol. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Dreamsicle Hard Slushy",
         "vendor_slug": "1872.1",
+        "item_id": "4d872591-2d1d-44f8-9daa-f28d01653b42",
         "tags": [
             "slushy"
         ],
@@ -366,6 +405,7 @@
         "description": "Zesty passion fruit, orange and lime juices meld together with a splash of grenadine for a sweet, sunset-hued finish. With smooth rum flavors and a tropical surprise, this New Orleans cocktail-inspired drink is served over ice and is the perfect sip to soak in the fair\u2019s lively vibe. 6% ABV. Brewed in Vadnais Heights, Minn., by Big Wood Brewery.",
         "name": "Hurricane",
         "vendor_slug": "1872.1",
+        "item_id": "c6bb0571-696a-43c9-a14e-5fced4e1cf57",
         "tags": [
             "seltzer"
         ],
@@ -375,6 +415,7 @@
         "description": "Bursting with a medley of orange flavors, complemented by smooth vanilla and marmalade-like notes from Amarillo hops. Sit back and enjoy this lush, citrus-forward smoothie ale. 6.1% ABV. 20 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Orange Bliss",
         "vendor_slug": "1872.1",
+        "item_id": "aed3b424-bf66-488e-a970-a833372a630d",
         "tags": [
             "beer"
         ],
@@ -384,6 +425,7 @@
         "description": "An indulgent combination of creamy vanilla and rich caramel, exploding with juicy pineapple and buttery cake flavors. Topped with a cherry \u2013 just like the classic dessert. It\u2019s a nostalgic treat with a boozy quirk. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Pineapple Upside-Down Cake Slushy",
         "vendor_slug": "1872.1",
+        "item_id": "51d4dc7c-bd60-44d8-9e09-c5d725031f81",
         "tags": [
             "slushy"
         ],
@@ -393,6 +435,7 @@
         "description": "Experience a unique fusion of nostalgia and refreshment with this blend of bubblegum and vibrant fruity notes. This slushy delivers a playful and memorable taste that is perfectly balanced and refreshingly light. Plus, every slushy comes garnished with bubblegum \u2013 enjoy the bubbly fun! 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Tutti Frutti Bubblegum Hard Slushy",
         "vendor_slug": "1872.1",
+        "item_id": "26e99855-cee3-4128-ab81-e22d0473df43",
         "tags": [
             "slushy"
         ],
@@ -402,6 +445,7 @@
         "description": "Notes of sweet tropical fruits burst through in this juicy and hazy New England-style IPA, featuring Citra and Elani hops. Refreshing and delightful, balanced by a bright citrus backbone. 6.5% ABV. Brewed in Minneapolis, Minn., by Venn Brewing.",
         "name": "Green Flag Seltzer",
         "vendor_slug": "6041.1",
+        "item_id": "286a8bf3-4bed-4669-b011-46abfc520c04",
         "tags": [
             "seltzer"
         ],
@@ -411,6 +455,7 @@
         "description": "A taste sensation with tropical guava, zesty lime, cool mint and a hint of sweet agave, this cocktail-inspired hard seltzer is your gluten-free getaway. (Gluten-free) 5% ABV. Brewed in Minneapolis, Minn., by Bauhaus Brew Labs.",
         "name": "Bauhauss BOLO Blackberry Mojito Hard Seltzer",
         "vendor_slug": "2021.1",
+        "item_id": "7042bbdd-2aff-4b11-87bd-8dd7b33e2d4f",
         "tags": [
             "seltzer"
         ],
@@ -420,6 +465,7 @@
         "description": "A frozen brewed twist inspired by a classic cocktail. Rich, smooth and topped with a chocolate-covered coffee bean \u2013 because why not be a little extra? 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Frozen Espresso Martini Hard Seltzer",
         "vendor_slug": "2021.1",
+        "item_id": "9329c740-fd06-4936-a525-985ebe56606b",
         "tags": [
             "slushy"
         ],
@@ -429,6 +475,7 @@
         "description": "A blend of natural pineapple, real coconut cream and rum flavors combine in this classic tropical frozen cocktail-inspired seltzer slushie for the ultimate island escape. 6% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lift Bridge Frozen Pi\u00f1a Colada",
         "vendor_slug": "2021.1",
+        "item_id": "8e1052b7-c56b-4e35-9b6e-d84185c58573",
         "tags": [
             "slushy"
         ],
@@ -438,6 +485,7 @@
         "description": "Blackberry wine and tangy lemonade blend seamlessly. Sweet, tart and bold flavors swirl together for a refreshing slushie. 4.17% ABV. Wine made in Laporte, Minn., by Forestedge Winery.",
         "name": "Blackberry Lemonade Wine Slushie",
         "vendor_slug": "4072.1",
+        "item_id": "230a90b1-2bed-472a-a59f-98fda66b27b9",
         "tags": [
             "slushy",
             "wine"
@@ -448,6 +496,7 @@
         "description": "White wine with tropical notes and pineapple smoothie mix come together in this vibrant, summer-ready slushie. A taste bud explosion with sunny flavor with just the right amount of sweetness. 4.11% ABV. Wine made in Waconia, Minn., by Parley Lake Winery.",
         "name": "Brianna Pineapple Wine Slushie",
         "vendor_slug": "4072.1",
+        "item_id": "10262fc9-0b5a-4286-95e4-60901adcbbda",
         "tags": [
             "slushy",
             "wine"
@@ -458,6 +507,7 @@
         "description": "The zesty tang of blood oranges combines with the smooth characteristics of Castle Cream Ale. 5.5% ABV. Brewed in Two Harbors, Minn., by Castle Danger Brewing.",
         "name": "Castle Danger Blood Orange Cream Ale",
         "vendor_slug": "256.1",
+        "item_id": "46c94ef5-01ef-4a22-bbbb-98aa976ca99d",
         "tags": [
             "beer",
             "ale"
@@ -468,6 +518,7 @@
         "description": "Dragon fruit leads the way with a bold, tropical punch in this craft cider. Refreshing and unexpected, it\u2019s juicy and striking. 5.2% ABV. Made in Duluth, Minn., by Wild State Cider.",
         "name": "Dragon Fruit Cider",
         "vendor_slug": "256.1",
+        "item_id": "4d3f8058-cc43-4648-8a52-e767abb315eb",
         "tags": [
             "cider"
         ],
@@ -477,6 +528,7 @@
         "description": "Rich caramel notes unite seamlessly with bready malts and a touch of hops. This toasty ale lays down a warm, welcoming foundation for a flavorful adventure. 5.6% ABV. 13 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Irish Sticky Toffee Pudding",
         "vendor_slug": "256.1",
+        "item_id": "fa528eb0-cd3e-4086-af68-4c555713121c",
         "tags": [
             "beer"
         ],
@@ -486,6 +538,7 @@
         "description": "A refreshing squeeze of key lime in a light biscuity golden ale, sweetened with a touch of lactose and rimmed with green sugar. Why eat pie when you can drink it? 4.5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Key Lime Pie",
         "vendor_slug": "2021.1",
+        "item_id": "f57937aa-121b-43cd-8e0e-fb90d4f33032",
         "tags": [
             "beer",
             "ale"
@@ -496,6 +549,7 @@
         "description": "This grapefruit and tequila cocktail-inspired hard seltzer (without the tequila) is perfect to help you kick back and enjoy a slice of paradise. (Gluten-free) 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Paloma Hard Seltzer Cocktail",
         "vendor_slug": "2021.1",
+        "item_id": "4d6f8dc9-c910-4c0f-98e8-4b3ccfbbaa9d",
         "tags": [
             "seltzer"
         ],
@@ -505,6 +559,7 @@
         "description": "A frozen treat-inspired hard seltzer melds juicy pineapple, vanilla, cane sugar, and a touch of lactose for a creamy finish. Crafted with a hint of butterfly pea flower for a bold purple punch, it is like your favorite Minnesota team's fourth-quarter twist, so get ready for some serious whiplash. 5% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Pineapple WHIPlash",
         "vendor_slug": "2021.1",
+        "item_id": "ab5b3b84-0fda-4104-afb1-7e43305676be",
         "tags": [
             "seltzer",
             "slushy"
@@ -515,6 +570,7 @@
         "description": "Melon, banana, coconut, pineapple and lime blend into one groovy, frozen ride. Bursting with bold flavors and playful nostalgia. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Scooby Slush",
         "vendor_slug": "2075.1",
+        "item_id": "1a2e2b83-90b9-4ae9-a1ac-505b8efb7e7c",
         "tags": [
             "slushy"
         ],
@@ -524,6 +580,7 @@
         "description": "A smooth, golden brew with notes of sweet caramel and toasted popcorn with a crisp finish. It's a throwback delight on your classic cream ale. 4.8% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Caramel Corn Cream Ale",
         "vendor_slug": "216.1",
+        "item_id": "f3410509-d6f0-407b-9b4f-82b27453e09e",
         "tags": [
             "beer"
         ],
@@ -533,6 +590,7 @@
         "description": "A refreshing and delicious cranberry and lime slushie inspired by a fan-favorite cocktail. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lift Bridge Cosmopolitan Martini Slushie",
         "vendor_slug": "216.1",
+        "item_id": "5d4058d9-03b4-4bf7-9daf-d04d77d08d5c",
         "tags": [
             "slushy"
         ],
@@ -542,6 +600,7 @@
         "description": "Bubbly and packed with flavors of cherry, kiwi and watermelon. Served over ice then garnished with popping candy for a rockin' good time. 12% ABV. Made in Cannon Falls, Minn., by Cannon River Winery.",
         "name": "Rockin' Ros\u00e9",
         "vendor_slug": "216.1",
+        "item_id": "6ea879ed-c48f-43f1-81f3-0f629237272b",
         "tags": [
             "wine",
             "rose"
@@ -552,6 +611,7 @@
         "description": "Inspired by the 23-flavor classic pop with a cherry transformation, this bold and spiced slushie brings the soda shop to the fair. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Sgt. Pepper Slushie",
         "vendor_slug": "216.1",
+        "item_id": "fa845d2a-4575-4a92-b3bf-4e5bf479ea21",
         "tags": [
             "slushy"
         ],
@@ -561,6 +621,7 @@
         "description": "Blood orange citrus followed by a hint of sea salt. This refreshingly smooth and complex lager is enhanced with a crisp, coastal quirk. 4.7% ABV. Brewed in Minneapolis, Minn., by Indeed Brewing.",
         "name": "Aegean Dream: Blood Orange and Sea Salt Lager",
         "vendor_slug": "1457.1",
+        "item_id": "7fc622e7-064b-4f66-89ca-da5a3006142b",
         "tags": [
             "beer",
             "lager"
@@ -571,6 +632,7 @@
         "description": "Fros\u00e9 all day with this summer sipper. Fusing Saint Paul, Minn.-made Gray Duck Distillery Bomba Juice spirited seltzer with a fruity fun mix of lemonade, strawberry and a kick of Red Bull served fros\u00e9 slushie-style. 5% ABV.",
         "name": "Bomba Bull Frose All Day Slushy",
         "vendor_slug": "1457.1",
+        "item_id": "e299b759-8125-4aef-a51b-01afdf1340cd",
         "tags": [
             "slushy",
             "rose"
@@ -581,6 +643,7 @@
         "description": "Rich pomegranate and ouzo flavor give this hard seltzer its bold, Mediterranean-inspired taste. Crisp, vibrant and perfectly thirst-quenching. Enjoy solo or in a Seltzer Flight with other Dino's Gyros' specialty sips. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Greek Goddess",
         "vendor_slug": "1457.1",
+        "item_id": "c9a73948-f246-454f-b36d-ef71f054197e",
         "tags": [
             "seltzer"
         ],
@@ -590,6 +653,7 @@
         "description": "A tangy, sour punch up-front with a sweet candy finish, just like your favorite sour treats. It\u2019s bright, playful and made for sipping with a smirk. Enjoy solo or in a Seltzer Flight with other Dino's Gyros' specialty sips. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lil' Sour Buddies",
         "vendor_slug": "1457.1",
+        "item_id": "bf75e981-7189-4616-a81e-953e2313a5f1",
         "tags": [
             "seltzer"
         ],
@@ -599,6 +663,7 @@
         "description": "Zesty dill pickle meets classic margarita in this refreshingly unexpected hard seltzer. Bold, briny and bursting with citrus, it\u2019s a flavor combo you didn\u2019t know you needed. Enjoy solo or in a Seltzer Flight with other Dino's Gyros' specialty sips. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Picklerita",
         "vendor_slug": "1457.1",
+        "item_id": "22ff1dd2-59f5-4d36-9e2b-d416700ca508",
         "tags": [
             "seltzer"
         ],
@@ -608,6 +673,7 @@
         "description": "A bright and bubbly pomegranate craft cider. Effortlessly festive, striking the perfect balance between fun and easygoing. 5.5% ABV. Made in Duluth, Minn., by Wild State Cider.",
         "name": "Pomegranate Spritz",
         "vendor_slug": "1457.1",
+        "item_id": "5823f424-c943-4b5c-8820-d411da0a51ed",
         "tags": [
             "cider"
         ],
@@ -617,6 +683,7 @@
         "description": "The sweet aroma of strawberries, raspberries and lemons paired with an undertone of vanilla. Full bodied and silky smooth, with a bright bubbly surprise. 4.8% ABV. Brewed in Two Harbors, Minn., by Castle Danger Brewing.",
         "name": "Strawberry Lemonade - \"ALE\"",
         "vendor_slug": "1457.1",
+        "item_id": "c435d471-0cfe-4b48-b482-04de807445f5",
         "tags": [
             "beer"
         ],
@@ -626,6 +693,7 @@
         "description": "Country White Wine infused with blue raspberry flavor makes for a cool, drinkable slushy. 6% ABV. Wine made in Hastings, Minn., by Alexis Bailly Vineyard.",
         "name": "Alexis Bailly Blue Raspberry Wine Slushy",
         "vendor_slug": "2332.1",
+        "item_id": "cc43e60d-daaa-4167-98e6-fbe7732bd56b",
         "tags": [
             "slushy",
             "wine"
@@ -636,6 +704,7 @@
         "description": "Cherry flavor is infused with Country White Wine to make a refreshing summer slushy. 6% ABV. Wine made in Hastings, Minn., by Alexis Bailly Vineyard.",
         "name": "Alexis Bailly Cherry Wine Slushy",
         "vendor_slug": "2332.1",
+        "item_id": "c2c03602-5c27-4e02-9fc1-5e15d333e44f",
         "tags": [
             "wine",
             "slushy"
@@ -646,6 +715,7 @@
         "description": "A refreshing Seyval white wine infused with grape flavoring. Enjoy this delicious and cooling, frozen drink to sweeten your summer! 6% ABV. Wine made in Hastings, Minn., by Alexis Bailly Vineyard.",
         "name": "Grape Ape Wine Slushy",
         "vendor_slug": "2332.1",
+        "item_id": "f17ed814-9bd9-4df8-ac81-169493de3504",
         "tags": [
             "slushy",
             "wine"
@@ -656,6 +726,7 @@
         "description": "Minnesota-made sparkling wine with refreshing hints of orange and herbal bitters. A vibrant orange hue shouts summer in this Aperol-inspired spritz. 6.6% ABV. Made in Scandia, Minn., by Rustic Roots Winery in collaboration with Earl Giles Distillery.",
         "name": "O'Perol Spritz",
         "vendor_slug": "256.1",
+        "item_id": "ba0793a6-caa1-4460-a203-5ed5f3bf46b3",
         "tags": [
             "wine",
             "bubbly"
@@ -666,6 +737,7 @@
         "description": "Light, clean haze with big notes of candied peach and fresh-cut pineapple. Slight biscuit and oat character and a medium hoppy flavor combine for a mouthwatering brew. 4.8% ABV. Brewed in Two Harbors, Minn., by Castle Danger Brewing.",
         "name": "Pineapple Peach Hazy Pale Ale",
         "vendor_slug": "256.1",
+        "item_id": "6d0d6fe5-c803-4e11-bebb-dc270812d3cd",
         "tags": [
             "beer",
             "ale"
@@ -676,6 +748,7 @@
         "description": "This icy combination of cool cr\u00e8me de menthe flavor and smooth vanilla is as refreshing as it is indulgent. Topped with a swirl of whipped cream delivering a creamy finish that is festive, frosty and utterly irresistable. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company in collaboration with Earl Giles Distillery.",
         "name": "Shamrock Slushie  (SIPS",
         "vendor_slug": "256.1",
+        "item_id": "de8493c2-2b17-4ca8-9ab0-cffd09186554",
         "tags": [
             "slushy"
         ],
@@ -685,6 +758,7 @@
         "description": "Flavors of sweet cherries and tart lemonade are blended into a hard slushie. The bold and icy mix makes for a flavorful summer refreshment. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Mike's Hard Black Cherry Lemonade",
         "vendor_slug": "3131.1",
+        "item_id": "9ebaab21-e1a9-4947-8080-28987035603e",
         "tags": [
             "slushy"
         ],
@@ -694,6 +768,7 @@
         "description": "The merge of bold tropical fruit flavors with a smooth, boozy flavor finish. Inspired by a beach bar favorite, this frozen delight is ready for any heat wave. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Ragin Runner",
         "vendor_slug": "3131.1",
+        "item_id": "9f0cc56a-8346-4068-93de-43a43ec13ff3",
         "tags": [
             "slushy"
         ],
@@ -703,6 +778,7 @@
         "description": "A vibrant blue sparkling hard seltzer provides a flavor wave with the tangy-sweet flavors of pineapple and lemonade. This tropical transformation brings island vibes to every sip. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Aloha Lemonade",
         "vendor_slug": "3217.1",
+        "item_id": "f5f235c1-c424-42c1-8eb9-a193dd0de80f",
         "tags": [
             "seltzer"
         ],
@@ -712,6 +788,7 @@
         "description": "A symphony of smooth bourbon flavor, juicy peaches and sweet tea. A dose of southern hospitality in every sip. Garnished with a candy peach ring. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lift Bridge Chelsey's Southern Sipper",
         "vendor_slug": "3217.1",
+        "item_id": "48a5ca6f-1861-4a70-b821-f1e4807d2013",
         "tags": [
             "beer"
         ],
@@ -721,6 +798,7 @@
         "description": "A sweet pumpkin cider made with freshly pressed apples and seasonal spices. This drink gives you that first taste of fall! (Gluten-free) 6% ABV. Made in Duluth, Minn., by Duluth Cider.",
         "name": "Apple Cider Pumpkin Spice",
         "vendor_slug": "3276.1",
+        "item_id": "e5179298-d5f3-4460-8c71-35d9c3a525a0",
         "tags": [
             "cider"
         ],
@@ -730,6 +808,7 @@
         "description": "A tropical whirlwind of mango, pineapple and lime. Enjoy a frozen fruity flavor giving refreshing beach vibes. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Lift Bridge Baja Breeze Slushie",
         "vendor_slug": "3276.1",
+        "item_id": "fe06f7a7-91d7-4760-b2ef-826767b33702",
         "tags": [
             "slushy"
         ],
@@ -739,6 +818,7 @@
         "description": "Malt alcohol base mixed with Bloody Mary mix. Grab a glass for a savory cocktail-inspired sip. 6% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Cocktail-Inspired Bloody Mary",
         "vendor_slug": "3276.1",
+        "item_id": "9229e5cb-0f29-4bb2-aec8-95ae9b5489e6",
         "tags": [
             "seltzer"
         ],
@@ -748,6 +828,7 @@
         "description": "A full send of cherry and a blast of citrus bring this iconic drink to life in frozen, boozy form. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Code Shred",
         "vendor_slug": "3276.1",
+        "item_id": "fd6107f0-fb84-458e-825f-ae821aec5bac",
         "tags": [
             "slushy"
         ],
@@ -757,6 +838,7 @@
         "description": "A light- to medium-bodied, well-balanced lager-style beer featuring refreshing lime and a slight sweetness. One sip and you'll be looking for an encore. 4.5% ABV. Brewed in Saint Paul, Minn., by Summit Brewing Company. Also served at Summit On-A-Stick.",
         "name": "Grandstand Lime Up",
         "vendor_slug": "3276.1",
+        "item_id": "f591b2e0-cc51-485c-9a58-13e3b19060f1",
         "tags": [
             "beer",
             "lager"
@@ -767,6 +849,7 @@
         "description": "Hard lemonade crafted from just three simple ingredients: naturally fermented cane seltzer, freshly pressed lemons, and real cane sugar. Refreshingly pure, it\u2019s a crisp, clean taste you can feel good about. (Gluten-free) 4.5% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Hank's Hard Lemonade",
         "vendor_slug": "3276.1",
+        "item_id": "e986feef-e099-44b4-85ac-8416475a5b80",
         "tags": [
             "seltzer"
         ],
@@ -776,6 +859,7 @@
         "description": "Bright peach and tropical fruit flavors shine in this vibrant sparkling hard seltzer. Finished with a smooth drop of grenadine that settles like a picture-perfect sunset. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Shanghai Sunset",
         "vendor_slug": "3276.1",
+        "item_id": "64271482-d2a3-49f5-815d-ed2ce5d4a997",
         "tags": [
             "seltzer"
         ],
@@ -785,6 +869,7 @@
         "description": "Vibrant cider slushie exploding with strawberry, pomegranate and dragon fruit flavors. Ice-cold, boldly fruity and refreshingly tart. Found at Rooted & Wild (Snack House) and Swine & Spuds only. 6% ABV. Made in Minneapolis, Minn., by Minneapolis Cider Company.",
         "name": "Blushing Dragon Slushie",
         "vendor_slug": "792.1",
+        "item_id": "1f861ef4-4c19-4c43-8b9b-fd9c14ec2606",
         "tags": [
             "slushy",
             "cider"
@@ -795,6 +880,7 @@
         "description": "Award-winning Tejas Margarita Mix is frozen and blended with Leinenkugel\u2019s Honey Weiss, a golden-hued American wheat beer with a touch of Wisconsin honey. Reviews have hailed the Beergarita as \u201crefreshing, light and drop-dead delicious.\u201d This south-of-the-border-inspired thirst quencher is also available in strawberry and mojito flavors and can be made gluten-free. 4.6% ABV. Brewed in Chippewa Falls, Wis., by Jacob Leinenkugel Brewing Company.",
         "name": "Beergarita - The Original, Mojito, Strawberry or Gluten-Free",
         "vendor_slug": "3436.1",
+        "item_id": "82c05816-59bd-4ebe-b3ca-7fd44b37e230",
         "tags": [
             "slushy"
         ],
@@ -804,6 +890,7 @@
         "description": "A sweet and creamy ale with notes of cinnamon, sugar and deep-fried churro. Sip on this favorite festival treat in brewed form! 5.2% ABV. 20 IBUs. Brewed in Minneapolis, Minn., by HeadFlyer Brewing.",
         "name": "Churro Cream Ale",
         "vendor_slug": "3436.1",
+        "item_id": "bfeaecf6-9679-4327-9bb9-5a1b495e1177",
         "tags": [
             "beer"
         ],
@@ -813,6 +900,7 @@
         "description": "Bold blood orange, lush mango, sweet pineapple and a kiss of hibiscus come together in this vibrant, non-alcoholic sip of summer magic. Pouring the golden glow of a State Fair evening into your glass, it\u2019s pure nostalgia in every sip. 0% ABV. Crafted in Minneapolis, Minn., by Earl Giles Distillery. Also served at Bandstand Concessions and O'Gara's at the Fair.",
         "name": "Midway Sunset Mocktail - NA",
         "vendor_slug": "256.1",
+        "item_id": "c9ad7ea1-4d89-4c18-84bc-f75ab4569641",
         "tags": [
             "na"
         ],
@@ -822,6 +910,7 @@
         "description": "This creative beer\u2019s warm tan color, malty base and natural flavors are reminiscent of a fresh State Fair mini donut. This sweet summer sipper has enough rich flavor not to overwhelm the palate. Each glass is served rimmed with cinnamon sugar to enhance the aromas. 5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Mini Donut Beer",
         "vendor_slug": "616.1",
+        "item_id": "8bfcc2fb-665b-4f93-b709-463490d25fab",
         "tags": [
             "beer"
         ],
@@ -831,6 +920,7 @@
         "description": "A play on a favorite cocktail, this cider starts with fresh, Minnesota-grown apples and is transformed by adding loads of hand-squeezed lime and ginger. The result is a little spicy, a little citrusy and a whole lot refreshing. (Gluten-free) 7% ABV. Made in Webster, Minn., by Sweetland Orchard.",
         "name": "Minnesota Mule Cider",
         "vendor_slug": "616.1",
+        "item_id": "eea40ade-71ae-4f70-b485-ab583fbd9ecd",
         "tags": [
             "cider"
         ],
@@ -840,6 +930,7 @@
         "description": "Bright, tangy passion fruit meets the soft, sweet notes of vanilla in this refreshing hard seltzer. Surprisingly smooth and absolutely perfect for chasing those summer day vibes. 6% ABV. Brewed in Minneapolis, Minn., by Indeed Brewing.",
         "name": "Passion Fruit Vanilla Seltzy",
         "vendor_slug": "616.1",
+        "item_id": "328df042-a65a-43ac-8ead-87a3b7b857ed",
         "tags": [
             "seltzer"
         ],
@@ -849,6 +940,7 @@
         "description": "A crisp apple cider combined with real lemonade, creating a vibrant duo of Citra and Nelson Sauvin hops. Bright, citrusy and just sweet enough. 5% ABV. Made in Minneapolis, Minn., by Minneapolis Cider Company.",
         "name": "Shandyland Cider",
         "vendor_slug": "616.1",
+        "item_id": "22b46b4e-4f98-4a20-b2c3-8ef67806a9dd",
         "tags": [
             "cider"
         ],
@@ -858,6 +950,7 @@
         "description": "Notes of sweet tropical fruits burst through in this juicy and hazy New England-style IPA, featuring Citra and Elani hops. Refreshing and delightful, balanced by a bright citrus backbone. 6.5% ABV. Brewed in Minneapolis, Minn., by Venn Brewing.",
         "name": "A-OKAY HAZY IPA",
         "vendor_slug": "1968.1",
+        "item_id": "b421dbc7-bf2e-45a5-85e7-2c135a921783",
         "tags": [
             "beer"
         ],
@@ -867,6 +960,7 @@
         "description": "Passion fruit, orange and guava (POG) come together to deliver a sweet, citrusy flavor. Refreshingly cool, it\u2019s tropical vibes in a cup. 5% ABV. Brewed in Minneapolis, Minn., by Freehouse Brewery.",
         "name": "Aloha Ice",
         "vendor_slug": "1968.1",
+        "item_id": "92aaa8a5-a078-4146-b992-ef054bda746b",
         "tags": [
             "beer"
         ],
@@ -876,6 +970,7 @@
         "description": "A seltzer-based bloody mary drink. Elegantly garnished with a zesty lemon wedge and an olive. 5% ABV. Brewed in Minneapolis, Minn., by Freehouse Brewery.",
         "name": "Backyard Bloody Mary",
         "vendor_slug": "1968.1",
+        "item_id": "54521112-3bfe-4859-8851-b8e843028c71",
         "tags": [
             "seltzer"
         ],
@@ -885,6 +980,7 @@
         "description": "Bold cherry with notes of apple pie spice, creating a balance between sweet and tart flavors. It's like a bite of fresh pie in every sip. 6% ABV. Made in Duluth, Minn., by Wild State Cider.",
         "name": "Cherry Apple Pie Cider",
         "vendor_slug": "1968.1",
+        "item_id": "0fd7a8af-9b2d-4477-8e12-9de344d6624a",
         "tags": [
             "cider"
         ],
@@ -894,6 +990,7 @@
         "description": "Exploding with the tangy-sweet punch of prickly pear, this bold brew is packed with vibrant fruit flavor. Bright and eye-catching, it delivers a flavor reminiscent of your favorite hard candy. 4.4% ABV. Brewed in Minneapolis, Minn., by Freehouse Brewery.",
         "name": "Prickly Pear Sour",
         "vendor_slug": "1968.1",
+        "item_id": "3a151c23-5802-44e4-b961-d8a87909ada4",
         "tags": [
             "beer"
         ],
@@ -903,6 +1000,7 @@
         "description": "Crisp ros\u00e9 is infused with strawberry and rhubarb. A fruity, bubbly wine with hints of cucumber and mint. 6.3% ABV. Wine made in Scandia, Minn., by Rustic Roots Winery.",
         "name": "Strawberry Summer Spritz",
         "vendor_slug": "1968.1",
+        "item_id": "5a86c37c-a46d-4548-bd4e-c604cf7d34fc",
         "tags": [
             "wine",
             "rose"
@@ -913,6 +1011,7 @@
         "description": "A golden cream ale with a smooth malt base, infused with ripe blueberries and bright lemon zest for a refreshing, slightly tart finish. Light-bodied, crisp, and perfect for a day at the fairgrounds. 4.9% ABV. 15 IBUs. Brewed in Minneapolis, Minn., by Fulton Brewing.",
         "name": "Blueberry Lemon Cream Ale",
         "vendor_slug": "2348.1",
+        "item_id": "3e31f956-77a0-4a3b-86c4-f537a252dbab",
         "tags": [
             "beer"
         ],
@@ -922,6 +1021,7 @@
         "description": "A hazy IPA that wrangles bold tropical hops and real huckleberry into one smooth, refreshing beer. A fun and vibrant beer reminiscent of summer. 6.5% ABV. Brewed in Stillwater, Minn., by Lift Bridge Brewing Company.",
         "name": "Huckleberry Haze IPA",
         "vendor_slug": "2348.1",
+        "item_id": "3e4fbf05-3697-4980-8786-2e1c563efd0f",
         "tags": [
             "beer"
         ],
@@ -931,6 +1031,7 @@
         "description": "A mix of fruity flavors provides the OMG (orange, mango, guava) flavor profile. This refreshing frozen beverage is made with a tasty blend of a variety of Fulton seltzers. 5% ABV. Brewed in Minneapolis, Minn., by Fulton Brewing.",
         "name": "Fulton OMG Seltzer Slushy",
         "vendor_slug": "2348.1",
+        "item_id": "9ca859ba-edf0-4233-8efb-bf350c1bf8e4",
         "tags": [
             "slushy"
         ],
@@ -940,6 +1041,7 @@
         "description": "Brewed with pilsner malt and real Honeycrisp apples, it delivers a bright, tart-sweet balance with a smooth, dry finish. This lager captures the essence of Minnesota\u2019s famous apple. 4.4% ABV. Brewed in Saint Paul, Minn., by Bad Weather Brewing Company.",
         "name": "Bad Apple Honeycrisp Lager",
         "vendor_slug": "3450.1",
+        "item_id": "b44a1b2f-3bac-4bd4-bc73-89866b5e94ba",
         "tags": [
             "beer"
         ],
@@ -949,6 +1051,7 @@
         "description": "Freshly pressed apples, prickly pear cactus fruit and agave nectar come together in a vibrant trio. With a soft pink hue, juicy fruit-forward flavor and crisp finish, it\u2019s as easy on the eyes as it is on the palate. 6% ABV. Brewed in Minneapolis, Minn., by Sociable Cider Werks.",
         "name": "Pink Prickly Pear Agave Altitude",
         "vendor_slug": "3450.1",
+        "item_id": "d3db213e-dc41-4f43-a640-0063ce10f49b",
         "tags": [
             "cider"
         ],
@@ -958,6 +1061,7 @@
         "description": "Bright, tart rhubarb pairs perfectly with sweet strawberries, creating a refreshing nod to a beloved local duo. This sour is straight out of Minnesota \u2013 a classic combination that celebrates the season. 4.8% ABV. 5 IBUs. Brewed in Minneapolis, Minn., made by Pryes Brewing Company.",
         "name": "Strawberry Rhubarb Runway",
         "vendor_slug": "3450.1",
+        "item_id": "873cff55-77a9-452d-b489-690d14a1515c",
         "tags": [
             "beer"
         ],
@@ -967,6 +1071,7 @@
         "description": "This bubbly, playful powerhouse is bursting with fruity flavors. It delights with a blast of icy cold nostalgia and comes whimsically rimmed with a rainbow of crushed Fruity Pebbles. Served on ice. 7% ABV. Wine made in Cannon River, Minn., by Cannon River Winery.",
         "name": "Flirty Fruity Bubbles",
         "vendor_slug": "3790.1",
+        "item_id": "a5c9cd0b-3eca-46dd-b491-e0d6b385d37a",
         "tags": [
             "wine",
             "bubbly"
@@ -977,6 +1082,7 @@
         "description": "An American pale ale infused with tropical flavors from the Australian hop Galaxy. Served with a space-themed rubber ducky. 5.5% ABV. 45 IBUs. Brewed in Boston, Mass., by Samuel Adams Boston Beer Co.",
         "name": "Galaxy Groove",
         "vendor_slug": "3790.1",
+        "item_id": "14975d9f-de81-49dc-a9cd-60ffb16bb2ee",
         "tags": [
             "ale",
             "beer"
@@ -987,6 +1093,7 @@
         "description": "A wildly refreshing twist on a childhood favorite, this grown-up version of the Shirley Temple has a hint of vodka, without the vodka, made with wine from Cannon River Winery. It evokes cheerful memories and feels like a party in a cup. 7% ABV. Wine made in Cannon River, Minn., by Cannon River Winery.",
         "name": "Naughty Shirley",
         "vendor_slug": "3790.1",
+        "item_id": "cb078b00-4cd6-4d22-bf90-dddaac127296",
         "tags": [
             "wine"
         ],
@@ -996,6 +1103,7 @@
         "description": "Margarita-inspired and fueled by the sweet heat of mango habanero. This wine-based drink is served with a candied scorpion on-a-stick for a daring yet unforgettable satisfyingly spicy sip. 7% ABV. Wine made in Cannon Falls, Minn., by Cannon River Winery.",
         "name": "THE STINGER!",
         "vendor_slug": "3790.1",
+        "item_id": "b7f1fc1f-cb1a-4c37-bb91-19cc1aa9997c",
         "tags": [
             "wine"
         ],
@@ -1005,6 +1113,7 @@
         "description": "Grain Belt Blu beer topped with frozen beer foam. Brewed in New Ulm., Minn. by August Schell Brewing Co.",
         "name": "Blu Frozen Topper",
         "vendor_slug": "1416.2",
+        "item_id": "d8fae117-d887-4814-96d8-655fe6a23a36",
         "tags": [
             "beer"
         ],
@@ -1014,6 +1123,7 @@
         "description": "Juicy raspberry and subtle hints of passion fruit fuse together in this tart American fruited Berliner Weisse \u2013 reimagined in irresistible soft serve form! It\u2019s the perfect fusion of refreshing beer and creamy indulgence in a cone. 4.8% ABV. 6 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.",
         "name": "Soft Serve Royal Raspberry Beer",
         "vendor_slug": "1416.2",
+        "item_id": "f3308272-40d2-4263-8b7f-bbc1684e5269",
         "tags": [
             "beer"
         ],
