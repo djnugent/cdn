@@ -20392,12 +20392,12 @@
             }
         ],
         "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": null,
+        "accepts_credit_cards": false,
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": false,
         "dairy_free_options": false,
-        "new_vendor": true
+        "new_vendor": false
     },
     {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-10432.1.jpg",
@@ -20454,7 +20454,7 @@
         "hours": null,
         "slug": "1416.2",
         "id": "71893a3d-2e88-4432-9ffe-145a6b469018",
-        "name": "Schell's Booth",
+        "name": "West End Brews",
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1416.2.jpg",
