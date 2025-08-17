@@ -40587,7 +40587,7 @@
         "new_vendor": false
     },
     {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.png",
+        "image": null,
         "offers": {
             "Coupon Book": "$1.50 off one 16 oz. or 32 oz. \"fresh-squeezed\" lemonade, Orange or Strawberry Treet (Regularly $5 & $7)"
         },
@@ -40597,7 +40597,7 @@
         "name": "Fresh Squeezed Lemonade, Fruit Smoothies, Fresh Squeezed Orange Treet & Strawberry Treet",
         "locations": [
             {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.png",
+                "image": null,
                 "directions": "In the Food Building, south wall",
                 "lat": 44.98008073381295,
                 "lng": -93.17006524038462
