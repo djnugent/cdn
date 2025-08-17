@@ -805,7 +805,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -5724,18 +5724,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
-                "name": "S'Mores Beer",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
-                ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -6016,17 +6005,6 @@
                 "dietary_tags": {}
             },
             {
-                "name": "Pi\u00f1a Ciderlada",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
-                ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
                 "name": "Sweet Clementine Beer",
                 "description": "A flavorful and aromatic light lager brewed with clementines, resulting in a bright and citrus-forward brew. Zesty, tangy and fruity notes, garnished with a candy peach ring. Its crisp body and clementine aroma will have you singing \u201coh my darling!\u201d 4.2% ABV. Brewed in Cold Spring, Minn., by Third Street Brewhouse.",
                 "image": null,
@@ -6038,12 +6016,34 @@
                 "dietary_tags": {}
             },
             {
+                "name": "Pi\u00f1a Ciderlada",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
+            },
+            {
                 "name": "Timber Twists",
                 "description": "This creation combines savory Italian sausage, creamy mozzarella, and rich cream cheese, all seasoned to perfection with a hint of barbecue rub. The mixture is expertly piped into tender manicotti shells, wrapped in crispy bacon, and infused with smoky flavors from our wood-fired smoker. Served with a side of Giggles\u2019 signature dipping sauce.",
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/newthisyear-timber-twists.jpg",
                 "details": [],
                 "isNew": "true_featured",
                 "catagory": "food_drink",
+                "dietary_tags": null
+            },
+            {
+                "name": "S'Mores Beer",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
             {
@@ -8859,7 +8859,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -24191,6 +24191,17 @@
                 "dietary_tags": null
             },
             {
+                "name": "Naughty Shirley",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
+            },
+            {
                 "name": "Fulton Tropical Lonely Blonde",
                 "description": null,
                 "image": null,
@@ -24259,17 +24270,6 @@
                 "image": null,
                 "details": [
                     "Specialty Sip 2025"
-                ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
-                "name": "Naughty Shirley",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
                 "catagory": "alchoholic_beverage",
@@ -24605,17 +24605,6 @@
                 "dietary_tags": {}
             },
             {
-                "name": "Flirty Fruity Bubbles",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
-                ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
                 "name": "Diet Coke",
                 "description": null,
                 "image": null,
@@ -24663,6 +24652,17 @@
                     "vegetarian": false,
                     "gluten_free": false
                 }
+            },
+            {
+                "name": "Flirty Fruity Bubbles",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
             },
             {
                 "name": "Cannon River Cotton Candy Bubble Trouble",
@@ -30238,17 +30238,6 @@
                 "dietary_tags": null
             },
             {
-                "name": "Blu Frozen Topper",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
-                ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
                 "name": "Soft Serve Royal Raspberry Beer",
                 "description": null,
                 "image": null,
@@ -30291,6 +30280,17 @@
                 "description": null,
                 "image": null,
                 "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
+            },
+            {
+                "name": "Blu Frozen Topper",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
@@ -32445,7 +32445,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -32754,7 +32754,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -35820,7 +35820,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -41713,21 +41713,21 @@
                 "dietary_tags": null
             },
             {
+                "name": "Alexis Bailly Country Ros\u00e9",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
+            },
+            {
                 "name": "White Sangria Wine Slushy",
                 "description": null,
                 "image": null,
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
-                "name": "Alexis Bailly Country Ros\u00e9",
-                "description": null,
-                "image": null,
-                "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
@@ -41750,7 +41750,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -48027,7 +48027,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -51742,6 +51742,17 @@
                 "dietary_tags": null
             },
             {
+                "name": "Mini Donut Beer",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2024"
+                ],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "dietary_tags": null
+            },
+            {
                 "name": "Liquid Superdelic",
                 "description": null,
                 "image": null,
@@ -51780,17 +51791,6 @@
                 "image": null,
                 "details": [
                     "Specialty Sip 2025. Also available at: Bandstand Concessions, O'Gara's at the Fair"
-                ],
-                "isNew": "true_inline",
-                "catagory": "alchoholic_beverage",
-                "dietary_tags": null
-            },
-            {
-                "name": "Mini Donut Beer",
-                "description": null,
-                "image": null,
-                "details": [
-                    "Specialty Sip 2024"
                 ],
                 "isNew": "true_inline",
                 "catagory": "alchoholic_beverage",
@@ -51956,7 +51956,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
@@ -52172,7 +52172,7 @@
                 "details": [
                     "Specialty Sip 2024"
                 ],
-                "isNew": "true_inline",
+                "isNew": "no",
                 "catagory": "alchoholic_beverage",
                 "dietary_tags": null
             },
