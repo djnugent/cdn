@@ -27295,7 +27295,7 @@
         "hours": "Open 9 a.m. to 9 p.m.",
         "slug": "244.1",
         "id": "bd6d8ba7-6b2c-4f07-8a2f-f726943dd5d9",
-        "name": "Fresh Squeezed Lemonade, Fruit Smoothies, Fresh Squeezed Orange Treet & Strawberry Treet",
+        "name": "Dairy Bar",
         "locations": [
             {
                 "image": null,
@@ -27514,6 +27514,88 @@
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": true,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.png",
+        "offers": {
+            "Coupon Book": "$1.50 off one 16 oz. or 32 oz. \"fresh-squeezed\" lemonade, Orange or Strawberry Treet (Regularly $5 & $7)"
+        },
+        "hours": "Open 9 a.m. to 9 p.m.",
+        "slug": "244.2",
+        "id": "7cb56b2a-44a5-4761-b3c6-566601e23427",
+        "name": "Fresh Squeezed Lemonade, Fruit Smoothies, Fresh Squeezed Orange Treet & Strawberry Treet",
+        "locations": [
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.png",
+                "directions": "In the Food Building, south wall",
+                "lat": 44.98008073381295,
+                "lng": -93.17006524038462
+            }
+        ],
+        "items": [
+            {
+                "name": "fresh-squeezed lemonade with optional flavors",
+                "description": null,
+                "image": null,
+                "details": [
+                    "strawberry",
+                    "peach",
+                    "raspberry"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "pi\u00f1a colada-style non-alcoholic smoothie",
+                "description": null,
+                "image": null,
+                "details": [
+                    "fresh pineapple and coconut milk",
+                    "option to add banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "triple berry smoothie",
+                "description": null,
+                "image": null,
+                "details": [
+                    "dairy base",
+                    "strawberries",
+                    "raspberries",
+                    "blackberries",
+                    "option to add banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "strawberry banana smoothie",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Orange or Strawberry Treet drink",
+                "description": null,
+                "image": null,
+                "details": [
+                    "whipped Julius-style drink with optional banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": true,
+        "accepts_credit_cards": true,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
         "new_vendor": false
     },
     {
@@ -29247,88 +29329,6 @@
         ],
         "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.jpg",
-        "offers": {
-            "Coupon Book": "$1.50 off one 16 oz. or 32 oz. \"fresh-squeezed\" lemonade, Orange or Strawberry Treet (Regularly $5 & $7)"
-        },
-        "hours": "Open 9 a.m. to 9 p.m.",
-        "slug": "244.2",
-        "id": "7cb56b2a-44a5-4761-b3c6-566601e23427",
-        "name": "The Dairy Bar",
-        "locations": [
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.2.jpg",
-                "directions": "In the Food Building, south wall",
-                "lat": 44.98008073381295,
-                "lng": -93.17006524038462
-            }
-        ],
-        "items": [
-            {
-                "name": "fresh-squeezed lemonade with optional flavors",
-                "description": null,
-                "image": null,
-                "details": [
-                    "strawberry",
-                    "peach",
-                    "raspberry"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "pi\u00f1a colada-style non-alcoholic smoothie",
-                "description": null,
-                "image": null,
-                "details": [
-                    "fresh pineapple and coconut milk",
-                    "option to add banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "triple berry smoothie",
-                "description": null,
-                "image": null,
-                "details": [
-                    "dairy base",
-                    "strawberries",
-                    "raspberries",
-                    "blackberries",
-                    "option to add banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "strawberry banana smoothie",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Orange or Strawberry Treet drink",
-                "description": null,
-                "image": null,
-                "details": [
-                    "whipped Julius-style drink with optional banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": true,
-        "accepts_credit_cards": true,
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
