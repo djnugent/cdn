@@ -12227,7 +12227,7 @@
                 "dietary_tags": null
             },
             {
-                "name": "Shamrock Slushie  (SIPS",
+                "name": "Shamrock Slushie",
                 "description": null,
                 "image": null,
                 "details": [
@@ -20579,13 +20579,13 @@
                 }
             },
             {
-                "name": "Mike's Hard Black Cherry Lemonade",
+                "name": "Black Cherry Lemonade",
                 "description": null,
                 "image": null,
                 "details": [
                     "Specialty Sip 2025"
                 ],
-                "isNew": "no",
+                "isNew": "true_inline",
                 "catagory": "alchoholic_beverage",
                 "id": "9ebaab21-e1a9-4947-8080-28987035603e",
                 "dietary_tags": {}

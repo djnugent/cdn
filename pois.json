@@ -170,6 +170,23 @@
         "new_vendor": false
     },
     {
+        "description": null,
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "booth_showcase",
+        "slug": "the-minnesota-star-tribune",
+        "id": "63b3534b-51d5-4b44-8841-d70caaaa1c09",
+        "name": "The Minnesota Star Tribune",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.98001,
+            "lng": -93.173421
+        },
+        "new_vendor": false
+    },
+    {
         "description": "Located at 1842 West Dan Patch Ave. Hours: Tuesday\u2013Friday, 9 a.m. to 3 p.m., and Friday, Sept. 6, 9 a.m. to noon. After the fair, head to 1312 Cosgrove St. Monday\u2013Friday, 9 a.m. to 3 p.m. lostandfound@mnstatefair.org or 651-288-4555.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-lost-and-found.jpg",
         "hours": null,
