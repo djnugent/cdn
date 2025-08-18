@@ -7818,7 +7818,7 @@
                 "catagory": "alchoholic_beverage"
             },
             {
-                "name": "Shamrock Slushie  (SIPS",
+                "name": "Shamrock Slushie",
                 "description": null,
                 "image": null,
                 "details": [
@@ -12959,13 +12959,13 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Mike's Hard Black Cherry Lemonade",
+                "name": "Black Cherry Lemonade",
                 "description": null,
                 "image": null,
                 "details": [
                     "Specialty Sip 2025"
                 ],
-                "isNew": "no",
+                "isNew": "true_inline",
                 "catagory": "alchoholic_beverage"
             },
             {
@@ -16655,95 +16655,6 @@
         "new_vendor": false
     },
     {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3666.1.jpg",
-        "offers": {},
-        "hours": "Open 7 a.m. to 10 p.m.",
-        "slug": "3664.1",
-        "id": "6e025418-3aa5-4b46-877f-95608cc69b24",
-        "name": "About a Foot Long Hot Dog",
-        "locations": [
-            {
-                "image": null,
-                "directions": "East side of Cosgrove St. between the Fine Arts Center & 4-H Building",
-                "lat": 44.98389348112082,
-                "lng": -93.16793714207341
-            },
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3666.1.jpg",
-                "directions": "West side of Underwood St. between Carnes & Judson avenues",
-                "lat": 44.97900389240506,
-                "lng": -93.17080108461538
-            },
-            {
-                "image": null,
-                "directions": "Northwest corner of Dan Patch Ave. & Cooper St.",
-                "lat": 44.98138632911392,
-                "lng": -93.16940328846154
-            },
-            {
-                "image": null,
-                "directions": "Southwest corner of Carnes Avenue and Nelson Street",
-                "lat": 44.97977494964029,
-                "lng": -93.17236205961538
-            },
-            {
-                "image": null,
-                "directions": "South side of Judson Avenue between Liggett and Clough streets, in front of the Lee & Rose Warner Coliseum",
-                "lat": 44.97844988489209,
-                "lng": -93.1738553
-            }
-        ],
-        "items": [
-            {
-                "name": "Coca-Cola",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Diet Coke",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Sprite",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "foot long hot dog",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "bottled water",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": true,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4752.1.jpg",
         "offers": {},
         "hours": "Open 7 a.m. to 11 p.m.",
@@ -17206,6 +17117,95 @@
         "accepts_credit_cards": null,
         "vegetarian_options": null,
         "gluten_free_options": true,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
+        "offers": {},
+        "hours": "Open 7 a.m. to 10 p.m.",
+        "slug": "3664.1",
+        "id": "6e025418-3aa5-4b46-877f-95608cc69b24",
+        "name": "About a Foot Long Hot Dog",
+        "locations": [
+            {
+                "image": null,
+                "directions": "East side of Cosgrove St. between the Fine Arts Center & 4-H Building",
+                "lat": 44.98389348112082,
+                "lng": -93.16793714207341
+            },
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
+                "directions": "West side of Underwood St. between Carnes & Judson avenues",
+                "lat": 44.97900389240506,
+                "lng": -93.17080108461538
+            },
+            {
+                "image": null,
+                "directions": "Northwest corner of Dan Patch Ave. & Cooper St.",
+                "lat": 44.98138632911392,
+                "lng": -93.16940328846154
+            },
+            {
+                "image": null,
+                "directions": "Southwest corner of Carnes Avenue and Nelson Street",
+                "lat": 44.97977494964029,
+                "lng": -93.17236205961538
+            },
+            {
+                "image": null,
+                "directions": "South side of Judson Avenue between Liggett and Clough streets, in front of the Lee & Rose Warner Coliseum",
+                "lat": 44.97844988489209,
+                "lng": -93.1738553
+            }
+        ],
+        "items": [
+            {
+                "name": "Coca-Cola",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Diet Coke",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Sprite",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "foot long hot dog",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "bottled water",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": true,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
         "new_vendor": false
