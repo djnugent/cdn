@@ -398,24 +398,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-21-afternoon",
-        "id": "c7ff57ad-312f-4eff-8637-118ffda5eea2",
-        "name": "University of Minnesota Driven to Discover: Aug. 21",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-21T09:00:00-05:00",
-                "end": "2025-08-21T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-21T14:30:00-05:00",
-                "end": "2025-08-21T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "bachmanns-rotunda",
         "id": "555f1007-5661-45d8-b943-ed3a2451780b",
         "name": "Bachmann's Rotunda",
@@ -814,10 +796,6 @@
                 "end": "2025-08-22T21:00:00-05:00"
             },
             {
-                "start": "2025-08-22T10:00:00-05:00",
-                "end": "2025-08-22T11:00:00-05:00"
-            },
-            {
                 "start": "2025-08-23T09:00:00-05:00",
                 "end": "2025-08-23T21:00:00-05:00"
             },
@@ -826,20 +804,12 @@
                 "end": "2025-08-24T21:00:00-05:00"
             },
             {
-                "start": "2025-08-24T16:00:00-05:00",
-                "end": "2025-08-24T17:00:00-05:00"
-            },
-            {
                 "start": "2025-08-25T09:00:00-05:00",
                 "end": "2025-08-25T21:00:00-05:00"
             },
             {
                 "start": "2025-08-26T09:00:00-05:00",
                 "end": "2025-08-26T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-26T15:00:00-05:00",
-                "end": "2025-08-26T16:00:00-05:00"
             },
             {
                 "start": "2025-08-27T09:00:00-05:00",
@@ -860,10 +830,6 @@
             {
                 "start": "2025-08-31T09:00:00-05:00",
                 "end": "2025-08-31T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-31T16:00:00-05:00",
-                "end": "2025-08-31T17:00:00-05:00"
             },
             {
                 "start": "2025-09-01T09:00:00-05:00",
@@ -2885,7 +2851,7 @@
             },
             {
                 "start": "2025-09-01T09:00:00-05:00",
-                "end": "2025-09-01T21:00:00-05:00"
+                "end": "2025-09-01T20:00:00-05:00"
             }
         ]
     },
@@ -3240,64 +3206,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "meet-the-dog-breeds10",
-        "id": "133e05e4-ba35-458c-9371-e67198ff3342",
-        "name": "Meet the Dog Breeds",
-        "venue_slug": "pet-pavilions",
-        "schedule": [
-            {
-                "start": "2025-08-21T09:00:00-05:00",
-                "end": "2025-08-21T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-22T09:00:00-05:00",
-                "end": "2025-08-22T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-23T09:00:00-05:00",
-                "end": "2025-08-23T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-24T09:00:00-05:00",
-                "end": "2025-08-24T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-25T09:00:00-05:00",
-                "end": "2025-08-25T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-26T09:00:00-05:00",
-                "end": "2025-08-26T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-27T09:00:00-05:00",
-                "end": "2025-08-27T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-28T09:00:00-05:00",
-                "end": "2025-08-28T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-29T09:00:00-05:00",
-                "end": "2025-08-29T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-30T09:00:00-05:00",
-                "end": "2025-08-30T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-31T09:00:00-05:00",
-                "end": "2025-08-31T21:00:00-05:00"
-            },
-            {
-                "start": "2025-09-01T09:00:00-05:00",
-                "end": "2025-09-01T20:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "blue-ribbon-bingo",
         "id": "b85f8d67-61b8-4725-b2d6-0236f9154184",
         "name": "Blue Ribbon Bingo",
@@ -3349,7 +3257,7 @@
             },
             {
                 "start": "2025-09-01T09:00:00-05:00",
-                "end": "2025-09-01T20:00:00-05:00"
+                "end": "2025-09-01T19:00:00-05:00"
             }
         ]
     },
@@ -5190,24 +5098,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "seeds-of-hope-finding-optimism-in-the-garden",
-        "id": "5c8935a8-424d-42e8-a601-ebb4ac110acf",
-        "name": "Seeds of Hope: Finding Optimism in the Garden",
-        "venue_slug": "eco-experience",
-        "schedule": [
-            {
-                "start": "2025-08-21T10:00:00-05:00",
-                "end": "2025-08-21T10:30:00-05:00"
-            },
-            {
-                "start": "2025-08-21T14:00:00-05:00",
-                "end": "2025-08-21T14:30:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "ask-the-cider-maker",
         "id": "196c1301-58e5-4795-8913-48dd47c11828",
         "name": "Ask the Cider Maker",
@@ -5412,6 +5302,10 @@
             {
                 "start": "2025-08-21T14:00:00-05:00",
                 "end": "2025-08-21T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-21T15:00:00-05:00",
+                "end": "2025-08-21T15:45:00-05:00"
             }
         ]
     },
@@ -5558,6 +5452,20 @@
             {
                 "start": "2025-09-01T15:00:00-05:00",
                 "end": "2025-09-01T15:45:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-strib-leaders",
+        "id": "08536b8b-ec07-4d92-9365-23674ea0f4f2",
+        "name": "Meet Your Voices: Strib Leaders",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-21T10:00:00-05:00",
+                "end": "2025-08-21T11:00:00-05:00"
             }
         ]
     },
@@ -6888,6 +6796,170 @@
     {
         "description": "",
         "image": null,
+        "slug": "irish-piper",
+        "id": "81afe9cd-de8f-469b-80dd-1eb6aa404165",
+        "name": "Irish Piper",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-21T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-21T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-22T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-22T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-23T10:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-23T12:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-24T10:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-24T12:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-25T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-25T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-26T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-26T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-27T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-27T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-28T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-28T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-29T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-29T13:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-30T10:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-30T12:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-31T10:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-31T12:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-09-01T11:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-09-01T13:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "game-time-with-stribby",
+        "id": "ff733571-c25a-4ad9-a185-cb12cf9a5b26",
+        "name": "Game Time with Stribby",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-21T11:00:00-05:00",
+                "end": "2025-08-21T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-22T11:00:00-05:00",
+                "end": "2025-08-22T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-23T11:00:00-05:00",
+                "end": "2025-08-23T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-24T11:00:00-05:00",
+                "end": "2025-08-24T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-25T11:00:00-05:00",
+                "end": "2025-08-25T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-26T11:00:00-05:00",
+                "end": "2025-08-26T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-27T11:00:00-05:00",
+                "end": "2025-08-27T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-28T11:00:00-05:00",
+                "end": "2025-08-28T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T11:00:00-05:00",
+                "end": "2025-08-29T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-30T11:00:00-05:00",
+                "end": "2025-08-30T12:00:00-05:00"
+            },
+            {
+                "start": "2025-08-31T11:00:00-05:00",
+                "end": "2025-08-31T12:00:00-05:00"
+            },
+            {
+                "start": "2025-09-01T11:00:00-05:00",
+                "end": "2025-09-01T12:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "smokey-bear",
         "id": "7fca2eaa-9c34-4f2b-af8f-db6eca6560d0",
         "name": "Smokey Bear",
@@ -7784,10 +7856,6 @@
                 "end": "2025-08-21T15:30:00-05:00"
             },
             {
-                "start": "2025-08-21T18:00:00-05:00",
-                "end": "2025-08-21T21:00:00-05:00"
-            },
-            {
                 "start": "2025-08-24T18:00:00-05:00",
                 "end": "2025-08-24T22:00:00-05:00"
             },
@@ -8236,6 +8304,64 @@
     {
         "description": "",
         "image": null,
+        "slug": "innovation-and-technology-in-agriculture",
+        "id": "44fbb9f6-ecf3-4ce4-bf20-2a8a42e7a9ef",
+        "name": "Innovation and Technology in Agriculture",
+        "venue_slug": "christensen-farms-stage",
+        "schedule": [
+            {
+                "start": "2025-08-21T12:00:00-05:00",
+                "end": "2025-08-21T13:00:00-05:00"
+            },
+            {
+                "start": "2025-08-21T17:00:00-05:00",
+                "end": "2025-08-21T18:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-news-and-politics",
+        "id": "7e86d3ea-569e-4c8b-9695-4f4764b01e24",
+        "name": "Meet Your Voices: News & Politics",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-21T12:00:00-05:00",
+                "end": "2025-08-21T14:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "will-bauermeister",
+        "id": "658288f9-14a3-4be8-b214-bc04861acc65",
+        "name": "Will Bauermeister",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-21T12:00:00-05:00",
+                "end": "2025-08-21T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-28T18:30:00-05:00",
+                "end": "2025-08-28T21:30:00-05:00"
+            },
+            {
+                "start": "2025-08-31T19:00:00-05:00",
+                "end": "2025-08-31T22:00:00-05:00"
+            },
+            {
+                "start": "2025-09-01T17:00:00-05:00",
+                "end": "2025-09-01T20:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "the-chipper-experience-where-comedy-and-magic-collide",
         "id": "e68c2b29-2824-461e-ba97-ec7dd6fdf164",
         "name": "The Chipper Experience! Where Comedy & Magic Collide!",
@@ -8386,6 +8512,100 @@
     {
         "description": "",
         "image": null,
+        "slug": "wayne-and-the-boys",
+        "id": "31128a6c-79bc-472f-be75-6bc4c96923d7",
+        "name": "Wayne and The Boys",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-21T12:30:00-05:00",
+                "end": "2025-08-21T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-21T18:00:00-05:00",
+                "end": "2025-08-21T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-22T12:30:00-05:00",
+                "end": "2025-08-22T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-22T18:00:00-05:00",
+                "end": "2025-08-22T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-23T12:30:00-05:00",
+                "end": "2025-08-23T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-23T18:00:00-05:00",
+                "end": "2025-08-23T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-24T12:30:00-05:00",
+                "end": "2025-08-24T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-24T18:00:00-05:00",
+                "end": "2025-08-24T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-25T12:30:00-05:00",
+                "end": "2025-08-25T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-25T18:00:00-05:00",
+                "end": "2025-08-25T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-26T12:30:00-05:00",
+                "end": "2025-08-26T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-26T18:00:00-05:00",
+                "end": "2025-08-26T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-27T12:30:00-05:00",
+                "end": "2025-08-27T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-27T18:00:00-05:00",
+                "end": "2025-08-27T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-28T12:30:00-05:00",
+                "end": "2025-08-28T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-28T18:00:00-05:00",
+                "end": "2025-08-28T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-29T12:30:00-05:00",
+                "end": "2025-08-29T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-29T18:00:00-05:00",
+                "end": "2025-08-29T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-30T12:30:00-05:00",
+                "end": "2025-08-30T17:20:00-05:00"
+            },
+            {
+                "start": "2025-08-30T18:00:00-05:00",
+                "end": "2025-08-30T18:45:00-05:00"
+            },
+            {
+                "start": "2025-08-31T12:30:00-05:00",
+                "end": "2025-08-31T17:20:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "shane-martin",
         "id": "87edf86b-c36a-43cc-b869-e37abd85bc45",
         "name": "Shane Martin",
@@ -8484,28 +8704,6 @@
             {
                 "start": "2025-09-01T13:00:00-05:00",
                 "end": "2025-09-01T13:30:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "draft-horse-hitches-2",
-        "id": "5b9a067c-de56-44d3-a1e1-55c0f8f662f2",
-        "name": "Draft Horse Hitches",
-        "venue_slug": "lee-and-rose-warner-coliseum",
-        "schedule": [
-            {
-                "start": "2025-08-21T13:00:00-05:00",
-                "end": "2025-08-21T20:00:00-05:00"
-            },
-            {
-                "start": "2025-08-22T17:00:00-05:00",
-                "end": "2025-08-22T20:00:00-05:00"
-            },
-            {
-                "start": "2025-08-23T18:00:00-05:00",
-                "end": "2025-08-23T20:30:00-05:00"
             }
         ]
     },
@@ -9160,6 +9358,28 @@
     {
         "description": "",
         "image": null,
+        "slug": "seeds-of-hope-finding-optimism-in-the-garden",
+        "id": "5c8935a8-424d-42e8-a601-ebb4ac110acf",
+        "name": "Seeds of Hope: Finding Optimism in the Garden",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-21T14:00:00-05:00",
+                "end": "2025-08-21T14:30:00-05:00"
+            },
+            {
+                "start": "2025-08-29T12:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-29T17:00:00-05:00",
+                "end": "2025-08-29T17:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "lichen-love-fungi-and-you",
         "id": "a501a5ac-51db-4e7c-940f-932336a8fb19",
         "name": "Lichen Love: Fungi and You",
@@ -9222,6 +9442,94 @@
             {
                 "start": "2025-08-21T14:00:00-05:00",
                 "end": "2025-08-21T14:15:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-greater-mn-trivia-and-qanda",
+        "id": "a608cf76-65b2-4896-a48f-55a92faec6ea",
+        "name": "Meet Your Voices: Greater MN Trivia and Q&A",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-21T14:00:00-05:00",
+                "end": "2025-08-21T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-21T16:00:00-05:00",
+                "end": "2025-08-21T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "sean-joyce-with-traditional-irish-music",
+        "id": "632cc7cb-0195-434b-89bd-5d0fc4e0346f",
+        "name": "Sean Joyce with Traditional Irish Music",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-21T14:00:00-05:00",
+                "end": "2025-08-21T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-22T14:00:00-05:00",
+                "end": "2025-08-22T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-23T13:00:00-05:00",
+                "end": "2025-08-23T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-23T16:00:00-05:00",
+                "end": "2025-08-23T18:00:00-05:00"
+            },
+            {
+                "start": "2025-08-24T13:00:00-05:00",
+                "end": "2025-08-24T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-24T16:00:00-05:00",
+                "end": "2025-08-24T18:00:00-05:00"
+            },
+            {
+                "start": "2025-08-25T14:00:00-05:00",
+                "end": "2025-08-25T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-26T14:00:00-05:00",
+                "end": "2025-08-26T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "Madame-Blu-2",
+        "id": "33eef753-7680-42be-8744-79ae4b458347",
+        "name": "Madame Blu",
+        "venue_slug": "kare-11-tv",
+        "schedule": [
+            {
+                "start": "2025-08-21T14:00:00-05:00",
+                "end": "2025-08-21T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-21-afternoon",
+        "id": "c7ff57ad-312f-4eff-8637-118ffda5eea2",
+        "name": "University of Minnesota Driven to Discover: Aug. 21",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-21T14:30:00-05:00",
+                "end": "2025-08-21T21:00:00-05:00"
             }
         ]
     },
@@ -9906,6 +10214,28 @@
     {
         "description": "",
         "image": null,
+        "slug": "benjamin-raye",
+        "id": "b0d841c9-020b-47ba-a055-0d23b4273b7b",
+        "name": "Benjamin Raye",
+        "venue_slug": "french-creperie",
+        "schedule": [
+            {
+                "start": "2025-08-21T18:00:00-05:00",
+                "end": "2025-08-21T21:00:00-05:00"
+            },
+            {
+                "start": "2025-08-26T15:00:00-05:00",
+                "end": "2025-08-26T18:00:00-05:00"
+            },
+            {
+                "start": "2025-08-27T12:00:00-05:00",
+                "end": "2025-08-27T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "minnesota-state-fair-amateur-talent-contest",
         "id": "e596fe75-c5f0-4ec0-b34b-1194ea52c122",
         "name": "Minnesota State Fair Amateur Talent Contest",
@@ -10010,6 +10340,10 @@
                 "end": "2025-08-30T14:45:00-05:00"
             },
             {
+                "start": "2025-08-30T15:00:00-05:00",
+                "end": "2025-08-30T15:45:00-05:00"
+            },
+            {
                 "start": "2025-08-30T18:00:00-05:00",
                 "end": "2025-08-30T21:00:00-05:00"
             },
@@ -10028,6 +10362,10 @@
             {
                 "start": "2025-09-01T14:00:00-05:00",
                 "end": "2025-09-01T14:45:00-05:00"
+            },
+            {
+                "start": "2025-09-01T15:00:00-05:00",
+                "end": "2025-09-01T15:45:00-05:00"
             },
             {
                 "start": "2025-09-01T18:00:00-05:00",
@@ -10156,6 +10494,28 @@
     {
         "description": "",
         "image": null,
+        "slug": "bryce-hegge",
+        "id": "7e2ae8c5-4cd2-4ed1-bb47-b65444e22c3f",
+        "name": "Bryce Hegge",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-21T18:30:00-05:00",
+                "end": "2025-08-21T21:30:00-05:00"
+            },
+            {
+                "start": "2025-08-25T18:30:00-05:00",
+                "end": "2025-08-25T21:30:00-05:00"
+            },
+            {
+                "start": "2025-08-27T18:30:00-05:00",
+                "end": "2025-08-27T21:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "st-paul-police-k9-demonstration",
         "id": "02da3415-ef2b-4b0f-8a86-8eaef31649de",
         "name": "St. Paul Police K9 Demonstration",
@@ -10204,6 +10564,20 @@
             {
                 "start": "2025-08-31T19:00:00-05:00",
                 "end": "2025-08-31T19:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "strings-and-ivory-featuring-denny-mcgovern-and-jon-wheeler",
+        "id": "97676ff4-cd5b-4af7-861e-5fda15f03ae0",
+        "name": "Strings & Ivory featuring Denny McGovern and Jon Wheeler",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-21T19:00:00-05:00",
+                "end": "2025-08-21T22:30:00-05:00"
             }
         ]
     },
@@ -10339,34 +10713,52 @@
             },
             {
                 "start": "2025-08-23T19:30:00-05:00",
-                "end": null
+                "end": "2025-08-23T22:00:00-05:00"
             },
             {
                 "start": "2025-08-24T19:30:00-05:00",
-                "end": null
+                "end": "2025-08-24T22:00:00-05:00"
             },
             {
                 "start": "2025-08-27T16:00:00-05:00",
                 "end": "2025-08-27T19:00:00-05:00"
             },
             {
+                "start": "2025-08-28T19:30:00-05:00",
+                "end": "2025-08-28T22:00:00-05:00"
+            },
+            {
                 "start": "2025-08-29T19:30:00-05:00",
-                "end": null
+                "end": "2025-08-29T22:00:00-05:00"
             },
             {
                 "start": "2025-08-30T19:30:00-05:00",
-                "end": null
+                "end": "2025-08-30T22:00:00-05:00"
             },
             {
                 "start": "2025-08-31T19:30:00-05:00",
-                "end": null
+                "end": "2025-08-31T22:00:00-05:00"
             },
             {
                 "start": "2025-09-01T19:00:00-05:00",
-                "end": null
+                "end": "2025-09-01T21:00:00-05:00"
             },
             {
                 "start": "2025-09-01T19:30:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "summer-babies",
+        "id": "a700ec2f-2501-4922-bf22-74039d729248",
+        "name": "Summer Babies",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-21T19:30:00-05:00",
                 "end": null
             }
         ]
@@ -10498,24 +10890,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "open-class-sheep-pa-anderson-challenge-1",
-        "id": "6e389865-b06f-411d-b763-fd7111286383",
-        "name": "Open Class Sheep: P.A. Anderson Challenge",
-        "venue_slug": "sheep-and-poultry-barn",
-        "schedule": [
-            {
-                "start": "2025-08-22T08:30:00-05:00",
-                "end": "2025-08-22T09:00:00-05:00"
-            },
-            {
-                "start": "2025-08-26T08:30:00-05:00",
-                "end": "2025-08-26T09:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "university-of-minnesota-driven-to-discover-aug-22-morning",
         "id": "ae0589de-2913-4053-aee3-2acb5600c958",
         "name": "University of Minnesota Driven to Discover: Aug. 22",
@@ -10524,10 +10898,6 @@
             {
                 "start": "2025-08-22T09:00:00-05:00",
                 "end": "2025-08-22T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-22T14:30:00-05:00",
-                "end": "2025-08-22T21:00:00-05:00"
             }
         ]
     },
@@ -10766,6 +11136,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-common-table-Minnesota-Farmers-Market-Association",
+        "id": "069e3c54-ddd9-4a44-9970-f081cda89f71",
+        "name": "The Common Table: Minnesota Farmers Market Association",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-22T10:00:00-05:00",
+                "end": "2025-08-22T11:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "gracenotes",
         "id": "3b2d7460-e12f-4c98-9c00-cd1dba16f020",
         "name": "Gracenotes",
@@ -10782,6 +11166,10 @@
             {
                 "start": "2025-08-22T14:00:00-05:00",
                 "end": "2025-08-22T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-22T15:00:00-05:00",
+                "end": "2025-08-22T15:45:00-05:00"
             }
         ]
     },
@@ -10796,6 +11184,14 @@
             {
                 "start": "2025-08-22T10:00:00-05:00",
                 "end": "2025-08-22T11:30:00-05:00"
+            },
+            {
+                "start": "2025-08-24T17:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-27T17:00:00-05:00",
+                "end": null
             }
         ]
     },
@@ -10892,6 +11288,38 @@
     {
         "description": "",
         "image": null,
+        "slug": "t-rex-cookies",
+        "id": "e3f851af-be57-423c-90f5-2e861eca0be0",
+        "name": "Cambria Kitchen: T-Rex Cookies",
+        "venue_slug": "cambria-kitchen",
+        "schedule": [
+            {
+                "start": "2025-08-22T10:00:00-05:00",
+                "end": "2025-08-22T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "guess-the-fair-food-price-with-dan-stoltz",
+        "id": "cca3839b-ff27-4346-b7ff-34e198cc0070",
+        "name": "Guess the Fair Food Price with Dan Stoltz",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-22T10:00:00-05:00",
+                "end": "2025-08-22T11:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T10:00:00-05:00",
+                "end": "2025-08-29T11:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "government-council-fire-fighter-flag-raising",
         "id": "4c73873e-90c1-4c2c-8d05-1c7c911e832b",
         "name": "Government Council Fire Fighter Flag Raising",
@@ -10970,28 +11398,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "diy-organic-lawn-care",
-        "id": "084233f5-28b6-43aa-8017-8766374142b2",
-        "name": "DIY Organic Lawn Care",
-        "venue_slug": "the-dirt-demo-stage",
-        "schedule": [
-            {
-                "start": "2025-08-22T12:00:00-05:00",
-                "end": "2025-08-22T13:00:00-05:00"
-            },
-            {
-                "start": "2025-08-24T13:00:00-05:00",
-                "end": "2025-08-24T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-29T13:00:00-05:00",
-                "end": "2025-08-29T14:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "ali-grays-country-jamboree",
         "id": "538b1bb2-67aa-4dba-9205-00dc08d77dd7",
         "name": "Ali Grays Country Jamboree",
@@ -11020,6 +11426,20 @@
             {
                 "start": "2025-08-31T12:00:00-05:00",
                 "end": "2025-08-31T15:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-theater-2",
+        "id": "abf98550-8569-4137-81cc-eb1170660e5c",
+        "name": "Meet Your Voices: Theater",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-22T12:00:00-05:00",
+                "end": "2025-08-22T13:00:00-05:00"
             }
         ]
     },
@@ -11084,6 +11504,20 @@
             {
                 "start": "2025-08-22T16:00:00-05:00",
                 "end": "2025-08-22T16:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "dave-lumley",
+        "id": "23efea9e-7d5f-4249-8718-68defd5a2a5a",
+        "name": "Dave Lumley",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-22T12:00:00-05:00",
+                "end": "2025-08-22T15:00:00-05:00"
             }
         ]
     },
@@ -11250,10 +11684,6 @@
             {
                 "start": "2025-08-22T13:00:00-05:00",
                 "end": "2025-08-22T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-26T14:00:00-05:00",
-                "end": "2025-08-26T15:00:00-05:00"
             },
             {
                 "start": "2025-08-30T11:00:00-05:00",
@@ -11526,6 +11956,36 @@
     {
         "description": "",
         "image": null,
+        "slug": "max-hageman",
+        "id": "d01e33ca-0e73-4b79-90d5-5faad26fe856",
+        "name": "Max Hageman",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-22T15:30:00-05:00",
+                "end": "2025-08-22T18:30:00-05:00"
+            },
+            {
+                "start": "2025-08-22T19:00:00-05:00",
+                "end": "2025-08-22T22:00:00-05:00"
+            },
+            {
+                "start": "2025-08-24T15:30:00-05:00",
+                "end": "2025-08-24T18:30:00-05:00"
+            },
+            {
+                "start": "2025-08-24T19:00:00-05:00",
+                "end": "2025-08-24T22:00:00-05:00"
+            },
+            {
+                "start": "2025-08-30T19:00:00-05:00",
+                "end": "2025-08-30T22:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "dawn-l-andb-zac",
         "id": "8fe919fd-0dfb-4334-81ef-45861fe4f594",
         "name": "Dawn L & Zac",
@@ -11660,6 +12120,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "electric-school-bus-program",
+        "id": "e4035b02-4e88-40a8-942a-b3a8a4a2f2eb",
+        "name": "Electric School Bus Program",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-22T17:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "moo-booth-moo-quiz-show",
         "id": "0959efdf-d490-49bc-858d-203f6ffb7c4b",
         "name": "Moo Booth: Moo Quiz Show",
@@ -11764,6 +12238,36 @@
         ]
     },
     {
+        "description": "",
+        "image": null,
+        "slug": "michael-handler-project",
+        "id": "b82747cc-662a-46f2-aa8e-7bb581872284",
+        "name": "Michael Handler Project",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-22T19:00:00-05:00",
+                "end": "2025-08-22T22:30:00-05:00"
+            },
+            {
+                "start": "2025-08-23T19:00:00-05:00",
+                "end": "2025-08-23T22:30:00-05:00"
+            },
+            {
+                "start": "2025-08-28T19:00:00-05:00",
+                "end": "2025-08-28T22:30:00-05:00"
+            },
+            {
+                "start": "2025-08-29T19:00:00-05:00",
+                "end": "2025-08-29T22:30:00-05:00"
+            },
+            {
+                "start": "2025-08-30T19:00:00-05:00",
+                "end": "2025-08-30T22:30:00-05:00"
+            }
+        ]
+    },
+    {
         "description": "$56 - $91.25 (All seats reserved),$112 - $125.75 (Party Deck)\n\nMeghan Trainor is a Grammy-winning pop singer-songwriter known for her retro-inspired sound and empowering anthems like \"All About That Bass\" and \"Made You Look.\" Her catchy hooks and bold style have made her a chart-topping force in pop music.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-meghan-trainor-with-special-guest-ellis.jpg",
         "slug": "grandstand-meghan-trainor-with-special-guest-ellis",
@@ -11788,6 +12292,20 @@
             {
                 "start": "2025-08-22T19:30:00-05:00",
                 "end": "2025-08-22T23:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "george-hottinger-blues-band",
+        "id": "e655f322-d921-4fca-a6af-7b717df07874",
+        "name": "George Hottinger Blues Band",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-22T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -11886,24 +12404,6 @@
             {
                 "start": "2025-08-23T09:00:00-05:00",
                 "end": "2025-08-23T20:15:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-23-afternoon",
-        "id": "2bbe4167-da81-44c4-90f3-7ec75f6382a2",
-        "name": "University of Minnesota Driven to Discover: Aug. 23",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-23T09:00:00-05:00",
-                "end": "2025-08-23T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-23T14:30:00-05:00",
-                "end": "2025-08-23T21:00:00-05:00"
             }
         ]
     },
@@ -12066,6 +12566,10 @@
             {
                 "start": "2025-08-23T14:00:00-05:00",
                 "end": "2025-08-23T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-23T15:00:00-05:00",
+                "end": "2025-08-23T15:45:00-05:00"
             }
         ]
     },
@@ -12184,6 +12688,20 @@
             {
                 "start": "2025-08-23T10:00:00-05:00",
                 "end": "2025-08-23T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-art",
+        "id": "19bbda49-ad9d-447c-b25e-dab5cb36403a",
+        "name": "Meet Your Voices: Art",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-23T10:00:00-05:00",
+                "end": "2025-08-23T11:00:00-05:00"
             }
         ]
     },
@@ -12570,6 +13088,34 @@
     {
         "description": "",
         "image": null,
+        "slug": "meet-your-voices-variety",
+        "id": "d94260e2-0ef2-4261-b2f0-2159f849012b",
+        "name": "Meet Your Voices: Variety",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-23T12:00:00-05:00",
+                "end": "2025-08-23T13:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "andy-fischer",
+        "id": "be88f570-faa1-4e6d-8f08-1703d1d5cad8",
+        "name": "Andy Fischer",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-23T12:00:00-05:00",
+                "end": "2025-08-23T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "steve-solkela",
         "id": "2a62aff3-5b90-4124-8a46-16afb0ad679c",
         "name": "Steve Solkela",
@@ -12820,6 +13366,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "local-news-fund-conversation",
+        "id": "ca8a2304-b554-418a-984a-2e291fa3cb7c",
+        "name": "Local News Fund Conversation",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-23T14:00:00-05:00",
+                "end": "2025-08-23T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "moo-booth-milk-moo-stache-contest",
         "id": "223d8638-3991-45dd-b3e7-e0833f65f6a2",
         "name": "Moo Booth: Milk Moo-stache Contest",
@@ -12828,6 +13388,20 @@
             {
                 "start": "2025-08-23T14:30:00-05:00",
                 "end": "2025-08-23T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-23-afternoon",
+        "id": "2bbe4167-da81-44c4-90f3-7ec75f6382a2",
+        "name": "University of Minnesota Driven to Discover: Aug. 23",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-23T14:30:00-05:00",
+                "end": "2025-08-23T21:00:00-05:00"
             }
         ]
     },
@@ -12940,6 +13514,36 @@
             {
                 "start": "2025-08-24T17:45:00-05:00",
                 "end": "2025-08-24T18:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "billy-johnson",
+        "id": "4cdfd4fe-8db1-49a1-8648-203d717c07bd",
+        "name": "Billy Johnson",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-23T15:30:00-05:00",
+                "end": "2025-08-23T18:30:00-05:00"
+            },
+            {
+                "start": "2025-08-23T19:00:00-05:00",
+                "end": "2025-08-23T22:00:00-05:00"
+            },
+            {
+                "start": "2025-08-25T12:00:00-05:00",
+                "end": "2025-08-25T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T12:00:00-05:00",
+                "end": "2025-08-29T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-31T15:30:00-05:00",
+                "end": "2025-08-31T18:30:00-05:00"
             }
         ]
     },
@@ -13210,6 +13814,24 @@
         ]
     },
     {
+        "description": "",
+        "image": null,
+        "slug": "reuse-fashion-show",
+        "id": "d96c4c76-9d65-467a-9652-0954c7f69a05",
+        "name": "Reuse Fashion Show",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-23T17:00:00-05:00",
+                "end": "2025-08-23T17:30:00-05:00"
+            },
+            {
+                "start": "2025-08-25T17:00:00-05:00",
+                "end": "2025-08-25T17:30:00-05:00"
+            }
+        ]
+    },
+    {
         "description": "$51.50 - $75.25 (All seats reserved),$71.50 - $86.75 (General Admission Pit, no seating),$71.50 - $85.25 (Party Deck)\n\nAtmosphere & Friends: Minnesota brings together some of hip-hop\u2019s most influential artists for a powerhouse night. Minneapolis legends Atmosphere, known for their introspective lyrics and underground roots, are joined by iconic West Coast group Cypress Hill, lyrical heavyweight Lupe Fiasco, alternative rap pioneers The Pharcyde, and local turntable master DJ Abilities. This lineup celebrates decades of innovative hip-hop with deep Minnesota ties.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities.jpg",
         "slug": "grandstand-atmosphere--friends-minnesota-with-atmosphere-cypress-hill-lupe-fiasco-the-pharcyde-and-dj-abilities",
@@ -13220,6 +13842,20 @@
             {
                 "start": "2025-08-23T17:00:00-05:00",
                 "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "draft-horse-hitches-2",
+        "id": "5b9a067c-de56-44d3-a1e1-55c0f8f662f2",
+        "name": "Draft Horse Hitches",
+        "venue_slug": "lee-and-rose-warner-coliseum",
+        "schedule": [
+            {
+                "start": "2025-08-23T18:00:00-05:00",
+                "end": "2025-08-23T20:30:00-05:00"
             }
         ]
     },
@@ -13324,10 +13960,6 @@
             {
                 "start": "2025-08-23T19:00:00-05:00",
                 "end": "2025-08-23T19:30:00-05:00"
-            },
-            {
-                "start": "2025-08-27T15:00:00-05:00",
-                "end": "2025-08-27T15:30:00-05:00"
             }
         ]
     },
@@ -13342,6 +13974,20 @@
             {
                 "start": "2025-08-23T19:30:00-05:00",
                 "end": "2025-08-23T23:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "flying-train-wreck",
+        "id": "2a3f3e07-6de2-4567-87a1-438d16071b3a",
+        "name": "Flying Train Wreck",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-23T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -13488,10 +14134,6 @@
             {
                 "start": "2025-08-24T09:00:00-05:00",
                 "end": "2025-08-24T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-24T14:30:00-05:00",
-                "end": "2025-08-24T21:00:00-05:00"
             }
         ]
     },
@@ -13584,6 +14226,20 @@
             {
                 "start": "2025-08-31T09:15:00-05:00",
                 "end": "2025-08-31T09:45:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-taste-2",
+        "id": "845781e9-0fb0-4ec4-bf9e-11b27c010eeb",
+        "name": "Meet Your Voices: Taste",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-24T10:00:00-05:00",
+                "end": "2025-08-24T11:00:00-05:00"
             }
         ]
     },
@@ -13683,7 +14339,11 @@
             },
             {
                 "start": "2025-08-24T14:00:00-05:00",
-                "end": "2025-08-24T14:00:00-05:00"
+                "end": "2025-08-24T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-24T15:00:00-05:00",
+                "end": "2025-08-24T15:45:00-05:00"
             }
         ]
     },
@@ -13862,6 +14522,28 @@
     {
         "description": "",
         "image": null,
+        "slug": "chuck-skajewski",
+        "id": "f6149398-6492-486e-be57-85e18e723bef",
+        "name": "Chuck Skajewski",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-24T12:00:00-05:00",
+                "end": "2025-08-24T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-26T18:30:00-05:00",
+                "end": "2025-08-26T21:30:00-05:00"
+            },
+            {
+                "start": "2025-08-29T19:00:00-05:00",
+                "end": "2025-08-29T22:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "back-road-kickers",
         "id": "f7ea2b45-119e-4acd-a973-504e83d44658",
         "name": "Line Dance with Billie",
@@ -13874,6 +14556,24 @@
             {
                 "start": "2025-08-24T14:30:00-05:00",
                 "end": "2025-08-24T15:15:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "diy-organic-lawn-care",
+        "id": "084233f5-28b6-43aa-8017-8766374142b2",
+        "name": "DIY Organic Lawn Care",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-24T13:00:00-05:00",
+                "end": "2025-08-24T14:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T13:00:00-05:00",
+                "end": "2025-08-29T14:00:00-05:00"
             }
         ]
     },
@@ -14072,6 +14772,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-common-table-Urban-Farm-and-Garden-Alliance",
+        "id": "e288041d-4ea4-44b8-b1a5-1463bd07c40f",
+        "name": "The Common Table: Urban Farm and Garden Alliance",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-24T16:00:00-05:00",
+                "end": "2025-08-24T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "4-h-performing-arts-show",
         "id": "067efca2-68f5-4232-a495-cc8fa7183c67",
         "name": "4-H Performing Arts Show",
@@ -14092,6 +14806,24 @@
             {
                 "start": "2025-08-30T17:30:00-05:00",
                 "end": "2025-08-30T18:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "portside",
+        "id": "035a9ea4-425f-49df-b350-80732d8d4c55",
+        "name": "Portside",
+        "venue_slug": "french-creperie",
+        "schedule": [
+            {
+                "start": "2025-08-24T18:00:00-05:00",
+                "end": "2025-08-24T21:00:00-05:00"
+            },
+            {
+                "start": "2025-09-01T18:00:00-05:00",
+                "end": "2025-09-01T21:00:00-05:00"
             }
         ]
     },
@@ -14128,6 +14860,20 @@
         ]
     },
     {
+        "description": "",
+        "image": null,
+        "slug": "arena",
+        "id": "fec5fc10-ef00-4b01-896b-140338b3d780",
+        "name": "Arena",
+        "venue_slug": "coasters",
+        "schedule": [
+            {
+                "start": "2025-08-24T18:30:00-05:00",
+                "end": "2025-08-24T22:30:00-05:00"
+            }
+        ]
+    },
+    {
         "description": "$56 - $89.25 (All seats reserved),$110 - $123.75 (Party Deck)\n\nMelissa Etheridge is a Grammy- and Oscar-winning rock singer-songwriter known for her raw vocals, emotional lyrics, and hits like \"Come to My Window\" and \"I'm the Only One.\" She\u2019s been a powerful voice in rock music and LGBTQ+ advocacy for over three decades.\n\nIndigo Girls, the folk-rock duo of Amy Ray and Emily Saliers, are celebrated for their harmonies, activism, and enduring songs like \"Closer to Fine\" and \"Galileo.\" Together on the Yes We Are Tour, they bring a night of heartfelt music and timeless songwriting.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour.jpg",
         "slug": "grandstand-melissa-etheridge-and-indigo-girls-yes-we-are-tour",
@@ -14137,6 +14883,42 @@
         "schedule": [
             {
                 "start": "2025-08-24T19:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "john-scalia-band-trio",
+        "id": "39f79577-d181-41f5-b778-6354bf1d85c4",
+        "name": "John Scalia Band Trio",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-24T19:00:00-05:00",
+                "end": "2025-08-24T22:30:00-05:00"
+            },
+            {
+                "start": "2025-08-25T19:00:00-05:00",
+                "end": "2025-08-25T22:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "transit-authority",
+        "id": "767d7b43-dcfe-47e7-a892-3b2eac963b8b",
+        "name": "Transit Authority",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-24T19:30:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-25T19:30:00-05:00",
                 "end": null
             }
         ]
@@ -14186,24 +14968,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-25-afternoon",
-        "id": "2a34feb1-b295-46ba-8ab1-c48c2304ad8e",
-        "name": "University of Minnesota Driven to Discover: Aug. 25",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-25T09:00:00-05:00",
-                "end": "2025-08-25T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-25T14:30:00-05:00",
-                "end": "2025-08-25T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "metro-food-justice-network-transforming-our-food-system-together",
         "id": "9a909cc7-3adb-4af6-b914-af829a5dd144",
         "name": "Metro Food Justice Network: Transforming Our Food System Together",
@@ -14234,6 +14998,20 @@
             {
                 "start": "2025-08-25T09:00:00-05:00",
                 "end": "2025-08-25T12:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "sponsor-booth-minnesota-senior-linkage-line",
+        "id": "79bca734-eee3-4971-95d8-f829aa7894a4",
+        "name": "Sponsor Booth: Minnesota Senior LinkAge Line",
+        "venue_slug": "wright-avenue",
+        "schedule": [
+            {
+                "start": "2025-08-25T09:00:00-05:00",
+                "end": "2025-08-25T21:00:00-05:00"
             }
         ]
     },
@@ -14532,6 +15310,10 @@
             {
                 "start": "2025-08-25T14:00:00-05:00",
                 "end": "2025-08-25T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-25T15:00:00-05:00",
+                "end": "2025-08-25T15:45:00-05:00"
             }
         ]
     },
@@ -15010,9 +15792,9 @@
     {
         "description": "",
         "image": null,
-        "slug": "mental-health-awareness-abraham-westlund",
-        "id": "7ed9d2aa-badc-414a-92a5-2933cfede87a",
-        "name": "Mental Health Awareness Day: Abraham Westlund",
+        "slug": "mental-health-awareness-mystereo",
+        "id": "e0977cf4-ff48-40b0-893f-a51b461f6079",
+        "name": "Mental Health Awareness Day: Mystereo",
         "venue_slug": "dan-patch-park-stage",
         "schedule": [
             {
@@ -15148,14 +15930,14 @@
     {
         "description": "",
         "image": null,
-        "slug": "mental-health-awareness-mystereo",
-        "id": "e0977cf4-ff48-40b0-893f-a51b461f6079",
-        "name": "Mental Health Awareness Day: Mystereo",
+        "slug": "mental-health-awareness-abraham-westlund",
+        "id": "7ed9d2aa-badc-414a-92a5-2933cfede87a",
+        "name": "Mental Health Awareness Day: Abraham Westlund",
         "venue_slug": "dan-patch-park-stage",
         "schedule": [
             {
                 "start": "2025-08-25T13:30:00-05:00",
-                "end": "2025-08-25T14:15:00-05:00"
+                "end": null
             }
         ]
     },
@@ -15202,6 +15984,34 @@
             {
                 "start": "2025-08-25T14:00:00-05:00",
                 "end": "2025-08-25T15:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices",
+        "id": "9031764a-0c30-43c3-a9a0-ac1ea6deedf2",
+        "name": "Meet Your Voices: Opinion",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-25T14:00:00-05:00",
+                "end": "2025-08-25T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-25-afternoon",
+        "id": "2a34feb1-b295-46ba-8ab1-c48c2304ad8e",
+        "name": "University of Minnesota Driven to Discover: Aug. 25",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-25T14:30:00-05:00",
+                "end": "2025-08-25T21:00:00-05:00"
             }
         ]
     },
@@ -15626,20 +16436,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "reuse-fashion-show",
-        "id": "d96c4c76-9d65-467a-9652-0954c7f69a05",
-        "name": "Reuse Fashion Show",
-        "venue_slug": "eco-experience",
-        "schedule": [
-            {
-                "start": "2025-08-25T17:00:00-05:00",
-                "end": "2025-08-25T17:30:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "open-class-swine-mn-junior-barrow-classic-showmanship",
         "id": "17f15906-e7c0-4bc4-8429-6e0a053a8932",
         "name": "Open Class Swine: MN Junior Barrow Classic Showmanship",
@@ -15846,6 +16642,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "open-class-sheep-pa-anderson-challenge-1",
+        "id": "6e389865-b06f-411d-b763-fd7111286383",
+        "name": "Open Class Sheep: P.A. Anderson Challenge",
+        "venue_slug": "sheep-and-poultry-barn",
+        "schedule": [
+            {
+                "start": "2025-08-26T08:30:00-05:00",
+                "end": "2025-08-26T09:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "twin-cities-obedience-training-club",
         "id": "80d7ae8a-a02a-40b8-a7aa-bfcff19289ee",
         "name": "Twin Cities Obedience Training Club",
@@ -15940,10 +16750,6 @@
             {
                 "start": "2025-08-26T09:00:00-05:00",
                 "end": "2025-08-26T13:00:00-05:00"
-            },
-            {
-                "start": "2025-08-27T09:00:00-05:00",
-                "end": "2025-08-27T13:00:00-05:00"
             }
         ]
     },
@@ -15984,20 +16790,6 @@
             {
                 "start": "2025-09-01T09:00:00-05:00",
                 "end": "2025-09-01T11:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "sponsor-booth-minnesota-senior-linkage-line",
-        "id": "79bca734-eee3-4971-95d8-f829aa7894a4",
-        "name": "Sponsor Booth: Minnesota Senior LinkAge Line",
-        "venue_slug": "wright-avenue",
-        "schedule": [
-            {
-                "start": "2025-08-26T09:00:00-05:00",
-                "end": "2025-08-26T21:00:00-05:00"
             }
         ]
     },
@@ -16050,24 +16842,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-26-afternoon",
-        "id": "29531a87-1cd0-473a-87e4-72850e6ff65b",
-        "name": "University of Minnesota Driven to Discover: Aug. 26",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-26T09:00:00-05:00",
-                "end": "2025-08-26T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-26T14:30:00-05:00",
-                "end": "2025-08-26T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "dragons-wynd-seeing-and-understanding-beneficial-insects-in-our-gardens",
         "id": "a8c81062-69f4-4115-9a82-2ad8207099e7",
         "name": "Dragons Wynd: Seeing & Understanding Beneficial Insects In Our Gardens",
@@ -16080,6 +16854,34 @@
             {
                 "start": "2025-09-01T09:00:00-05:00",
                 "end": "2025-09-01T18:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "veterans-memorial-garden-ceremony",
+        "id": "a950449f-967c-4a50-9a94-8528806d9ea4",
+        "name": "Veterans Memorial Garden Ceremony",
+        "venue_slug": "south-of-agriculture-horticulture-building",
+        "schedule": [
+            {
+                "start": "2025-08-26T09:15:00-05:00",
+                "end": "2025-08-26T09:45:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "military-appreciation-day-ceremony",
+        "id": "2ab15c5e-4d75-4515-bd3a-bf23df3643dc",
+        "name": "Military Appreciation Day Program",
+        "venue_slug": "bandshell",
+        "schedule": [
+            {
+                "start": "2025-08-26T09:45:00-05:00",
+                "end": "2025-08-26T10:15:00-05:00"
             }
         ]
     },
@@ -16138,6 +16940,10 @@
             {
                 "start": "2025-08-26T14:00:00-05:00",
                 "end": "2025-08-26T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-26T15:00:00-05:00",
+                "end": "2025-08-26T15:45:00-05:00"
             }
         ]
     },
@@ -16188,10 +16994,6 @@
             {
                 "start": "2025-08-26T10:00:00-05:00",
                 "end": "2025-08-26T13:00:00-05:00"
-            },
-            {
-                "start": "2025-08-27T10:00:00-05:00",
-                "end": "2025-08-27T13:00:00-05:00"
             }
         ]
     },
@@ -16220,6 +17022,20 @@
             {
                 "start": "2025-08-26T10:00:00-05:00",
                 "end": "2025-08-26T14:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-sports",
+        "id": "60126cbe-4a70-4c03-b529-6de9ac8ffc8a",
+        "name": "Meet Your Voices: Sports",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-26T10:00:00-05:00",
+                "end": "2025-08-26T16:00:00-05:00"
             }
         ]
     },
@@ -16336,6 +17152,32 @@
             {
                 "start": "2025-08-26T12:00:00-05:00",
                 "end": "2025-08-26T12:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "adam-daniel",
+        "id": "4d2faa41-bfd4-43cf-a86a-434084df0b73",
+        "name": "Adam Daniel",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-26T12:00:00-05:00",
+                "end": "2025-08-26T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-28T12:00:00-05:00",
+                "end": "2025-08-28T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T15:30:00-05:00",
+                "end": "2025-08-29T18:30:00-05:00"
+            },
+            {
+                "start": "2025-09-01T13:30:00-05:00",
+                "end": "2025-09-01T16:30:00-05:00"
             }
         ]
     },
@@ -16460,10 +17302,6 @@
             {
                 "start": "2025-08-26T13:00:00-05:00",
                 "end": "2025-08-26T15:00:00-05:00"
-            },
-            {
-                "start": "2025-08-27T13:00:00-05:00",
-                "end": "2025-08-27T15:00:00-05:00"
             }
         ]
     },
@@ -16524,6 +17362,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "shady-business-best-lawn-alternatives-under-trees",
+        "id": "9e594591-7a6a-4523-a213-814284247bbe",
+        "name": "Shady Business: Best Lawn Alternatives Under Trees",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-26T14:00:00-05:00",
+                "end": "2025-08-26T14:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "we-belong-to-the-earth-a-conversation-about-natural-burial",
         "id": "e1cea990-15e1-4745-8c98-fab32fd0c1be",
         "name": "We Belong to the Earth: A Conversation About Natural Burial",
@@ -16550,6 +17402,20 @@
             {
                 "start": "2025-08-26T14:00:00-05:00",
                 "end": "2025-08-26T16:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-26-afternoon",
+        "id": "29531a87-1cd0-473a-87e4-72850e6ff65b",
+        "name": "University of Minnesota Driven to Discover: Aug. 26",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-26T14:30:00-05:00",
+                "end": "2025-08-26T21:00:00-05:00"
             }
         ]
     },
@@ -16720,6 +17586,20 @@
         ]
     },
     {
+        "description": "",
+        "image": null,
+        "slug": "kenny-mchahon-and-ali-gray",
+        "id": "56a585b0-4ec3-4b8f-b8f1-983601eed7ee",
+        "name": "Kenny McHahon and Ali Gray",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-26T19:00:00-05:00",
+                "end": "2025-08-26T22:30:00-05:00"
+            }
+        ]
+    },
+    {
         "description": "$77 - $292 (All seats reserved),$154 - $169.25 (Party Deck)\n\nDef Leppard are rock icons whose explosive anthems and arena-filling energy helped define '80s hard rock. With multi-platinum albums like \"Pyromania\" and \"Hysteria,\" they\u2019ve delivered decades of chart-topping hits including \"Pour Some Sugar on Me\" and \"Photograph.\"\n\nBrother Cane is a Southern rock band best known for their '90s radio hits like \"And Fools Shine On\" and \"Got No Shame.\" They bring a gritty, guitar-driven sound that blends hard rock with bluesy roots.",
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/grandstand-def-leppard-with-special-guest-brother-cane.jpg",
         "slug": "grandstand-def-leppard-with-special-guest-brother-cane",
@@ -16744,6 +17624,24 @@
             {
                 "start": "2025-08-26T19:30:00-05:00",
                 "end": "2025-08-26T23:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "josh-quinn",
+        "id": "10143493-ed6f-4a7a-a8ad-00f16a99bb1a",
+        "name": "Josh Quinn",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-26T19:30:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-27T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -16844,24 +17742,6 @@
             {
                 "start": "2025-08-27T09:00:00-05:00",
                 "end": "2025-08-27T12:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-27-afternoon",
-        "id": "2bf8f92e-2c4b-4dbd-9a36-3eee2975497e",
-        "name": "University of Minnesota Driven to Discover: Aug. 27",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-27T09:00:00-05:00",
-                "end": "2025-08-27T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-27T14:30:00-05:00",
-                "end": "2025-08-27T21:00:00-05:00"
             }
         ]
     },
@@ -17142,6 +18022,10 @@
                 "end": "2025-08-27T14:45:00-05:00"
             },
             {
+                "start": "2025-08-27T15:00:00-05:00",
+                "end": "2025-08-27T15:45:00-05:00"
+            },
+            {
                 "start": "2025-08-28T10:00:00-05:00",
                 "end": "2025-08-28T10:45:00-05:00"
             },
@@ -17152,6 +18036,10 @@
             {
                 "start": "2025-08-28T14:00:00-05:00",
                 "end": "2025-08-28T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-28T15:00:00-05:00",
+                "end": "2025-08-28T15:45:00-05:00"
             }
         ]
     },
@@ -17194,6 +18082,20 @@
             {
                 "start": "2025-08-27T10:00:00-05:00",
                 "end": "2025-08-27T14:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-outdoors",
+        "id": "035dbe04-2747-4c6f-99f5-26a37b812345",
+        "name": "Meet Your Voices: Outdoors",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-27T10:00:00-05:00",
+                "end": "2025-08-27T11:00:00-05:00"
             }
         ]
     },
@@ -17466,6 +18368,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "meet-your-voices-investigative",
+        "id": "11b50cf2-e659-4fa6-a8f5-367ff55bee46",
+        "name": "Meet Your Voices: Outdoors2",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-27T12:00:00-05:00",
+                "end": "2025-08-27T13:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "agrilympics-wool-pack-o-rama",
         "id": "e8975deb-e1e6-4231-bb50-f0f68ed3624c",
         "name": "Agrilympics: Wool Pack-O-Rama",
@@ -17624,6 +18540,62 @@
     {
         "description": "",
         "image": null,
+        "slug": "tom-dahill-and-ginny-johnson-with-traditional-irish-music",
+        "id": "cff5e6e0-0e7f-4f6f-bc0c-a675f6810aec",
+        "name": "Tom Dahill and Ginny Johnson with Traditional Irish Music",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-27T14:00:00-05:00",
+                "end": "2025-08-27T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-28T14:00:00-05:00",
+                "end": "2025-08-28T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-29T14:00:00-05:00",
+                "end": "2025-08-29T17:00:00-05:00"
+            },
+            {
+                "start": "2025-08-30T13:00:00-05:00",
+                "end": "2025-08-30T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-30T16:00:00-05:00",
+                "end": "2025-08-30T18:00:00-05:00"
+            },
+            {
+                "start": "2025-08-31T13:00:00-05:00",
+                "end": "2025-08-31T15:00:00-05:00"
+            },
+            {
+                "start": "2025-08-31T16:00:00-05:00",
+                "end": "2025-08-31T18:00:00-05:00"
+            },
+            {
+                "start": "2025-09-01T13:00:00-05:00",
+                "end": "2025-09-01T15:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "worth-it-podcast",
+        "id": "7808da6b-76eb-4228-b5c7-c05fd8f1b711",
+        "name": "Worth It Podcast",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-27T14:00:00-05:00",
+                "end": "2025-08-27T16:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "clean-air-puppet-show",
         "id": "58ea493f-5b15-4295-9c47-f58aedbd053f",
         "name": "Clean Air Puppet Show",
@@ -17722,6 +18694,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-27-afternoon",
+        "id": "2bf8f92e-2c4b-4dbd-9a36-3eee2975497e",
+        "name": "University of Minnesota Driven to Discover: Aug. 27",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-27T14:30:00-05:00",
+                "end": "2025-08-27T21:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "pop-up-learning-build-a-better-future-with-bbe",
         "id": "e05fcae9-b631-44f6-b926-d614f95d43e4",
         "name": "Pop Up Learning: Build a Better Future with BBE",
@@ -17744,6 +18730,20 @@
         "id": "4cef9667-f3ed-4cfb-968c-1e8f1fa537a8",
         "name": "Gary West",
         "venue_slug": "bob-fm",
+        "schedule": [
+            {
+                "start": "2025-08-27T15:00:00-05:00",
+                "end": "2025-08-27T16:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "the-common-table-Dragons-Wynd",
+        "id": "1fc75452-cf0c-4114-a1b4-a9a7eeee6eb5",
+        "name": "The Common Table: Dragons Wynd",
+        "venue_slug": "the-dirt-demo-stage",
         "schedule": [
             {
                 "start": "2025-08-27T15:00:00-05:00",
@@ -18036,6 +19036,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-whiskies",
+        "id": "39ada11b-f428-4cc2-9807-315cab9ae7a5",
+        "name": "The Whiskies",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-27T19:00:00-05:00",
+                "end": "2025-08-27T22:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "treehorn",
         "id": "c4e53a9e-de42-4821-8ef2-320a9b13116a",
         "name": "Treehorn",
@@ -18174,38 +19188,6 @@
             {
                 "start": "2025-08-28T17:00:00-05:00",
                 "end": "2025-08-28T18:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-28-afternoon",
-        "id": "99f08f12-d363-4ddd-890d-46cdf4e1c6d9",
-        "name": "University of Minnesota Driven to Discover: Aug. 28",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-28T09:00:00-05:00",
-                "end": "2025-08-28T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-28T14:30:00-05:00",
-                "end": "2025-08-28T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "new-energies-games-farming-and-clean-energy",
-        "id": "cbb2cdf3-75ff-4e1b-8830-b7dc7905a2c9",
-        "name": "New Energies: Games, Farming and Clean Energy",
-        "venue_slug": "the-common-table",
-        "schedule": [
-            {
-                "start": "2025-08-28T09:00:00-05:00",
-                "end": "2025-08-28T21:00:00-05:00"
             }
         ]
     },
@@ -18618,6 +19600,52 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-minnesota-star-tribune",
+        "id": "88ff3aad-0dd4-4934-bdfb-ef709e94d1aa",
+        "name": "Cambria Kitchen: The Minnesota Star Tribune Taste Team",
+        "venue_slug": "cambria-kitchen",
+        "schedule": [
+            {
+                "start": "2025-08-28T10:00:00-05:00",
+                "end": "2025-08-28T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "monarchs-in-your-yard",
+        "id": "e60f2778-f5b1-4c5f-b68f-a6745b464b8b",
+        "name": "Monarchs in Your Yard",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-28T10:00:00-05:00",
+                "end": null
+            },
+            {
+                "start": "2025-08-28T14:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voices-books",
+        "id": "96d67d20-010c-4345-8f7a-be344920efb0",
+        "name": "Meet Your Voices: Books",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-28T10:00:00-05:00",
+                "end": "2025-08-28T11:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "ucare-stretch-and-stroll-day-fitness-program",
         "id": "1cb969e3-ba6c-49ca-9139-e84793eaed95",
         "name": "UCare Stretch & Stroll Day: Fitness Program",
@@ -18672,6 +19700,20 @@
             {
                 "start": "2025-08-28T11:00:00-05:00",
                 "end": "2025-08-28T11:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "new-energies-games-farming-and-clean-energy",
+        "id": "cbb2cdf3-75ff-4e1b-8830-b7dc7905a2c9",
+        "name": "New Energies: Games, Farming and Clean Energy",
+        "venue_slug": "the-common-table",
+        "schedule": [
+            {
+                "start": "2025-08-28T11:00:00-05:00",
+                "end": "2025-08-28T13:00:00-05:00"
             }
         ]
     },
@@ -18894,6 +19936,34 @@
             {
                 "start": "2025-08-28T14:00:00-05:00",
                 "end": "2025-08-28T14:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "lawn-logic-pick-the-right-turfgrass-for-your-yard",
+        "id": "6bf00a25-4393-49e7-b080-54a99bb79f8d",
+        "name": "Lawn Logic: Pick The Right Turfgrass For Your Yard",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-28T14:00:00-05:00",
+                "end": "2025-08-28T14:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-28-afternoon",
+        "id": "99f08f12-d363-4ddd-890d-46cdf4e1c6d9",
+        "name": "University of Minnesota Driven to Discover: Aug. 28",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-28T14:30:00-05:00",
+                "end": "2025-08-28T21:00:00-05:00"
             }
         ]
     },
@@ -19124,6 +20194,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "luke-votava",
+        "id": "796ceebc-38f2-4bc8-9f76-9dfb79246990",
+        "name": "Luke Votava",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-28T19:30:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "4-h-llama-alpaca-showmanship",
         "id": "33e95b24-6b03-471d-a4f2-c7f6ae1ad41f",
         "name": "4-H Llama-Alpaca Showmanship",
@@ -19258,24 +20342,6 @@
             {
                 "start": "2025-08-29T09:00:00-05:00",
                 "end": "2025-08-29T17:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-29-afternoon",
-        "id": "6f9a530f-cbf1-4169-a12f-02f941e5dfe2",
-        "name": "University of Minnesota Driven to Discover: Aug. 29",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-29T09:00:00-05:00",
-                "end": "2025-08-29T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-29T14:30:00-05:00",
-                "end": "2025-08-29T21:00:00-05:00"
             }
         ]
     },
@@ -19436,6 +20502,46 @@
             {
                 "start": "2025-08-29T10:00:00-05:00",
                 "end": "2025-08-29T11:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "why-is-lake-pepin-disappearing",
+        "id": "0507d9d8-be43-4473-ad81-358f45ffd489",
+        "name": "Why is Lake Pepin Disappearing?",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-29T10:00:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "james-whatton-band",
+        "id": "e4ee6c3c-a66d-4e20-96e1-4a37c3181da0",
+        "name": "James Whatton Band",
+        "venue_slug": "outdoor-stage",
+        "schedule": [
+            {
+                "start": "2025-08-29T10:00:00-05:00",
+                "end": "2025-08-29T10:45:00-05:00"
+            },
+            {
+                "start": "2025-08-29T12:00:00-05:00",
+                "end": "2025-08-29T12:45:00-05:00"
+            },
+            {
+                "start": "2025-08-29T14:00:00-05:00",
+                "end": "2025-08-29T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-29T15:00:00-05:00",
+                "end": "2025-08-29T15:45:00-05:00"
             }
         ]
     },
@@ -19938,6 +21044,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-29-afternoon",
+        "id": "6f9a530f-cbf1-4169-a12f-02f941e5dfe2",
+        "name": "University of Minnesota Driven to Discover: Aug. 29",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-29T14:30:00-05:00",
+                "end": "2025-08-29T21:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "mpr-day-the-current-presents-colin-bracewell",
         "id": "9b9a8515-358d-42f4-ac7b-ae0d45273c28",
         "name": "MPR Day: The Current presents Colin Bracewell",
@@ -20096,6 +21216,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "meet-your-voicestv",
+        "id": "8d7782da-1626-4f79-ad04-a28231e5f00c",
+        "name": "Meet Your Voices: TV",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-29T16:00:00-05:00",
+                "end": "2025-08-29T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "mpr-day-the-current-presents-mae-simpson",
         "id": "79f366d5-0c9e-43ee-b1c9-e0ba49bea75e",
         "name": "MPR Day: The Current presents Mae Simpson",
@@ -20152,24 +21286,6 @@
             {
                 "start": "2025-08-29T16:30:00-05:00",
                 "end": "2025-08-29T17:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "open-class-dairy-goats-nigerian-dwarf-2",
-        "id": "dd5604e3-cff6-4d1a-8358-5aa3308189ae",
-        "name": "Open Class Dairy Goats: Nigerian Dwarf",
-        "venue_slug": "sheep-and-poultry-barn",
-        "schedule": [
-            {
-                "start": "2025-08-29T18:00:00-05:00",
-                "end": "2025-08-29T18:45:00-05:00"
-            },
-            {
-                "start": "2025-08-30T15:30:00-05:00",
-                "end": "2025-08-30T17:00:00-05:00"
             }
         ]
     },
@@ -20262,10 +21378,6 @@
             {
                 "start": "2025-08-29T18:45:00-05:00",
                 "end": "2025-08-29T19:45:00-05:00"
-            },
-            {
-                "start": "2025-08-31T08:00:00-05:00",
-                "end": "2025-08-31T09:30:00-05:00"
             }
         ]
     },
@@ -20286,18 +21398,14 @@
     {
         "description": "",
         "image": null,
-        "slug": "open-class-dairy-goats-sable-2",
-        "id": "ff0a0cdc-3669-4300-931f-357de93e0e1e",
-        "name": "Open Class Dairy Goats: Sable",
-        "venue_slug": "sheep-and-poultry-barn",
+        "slug": "blue-print-mpls",
+        "id": "36220705-ac71-4d79-891a-229fb20ee1d0",
+        "name": "Blue Print Mpls",
+        "venue_slug": "giggles-campfire-grill",
         "schedule": [
             {
-                "start": "2025-08-29T19:45:00-05:00",
-                "end": "2025-08-29T20:15:00-05:00"
-            },
-            {
-                "start": "2025-08-30T11:30:00-05:00",
-                "end": "2025-08-30T13:00:00-05:00"
+                "start": "2025-08-29T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -20348,10 +21456,6 @@
             {
                 "start": "2025-08-29T20:15:00-05:00",
                 "end": "2025-08-29T21:00:00-05:00"
-            },
-            {
-                "start": "2025-08-30T08:00:00-05:00",
-                "end": "2025-08-30T09:15:00-05:00"
             }
         ]
     },
@@ -20474,24 +21578,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "university-of-minnesota-driven-to-discover-aug-30-afternoon",
-        "id": "432f4924-0f5d-4423-a00d-4da8c41ff640",
-        "name": "University of Minnesota Driven to Discover: Aug. 30",
-        "venue_slug": "driven-to-discover",
-        "schedule": [
-            {
-                "start": "2025-08-30T09:00:00-05:00",
-                "end": "2025-08-30T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-30T14:30:00-05:00",
-                "end": "2025-08-30T21:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "open-class-rabbit-judging",
         "id": "bcca63c2-c18b-4cf0-8cec-7e9c2a79d922",
         "name": "Open Class Rabbit Judging",
@@ -20570,6 +21656,20 @@
             {
                 "start": "2025-08-30T09:00:00-05:00",
                 "end": "2025-08-30T20:15:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-the-dog-breeds10",
+        "id": "133e05e4-ba35-458c-9371-e67198ff3342",
+        "name": "Meet the Dog Breeds",
+        "venue_slug": "pet-pavilions",
+        "schedule": [
+            {
+                "start": "2025-08-30T09:00:00-05:00",
+                "end": "2025-08-30T21:00:00-05:00"
             }
         ]
     },
@@ -20758,6 +21858,34 @@
     {
         "description": "",
         "image": null,
+        "slug": "50-year-award-ceremony",
+        "id": "53f98122-c5d4-4d2f-b295-436e60409542",
+        "name": "50 Year Award Ceremony",
+        "venue_slug": "bandshell",
+        "schedule": [
+            {
+                "start": "2025-08-30T10:00:00-05:00",
+                "end": "2025-08-30T10:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voicescurious-minnesota",
+        "id": "05e38137-9c21-4889-9aa6-cda45d2c54b7",
+        "name": "Meet Your Voices: Curious Minnesota",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-30T10:00:00-05:00",
+                "end": "2025-08-30T15:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "pan-latino-day-los-alegres-bailadores",
         "id": "825af5f1-6dbf-4313-b215-b70bab717142",
         "name": "Pan-Latino Day: Los Alegres Bailadores",
@@ -20826,6 +21954,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "open-class-dairy-goats-sable-2",
+        "id": "ff0a0cdc-3669-4300-931f-357de93e0e1e",
+        "name": "Open Class Dairy Goats: Sable",
+        "venue_slug": "sheep-and-poultry-barn",
+        "schedule": [
+            {
+                "start": "2025-08-30T11:30:00-05:00",
+                "end": "2025-08-30T13:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "pan-latino-day-cuban-dance-classes",
         "id": "e98499ff-d3ee-4566-b73e-617ecd67e2f6",
         "name": "Pan-Latino Day: Cuban Dance Classes",
@@ -20848,6 +21990,10 @@
             {
                 "start": "2025-08-30T12:00:00-05:00",
                 "end": "2025-08-30T12:30:00-05:00"
+            },
+            {
+                "start": "2025-08-30T14:00:00-05:00",
+                "end": "2025-08-30T14:30:00-05:00"
             }
         ]
     },
@@ -20884,6 +22030,20 @@
             {
                 "start": "2025-08-30T16:00:00-05:00",
                 "end": "2025-08-30T16:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "owen-trelstad",
+        "id": "5444fa9b-50bc-46b4-8f26-1c64b97e45d4",
+        "name": "Owen Trelstad",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-30T12:00:00-05:00",
+                "end": "2025-08-30T15:00:00-05:00"
             }
         ]
     },
@@ -21098,6 +22258,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "university-of-minnesota-driven-to-discover-aug-30-afternoon",
+        "id": "432f4924-0f5d-4423-a00d-4da8c41ff640",
+        "name": "University of Minnesota Driven to Discover: Aug. 30",
+        "venue_slug": "driven-to-discover",
+        "schedule": [
+            {
+                "start": "2025-08-30T14:30:00-05:00",
+                "end": "2025-08-30T21:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "two-piece-suite",
         "id": "baa386c5-2ba0-428a-8d63-07141f7a19a3",
         "name": "Two Piece Suite",
@@ -21140,6 +22314,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "open-class-dairy-goats-nigerian-dwarf-2",
+        "id": "dd5604e3-cff6-4d1a-8358-5aa3308189ae",
+        "name": "Open Class Dairy Goats: Nigerian Dwarf",
+        "venue_slug": "sheep-and-poultry-barn",
+        "schedule": [
+            {
+                "start": "2025-08-30T15:30:00-05:00",
+                "end": "2025-08-30T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "pan-latino-day-los-chinelos-de-san-pablo-apostol",
         "id": "bb6842f0-2c44-4c84-a204-439939010faa",
         "name": "Pan-Latino Day: Los Chinelos de San Pablo Apostol",
@@ -21148,6 +22336,24 @@
             {
                 "start": "2025-08-30T15:30:00-05:00",
                 "end": "2025-08-30T16:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "copal-presentation",
+        "id": "1b28ef82-e635-4dcf-a745-97de10a5b1b6",
+        "name": "COPAL Presentation",
+        "venue_slug": "eco-experience",
+        "schedule": [
+            {
+                "start": "2025-08-30T16:00:00-05:00",
+                "end": "2025-08-30T16:30:00-05:00"
+            },
+            {
+                "start": "2025-08-30T17:00:00-05:00",
+                "end": "2025-08-30T17:30:00-05:00"
             }
         ]
     },
@@ -21272,6 +22478,20 @@
             {
                 "start": "2025-08-30T19:30:00-05:00",
                 "end": "2025-08-30T20:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "rockin-hollywoods",
+        "id": "440d6855-dac8-433d-b833-c9c50b1591f4",
+        "name": "Rockin' Hollywoods",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-30T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -21414,10 +22634,6 @@
             {
                 "start": "2025-08-31T09:00:00-05:00",
                 "end": "2025-08-31T14:00:00-05:00"
-            },
-            {
-                "start": "2025-08-31T14:30:00-05:00",
-                "end": "2025-08-31T21:00:00-05:00"
             }
         ]
     },
@@ -21678,6 +22894,32 @@
     {
         "description": "",
         "image": null,
+        "slug": "sawyers-dream",
+        "id": "f9af859b-9cc0-47b5-8481-fe519aeac504",
+        "name": "Sawyer\u2019s Dream",
+        "venue_slug": "outdoor-stage",
+        "schedule": [
+            {
+                "start": "2025-08-31T10:00:00-05:00",
+                "end": "2025-08-31T10:45:00-05:00"
+            },
+            {
+                "start": "2025-08-31T12:00:00-05:00",
+                "end": "2025-08-31T12:45:00-05:00"
+            },
+            {
+                "start": "2025-08-31T14:00:00-05:00",
+                "end": "2025-08-31T14:45:00-05:00"
+            },
+            {
+                "start": "2025-08-31T15:00:00-05:00",
+                "end": "2025-08-31T15:45:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "dylan-salfer",
         "id": "49624f66-159e-4e33-a703-ac847cd7cfb2",
         "name": "Dylan Salfer",
@@ -21802,6 +23044,20 @@
             {
                 "start": "2025-08-31T11:00:00-05:00",
                 "end": "2025-08-31T14:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "ka",
+        "id": "e4d1655b-efc4-45a9-901a-ae51cb7aa113",
+        "name": "Karina Kern",
+        "venue_slug": "the-hangar",
+        "schedule": [
+            {
+                "start": "2025-08-31T11:30:00-05:00",
+                "end": "2025-08-31T14:30:00-05:00"
             }
         ]
     },
@@ -22206,6 +23462,34 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-common-table-Natural-Me-Apothecary",
+        "id": "9685fd2e-7296-40aa-a5ff-8690379b1e1c",
+        "name": "The Common Table: Natural Me Apothecary",
+        "venue_slug": "the-dirt-demo-stage",
+        "schedule": [
+            {
+                "start": "2025-08-31T16:00:00-05:00",
+                "end": "2025-08-31T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voicesmusic",
+        "id": "97a488de-5889-4306-a9db-d17e376859ff",
+        "name": "Meet Your Voices: Music",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-08-31T16:00:00-05:00",
+                "end": "2025-08-31T17:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "make-your-own-paints-and-finishes",
         "id": "3f4e01bd-cf7b-4215-abc2-1514db2d1323",
         "name": "Make Your Own Paints and Finishes",
@@ -22274,6 +23558,34 @@
             {
                 "start": "2025-09-01T19:00:00-05:00",
                 "end": "2025-09-01T19:45:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "summerbabies",
+        "id": "02a6fba4-a8ed-4b11-ba9c-91f1c5e9d0a1",
+        "name": "Summerbabies",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-08-31T19:00:00-05:00",
+                "end": "2025-08-31T22:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "shirts-and-skins1",
+        "id": "6550558c-cab7-42bb-b281-d6358723429d",
+        "name": "Shirts & Skins",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-08-31T19:30:00-05:00",
+                "end": null
             }
         ]
     },
@@ -22376,6 +23688,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "studio-here-25-merry-reimler",
+        "id": "fa8655a2-5581-4648-a777-b7e6be5ddd56",
+        "name": "Studio: HERE '25 Merry Reimler",
+        "venue_slug": "fine-arts-center",
+        "schedule": [
+            {
+                "start": "2025-09-01T09:00:00-05:00",
+                "end": "2025-09-01T19:15:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "wsca-speed-events-finals",
         "id": "23a82e5a-4641-4e24-9141-2f8c81252dc6",
         "name": "WSCA Speed Events Finals",
@@ -22398,10 +23724,6 @@
             {
                 "start": "2025-09-01T09:00:00-05:00",
                 "end": "2025-09-01T14:00:00-05:00"
-            },
-            {
-                "start": "2025-09-01T14:30:00-05:00",
-                "end": "2025-09-01T20:00:00-05:00"
             }
         ]
     },
@@ -22571,7 +23893,7 @@
         "schedule": [
             {
                 "start": "2025-09-01T10:00:00-05:00",
-                "end": "2025-09-01T18:00:00-05:00"
+                "end": "2025-09-01T17:00:00-05:00"
             }
         ]
     },
@@ -22628,6 +23950,20 @@
             {
                 "start": "2025-09-01T10:00:00-05:00",
                 "end": "2025-09-01T14:00:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "meet-your-voicesbusiness",
+        "id": "0a965ba6-d713-4249-94be-5650f7d0f35a",
+        "name": "Meet Your Voices: Business",
+        "venue_slug": "the-minnesota-star-tribune",
+        "schedule": [
+            {
+                "start": "2025-09-01T10:00:00-05:00",
+                "end": "2025-09-01T11:00:00-05:00"
             }
         ]
     },
@@ -22874,6 +24210,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-garys",
+        "id": "8db289dd-4261-4ca1-b362-f8b7fe4e01ce",
+        "name": "The Garys",
+        "venue_slug": "giggles-campfire-grill",
+        "schedule": [
+            {
+                "start": "2025-09-01T15:30:00-05:00",
+                "end": null
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "how-to-design-and-build-a-tiny-house",
         "id": "035d35bf-a94d-4d0a-ab04-b7a141e93001",
         "name": "How to Design and Build a Tiny House",
@@ -22888,6 +24238,20 @@
     {
         "description": "",
         "image": null,
+        "slug": "the-jeff-gavin-band",
+        "id": "cb0ea4cf-6b9d-4954-8784-8edaf8c3dc26",
+        "name": "The Jeff Gavin Band",
+        "venue_slug": "ogaras",
+        "schedule": [
+            {
+                "start": "2025-09-01T16:00:00-05:00",
+                "end": "2025-09-01T19:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
         "slug": "ali-and-kenny",
         "id": "010661c8-84d2-4531-8ade-061522e29c08",
         "name": "Ali and Kenny",
@@ -22896,20 +24260,6 @@
             {
                 "start": "2025-09-01T17:30:00-05:00",
                 "end": "2025-09-01T20:30:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
-        "slug": "portside",
-        "id": "035a9ea4-425f-49df-b350-80732d8d4c55",
-        "name": "Portside",
-        "venue_slug": "french-creperie",
-        "schedule": [
-            {
-                "start": "2025-09-01T18:00:00-05:00",
-                "end": "2025-09-01T21:00:00-05:00"
             }
         ]
     }
