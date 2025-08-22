@@ -14690,20 +14690,6 @@
     {
         "description": "",
         "image": null,
-        "slug": "draft-8-horse-hitch",
-        "id": "6839364c-a19d-4412-962d-c17ae044017a",
-        "name": "Draft 8-Horse Hitch",
-        "venue_slug": "lee-and-rose-warner-coliseum",
-        "schedule": [
-            {
-                "start": "2025-08-24T15:00:00-05:00",
-                "end": "2025-08-24T16:00:00-05:00"
-            }
-        ]
-    },
-    {
-        "description": "",
-        "image": null,
         "slug": "pandoras-other-box",
         "id": "ce32046c-04d5-40b7-bf8d-96c4fb7128d3",
         "name": "Pandora's Other Box",
@@ -14870,6 +14856,20 @@
             {
                 "start": "2025-08-24T18:30:00-05:00",
                 "end": "2025-08-24T22:30:00-05:00"
+            }
+        ]
+    },
+    {
+        "description": "",
+        "image": null,
+        "slug": "draft-8-horse-hitch",
+        "id": "6839364c-a19d-4412-962d-c17ae044017a",
+        "name": "Draft 8-Horse Hitch",
+        "venue_slug": "lee-and-rose-warner-coliseum",
+        "schedule": [
+            {
+                "start": "2025-08-24T19:00:00-05:00",
+                "end": "2025-08-24T20:00:00-05:00"
             }
         ]
     },
