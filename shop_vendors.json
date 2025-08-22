@@ -667,6 +667,25 @@
         "image": null,
         "offers": {},
         "hours": null,
+        "slug": "11639.1",
+        "id": "621cf1aa-75a7-4111-91e9-3d75f5fc7fb2",
+        "name": "Amazojo Iris Photo",
+        "locations": [
+            {
+                "image": null,
+                "directions": "In the Grandstand, lower level, north center section",
+                "lat": 44.98143386534679,
+                "lng": -93.1734160510315
+            }
+        ],
+        "items": [],
+        "has_blue_ribbon_bargain": false,
+        "new_vendor": true
+    },
+    {
+        "image": null,
+        "offers": {},
+        "hours": null,
         "slug": "5842.1",
         "id": "660d917c-f4a8-47c0-9755-cfda4a26083a",
         "name": "Wings North",
@@ -1303,25 +1322,6 @@
                 "directions": "In the Education Building, south aisle",
                 "lat": 44.98226701696689,
                 "lng": -93.16739177589157
-            }
-        ],
-        "items": [],
-        "has_blue_ribbon_bargain": false,
-        "new_vendor": true
-    },
-    {
-        "image": null,
-        "offers": {},
-        "hours": null,
-        "slug": "11639.1",
-        "id": "621cf1aa-75a7-4111-91e9-3d75f5fc7fb2",
-        "name": "Amazojo Iris Photo",
-        "locations": [
-            {
-                "image": null,
-                "directions": "In the Grandstand, lower level, north center section",
-                "lat": 44.98143386534679,
-                "lng": -93.1734160510315
             }
         ],
         "items": [],
@@ -15790,6 +15790,28 @@
         "new_vendor": false
     },
     {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-913.1.png",
+        "offers": {},
+        "hours": "Open 10 a.m. to 11 p.m.",
+        "slug": "913.1",
+        "id": "a2ac1ecc-7d3b-4704-8d53-b4589805ea64",
+        "name": "The Arcade",
+        "locations": [
+            {
+                "image": null,
+                "directions": "North side of Dan Patch avenue, between Nelson and Underwood streets",
+                "lat": 44.98134202531646,
+                "lng": -93.17104739230768
+            }
+        ],
+        "items": [
+            "Coin operated arcade games",
+            "pin ball on-a-stick T-shirts"
+        ],
+        "has_blue_ribbon_bargain": false,
+        "new_vendor": false
+    },
+    {
         "image": null,
         "offers": {},
         "hours": null,
@@ -15807,28 +15829,6 @@
         "items": [
             "skateboards",
             "drift skates"
-        ],
-        "has_blue_ribbon_bargain": false,
-        "new_vendor": false
-    },
-    {
-        "image": null,
-        "offers": {},
-        "hours": null,
-        "slug": "913.1",
-        "id": "a2ac1ecc-7d3b-4704-8d53-b4589805ea64",
-        "name": "The Arcade",
-        "locations": [
-            {
-                "image": null,
-                "directions": "North side of Dan Patch avenue, between Nelson and Underwood streets",
-                "lat": 44.98134202531646,
-                "lng": -93.17104739230768
-            }
-        ],
-        "items": [
-            "Coin operated arcade games",
-            "pin ball on-a-stick T-shirts"
         ],
         "has_blue_ribbon_bargain": false,
         "new_vendor": false

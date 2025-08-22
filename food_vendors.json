@@ -4499,8 +4499,10 @@
                 "description": null,
                 "image": null,
                 "details": [
-                    "Cajun style",
-                    "optional cream cheese"
+                    "Original : deep fried pickles",
+                    "Cajun: deep fried pickles tossed in Cajun seasoning",
+                    "Gourmet: two pickle slices with cream cheese in the middle then fried",
+                    "perfect pickle and Cajun are vegetarian if ordered with our ranch"
                 ],
                 "isNew": "no",
                 "catagory": "food_drink"
@@ -4588,9 +4590,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5146.1.jpg",
-                "directions": "East side of Underwood Street between Lee & Randall avenues, just south of Little Farm Hands",
-                "lat": 44.98521258992805,
-                "lng": -93.17015144807692
+                "directions": "At Street Eats at Randall & Underwood, located on the northwest corner of Randall Ave. & Underwood St.",
+                "lat": 44.98480130910273,
+                "lng": -93.1707484585633
             }
         ],
         "items": [
@@ -5046,9 +5048,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4758.1.jpg",
-                "directions": "East side of Underwood Street between Lee & Randall avenues, just south of Little Farm Hands",
-                "lat": 44.98521258992805,
-                "lng": -93.17005600384616
+                "directions": "At Street Eats at Randall & Underwood, located on the northwest corner of Randall Ave. & Underwood St.",
+                "lat": 44.9848117388394,
+                "lng": -93.17094472969931
             }
         ],
         "items": [
@@ -13168,81 +13170,6 @@
         "new_vendor": false
     },
     {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2838.1.jpg",
-        "offers": {},
-        "hours": null,
-        "slug": "2838.1",
-        "id": "b4105628-8a1c-413c-958c-ae3b0910b8e4",
-        "name": "Minnesota Apples",
-        "locations": [
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2838.1.jpg",
-                "directions": "In the Agriculture Horticulture Building, south side",
-                "lat": 44.97903190851226,
-                "lng": -93.16970706819927
-            }
-        ],
-        "items": [
-            {
-                "name": "Minnesota apples",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "sparkling apple cider",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "frozen cider pop",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "applesauce",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "apple rollover",
-                "description": null,
-                "image": null,
-                "details": [
-                    "apple-filled puff pastry covered with a powdered sugar frosting"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "cold apple cider",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3276.2.jpg",
         "offers": {},
         "hours": null,
@@ -14224,6 +14151,81 @@
             },
             {
                 "name": "caramel corn",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": false,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2838.1.jpg",
+        "offers": {},
+        "hours": null,
+        "slug": "2838.1",
+        "id": "b4105628-8a1c-413c-958c-ae3b0910b8e4",
+        "name": "Minnesota Apples",
+        "locations": [
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2838.1.jpg",
+                "directions": "In the Agriculture Horticulture Building, south side",
+                "lat": 44.97903190851226,
+                "lng": -93.16970706819927
+            }
+        ],
+        "items": [
+            {
+                "name": "Minnesota apples",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "sparkling apple cider",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "frozen cider pop",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "applesauce",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "apple rollover",
+                "description": null,
+                "image": null,
+                "details": [
+                    "apple-filled puff pastry covered with a powdered sugar frosting"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "cold apple cider",
                 "description": null,
                 "image": null,
                 "details": [],
@@ -16858,9 +16860,228 @@
         "new_vendor": false
     },
     {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4847.1.jpg",
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5910.1.jpg",
         "offers": {},
         "hours": null,
+        "slug": "5910.1",
+        "id": "a3f0fb93-d702-4dd4-bc4f-8e39915d3fab",
+        "name": "Pickle Barrel Sirloin Tips",
+        "locations": [
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5910.1.jpg",
+                "directions": "Northeast corner of Judson Avenue and Nelson Street",
+                "lat": 44.97876010071943,
+                "lng": -93.17202954423077
+            }
+        ],
+        "items": [
+            {
+                "name": "fresh brewed iced tea",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "saut\u00e9ed green peppers",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "homemade mashed potatoes",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "marinated mushrooms",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "steak pita",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "saut\u00e9ed onions",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "steak dinners with fresh grilled steak tips",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": null,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5177.1.jpg",
+        "offers": {},
+        "hours": null,
+        "slug": "5177.1",
+        "id": "57bc3762-f5e9-4bf8-a89e-08dc3c54c154",
+        "name": "Auntie M's Gluten Free",
+        "locations": [
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5177.1.jpg",
+                "directions": "South side of Judson Avenue between Nelson & Underwood streets, just west of Adventure Park",
+                "lat": 44.97847204316547,
+                "lng": -93.17199567692307
+            }
+        ],
+        "items": [
+            {
+                "name": "Gluten Free Cheese Curds",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Gluten Free Funnel Cakes",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Gluten Free Corn Dogs",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": true,
+        "vegetarian_options": null,
+        "gluten_free_options": true,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
+        "offers": {},
+        "hours": "Open 7 a.m. to 10 p.m.",
+        "slug": "3664.1",
+        "id": "6e025418-3aa5-4b46-877f-95608cc69b24",
+        "name": "About a Foot Long Hot Dog",
+        "locations": [
+            {
+                "image": null,
+                "directions": "East side of Cosgrove St. between the Fine Arts Center & 4-H Building",
+                "lat": 44.98389348112082,
+                "lng": -93.16793714207341
+            },
+            {
+                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
+                "directions": "West side of Underwood St. between Carnes & Judson avenues",
+                "lat": 44.97900389240506,
+                "lng": -93.17080108461538
+            },
+            {
+                "image": null,
+                "directions": "Northwest corner of Dan Patch Ave. & Cooper St.",
+                "lat": 44.98138632911392,
+                "lng": -93.16940328846154
+            },
+            {
+                "image": null,
+                "directions": "Southwest corner of Carnes Avenue and Nelson Street",
+                "lat": 44.97977494964029,
+                "lng": -93.17236205961538
+            },
+            {
+                "image": null,
+                "directions": "South side of Judson Avenue between Liggett and Clough streets, in front of the Lee & Rose Warner Coliseum",
+                "lat": 44.97844988489209,
+                "lng": -93.1738553
+            }
+        ],
+        "items": [
+            {
+                "name": "Coca-Cola",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Diet Coke",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Sprite",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "foot long hot dog",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "bottled water",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": false,
+        "accepts_credit_cards": true,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
+        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-4847.1.jpg",
+        "offers": {},
+        "hours": "Open 9 a.m. to 10 p.m.",
         "slug": "4847.1",
         "id": "b8bb63a9-ccd7-462c-a1f5-e32ad46b34ab",
         "name": "JJ Vescio's",
@@ -16984,227 +17205,8 @@
             }
         ],
         "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": null,
-        "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5910.1.jpg",
-        "offers": {},
-        "hours": null,
-        "slug": "5910.1",
-        "id": "a3f0fb93-d702-4dd4-bc4f-8e39915d3fab",
-        "name": "Pickle Barrel Sirloin Tips",
-        "locations": [
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5910.1.jpg",
-                "directions": "Northeast corner of Judson Avenue and Nelson Street",
-                "lat": 44.97876010071943,
-                "lng": -93.17202954423077
-            }
-        ],
-        "items": [
-            {
-                "name": "fresh brewed iced tea",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "saut\u00e9ed green peppers",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "homemade mashed potatoes",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "marinated mushrooms",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "steak pita",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "saut\u00e9ed onions",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "steak dinners with fresh grilled steak tips",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5177.1.jpg",
-        "offers": {},
-        "hours": null,
-        "slug": "5177.1",
-        "id": "57bc3762-f5e9-4bf8-a89e-08dc3c54c154",
-        "name": "Auntie M's Gluten Free",
-        "locations": [
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5177.1.jpg",
-                "directions": "South side of Judson Avenue between Nelson & Underwood streets, just west of Adventure Park",
-                "lat": 44.97847204316547,
-                "lng": -93.17199567692307
-            }
-        ],
-        "items": [
-            {
-                "name": "Gluten Free Cheese Curds",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Gluten Free Funnel Cakes",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Gluten Free Corn Dogs",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
-        "gluten_free_options": true,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
-        "offers": {},
-        "hours": "Open 7 a.m. to 10 p.m.",
-        "slug": "3664.1",
-        "id": "6e025418-3aa5-4b46-877f-95608cc69b24",
-        "name": "About a Foot Long Hot Dog",
-        "locations": [
-            {
-                "image": null,
-                "directions": "East side of Cosgrove St. between the Fine Arts Center & 4-H Building",
-                "lat": 44.98389348112082,
-                "lng": -93.16793714207341
-            },
-            {
-                "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3664.1.png",
-                "directions": "West side of Underwood St. between Carnes & Judson avenues",
-                "lat": 44.97900389240506,
-                "lng": -93.17080108461538
-            },
-            {
-                "image": null,
-                "directions": "Northwest corner of Dan Patch Ave. & Cooper St.",
-                "lat": 44.98138632911392,
-                "lng": -93.16940328846154
-            },
-            {
-                "image": null,
-                "directions": "Southwest corner of Carnes Avenue and Nelson Street",
-                "lat": 44.97977494964029,
-                "lng": -93.17236205961538
-            },
-            {
-                "image": null,
-                "directions": "South side of Judson Avenue between Liggett and Clough streets, in front of the Lee & Rose Warner Coliseum",
-                "lat": 44.97844988489209,
-                "lng": -93.1738553
-            }
-        ],
-        "items": [
-            {
-                "name": "Coca-Cola",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Diet Coke",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Sprite",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "foot long hot dog",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "bottled water",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": true,
-        "vegetarian_options": null,
+        "vegetarian_options": true,
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
@@ -18661,9 +18663,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-8073.1.jpg",
-                "directions": "North side of Judson Ave. between Clough & Nelson streets",
-                "lat": 44.97877357686433,
-                "lng": -93.17297179367746
+                "directions": "Located south of the Grandstand Building, under the Grandstand Ramp",
+                "lat": 44.98078390132123,
+                "lng": -93.17343093404243
             }
         ],
         "items": [
@@ -21486,8 +21488,8 @@
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1746.1.jpg",
                 "directions": "On the northwest corner of Carnes Avenue and Chambers Street",
-                "lat": 44.98001869064748,
-                "lng": -93.17463424807693
+                "lat": 44.98598840933494,
+                "lng": -93.16999603155087
             }
         ],
         "items": [
@@ -22329,9 +22331,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-1899.1.jpg",
-                "directions": "North side of Judson Ave. between Liggett & Clough streets",
-                "lat": 44.9787546835443,
-                "lng": -93.17398769038462
+                "directions": "South side of Judson Avenue between Nelson & Underwood streets",
+                "lat": 44.9784853381295,
+                "lng": -93.171774
             }
         ],
         "items": [
@@ -27288,6 +27290,88 @@
         "new_vendor": false
     },
     {
+        "image": null,
+        "offers": {
+            "Coupon Book": "$1.50 off one 16 oz. or 32 oz. \"fresh-squeezed\" lemonade, Orange or Strawberry Treet (Regularly $5 & $7)"
+        },
+        "hours": "Open 9 a.m. to 9 p.m.",
+        "slug": "244.2",
+        "id": "7cb56b2a-44a5-4761-b3c6-566601e23427",
+        "name": "Fresh Squeezed Lemonade, Fruit Smoothies, Fresh Squeezed Orange Treet & Strawberry Treet",
+        "locations": [
+            {
+                "image": null,
+                "directions": "In the Food Building, south wall",
+                "lat": 44.98008073381295,
+                "lng": -93.17006524038462
+            }
+        ],
+        "items": [
+            {
+                "name": "fresh-squeezed lemonade with optional flavors",
+                "description": null,
+                "image": null,
+                "details": [
+                    "strawberry",
+                    "peach",
+                    "raspberry"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "pi\u00f1a colada-style non-alcoholic smoothie",
+                "description": null,
+                "image": null,
+                "details": [
+                    "fresh pineapple and coconut milk",
+                    "option to add banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "triple berry smoothie",
+                "description": null,
+                "image": null,
+                "details": [
+                    "dairy base",
+                    "strawberries",
+                    "raspberries",
+                    "blackberries",
+                    "option to add banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "strawberry banana smoothie",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Orange or Strawberry Treet drink",
+                "description": null,
+                "image": null,
+                "details": [
+                    "whipped Julius-style drink with optional banana"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": true,
+        "accepts_credit_cards": true,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-244.1.jpg",
         "offers": {
             "Coupon Book": "$2.50 off one-flavor 16 oz. milk shake (Regularly $7.50)"
@@ -27509,93 +27593,11 @@
             }
         ],
         "has_blue_ribbon_bargain": true,
-        "accepts_credit_cards": false,
+        "accepts_credit_cards": null,
         "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": true,
-        "new_vendor": false
-    },
-    {
-        "image": null,
-        "offers": {
-            "Coupon Book": "$1.50 off one 16 oz. or 32 oz. \"fresh-squeezed\" lemonade, Orange or Strawberry Treet (Regularly $5 & $7)"
-        },
-        "hours": "Open 9 a.m. to 9 p.m.",
-        "slug": "244.2",
-        "id": "7cb56b2a-44a5-4761-b3c6-566601e23427",
-        "name": "Fresh Squeezed Lemonade, Fruit Smoothies, Fresh Squeezed Orange Treet & Strawberry Treet",
-        "locations": [
-            {
-                "image": null,
-                "directions": "In the Food Building, south wall",
-                "lat": 44.98008073381295,
-                "lng": -93.17006524038462
-            }
-        ],
-        "items": [
-            {
-                "name": "fresh-squeezed lemonade with optional flavors",
-                "description": null,
-                "image": null,
-                "details": [
-                    "strawberry",
-                    "peach",
-                    "raspberry"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "pi\u00f1a colada-style non-alcoholic smoothie",
-                "description": null,
-                "image": null,
-                "details": [
-                    "fresh pineapple and coconut milk",
-                    "option to add banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "triple berry smoothie",
-                "description": null,
-                "image": null,
-                "details": [
-                    "dairy base",
-                    "strawberries",
-                    "raspberries",
-                    "blackberries",
-                    "option to add banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "strawberry banana smoothie",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Orange or Strawberry Treet drink",
-                "description": null,
-                "image": null,
-                "details": [
-                    "whipped Julius-style drink with optional banana"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": true,
-        "accepts_credit_cards": true,
-        "vegetarian_options": null,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
         "new_vendor": false
     },
     {
@@ -32250,7 +32252,7 @@
                 "details": [
                     "Specialty Sip 2025"
                 ],
-                "isNew": "no",
+                "isNew": "true_inline",
                 "catagory": "alchoholic_beverage"
             },
             {
