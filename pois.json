@@ -2006,23 +2006,6 @@
         "new_vendor": false
     },
     {
-        "description": "This stage invites fairgoers to showcase their vocal skills with open mic karaoke sessions. It\u2019s a fun, interactive spot where visitors can take the spotlight and entertain the crowd.",
-        "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-the-garden-stage.jpg",
-        "hours": null,
-        "cost": null,
-        "category": "stage",
-        "slug": "the-garden-stage",
-        "id": "ed729433-7371-4c2d-a1d8-99bf5459be90",
-        "name": "The Garden Stage",
-        "location": {
-            "image": null,
-            "directions": null,
-            "lat": 44.980909,
-            "lng": -93.170078
-        },
-        "new_vendor": false
-    },
-    {
         "description": "Located in the Food Building, this hub features live performances, interactive demos, and chances to meet student-athletes. Visitors can also find Gopher merchandise and learn about university programs.",
         "image": null,
         "hours": null,
@@ -2053,6 +2036,23 @@
             "directions": null,
             "lat": 44.979553,
             "lng": -93.169677
+        },
+        "new_vendor": false
+    },
+    {
+        "description": "This stage invites fairgoers to showcase their vocal skills with open mic karaoke sessions. It\u2019s a fun, interactive spot where visitors can take the spotlight and entertain the crowd.",
+        "image": null,
+        "hours": null,
+        "cost": null,
+        "category": "stage",
+        "slug": "the-garden-stage",
+        "id": "ed729433-7371-4c2d-a1d8-99bf5459be90",
+        "name": "The Garden Stage",
+        "location": {
+            "image": null,
+            "directions": null,
+            "lat": 44.980909,
+            "lng": -93.170078
         },
         "new_vendor": false
     },

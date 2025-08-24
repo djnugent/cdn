@@ -940,6 +940,18 @@
                 "catagory": "alchoholic_beverage",
                 "id": "092e6994-d87a-4351-8291-fbe3f5b73119",
                 "dietary_tags": {}
+            },
+            {
+                "name": "Soft Serve Royal Raspberry Beer",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2025. Also Available At: West End Brews"
+                ],
+                "isNew": "true_inline",
+                "catagory": "alchoholic_beverage",
+                "id": "a8257f72-3783-4256-8cab-b4e4a9e1d4b3",
+                "dietary_tags": null
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -9655,7 +9667,7 @@
                 }
             },
             {
-                "name": "peach iced tea",
+                "name": "White Peach iced tea",
                 "description": null,
                 "image": null,
                 "details": [
@@ -14495,9 +14507,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2681.1.jpg",
-                "directions": "East side of Cosgrove St. outside the Education Building",
-                "lat": 44.98255594936709,
-                "lng": -93.16789465384615
+                "directions": "Located south of the Grandstand Building, under the Grandstand Ramp",
+                "lat": 44.98078390132123,
+                "lng": -93.17343093404243
             }
         ],
         "items": [
@@ -21142,8 +21154,8 @@
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3398.1.jpg",
                 "directions": "East side of Underwood Street between Lee & Randall avenues, just south of Little Farm Hands",
-                "lat": 44.98526576978417,
-                "lng": -93.1699390076923
+                "lat": 44.98469303742992,
+                "lng": -93.17094173842472
             }
         ],
         "items": [
@@ -23140,6 +23152,21 @@
                 "isNew": "no",
                 "catagory": "food_drink",
                 "id": "7fc06be1-be9d-42f2-8b96-913b27fad388",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "MN Maple Shake-Up",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "true_inline",
+                "catagory": "food_drink",
+                "id": "13c274da-50ef-4f80-add7-55110ae7d6e1",
                 "dietary_tags": {
                     "vegan": false,
                     "dairy_free": false,
@@ -27355,9 +27382,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5275.1.jpg",
-                "directions": "North side of Judson Avenue between Liggett & Clough streets, outside the Sheep & Poultry Barn",
-                "lat": 44.97872464748201,
-                "lng": -93.17465272115385
+                "directions": "West side of Chambers St. between West Dan Patch & Carnes avenues",
+                "lat": 44.98035688598828,
+                "lng": -93.17450531639106
             }
         ],
         "items": [
@@ -30977,24 +31004,6 @@
                 }
             },
             {
-                "name": "chicken chorizo Paella",
-                "description": null,
-                "image": null,
-                "details": [
-                    "optional seafood",
-                    "optional fried egg"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "0c5bdc12-00db-46bc-a7a5-f4953fe7e6ce",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
                 "name": "mixed berry fruit aguas fresca",
                 "description": null,
                 "image": null,
@@ -31023,12 +31032,30 @@
                     "vegetarian": false,
                     "gluten_free": false
                 }
+            },
+            {
+                "name": "chicken chorizo Paella",
+                "description": null,
+                "image": null,
+                "details": [
+                    "optional seafood",
+                    "optional fried egg"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "0c5bdc12-00db-46bc-a7a5-f4953fe7e6ce",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": true
+                }
             }
         ],
         "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": true,
         "vegetarian_options": null,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null,
         "dairy_free_options": null,
         "new_vendor": false
@@ -32149,7 +32176,7 @@
                 "description": null,
                 "image": null,
                 "details": [
-                    "Specialty Sip 2025"
+                    "Specialty Sip 2025. Also available at: LuLu's Public House"
                 ],
                 "isNew": "true_inline",
                 "catagory": "alchoholic_beverage",
@@ -37823,16 +37850,6 @@
                 }
             },
             {
-                "name": "Cayman Jack Frozen Margarita Strawberry",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "alchoholic_beverage",
-                "id": "9eb8a239-9e8c-4bcf-ab5d-90b07aad2dcd",
-                "dietary_tags": {}
-            },
-            {
                 "name": "Kona Big Wave Golden Ale",
                 "description": null,
                 "image": null,
@@ -37993,6 +38010,16 @@
                     "vegetarian": false,
                     "gluten_free": false
                 }
+            },
+            {
+                "name": "Frozen Margarita Strawberry",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage",
+                "id": "9eb8a239-9e8c-4bcf-ab5d-90b07aad2dcd",
+                "dietary_tags": {}
             },
             {
                 "name": "Wide State Hazy Pink Pinappple Cider",
@@ -38216,12 +38243,6 @@
                 "directions": "Northeast corner of Murphy Avenue and Cooper Street",
                 "lat": 44.98702070503597,
                 "lng": -93.16903690576923
-            },
-            {
-                "image": null,
-                "directions": "South side of Judson Avenue between Nelson and Underwood streets, at Adventure Park",
-                "lat": 44.97826818705036,
-                "lng": -93.17182326153846
             }
         ],
         "items": [
@@ -47213,6 +47234,128 @@
         "new_vendor": false
     },
     {
+        "image": null,
+        "offers": {
+            "Coupon Book": "$4 off one soft pretzel with cheese (Regularly $9)"
+        },
+        "hours": null,
+        "slug": "3093.1",
+        "id": "cd42ed56-7583-41de-9a53-17a7d47a8c6f",
+        "name": "The Pretzel Factory",
+        "locations": [
+            {
+                "image": null,
+                "directions": "West side of Nelson St. between Carnes & Judson avenues",
+                "lat": 44.97934064748201,
+                "lng": -93.17234050769231
+            }
+        ],
+        "items": [
+            {
+                "name": "pickle pretzel",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "true_inline",
+                "catagory": "food_drink",
+                "id": "aa3fb3c5-2dbf-4332-b0b2-ee7638a2ee12",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "Soft pretzels with toppings",
+                "description": null,
+                "image": null,
+                "details": [
+                    "cheese",
+                    "parmesan",
+                    "cinnamon",
+                    "garlic and parsley"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "637afe6d-24e3-40d7-9db2-2c22b7c52c0f",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "Sprite",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "f283780a-b0a7-408e-9ff9-083608d892c9",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "Churros",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "5c24383e-dfd5-49f2-9e11-ae514a4b4ef0",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "Diet Coke",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "2f0c5c8a-1bbe-485e-b108-374bf7338d60",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            },
+            {
+                "name": "Coca-Cola",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink",
+                "id": "6e783b61-4851-4724-aa81-0df981ff890f",
+                "dietary_tags": {
+                    "vegan": false,
+                    "dairy_free": false,
+                    "vegetarian": false,
+                    "gluten_free": false
+                }
+            }
+        ],
+        "has_blue_ribbon_bargain": true,
+        "accepts_credit_cards": false,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2924.1.jpg",
         "offers": {},
         "hours": "Open 8 a.m. to 10 p.m.",
@@ -47626,128 +47769,6 @@
         "has_blue_ribbon_bargain": true,
         "accepts_credit_cards": true,
         "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": null,
-        "offers": {
-            "Coupon Book": "$4 off one soft pretzel with cheese (Regularly $9)"
-        },
-        "hours": null,
-        "slug": "3093.1",
-        "id": "cd42ed56-7583-41de-9a53-17a7d47a8c6f",
-        "name": "The Pretzel Factory",
-        "locations": [
-            {
-                "image": null,
-                "directions": "West side of Nelson St. between Carnes & Judson avenues",
-                "lat": 44.97934064748201,
-                "lng": -93.17234050769231
-            }
-        ],
-        "items": [
-            {
-                "name": "pickle pretzel",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
-                "catagory": "food_drink",
-                "id": "aa3fb3c5-2dbf-4332-b0b2-ee7638a2ee12",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
-                "name": "Soft pretzels with toppings",
-                "description": null,
-                "image": null,
-                "details": [
-                    "cheese",
-                    "parmesan",
-                    "cinnamon",
-                    "garlic and parsley"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "637afe6d-24e3-40d7-9db2-2c22b7c52c0f",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
-                "name": "Sprite",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "f283780a-b0a7-408e-9ff9-083608d892c9",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
-                "name": "Churros",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "5c24383e-dfd5-49f2-9e11-ae514a4b4ef0",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
-                "name": "Diet Coke",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "2f0c5c8a-1bbe-485e-b108-374bf7338d60",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            },
-            {
-                "name": "Coca-Cola",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink",
-                "id": "6e783b61-4851-4724-aa81-0df981ff890f",
-                "dietary_tags": {
-                    "vegan": false,
-                    "dairy_free": false,
-                    "vegetarian": false,
-                    "gluten_free": false
-                }
-            }
-        ],
-        "has_blue_ribbon_bargain": true,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
