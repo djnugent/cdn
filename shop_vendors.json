@@ -1007,7 +1007,9 @@
     },
     {
         "image": null,
-        "offers": {},
+        "offers": {
+            "Coupon Book": "50% off pickle peanuts"
+        },
         "hours": null,
         "slug": "5901.1",
         "id": "2c47bdff-7870-44af-b582-574a74fbe254",
@@ -1021,7 +1023,7 @@
             }
         ],
         "items": [],
-        "has_blue_ribbon_bargain": false,
+        "has_blue_ribbon_bargain": true,
         "new_vendor": true
     },
     {
@@ -5020,9 +5022,9 @@
         "locations": [
             {
                 "image": null,
-                "directions": "At the North End, northwest section",
-                "lat": 44.9878361294964,
-                "lng": -93.16980661730769
+                "directions": "East side of Cooper St. between Lee & Randall avenues, at The North Woods",
+                "lat": 44.98525690647482,
+                "lng": -93.16900303846154
             }
         ],
         "items": [
@@ -7809,8 +7811,8 @@
             {
                 "image": null,
                 "directions": "West side of Underwood St. between Dan Patch & Carnes avenues",
-                "lat": 44.98053126582278,
-                "lng": -93.170853425
+                "lat": 44.9860382278481,
+                "lng": -93.16935710576922
             }
         ],
         "items": [

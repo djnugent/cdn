@@ -641,6 +641,16 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "alchoholic_beverage"
+            },
+            {
+                "name": "Soft Serve Royal Raspberry Beer",
+                "description": null,
+                "image": null,
+                "details": [
+                    "Specialty Sip 2025. Also Available At: West End Brews"
+                ],
+                "isNew": "true_inline",
+                "catagory": "alchoholic_beverage"
             }
         ],
         "has_blue_ribbon_bargain": false,
@@ -6157,7 +6167,7 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "peach iced tea",
+                "name": "White Peach iced tea",
                 "description": null,
                 "image": null,
                 "details": [
@@ -9249,9 +9259,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2681.1.jpg",
-                "directions": "East side of Cosgrove St. outside the Education Building",
-                "lat": 44.98255594936709,
-                "lng": -93.16789465384615
+                "directions": "Located south of the Grandstand Building, under the Grandstand Ramp",
+                "lat": 44.98078390132123,
+                "lng": -93.17343093404243
             }
         ],
         "items": [
@@ -13350,8 +13360,8 @@
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-3398.1.jpg",
                 "directions": "East side of Underwood Street between Lee & Randall avenues, just south of Little Farm Hands",
-                "lat": 44.98526576978417,
-                "lng": -93.1699390076923
+                "lat": 44.98469303742992,
+                "lng": -93.17094173842472
             }
         ],
         "items": [
@@ -14572,6 +14582,14 @@
                 "image": null,
                 "details": [],
                 "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "MN Maple Shake-Up",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "true_inline",
                 "catagory": "food_drink"
             },
             {
@@ -17354,9 +17372,9 @@
         "locations": [
             {
                 "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-5275.1.jpg",
-                "directions": "North side of Judson Avenue between Liggett & Clough streets, outside the Sheep & Poultry Barn",
-                "lat": 44.97872464748201,
-                "lng": -93.17465272115385
+                "directions": "West side of Chambers St. between West Dan Patch & Carnes avenues",
+                "lat": 44.98035688598828,
+                "lng": -93.17450531639106
             }
         ],
         "items": [
@@ -19728,17 +19746,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "chicken chorizo Paella",
-                "description": null,
-                "image": null,
-                "details": [
-                    "optional seafood",
-                    "optional fried egg"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
                 "name": "mixed berry fruit aguas fresca",
                 "description": null,
                 "image": null,
@@ -19753,12 +19760,23 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "food_drink"
+            },
+            {
+                "name": "chicken chorizo Paella",
+                "description": null,
+                "image": null,
+                "details": [
+                    "optional seafood",
+                    "optional fried egg"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
             }
         ],
         "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": true,
         "vegetarian_options": null,
-        "gluten_free_options": null,
+        "gluten_free_options": true,
         "vegan_options": null,
         "dairy_free_options": null,
         "new_vendor": false
@@ -20509,7 +20527,7 @@
                 "description": null,
                 "image": null,
                 "details": [
-                    "Specialty Sip 2025"
+                    "Specialty Sip 2025. Also available at: LuLu's Public House"
                 ],
                 "isNew": "true_inline",
                 "catagory": "alchoholic_beverage"
@@ -24166,14 +24184,6 @@
                 "catagory": "food_drink"
             },
             {
-                "name": "Cayman Jack Frozen Margarita Strawberry",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "alchoholic_beverage"
-            },
-            {
                 "name": "Kona Big Wave Golden Ale",
                 "description": null,
                 "image": null,
@@ -24286,6 +24296,14 @@
                 "details": [],
                 "isNew": "no",
                 "catagory": "food_drink"
+            },
+            {
+                "name": "Frozen Margarita Strawberry",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "alchoholic_beverage"
             },
             {
                 "name": "Wide State Hazy Pink Pinappple Cider",
@@ -24447,12 +24465,6 @@
                 "directions": "Northeast corner of Murphy Avenue and Cooper Street",
                 "lat": 44.98702070503597,
                 "lng": -93.16903690576923
-            },
-            {
-                "image": null,
-                "directions": "South side of Judson Avenue between Nelson and Underwood streets, at Adventure Park",
-                "lat": 44.97826818705036,
-                "lng": -93.17182326153846
             }
         ],
         "items": [
@@ -30052,6 +30064,86 @@
         "new_vendor": false
     },
     {
+        "image": null,
+        "offers": {
+            "Coupon Book": "$4 off one soft pretzel with cheese (Regularly $9)"
+        },
+        "hours": null,
+        "slug": "3093.1",
+        "id": "cd42ed56-7583-41de-9a53-17a7d47a8c6f",
+        "name": "The Pretzel Factory",
+        "locations": [
+            {
+                "image": null,
+                "directions": "West side of Nelson St. between Carnes & Judson avenues",
+                "lat": 44.97934064748201,
+                "lng": -93.17234050769231
+            }
+        ],
+        "items": [
+            {
+                "name": "pickle pretzel",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "true_inline",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Soft pretzels with toppings",
+                "description": null,
+                "image": null,
+                "details": [
+                    "cheese",
+                    "parmesan",
+                    "cinnamon",
+                    "garlic and parsley"
+                ],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Sprite",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Churros",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Diet Coke",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            },
+            {
+                "name": "Coca-Cola",
+                "description": null,
+                "image": null,
+                "details": [],
+                "isNew": "no",
+                "catagory": "food_drink"
+            }
+        ],
+        "has_blue_ribbon_bargain": true,
+        "accepts_credit_cards": false,
+        "vegetarian_options": null,
+        "gluten_free_options": null,
+        "vegan_options": null,
+        "dairy_free_options": null,
+        "new_vendor": false
+    },
+    {
         "image": "https://mnonastick.nyc3.digitaloceanspaces.com/prod/images/vendor-2924.1.jpg",
         "offers": {},
         "hours": "Open 8 a.m. to 10 p.m.",
@@ -30297,86 +30389,6 @@
         "has_blue_ribbon_bargain": true,
         "accepts_credit_cards": true,
         "vegetarian_options": true,
-        "gluten_free_options": null,
-        "vegan_options": null,
-        "dairy_free_options": null,
-        "new_vendor": false
-    },
-    {
-        "image": null,
-        "offers": {
-            "Coupon Book": "$4 off one soft pretzel with cheese (Regularly $9)"
-        },
-        "hours": null,
-        "slug": "3093.1",
-        "id": "cd42ed56-7583-41de-9a53-17a7d47a8c6f",
-        "name": "The Pretzel Factory",
-        "locations": [
-            {
-                "image": null,
-                "directions": "West side of Nelson St. between Carnes & Judson avenues",
-                "lat": 44.97934064748201,
-                "lng": -93.17234050769231
-            }
-        ],
-        "items": [
-            {
-                "name": "pickle pretzel",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "true_inline",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Soft pretzels with toppings",
-                "description": null,
-                "image": null,
-                "details": [
-                    "cheese",
-                    "parmesan",
-                    "cinnamon",
-                    "garlic and parsley"
-                ],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Sprite",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Churros",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Diet Coke",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            },
-            {
-                "name": "Coca-Cola",
-                "description": null,
-                "image": null,
-                "details": [],
-                "isNew": "no",
-                "catagory": "food_drink"
-            }
-        ],
-        "has_blue_ribbon_bargain": true,
-        "accepts_credit_cards": null,
-        "vegetarian_options": null,
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
