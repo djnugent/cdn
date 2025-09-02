@@ -3,8 +3,8 @@
         "description": "The app is currently under maintenance. Please check back in 2026.",
         "image": null,
         "offers": {},
-        "hours": null,
-        "cost": null,
+        "hours": "",
+        "cost": "",
         "category": "booth_showcase",
         "slug": "app-under-maintenance",
         "id": "a8310dc2-5b84-49e2-ac37-cda459ccc577",
@@ -24,6 +24,6 @@
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
-        "new_vendor": null
+        "new_vendor": false
     }
 ]
