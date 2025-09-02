@@ -9,14 +9,12 @@
         "slug": "app-under-maintenance",
         "id": "a8310dc2-5b84-49e2-ac37-cda459ccc577",
         "name": "App under Maintenance",
-        "locations": [
-            {
-                "image": null,
-                "directions": "At the fair",
-                "lat": 44.980175,
-                "lng": -93.173282
-            }
-        ],
+        "location": {
+            "image": null,
+            "directions": "At the fair",
+            "lat": 44.980175,
+            "lng": -93.173282
+        },
         "items": [],
         "has_blue_ribbon_bargain": false,
         "accepts_credit_cards": null,
