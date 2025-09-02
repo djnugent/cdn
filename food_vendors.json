@@ -21,6 +21,6 @@
         "gluten_free_options": null,
         "vegan_options": null,
         "dairy_free_options": null,
-        "new_vendor": null
+        "new_vendor": false
     }
 ]
